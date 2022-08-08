@@ -1,0 +1,108 @@
+{
+  "MenuItems": [
+    {
+      "Title": "Book of Air",
+      "Path": "/book-of-air",
+      "Children": [
+        {
+          "Title": "History",
+          "Path": "/history"
+        },
+        {
+          "Title": "Religion",
+          "Path": "/religion"
+        },
+        {
+          "Title": "Bushido",
+          "Path": "/bushido"
+        },
+        {
+          "Title": "People",
+          "Path": "/people"
+        }
+      ]
+    },
+    {
+      "Title": "Book of Earth",
+      "Path": "/book-of-earth",
+      "Children": [
+        {
+          "Title": "Character Creation",
+          "Path": "/character-creation"
+        },
+        {
+          "Title": "Families",
+          "Path": "/families"
+        },
+        {
+          "Title": "Schools",
+          "Path": "/schools"
+        },
+        {
+          "Title": "Advantages",
+          "Path": "/advantages"
+        },
+        {
+          "Title": "Disadvantages",
+          "Path": "/disadvantages"
+        },
+        {
+          "Title": "Ancestors",
+          "Path": "/ancestors"
+        },
+        {
+          "Title": "Skills",
+          "Path": "/skills"
+        }
+      ]
+    },
+    {
+      "Title": "Book of Fire",
+      "Path": "/book-of-fire",
+      "Children": []
+    },
+    {
+      "Title": "Book of Water",
+      "Path": "/book-of-water",
+      "Children": []
+    },
+    {
+      "Title": "Book of the Void",
+      "Path": "/book-of-the-void",
+      "Children": [
+        {
+          "Title": "Magic",
+          "Path": "/magic"
+        },
+        {
+          "Title": "Universal Spells",
+          "Path": "/universal-spells"
+        },
+        {
+          "Title": "Air Spells",
+          "Path": "/air-spells"
+        },
+        {
+          "Title": "Earth Spells",
+          "Path": "/earth-spells"
+        },
+        {
+          "Title": "Fire Spells",
+          "Path": "/fire-spells"
+        },
+        {
+          "Title": "Water Spells",
+          "Path": "/water-spells"
+        },
+        {
+          "Title": "Void Spells",
+          "Path": "/void-spells"
+        },
+        {
+          "Title": "Kiho",
+          "Path": "/kiho"
+        }
+      ]
+    }
+  ]
+}
