@@ -1,5 +1,5 @@
 Title: My First Statiq page
 ---
-# Hello World!
+# Hello Rokugan!
 
-Hello from my first Statiq page. Test test test
+Test publishing from GitHub Action
