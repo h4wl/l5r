@@ -1,0 +1,53 @@
+@using System.Text.Json;
+@{
+    if (Document.ContainsKey("TableOfContents"))
+    {
+        var tocRaw = Document.Get<object>("TableOfContents");
+        if (tocRaw == null) return;
+        string serialized  = JsonSerializer.Serialize(tocRaw);
+        var toc = JsonSerializer.Deserialize<TableOfContents>(serialized);
+        <ul>
+            @{
+                foreach (var entry in toc.Entries)
+                {
+                    <li>
+                        <a href="@entry.Link">@entry.Title</a> 
+                        @{
+                            if (entry.Children != null && entry.Children.Count() > 0)
+                            {
+                                <ul>
+                                    @{
+                                       foreach (var entry2 in entry.Children)
+                                        {
+                                            <li>
+                                                <a href="@entry2.Link">@entry2.Title</a> 
+                                                @{
+                                                    if (entry2.Children != null && entry2.Children.Count() > 0)
+                                                    {
+                                                        <ul>
+                                                            @{
+                                                                foreach (var entry3 in entry2.Children)
+                                                                {
+                                                                    <li>
+                                                                        <a href="@entry3.Link">@entry3.Title</a>
+                                                                    </li>
+                                                                } 
+                                                            }
+                                                        </ul>
+                                                        
+                                                    }
+                                                }
+                                            </li>
+                                        } 
+                                    }
+                                </ul>
+                            }
+                        }
+                    </li>
+                }
+            }
+        </ul>
+        
+        
+    }
+}
