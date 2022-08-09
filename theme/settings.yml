@@ -1,4 +1,3 @@
-MinimumStatiqWebVersion-CleanBlog: "1.0.0-beta.36"
 SiteTitle: My Blog
 PageTitle: |
   =>
@@ -8,6 +7,4 @@ PageTitle: |
     return string.IsNullOrWhiteSpace(siteTitle) ? title : (string.IsNullOrWhiteSpace(title) ? siteTitle : $"{siteTitle} - {title}");
   }
 Copyright: => $"Copyright © {DateTime.Now.Year}"
-PostSources: posts/**/*
-IsPost: => Outputs.FilterSources(Context.GetString("PostSources")).ContainsById(Document)
 Layout: /_layout.cshtml
