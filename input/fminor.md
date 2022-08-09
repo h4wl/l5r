@@ -1,4 +1,50 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/fminor#toc0">The Badger Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc1">The Bat Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc2">The Boar Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc3">The Dragonfly Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc4">The Falcon Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc5">The Fox Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc6">The Hare Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc7">The Monkey Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc8">The Oriole Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc9">The Ox Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc10">The Snake Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc11">The Sparrow Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc12">The Tiger Clan</a>
+  </li>
+  <li>
+    <a href="/l5r/fminor#toc13">The Tortoise Clan</a>
+  </li>
+</ul>
+
 ## <span>The Badger Clan</span> {#toc0}
 
 The founder of the Badger Clan was a powerful Crab warrior who proved his worth in a contest of strength in front of the Emperor. The descendents of the first Badger live on the northern border of Rokugan, and are tasked with guarding the Empire from foreign invasion. The Badger take after their Great Clan cousins, embracing strength at the expense of refinement, and do not accept defeat even in teh face of insurmountable odds.

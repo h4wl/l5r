@@ -1,4 +1,65 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/equipment#toc0">Armor</a>
+  </li>
+  <li>
+    <a href="/l5r/equipment#toc1">Weapons</a>
+    <ul>
+      <li>
+        <a href="/l5r/equipment#toc2">Arrows</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc3">Bows</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc4">Chain weapons</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc5">Heavy Weapons</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc6">Knives</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc7">Ninja weapons</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc8">Polearms</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc9">Spears</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc10">Staves</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc11">Swords</a>
+      </li>
+      <li>
+        <a href="/l5r/equipment#toc12">War fans</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/equipment#toc13">Crafting Extraordinary Weapons</a>
+    <ul>
+      <li>
+        <a href="/l5r/equipment#toc14">Crafting Sacred Weapons</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/equipment#toc15">Rokugani Firearms</a>
+    <ul>
+      <li>
+        <a href="/l5r/equipment#toc16">Teppoudo (Intelligence)</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Armor</span> {#toc0}
 
 ###### Bogu

@@ -1,4 +1,53 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/high-skills#toc0">Acting (Awareness)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc1">Artisan (Awareness)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc2">Calligraphy (Intelligence)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc3">Courtier (Awareness)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc4">Divination (Intelligence)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc5">Etiquette (Awareness)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc6">Games (Various)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc7">Investigation (Perception)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc8">Lore (Intelligence)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc9">Medicine (Intelligence)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc10">Meditation (Void)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc11">Perform (Varies)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc12">Sincerity (Awareness)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc13">Spellcraft (Intelligence)</a>
+  </li>
+  <li>
+    <a href="/l5r/high-skills#toc14">Tea Ceremony (Void)</a>
+  </li>
+</ul>
+
 ## <span>Acting (Awareness)</span> {#toc0}
 
 ##### Sub-types:

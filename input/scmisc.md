@@ -1,4 +1,87 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scmisc#toc0">Miscellaneous Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scmisc#toc1">The Kenku Swordsman School</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc2">Kshatriya Warrior [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc3">Sainika Fighter [Guru]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scmisc#toc4">Miscellaneous Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scmisc#toc5">Agents of the Second Gozoku</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc6">The Amethyst Champion [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc7">The Bloodspeaker Technique</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc8">Chrysanthemum Conspirator</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc9">Dragon Channeler [BoV]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc10">The Emerald Champion [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc11">Emerald Magistrate [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc12">Gozoku Agent [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc13">Imperial Legionnaire [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc14">The Jade Champion [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc15">Jade Legionnaire [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc16">Jade Magistrate [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc17">Kenburo's Way [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc18">Kolat Master [EoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc19">Order of the Stone Crab [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc20">Imperial Explorers</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc21">The Ruby Champion [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc22">Serpent Hunter [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc23">Second City Guardsman [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmisc#toc24">The Topaz Champion [CR]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Miscellaneous Basic Schools</span> {#toc0}
 
 ### <span>The Kenku Swordsman School</span> {#toc1}

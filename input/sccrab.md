@@ -1,4 +1,110 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/sccrab#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrab#toc1">Hida Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc2">Hida Pragmatist [Bushi] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc3">Hiruma Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc4">Hiruma Scout [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc5">Kaiu Engineer [Artisan/Bushi] [GC]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc6">Kuni Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc7">Kuni Witch-Hunter [Monk] [GC]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc8">Toritaka Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc9">Yasuki Courtier [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sccrab#toc10">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrab#toc11">Defender of the Wall [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sccrab#toc12">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrab#toc13">Crab Berserker [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc14">Crab Defender [Bushi] [BoA]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc15">Crab Knife-Fighter [Bushi] [BoF]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc16">Crab Sumai Wrestler [Bushi] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc17">Falcon's Strike [Bushi] [BoA]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc18">Hiruma Slayer [Bushi] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc19">Hiruma Sniper [Bushi] [BoA]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc20">Hiruma Yojimbo [Bushi] [StE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc21">Kaiu Shipmasters [Artisan/Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc22">Kaiu Siegemaster [Bushi] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc23">Kuni Crystal Master [Shugenja] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc24">Oni Slayer [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc25">Rajya ke Varisa [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc26">Severed Hand [Courtier] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc27">Toritaka Exorcist [Shugenja] [GC]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc28">Tsuru's Legion [Bushi] [S&amp;amp;F]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc29">Yasuki Enforcer [Bushi] [StE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc30">Yasuki Extortionist [Courtier] [BoE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrab#toc31">Yasuki Taskmaster [Bushi] [S&amp;amp;F]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Hida Bushi [CR]</span> {#toc1}

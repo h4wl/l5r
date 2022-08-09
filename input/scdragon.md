@@ -1,4 +1,98 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scdragon#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scdragon#toc1">Kitsuki Investigator [Courtier] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc2">Mirumoto Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc3">Mirumoto Taoist Swordsman [Bushi] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc4">Tamori Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc5">The Togashi Tattooed Order [Monk] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc6">The Hoshi Tsurui Zumi Order [Monk] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc7">The Hitomi Kikage Zumi Order [Monk] [IH]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scdragon#toc8">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scdragon#toc9">Mirumoto Master Sensei [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc10">Swordmasters [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc11">Tamori Master of the Mountain [Shugenja]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scdragon#toc12">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scdragon#toc13">Dragon Clan Overseer</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc14">Dragon's Flame [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc15">The Dragon’s Wind [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc16">Hojatsu's Legacy [Bushi] [BoF]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc17">Kaze-Do Fighter</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc18">Kitsuki Debater [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc19">Kitsuki’s Eye [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc20">Kitsuki Justicar [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc21">Mirumoto Mountaineer [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc22">Mirumoto Sentinel [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc23">Tamori Warrior Priest [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc24">Tamori Weaponsmiths [Shugena][Artisan]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc25">Togashi Defender [Monk]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc26">The Transcendent Brotherhood [Monk]</a>
+      </li>
+      <li>
+        <a href="/l5r/scdragon#toc27">Water Hammer Smith [Artisan]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Kitsuki Investigator [Courtier] [CR]</span> {#toc1}

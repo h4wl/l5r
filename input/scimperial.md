@@ -1,4 +1,71 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scimperial#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scimperial#toc1">Hantei Bushi (Owl) [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc2">Miya Herald [Courtier] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc3">Otomo Courtier [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc4">Otomo Diplomat (Owl) [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc5">Seppun Guardsman [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc6">Seppun Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc7">Seppun Shugenja (Owl) [Shugenja]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scimperial#toc8">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scimperial#toc9">Imperial Scion [Courtier] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc10">Tsudao’s Legion</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scimperial#toc11">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scimperial#toc12">Imperial Influencer [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc13">Imperial Observer [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc14">Otomo Bureaucrat</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc15">The Rising Sun [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc16">Satoshi's Legacy [Bushi] [SE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc17">Seppun Astrologers [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scimperial#toc18">Seppun Hidden Guard [Shugenja] [SE]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Hantei Bushi (Owl) [Bushi]</span> {#toc1}

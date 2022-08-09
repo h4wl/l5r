@@ -1,4 +1,98 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scunicorn#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scunicorn#toc1">Horiuchi Shugenja</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc2">Ide Emissary [Courtier] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc3">Iuchi Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc4">Moto Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc5">Moto Death Priest [Shugenja] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc6">Moto Vindicator [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc7">Shinjo Bushi [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc8">Utaku Battle Maiden [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc9">Utaku Mounted Infantry [Bushi]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scunicorn#toc10">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scunicorn#toc11">The White Guard [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scunicorn#toc12">Alternative Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scunicorn#toc13">Calm Heart Duelist [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc14">Hand of Peace [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc15">Ide Caravan Master [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc16">Ide Trader [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc17">Iuchi Couriers (Lord of the Plains) [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc18">Iuchi Traveler [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc19">Moto Fanatic [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc20">Rajya ke Varisa [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc21">Shinjo Magistrate [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc22">Shinjo Scout [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc23">Unicorn Bariqu Wrestler [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc24">Unicorn Doomseeker [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc25">Unicorn Wardog Masters [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc26">Unicorn Yomanri Archer [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scunicorn#toc27">Utaku Horse Master</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Horiuchi Shugenja</span> {#toc1}

@@ -1,4 +1,110 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/sccrane#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrane#toc1">Asahina Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc2">Daidoji Iron Warrior [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc3">Daidoji Scout [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc4">Doji Courtier [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc5">Doji Magistrate [Bushi] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc6">Kakita Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc7">Kakita Artisan</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sccrane#toc8">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrane#toc9">Children of Doji [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc10">Daidoji Harriers [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc11">Kakita Master Artisan</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc12">Kenshinzen [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sccrane#toc13">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/sccrane#toc14">Aerie Falconer</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc15">Asahina Archers [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc16">Asahina Artisans [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc17">Asahina Fetishist [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc18">Asahina Fire Sculptors [Shugenja, Artisan]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc19">Crane Elite Spearman [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc20">Daidoji Heavy Regulars [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc21">Daidoji Spymaster [Courtier/Ninja]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc22">Daidoji Trading Council [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc23">Doji Apologist [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc24">Doji Innocents [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc25">Doji Marines [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc26">Doji Warrior-Poet [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc27">Empress Guard [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc28">Kakita Jesters [Artisan]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc29">Sisters of the Sacred Light [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc30">Student of Mizu-Do [Monk/Artisan]</a>
+      </li>
+      <li>
+        <a href="/l5r/sccrane#toc31">Tsume Pikemen [Bushi] [IH]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Asahina Shugenja [CR]</span> {#toc1}

@@ -1,4 +1,104 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/history#toc0">The Birth of the Universe</a>
+  </li>
+  <li>
+    <a href="/l5r/history#toc1">The Fall of the Kami</a>
+  </li>
+  <li>
+    <a href="/l5r/history#toc2">Pre-History of the Empire</a>
+  </li>
+  <li>
+    <a href="/l5r/history#toc3">The History of an Empire</a>
+    <ul>
+      <li>
+        <a href="/l5r/history#toc4">First Century (1-100 IC)</a>
+        <ul>
+          <li>
+            <a href="/l5r/history#toc5">The Dawn of the Empire</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/l5r/history#toc6">Second Century (101-200 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc7">Third Century (201-300 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc8">Fourth Century (301-400 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc9">Fifth Century (401-500 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc10">Sixth Century (501-600 IC)</a>
+        <ul>
+          <li>
+            <a href="/l5r/history#toc11">The First Rise of the Bloodspeaker</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc12">The Steel Chrysanthemum</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/l5r/history#toc13">Seventh Century (601-700 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc14">Eight Century (701-800 IC)</a>
+        <ul>
+          <li>
+            <a href="/l5r/history#toc15">The Attack of the Maw</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc16">The Return of the Bloodspeaker</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/l5r/history#toc17">Ninth Century (801-900 IC)</a>
+        <ul>
+          <li>
+            <a href="/l5r/history#toc18">The Return of the Unicorn</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/l5r/history#toc19">Tenth Century (901-1000 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc20">Eleventh Centurty (1001-1100 IC)</a>
+      </li>
+      <li>
+        <a href="/l5r/history#toc21">Twelfth Century (1101-1200 IC)</a>
+        <ul>
+          <li>
+            <a href="/l5r/history#toc22">The Scorpion Clan Coup</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc23">The Clan War &amp;amp; Second Day of Thunder</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc24">The Hidden Emperor Era (The War Against the Darkness)</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc25">The Four Winds Era</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc26">Return of the Bloodspeaker</a>
+          </li>
+          <li>
+            <a href="/l5r/history#toc27">The Race for the Throne</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>The Birth of the Universe</span> {#toc0}
 
 In the beginning, before the universe was created, there was only Nothing. The Nothing that existed before the birth of all things was aware, and at some point during its timeless existence, it realized it was alone - and thus experienced Fear. This unprecedented emotion was the first Sin, and created one third of the world. The realization of Fear also created in the Nothing a sense of loneliness and a desire for a companion. These sensations were the second Sin, Desire, and created a second third of the world. And when the Nothing realized what it had done, it experienced regret and a wish to unmake what it had mistakenly created. This was the third Sin, Regret, and it created the final portion of the world, completing it and ending the Nothing's existence.

@@ -1,4 +1,110 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scmantis#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scmantis#toc1">Kitsune Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc2">Mantis Brawler [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc3">Moshi Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc4">Tsuruchi Archer [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc5">Tsuruchi Bounty Hunter [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc6">Yoritomo Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc7">Yoritomo Courtier [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc8">Yoritomo Shugenja</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scmantis#toc9">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scmantis#toc10">Kobune Captain [Bushi] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc11">Storm Riders [Shugenja] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scmantis#toc12">Alternative Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scmantis#toc13">Acolyte of Thunder [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc14">Children of Chikushodo [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc15">Cliff’s Edge Student [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc16">The College of Clarity [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc17">Kitsune Artisan</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc18">Kitsune Ranger [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc19">Mantis Navigator [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc20">Mantis Orochi Rider [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc21">Mantis Whirlwind Fighters [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc22">Moshi Guardian of the Sun [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc23">Rajya ke Varisa [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc24">Sisters of the Sacred Light [Shugena]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc25">Soldier of the Three Man Alliance [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc26">Student of the Cliff's Edge [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc27">Tsuruchi Master Bowman [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc28">Tsuruchi Swordsman [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc29">Yoritomo Emissaries [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc30">Yoritomo Scoundrel [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scmantis#toc31">Yoritomo Sculptors [Artisan]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Kitsune Shugenja [CR]</span> {#toc1}

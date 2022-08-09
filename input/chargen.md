@@ -1,4 +1,17 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/chargen#toc0">Step 1: Getting Started</a>
+  </li>
+  <li>
+    <a href="/l5r/chargen#toc1">Step 2: The Basics</a>
+  </li>
+  <li>
+    <a href="/l5r/chargen#toc2">Step 3: Customization</a>
+  </li>
+</ul>
+
 <a href="/l5r/20-questions">20 Questions</a> - A list of questions for you to ponder to get a better grasp of your character's background and personality.
 
 ## <span>Step 1: Getting Started</span> {#toc0}

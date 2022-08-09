@@ -1,4 +1,65 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/rolls#toc0">Skills</a>
+  </li>
+  <li>
+    <a href="/l5r/rolls#toc1">Raises</a>
+  </li>
+  <li>
+    <a href="/l5r/rolls#toc2">Types of Rolls</a>
+    <ul>
+      <li>
+        <a href="/l5r/rolls#toc3">Skill Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc4">Trait Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc5">Ring Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc6">Damage Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc7">Spell Casting Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc8">Contested Rolls</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/rolls#toc9">Skill Rolls, Expanded</a>
+    <ul>
+      <li>
+        <a href="/l5r/rolls#toc10">Unskilled Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc11">Failed Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc12">Cooperative Rolls</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc13">Cumulative Rolls</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/rolls#toc14">Special Dice Rules</a>
+    <ul>
+      <li>
+        <a href="/l5r/rolls#toc15">Exploding Dice</a>
+      </li>
+      <li>
+        <a href="/l5r/rolls#toc16">The Ten Dice Rule</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Skills</span> {#toc0}
 
 Rings and Traits represent the innate mental and physical abilities of a character. What they learn through training and experience, however, is represented by Skills. Samurai begin acquiring the basic building blocks of Skills at a very young age, when they fi rst enter a dojo to begin training for a life of service in the name of their Clan. Each Clan’s dojo teaches different Skills, and even within a single Clan the Skills taught at particular dojo can vary widely. All dojo offer a number of additional, optional courses of study for their students, however, so even two samurai who attend the same dojo can have different Skills, albeit with a common base of training.<br>

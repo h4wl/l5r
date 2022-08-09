@@ -1,4 +1,190 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scronin#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc1">Dutiful Disciple Shugenja [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc2">Generic Ronin [Bushi] [SE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc3">Ronin Order Shugenja [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc4">Self-Taught Shugenja [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc5">Void Mystic [Shugenja]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc6">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc7">Disciples of Sun Tao [SE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc8">Kolat Assassin [Ninja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc9">Legion of Two Thousand [SE]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc10">Rank 1 Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc11">Disciples of Sun Tao [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc12">Forest Killers [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc13">Hawk Purist [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc14">Koga Ninja [Ninja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc15">People's Legionnaire [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc16">Tawagoto's Army [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc17">Tengoku's Justice [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc18">The Tessen [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc19">Rank 2 Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc20">Claws of the Wolf [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc21">East Wind [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc22">Eyes of Nanashi [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc23">Fireman Gang Lord [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc24">The Guards’ Wrath [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc25">Hateru Ninja</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc26">Kaze-do Fighter [Bushi/Monk]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc27">Master of Games [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc28">Moonless Riders [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc29">Silent Blades [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc30">The Thousand [Bushi] [SE]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc31">Rank 3 Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc32">Broken Guard [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc33">The Ghosts of the Forest</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc34">Hidden Sword [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc35">Machi-Kanshisha [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc36">Order of Isashi [Shugenja] [SE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc37">Scales Of the Carp [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc38">Serpents of Sanada [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc39">The Silken Promises Geisha [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc40">Snow Riders [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc41">Tsume Pikemen [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc42">the Unbroken [Bushi]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc43">Rank 4 Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc44">Guardian of the Hidden Temple [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc45">Kenburo's Way [Bushi] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc46">Minor Clan Alliance Diplomat [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc47">Order of Five Weapons [Shugenja] [SE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc48">Seven Waves Mercenaries [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc49">Sword of Yotsu [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc50">Weavers [Bushi] [EnE]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scronin#toc51">Rank 5 Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scronin#toc52">Iron Gauntlet Brotherhood [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc53">Shadowed Steel [Bushi] [EnE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc54">The Taoist Archers [Bushi/Monk]</a>
+      </li>
+      <li>
+        <a href="/l5r/scronin#toc55">Wolf Legion [Bushi] [EnE]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Dutiful Disciple Shugenja [EnE]</span> {#toc1}

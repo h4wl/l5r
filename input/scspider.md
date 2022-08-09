@@ -1,4 +1,83 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/scspider#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scspider#toc1">Chuda Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc2">Daigotsu Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc3">Daigotsu Courtier [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc4">Dark Moto Cavalry [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc5">Free Ogre Bushi [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc6">Free Ogre Mage [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc7">Goju Ninja [GC]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc8">Ninube Shugenja [GC]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc9">The Order of the Spider Monks [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scspider#toc10">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/scspider#toc11">Dark Paragon [Monk] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc12">Maho-Bujin [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc13">Obsidian Warrior [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/scspider#toc14">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/scspider#toc15">Chuda Necromancer [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc16">Chuda Subversive [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc17">Colonial Conqueror [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc18">Daigotsu Scout [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc19">Dark Path Sohei [Monk]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc20">The Dark Whisper [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc21">Obsidian Magistrate [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/scspider#toc22">Susumu Courtier</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Chuda Shugenja [CR]</span> {#toc1}

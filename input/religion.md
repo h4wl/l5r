@@ -1,4 +1,52 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/religion#toc0">Rokugani Religion</a>
+  </li>
+  <li>
+    <a href="/l5r/religion#toc1">Kharma &amp;amp; the Celestial Wheel</a>
+  </li>
+  <li>
+    <a href="/l5r/religion#toc2">The Spirit Realms</a>
+    <ul>
+      <li>
+        <a href="/l5r/religion#toc3">Chikushudo (Realm of Animals)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc4">Gaki-do (Realm of the Hungry Dead)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc5">Jigoku (Realm of Evil)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc6">Maigo no Musha (Realm of Lost Heroes)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc7">Meido (Realm of Waiting)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc8">Sakkaku (Realm of Mischief)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc9">Tengoku (Celestial Heavens)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc10">Toshigoku (Realm of Slaughter)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc11">Yomi (Realm of Blessed Ancestors)</a>
+      </li>
+      <li>
+        <a href="/l5r/religion#toc12">Yume-do (Realm of Dreams)</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/religion#toc13">The Three Sacred Substances</a>
+  </li>
+</ul>
+
 ## <span>Rokugani Religion</span> {#toc0}
 
 Rokugan's religious beliefs actually encompass three different forms of worship - Shintao, Fortunism, and ancestral worship - all of which are united by the will of the Emperor into a single religious system. The Brotherhood of Shinsei, an order of monks, maintains and upholds Rokugan's religion, with different branches of the Brotherhood focusing on different aspects of the faith.

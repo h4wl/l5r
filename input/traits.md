@@ -1,4 +1,23 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/traits#toc0">Air</a>
+  </li>
+  <li>
+    <a href="/l5r/traits#toc1">Earth</a>
+  </li>
+  <li>
+    <a href="/l5r/traits#toc2">Fire</a>
+  </li>
+  <li>
+    <a href="/l5r/traits#toc3">Water</a>
+  </li>
+  <li>
+    <a href="/l5r/traits#toc4">Void</a>
+  </li>
+</ul>
+
 The most basic representations of a character’s abilities are the Five Rings. The Five Rings are the basic conceptual building blocks of the Legend of the Five Rings world. All things, both living and nonliving, are composed of differing proportions of the elements that the Rings represent. With regard to characters, each Ring is made up of two Traits, one mental and one physical, representing its infl uence in the mortal world.
 
 At the beginning of the character creation process, characters begin with all Rings and Traits at 2 out of a possible 10. These may be increased during the character creation process, or during the game, through the expenditure of Experience Points. A Rank of 2 represents the normal capability possessed by an individual with no particular training, whereas the upper limit of 10 is reserved for the most supremely gifted and talented individuals in the world, and for supernatural beings.

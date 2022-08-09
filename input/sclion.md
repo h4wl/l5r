@@ -1,4 +1,98 @@
 ---
+
+<ul>
+  <li>
+    <a href="/l5r/sclion#toc0">Basic Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sclion#toc1">Akodo Bushi [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc2">Ikoma Bard [Courtier] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc3">Ikoma Lion's Shadow [Bushi] [EE]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc4">Kitsu Shugenja [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc5">Lion Elite Spearmen [Bushi] [NP]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc6">Matsu Beastmaster [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc7">Matsu Berserker [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sclion#toc8">Advanced Schools</a>
+    <ul>
+      <li>
+        <a href="/l5r/sclion#toc9">Akodo Tactical Master [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc10">Kitsu Sodan-Senzo [Shugenja] [IH]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc11">The Lion's Pride [Bushi] [CR]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/l5r/sclion#toc12">Alternative Paths</a>
+    <ul>
+      <li>
+        <a href="/l5r/sclion#toc13">Akodo Kensai [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc14">Akodo Siege Strategist [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc15">Bishamon's Chosen [Shugenja] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc16">Deathseeker [Bushi] [CR]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc17">De Bellis Legionnaire [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc18">The Disciples of the River [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc19">Ikoma Historians [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc20">Ikoma Orator [Courtier]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc21">Ikoma Scrapper [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc22">Ikoma Warden [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc23">Kitsu Spirit Legion [Shugenja]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc24">Lion Paragon [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc25">Lion Scout [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc26">Lion Tactician (Ikoma Tactician) [Bushi]</a>
+      </li>
+      <li>
+        <a href="/l5r/sclion#toc27">Lioness Legion [Bushi]</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ## <span>Basic Schools</span> {#toc0}
 
 ### <span>Akodo Bushi [CR]</span> {#toc1}
