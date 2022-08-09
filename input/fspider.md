@@ -1,3 +1,4 @@
+Title: Families of the Spider Clan
 ---
 <span style="text-decoration: underline;">The Chuda Family: +1 Intelligence</span><br>
 The spiritual heirs of the first Chuda family, wiped out centuries previously, the Chuda are a collection of ambitious and power-hungry maho-tsukai who delve into the secrets of blood magic. Their loyalties are always suspect, since they have changed masters on more than one occasion in the past.

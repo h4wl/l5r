@@ -1,3 +1,4 @@
+Title: The Nothing
 ---
 Corruption by the Nothing is a subtle and insidious process. Unlike the Shadowlands Taint, which is a relentless progression not unlike a disease, Shadow corruption by the Nothing requires the individual affected by a willing participant in the process - at least at first. In game terms, this is reflected by the acquisition of Shadow Ranks.
 

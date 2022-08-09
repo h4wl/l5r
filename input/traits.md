@@ -1,3 +1,4 @@
+Title: Traits
 ---
 
 <ul>

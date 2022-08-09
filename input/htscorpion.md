@@ -1,3 +1,4 @@
+Title: Scorpion Clan Tables
 ---
 D10 roll result
 

@@ -1,3 +1,4 @@
+Title: Crab Clan Tables
 ---
 D10 roll result
 

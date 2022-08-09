@@ -1,3 +1,4 @@
+Title: Akutenshi Powers
 ---
 ##### Awe of the Dark One
 

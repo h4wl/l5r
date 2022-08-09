@@ -1,3 +1,4 @@
+Title: Kenshi Schools
 ---
 Kenshi schools are similar to Bushi Schools (and are in fact treated as such for the purpose of learning Katas and gaining Advantages), but only possess one Technique. In addition to that Technique however, the gain three Tokugi at Rank One, and three additional Tokugi whenever they gain an Insight Rank.
 

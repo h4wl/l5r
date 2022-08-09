@@ -1,3 +1,4 @@
+Title: Kagaku
 ---
 The following is a list of the best-known and most widely-used Kagaku items and potions from the Dragon Clan; GMs and players may also use it as inspiration for creating their own items.
 

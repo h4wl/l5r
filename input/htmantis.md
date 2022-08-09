@@ -1,3 +1,4 @@
+Title: Mantis Clan Tables
 ---
 D10 roll result
 

@@ -1,3 +1,4 @@
+Title: Ashalan Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

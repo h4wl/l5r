@@ -1,3 +1,4 @@
+Title: Jinn
 ---
 Summoning a Jinn takes an Air roll at TN 5 after six hours of uninterrupting meditation after drawing Hakhim's seal. The TN may be increased if you need a specific type of Jinn, or a specific Jinn instead. Characters of Insight rank 1 et 2 may only summon Minor Jinn, of insight rank 3 and 4 may only summon Intermediate Jinn, and Major Jinn can only be summoned by characters with Insight Rank 5.
 

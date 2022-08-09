@@ -1,3 +1,4 @@
+Title: Universal Spells
 ---
 ###### Commune [CR]
 - Ring/Mastery: All 1

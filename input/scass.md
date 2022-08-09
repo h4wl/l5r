@@ -1,3 +1,4 @@
+Title: Assassin Schools
 ---
 ## <span>Basic Classes</span> {#toc0}
 

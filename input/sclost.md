@@ -1,3 +1,4 @@
+Title: Lost Clans Schools
 ---
 While these minor clans are not part of Rokugan's canonical Clans, they have been a part of Rokugan's history and have been designed by the team responsible for the fourth edition of Legend of the Five Rings. Their status as canon and use are left up to the GM.
 

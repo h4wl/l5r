@@ -1,3 +1,4 @@
+Title: Yodotai Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

@@ -1,3 +1,4 @@
+Title: Advanced Fetishes
 ---
 Listed below are some of the more well-known types of “normal” fetishes with examples for more powerful enchantments which could be added to them. GMs and players can use these for inspiration in developing their own ideas for fetishes.
 

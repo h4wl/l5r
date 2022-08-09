@@ -1,3 +1,4 @@
+Title: Minor Shadowlands Powers
 ---
 ##### Above the Elements
 

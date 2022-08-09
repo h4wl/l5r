@@ -1,3 +1,4 @@
+Title: Spider Clan Tables
 ---
 D10 roll result
 

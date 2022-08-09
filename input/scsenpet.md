@@ -1,3 +1,4 @@
+Title: Senpet Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

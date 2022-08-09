@@ -1,3 +1,4 @@
+Title: Playable Returned Spirits
 ---
 ## <span>Playing a Spirit PC</span> {#toc0}
 

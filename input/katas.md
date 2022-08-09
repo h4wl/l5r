@@ -1,3 +1,4 @@
+Title: Katas
 ---
 Kata are fighting postures and movements that have evolved over the centuries, and are reinforced through constant repetition during training. Individual kata styles mesh well with particular Schools, and while individual clans develop some kata as a means of diversifying the Techniques of their ancestral Schools, most are developed independently by talented samurai and taught to others without concern for family or clan. For example, the Nightingale Style was developed by a sub-group within the Mirumoto family and carefully protected from outsiders, and eventually evolved into a Technique centuries later. By comparison, the Wind in Darkened Skies Style is an athletic attack style known to virtually every clan, whose creator has been long since forgotten over the years.
 

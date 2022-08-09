@@ -1,3 +1,4 @@
+Title: Qabal Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

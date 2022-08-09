@@ -1,3 +1,4 @@
+Title: Schools
 ---
 <a href="/l5r/sccrab">Crab Clan Schools</a><br>
 <a href="/l5r/sccrane">Crane Clan Schools</a><br>

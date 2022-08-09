@@ -1,3 +1,4 @@
+Title: Minor Clan Tables
 ---
 D10 Roll Result
 

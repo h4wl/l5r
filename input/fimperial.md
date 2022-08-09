@@ -1,3 +1,4 @@
+Title: The Imperial Families
 ---
 <span style="text-decoration: underline;">The Hantei Family: +1 Void</span><br>
 Descendants of the first Hantei (however far removed), members of the Hantei line tend to have a great destiny, and can excel in nearly any area if they have but the will to focus their efforts.

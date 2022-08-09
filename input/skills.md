@@ -1,3 +1,4 @@
+Title: Skills
 ---
 Skills fall into a number of categories. The most significant of these is referred to as the subtype, a system where all Skills are sorted into one of four broad categories depending upon how the use of the Skill is regarded in Rokugani society.
 

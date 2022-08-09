@@ -1,3 +1,4 @@
+Title: Advantages
 ---
 ##### Absolute Direction [Mental] (1 Point) [CR]
 

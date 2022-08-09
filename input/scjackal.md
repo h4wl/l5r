@@ -1,3 +1,4 @@
+Title: Jackal Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

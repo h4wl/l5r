@@ -1,3 +1,4 @@
+Title: Sahir Spell
 ---
 There are five Disciplines, which are groupings of similar powers. If any other requirements beyond invoking Hakhim's Seal are necessary, the spell will mention it.
 

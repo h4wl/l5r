@@ -1,3 +1,4 @@
+Title: Religion in Rokugan
 ---
 
 <ul>

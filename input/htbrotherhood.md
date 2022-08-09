@@ -1,3 +1,4 @@
+Title: Brotherhood of Shinsei Tables
 ---
 D10 Roll Result
 

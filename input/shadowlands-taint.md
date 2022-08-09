@@ -1,3 +1,4 @@
+Title: Shadowlands Taint
 ---
 The Shadowlands Taint is a manifestation of Jigoku's corruptive influence on the moral world. It functions as a disease, spreading upon contact, but corrupts the soul as readily as the body. Those subjected to the taint slowly face strange mutations, exhibit unnatural strength and unholy powers, and become violent and malicious as the taint subverts their thoughts and dreams. Corpses suffused with the taint return as undead abominations.
 

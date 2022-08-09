@@ -1,3 +1,4 @@
+Title: 20 Questions
 ---
 The Game of Twenty Questions<br>
 Although the process of creating a character mechanically is very important, the most important aspects of your character have very little to do with mechanics at all. What kind of character do you want to play? What is his history like? What are his goals? What is the most important thing in the world to him? These are questions you should consider before you even start to spend points.

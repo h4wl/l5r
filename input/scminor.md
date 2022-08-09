@@ -1,3 +1,4 @@
+Title: Minor Clan Schools
 ---
 
 <ul>

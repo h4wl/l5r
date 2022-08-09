@@ -1,3 +1,4 @@
+Title: Medinaat Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

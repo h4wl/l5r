@@ -1,3 +1,4 @@
+Title: Book Of The Void
 ---
 <img src="http://lasthaiku.wdfiles.com/local--files/book-of-the-void/void.gif" alt="void.gif" class="image">
 

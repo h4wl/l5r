@@ -1,3 +1,4 @@
+Title: Major Shadowlands Powers
 ---
 ##### Armor of Death
 

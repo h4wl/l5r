@@ -1,3 +1,4 @@
+Title: Book Of Fire
 ---
 <img src="http://lasthaiku.wdfiles.com/local--files/book-of-fire/fire.gif" alt="fire.gif" class="image">
 

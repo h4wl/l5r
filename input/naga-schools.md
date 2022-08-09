@@ -1,3 +1,4 @@
+Title: Naga Schools
 ---
 ### <span>Basic Schools</span> {#toc0}
 

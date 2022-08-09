@@ -1,3 +1,4 @@
+Title: Legend Of The Burning Sands
 ---
 The Burning Sands are a setting close to Rokugan, which follows rules quite closely resembling those of the main setting. A quick listing of those rules can be found here.
 

@@ -1,3 +1,4 @@
+Title: Tokugi
 ---
 Tokugi are special techniques that can only be used by bushi. They function as highly specialized combat manoeuvers (such as Feint and Disarm) and represent the ultimate result of years of training. Unlike Kata, they are not stances but specific gestures, whose power rivalizes with the intricate design of Kihos. Performing a Tokugi is similar to performing a standard attack manoeuver (as a Complex Action), and can be activated either by Raising a number of times equal to the Tokugi’s Mastery Level, or by spending a Void Point.
 

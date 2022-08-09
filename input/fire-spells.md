@@ -1,3 +1,4 @@
+Title: Fire Spells
 ---
 
 <ul>

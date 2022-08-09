@@ -1,3 +1,4 @@
+Title: Ebonite Schools
 ---
 ## <span>Basic Schools</span> {#toc0}
 

@@ -1,3 +1,4 @@
+Title: Ronin Tables
 ---
 D10 Roll Result
 
