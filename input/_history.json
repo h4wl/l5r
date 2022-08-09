@@ -1,152 +1,152 @@
 {
-    "TableOfContents": {
-      "Entries": [
-        {
-          "Title": "The Birth of the Universe",
-          "Link": "#toc0",
-          "Children": null
-        },
-        {
-          "Title": "The Fall of the Kami",
-          "Link": "#toc1",
-          "Children": null
-        },
-        {
-          "Title": "Pre-History of the Empire",
-          "Link": "#toc2",
-          "Children": null
-        },
-        {
-          "Title": "The History of an Empire",
-          "Link": "#toc3",
-          "Children": [
-            {
-              "Title": "First Century (1-100 IC)",
-              "Link": "#toc4",
-              "Children": [
-                {
-                  "Title": "The Dawn of the Empire",
-                  "Link": "#toc5",
-                  "Children": null
-                }
-              ]
-            },
-            {
-              "Title": "Second Century (101-200 IC)",
-              "Link": "#toc6",
-              "Children": null
-            },
-            {
-              "Title": "Third Century (201-300 IC)",
-              "Link": "#toc7",
-              "Children": null
-            },
-            {
-              "Title": "Fourth Century (301-400 IC)",
-              "Link": "#toc8",
-              "Children": null
-            },
-            {
-              "Title": "Fifth Century (401-500 IC)",
-              "Link": "#toc9",
-              "Children": null
-            },
-            {
-              "Title": "Sixth Century (501-600 IC)",
-              "Link": "#toc10",
-              "Children": [
-                {
-                  "Title": "The First Rise of the Bloodspeaker",
-                  "Link": "#toc11",
-                  "Children": null
-                },
-                {
-                  "Title": "The Steel Chrysanthemum",
-                  "Link": "#toc12",
-                  "Children": null
-                }
-              ]
-            },
-            {
-              "Title": "Seventh Century (601-700 IC)",
-              "Link": "#toc13",
-              "Children": null
-            },
-            {
-              "Title": "Eight Century (701-800 IC)",
-              "Link": "#toc14",
-              "Children": [
-                {
-                  "Title": "The Attack of the Maw",
-                  "Link": "#toc15",
-                  "Children": null
-                },
-                {
-                  "Title": "The Return of the Bloodspeaker",
-                  "Link": "#toc16",
-                  "Children": null
-                }
-              ]
-            },
-            {
-              "Title": "Ninth Century (801-900 IC)",
-              "Link": "#toc17",
-              "Children": [
-                {
-                  "Title": "The Return of the Unicorn",
-                  "Link": "#toc18",
-                  "Children": null
-                }
-              ]
-            },
-            {
-              "Title": "Tenth Century (901-1000 IC)",
-              "Link": "#toc19",
-              "Children": null
-            },
-            {
-              "Title": "Eleventh Centurty (1001-1100 IC)",
-              "Link": "#toc20",
-              "Children": null
-            },
-            {
-              "Title": "Twelfth Century (1101-1200 IC)",
-              "Link": "#toc21",
-              "Children": [
-                {
-                  "Title": "The Scorpion Clan Coup",
-                  "Link": "#toc22",
-                  "Children": null
-                },
-                {
-                  "Title": "The Clan War \u0026amp; Second Day of Thunder",
-                  "Link": "#toc23",
-                  "Children": null
-                },
-                {
-                  "Title": "The Hidden Emperor Era (The War Against the Darkness)",
-                  "Link": "#toc24",
-                  "Children": null
-                },
-                {
-                  "Title": "The Four Winds Era",
-                  "Link": "#toc25",
-                  "Children": null
-                },
-                {
-                  "Title": "Return of the Bloodspeaker",
-                  "Link": "#toc26",
-                  "Children": null
-                },
-                {
-                  "Title": "The Race for the Throne",
-                  "Link": "#toc27",
-                  "Children": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "The Birth of the Universe",
+        "Link": "/l5r/history#toc0",
+        "Children": null
+      },
+      {
+        "Title": "The Fall of the Kami",
+        "Link": "/l5r/history#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Pre-History of the Empire",
+        "Link": "/l5r/history#toc2",
+        "Children": null
+      },
+      {
+        "Title": "The History of an Empire",
+        "Link": "/l5r/history#toc3",
+        "Children": [
+          {
+            "Title": "First Century (1-100 IC)",
+            "Link": "/l5r/history#toc4",
+            "Children": [
+              {
+                "Title": "The Dawn of the Empire",
+                "Link": "/l5r/history#toc5",
+                "Children": null
+              }
+            ]
+          },
+          {
+            "Title": "Second Century (101-200 IC)",
+            "Link": "/l5r/history#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Third Century (201-300 IC)",
+            "Link": "/l5r/history#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Fourth Century (301-400 IC)",
+            "Link": "/l5r/history#toc8",
+            "Children": null
+          },
+          {
+            "Title": "Fifth Century (401-500 IC)",
+            "Link": "/l5r/history#toc9",
+            "Children": null
+          },
+          {
+            "Title": "Sixth Century (501-600 IC)",
+            "Link": "/l5r/history#toc10",
+            "Children": [
+              {
+                "Title": "The First Rise of the Bloodspeaker",
+                "Link": "/l5r/history#toc11",
+                "Children": null
+              },
+              {
+                "Title": "The Steel Chrysanthemum",
+                "Link": "/l5r/history#toc12",
+                "Children": null
+              }
+            ]
+          },
+          {
+            "Title": "Seventh Century (601-700 IC)",
+            "Link": "/l5r/history#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Eight Century (701-800 IC)",
+            "Link": "/l5r/history#toc14",
+            "Children": [
+              {
+                "Title": "The Attack of the Maw",
+                "Link": "/l5r/history#toc15",
+                "Children": null
+              },
+              {
+                "Title": "The Return of the Bloodspeaker",
+                "Link": "/l5r/history#toc16",
+                "Children": null
+              }
+            ]
+          },
+          {
+            "Title": "Ninth Century (801-900 IC)",
+            "Link": "/l5r/history#toc17",
+            "Children": [
+              {
+                "Title": "The Return of the Unicorn",
+                "Link": "/l5r/history#toc18",
+                "Children": null
+              }
+            ]
+          },
+          {
+            "Title": "Tenth Century (901-1000 IC)",
+            "Link": "/l5r/history#toc19",
+            "Children": null
+          },
+          {
+            "Title": "Eleventh Centurty (1001-1100 IC)",
+            "Link": "/l5r/history#toc20",
+            "Children": null
+          },
+          {
+            "Title": "Twelfth Century (1101-1200 IC)",
+            "Link": "/l5r/history#toc21",
+            "Children": [
+              {
+                "Title": "The Scorpion Clan Coup",
+                "Link": "/l5r/history#toc22",
+                "Children": null
+              },
+              {
+                "Title": "The Clan War \u0026amp; Second Day of Thunder",
+                "Link": "/l5r/history#toc23",
+                "Children": null
+              },
+              {
+                "Title": "The Hidden Emperor Era (The War Against the Darkness)",
+                "Link": "/l5r/history#toc24",
+                "Children": null
+              },
+              {
+                "Title": "The Four Winds Era",
+                "Link": "/l5r/history#toc25",
+                "Children": null
+              },
+              {
+                "Title": "Return of the Bloodspeaker",
+                "Link": "/l5r/history#toc26",
+                "Children": null
+              },
+              {
+                "Title": "The Race for the Throne",
+                "Link": "/l5r/history#toc27",
+                "Children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
+}
