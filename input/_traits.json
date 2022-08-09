@@ -1,0 +1,31 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Air",
+        "Link": "/l5r/traits#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Earth",
+        "Link": "/l5r/traits#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Fire",
+        "Link": "/l5r/traits#toc2",
+        "Children": null
+      },
+      {
+        "Title": "Water",
+        "Link": "/l5r/traits#toc3",
+        "Children": null
+      },
+      {
+        "Title": "Void",
+        "Link": "/l5r/traits#toc4",
+        "Children": null
+      }
+    ]
+  }
+}

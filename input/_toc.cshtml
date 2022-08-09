@@ -3,6 +3,7 @@
     if (Document.ContainsKey("TableOfContents"))
     {
         var tocRaw = Document.Get<object>("TableOfContents");
+        if (tocRaw == null) return;
         string serialized  = JsonSerializer.Serialize(tocRaw);
         var toc = JsonSerializer.Deserialize<TableOfContents>(serialized);
         <ul>
