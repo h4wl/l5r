@@ -1,0 +1,31 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Animal Handling (Awareness)",
+        "Link": "/l5r/merchant-skills#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Commerce (Intelligence)",
+        "Link": "/l5r/merchant-skills#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Craft (Varies)",
+        "Link": "/l5r/merchant-skills#toc2",
+        "Children": null
+      },
+      {
+        "Title": "Engineering (Intelligence)",
+        "Link": "/l5r/merchant-skills#toc3",
+        "Children": null
+      },
+      {
+        "Title": "Sailing (Agility or Intelligence)",
+        "Link": "/l5r/merchant-skills#toc4",
+        "Children": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Step 1: Getting Started",
+        "Link": "/l5r/chargen#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Step 2: The Basics",
+        "Link": "/l5r/chargen#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Step 3: Customization",
+        "Link": "/l5r/chargen#toc2",
+        "Children": null
+      }
+    ]
+  }
+}

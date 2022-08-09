@@ -1,0 +1,124 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Basic Schools",
+        "Link": "/l5r/scspider#toc0",
+        "Children": [
+          {
+            "Title": "Chuda Shugenja [CR]",
+            "Link": "/l5r/scspider#toc1",
+            "Children": null
+          },
+          {
+            "Title": "Daigotsu Bushi [CR]",
+            "Link": "/l5r/scspider#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Daigotsu Courtier [CR]",
+            "Link": "/l5r/scspider#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Dark Moto Cavalry [Bushi]",
+            "Link": "/l5r/scspider#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Free Ogre Bushi [Bushi]",
+            "Link": "/l5r/scspider#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Free Ogre Mage [Shugenja]",
+            "Link": "/l5r/scspider#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Goju Ninja [GC]",
+            "Link": "/l5r/scspider#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Ninube Shugenja [GC]",
+            "Link": "/l5r/scspider#toc8",
+            "Children": null
+          },
+          {
+            "Title": "The Order of the Spider Monks [CR]",
+            "Link": "/l5r/scspider#toc9",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Advanced Schools",
+        "Link": "/l5r/scspider#toc10",
+        "Children": [
+          {
+            "Title": "Dark Paragon [Monk] [EE]",
+            "Link": "/l5r/scspider#toc11",
+            "Children": null
+          },
+          {
+            "Title": "Maho-Bujin [Bushi]",
+            "Link": "/l5r/scspider#toc12",
+            "Children": null
+          },
+          {
+            "Title": "Obsidian Warrior [Bushi] [CR]",
+            "Link": "/l5r/scspider#toc13",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternate Paths",
+        "Link": "/l5r/scspider#toc14",
+        "Children": [
+          {
+            "Title": "Chuda Necromancer [Shugenja]",
+            "Link": "/l5r/scspider#toc15",
+            "Children": null
+          },
+          {
+            "Title": "Chuda Subversive [Shugenja] [CR]",
+            "Link": "/l5r/scspider#toc16",
+            "Children": null
+          },
+          {
+            "Title": "Colonial Conqueror [Bushi]",
+            "Link": "/l5r/scspider#toc17",
+            "Children": null
+          },
+          {
+            "Title": "Daigotsu Scout [Bushi]",
+            "Link": "/l5r/scspider#toc18",
+            "Children": null
+          },
+          {
+            "Title": "Dark Path Sohei [Monk]",
+            "Link": "/l5r/scspider#toc19",
+            "Children": null
+          },
+          {
+            "Title": "The Dark Whisper [Courtier]",
+            "Link": "/l5r/scspider#toc20",
+            "Children": null
+          },
+          {
+            "Title": "Obsidian Magistrate [Bushi] [CR]",
+            "Link": "/l5r/scspider#toc21",
+            "Children": null
+          },
+          {
+            "Title": "Susumu Courtier",
+            "Link": "/l5r/scspider#toc22",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

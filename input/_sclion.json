@@ -1,0 +1,149 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Basic Schools",
+        "Link": "/l5r/sclion#toc0",
+        "Children": [
+          {
+            "Title": "Akodo Bushi [CR]",
+            "Link": "/l5r/sclion#toc1",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Bard [Courtier] [CR]",
+            "Link": "/l5r/sclion#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Lion\u0027s Shadow [Bushi] [EE]",
+            "Link": "/l5r/sclion#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Kitsu Shugenja [CR]",
+            "Link": "/l5r/sclion#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Lion Elite Spearmen [Bushi] [NP]",
+            "Link": "/l5r/sclion#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Matsu Beastmaster [Bushi]",
+            "Link": "/l5r/sclion#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Matsu Berserker [Bushi] [CR]",
+            "Link": "/l5r/sclion#toc7",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Advanced Schools",
+        "Link": "/l5r/sclion#toc8",
+        "Children": [
+          {
+            "Title": "Akodo Tactical Master [Bushi]",
+            "Link": "/l5r/sclion#toc9",
+            "Children": null
+          },
+          {
+            "Title": "Kitsu Sodan-Senzo [Shugenja] [IH]",
+            "Link": "/l5r/sclion#toc10",
+            "Children": null
+          },
+          {
+            "Title": "The Lion\u0027s Pride [Bushi] [CR]",
+            "Link": "/l5r/sclion#toc11",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternative Paths",
+        "Link": "/l5r/sclion#toc12",
+        "Children": [
+          {
+            "Title": "Akodo Kensai [Bushi]",
+            "Link": "/l5r/sclion#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Akodo Siege Strategist [Bushi]",
+            "Link": "/l5r/sclion#toc14",
+            "Children": null
+          },
+          {
+            "Title": "Bishamon\u0027s Chosen [Shugenja] [CR]",
+            "Link": "/l5r/sclion#toc15",
+            "Children": null
+          },
+          {
+            "Title": "Deathseeker [Bushi] [CR]",
+            "Link": "/l5r/sclion#toc16",
+            "Children": null
+          },
+          {
+            "Title": "De Bellis Legionnaire [Bushi]",
+            "Link": "/l5r/sclion#toc17",
+            "Children": null
+          },
+          {
+            "Title": "The Disciples of the River [Shugenja]",
+            "Link": "/l5r/sclion#toc18",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Historians [Courtier]",
+            "Link": "/l5r/sclion#toc19",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Orator [Courtier]",
+            "Link": "/l5r/sclion#toc20",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Scrapper [Bushi]",
+            "Link": "/l5r/sclion#toc21",
+            "Children": null
+          },
+          {
+            "Title": "Ikoma Warden [Bushi]",
+            "Link": "/l5r/sclion#toc22",
+            "Children": null
+          },
+          {
+            "Title": "Kitsu Spirit Legion [Shugenja]",
+            "Link": "/l5r/sclion#toc23",
+            "Children": null
+          },
+          {
+            "Title": "Lion Paragon [Bushi]",
+            "Link": "/l5r/sclion#toc24",
+            "Children": null
+          },
+          {
+            "Title": "Lion Scout [Bushi]",
+            "Link": "/l5r/sclion#toc25",
+            "Children": null
+          },
+          {
+            "Title": "Lion Tactician (Ikoma Tactician) [Bushi]",
+            "Link": "/l5r/sclion#toc26",
+            "Children": null
+          },
+          {
+            "Title": "Lioness Legion [Bushi]",
+            "Link": "/l5r/sclion#toc27",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

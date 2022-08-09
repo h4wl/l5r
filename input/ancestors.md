@@ -71,7 +71,7 @@ Doji's youngest son, the founder of the Daidoji family, was a skilled warrior wh
 ##### <strong>Kakita [12 Points]]</strong>
 
 Doji's husband was both a duelist and an artisan of renown, author of 
-The Sword
+<em>The Sword</em>
 , and served as the first Emerald Champion in Rokugan's history. Hoever, he also started the Crane Clan's long and bitter feud with the Lion Clan. Those who have Kakita's guidance may spend a Void Point to re-roll any Iaijutsu or Artisan Skill roll with a +1k1 bonus to the second roll. They keep the better result. However, all those who are watched over by Kakita earn the automatic enmity of Matsu samurai, who sense their own ancestor's anger - all members of the Matsu family are effectively Sworn Enemies to you.
 
 
