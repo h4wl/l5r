@@ -1,27 +1,5 @@
 Title: Maho
 ---
-
-<ul>
-  <li>
-    <a href="/maho#toc0">Mastery Level 1</a>
-  </li>
-  <li>
-    <a href="/maho#toc1">Mastery Level 2</a>
-  </li>
-  <li>
-    <a href="/maho#toc2">Mastery Level 3</a>
-  </li>
-  <li>
-    <a href="/maho#toc3">Mastery Level 4</a>
-  </li>
-  <li>
-    <a href="/maho#toc4">Mastery Level 5</a>
-  </li>
-  <li>
-    <a href="/maho#toc5">Mastery Level 6</a>
-  </li>
-</ul>
-
 Maho can be learned by bushi and courtiers alike (although the act of doing so is largely forbidden), and can be used regardless of one's Insight rank. However, they require for blood to be spilled by the caster or a willing or helpless being. The amount of blood spilled is equal to twice the spell's Mastery level. Conversely, the caster may spill additional blood in order to gain Raises : one Raise per increment of double the spell's Mastery level in spilt blood. As an additional drawback, the caster gains points of <a href="/shadowlands-taint">Shadowlands Taint</a> equal to one less than the spell's Mastery Level (with a minimum of 1).
 
 ## <span>Mastery Level 1</span> {#toc0}

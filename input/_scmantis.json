@@ -1,0 +1,169 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Basic Schools",
+        "Link": "/scmantis#toc0",
+        "Children": [
+          {
+            "Title": "Kitsune Shugenja [CR]",
+            "Link": "/scmantis#toc1",
+            "Children": null
+          },
+          {
+            "Title": "Mantis Brawler [Bushi]",
+            "Link": "/scmantis#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Moshi Shugenja [CR]",
+            "Link": "/scmantis#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Tsuruchi Archer [Bushi] [CR]",
+            "Link": "/scmantis#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Tsuruchi Bounty Hunter [Bushi]",
+            "Link": "/scmantis#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Bushi [CR]",
+            "Link": "/scmantis#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Courtier [CR]",
+            "Link": "/scmantis#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Shugenja",
+            "Link": "/scmantis#toc8",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Advanced Schools",
+        "Link": "/scmantis#toc9",
+        "Children": [
+          {
+            "Title": "Kobune Captain [Bushi] [EE]",
+            "Link": "/scmantis#toc10",
+            "Children": null
+          },
+          {
+            "Title": "Storm Riders [Shugenja] [CR]",
+            "Link": "/scmantis#toc11",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternative Paths",
+        "Link": "/scmantis#toc12",
+        "Children": [
+          {
+            "Title": "Acolyte of Thunder [Shugenja]",
+            "Link": "/scmantis#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Children of Chikushodo [Shugenja]",
+            "Link": "/scmantis#toc14",
+            "Children": null
+          },
+          {
+            "Title": "Cliff\u2019s Edge Student [Bushi]",
+            "Link": "/scmantis#toc15",
+            "Children": null
+          },
+          {
+            "Title": "The College of Clarity [Courtier]",
+            "Link": "/scmantis#toc16",
+            "Children": null
+          },
+          {
+            "Title": "Kitsune Artisan",
+            "Link": "/scmantis#toc17",
+            "Children": null
+          },
+          {
+            "Title": "Kitsune Ranger [Bushi]",
+            "Link": "/scmantis#toc18",
+            "Children": null
+          },
+          {
+            "Title": "Mantis Navigator [Shugenja] [CR]",
+            "Link": "/scmantis#toc19",
+            "Children": null
+          },
+          {
+            "Title": "Mantis Orochi Rider [Bushi]",
+            "Link": "/scmantis#toc20",
+            "Children": null
+          },
+          {
+            "Title": "Mantis Whirlwind Fighters [Bushi]",
+            "Link": "/scmantis#toc21",
+            "Children": null
+          },
+          {
+            "Title": "Moshi Guardian of the Sun [Bushi]",
+            "Link": "/scmantis#toc22",
+            "Children": null
+          },
+          {
+            "Title": "Rajya ke Varisa [Bushi]",
+            "Link": "/scmantis#toc23",
+            "Children": null
+          },
+          {
+            "Title": "Sisters of the Sacred Light [Shugena]",
+            "Link": "/scmantis#toc24",
+            "Children": null
+          },
+          {
+            "Title": "Soldier of the Three Man Alliance [Bushi] [IH]",
+            "Link": "/scmantis#toc25",
+            "Children": null
+          },
+          {
+            "Title": "Student of the Cliff\u0027s Edge [Bushi]",
+            "Link": "/scmantis#toc26",
+            "Children": null
+          },
+          {
+            "Title": "Tsuruchi Master Bowman [Bushi]",
+            "Link": "/scmantis#toc27",
+            "Children": null
+          },
+          {
+            "Title": "Tsuruchi Swordsman [Bushi]",
+            "Link": "/scmantis#toc28",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Emissaries [Courtier]",
+            "Link": "/scmantis#toc29",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Scoundrel [Bushi] [CR]",
+            "Link": "/scmantis#toc30",
+            "Children": null
+          },
+          {
+            "Title": "Yoritomo Sculptors [Artisan]",
+            "Link": "/scmantis#toc31",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Forgery (Agility)",
+        "Link": "/low-skills#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Intimidation (Willpower)",
+        "Link": "/low-skills#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Sleight of Hand (Agility)",
+        "Link": "/low-skills#toc2",
+        "Children": null
+      },
+      {
+        "Title": "Stealth (Agility)",
+        "Link": "/low-skills#toc3",
+        "Children": null
+      },
+      {
+        "Title": "Temptation (Awareness)",
+        "Link": "/low-skills#toc4",
+        "Children": null
+      }
+    ]
+  }
+}

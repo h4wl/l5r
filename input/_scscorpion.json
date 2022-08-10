@@ -1,0 +1,149 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Basic Schools",
+        "Link": "/scscorpion#toc0",
+        "Children": [
+          {
+            "Title": "Bayushi Bushi [CR]",
+            "Link": "/scscorpion#toc1",
+            "Children": null
+          },
+          {
+            "Title": "Bayushi Courtier [CR]",
+            "Link": "/scscorpion#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Shosuro Actor [Ninja]",
+            "Link": "/scscorpion#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Shosuro Infiltrator [Ninja] [CR]",
+            "Link": "/scscorpion#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Soshi Magistrate [Bushi] [EE]",
+            "Link": "/scscorpion#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Soshi Shugenja [CR]",
+            "Link": "/scscorpion#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Yogo Wardmaster [Shugenja]",
+            "Link": "/scscorpion#toc7",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Advanced Schools",
+        "Link": "/scscorpion#toc8",
+        "Children": [
+          {
+            "Title": "Scorpion Instigator [Courtier] [CR]",
+            "Link": "/scscorpion#toc9",
+            "Children": null
+          },
+          {
+            "Title": "Scorpion Saboteur [Ninja] [IH]",
+            "Link": "/scscorpion#toc10",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternative Paths",
+        "Link": "/scscorpion#toc11",
+        "Children": [
+          {
+            "Title": "Bayushi Distracter [Courtier]",
+            "Link": "/scscorpion#toc12",
+            "Children": null
+          },
+          {
+            "Title": "Bitter Lies Swordsman [Bushi] [CR]",
+            "Link": "/scscorpion#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Fading Shadows [Shugenja]",
+            "Link": "/scscorpion#toc14",
+            "Children": null
+          },
+          {
+            "Title": "Kuroiban [Shugenja]",
+            "Link": "/scscorpion#toc15",
+            "Children": null
+          },
+          {
+            "Title": "Saigo\u0027s Blades [Bushi]",
+            "Link": "/scscorpion#toc16",
+            "Children": null
+          },
+          {
+            "Title": "The Scorpion Elite Guard [Bushi]",
+            "Link": "/scscorpion#toc17",
+            "Children": null
+          },
+          {
+            "Title": "Scorpion Loyalist [IH]",
+            "Link": "/scscorpion#toc18",
+            "Children": null
+          },
+          {
+            "Title": "Scorpion Maskmaker [Courtier/Artisan]",
+            "Link": "/scscorpion#toc19",
+            "Children": null
+          },
+          {
+            "Title": "The Scorpion\u2019s Tail [Bushi/Ninja]",
+            "Link": "/scscorpion#toc20",
+            "Children": null
+          },
+          {
+            "Title": "Scorpion Weaponmaster [Bushi]",
+            "Link": "/scscorpion#toc21",
+            "Children": null
+          },
+          {
+            "Title": "Shadow Blades [Ninja]",
+            "Link": "/scscorpion#toc22",
+            "Children": null
+          },
+          {
+            "Title": "Shadow Hunter [Shugenja] [CR]",
+            "Link": "/scscorpion#toc23",
+            "Children": null
+          },
+          {
+            "Title": "Shosuro Assassins [Ninja]",
+            "Link": "/scscorpion#toc24",
+            "Children": null
+          },
+          {
+            "Title": "Shosuro Defilers [Courtier]",
+            "Link": "/scscorpion#toc25",
+            "Children": null
+          },
+          {
+            "Title": "Sons of Shadow",
+            "Link": "/scscorpion#toc26",
+            "Children": null
+          },
+          {
+            "Title": "Soshi Deceivers [Shugenja]",
+            "Link": "/scscorpion#toc27",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

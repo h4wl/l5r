@@ -1,24 +1,5 @@
 Title: Low Skills
 ---
-
-<ul>
-  <li>
-    <a href="/low-skills#toc0">Forgery (Agility)</a>
-  </li>
-  <li>
-    <a href="/low-skills#toc1">Intimidation (Willpower)</a>
-  </li>
-  <li>
-    <a href="/low-skills#toc2">Sleight of Hand (Agility)</a>
-  </li>
-  <li>
-    <a href="/low-skills#toc3">Stealth (Agility)</a>
-  </li>
-  <li>
-    <a href="/low-skills#toc4">Temptation (Awareness)</a>
-  </li>
-</ul>
-
 ## <span>Forgery (Agility)</span> {#toc0}
 
 ##### Sub-types:

@@ -1,36 +1,5 @@
 Title: Kiho
 ---
-
-<ul>
-  <li>
-    <a href="/kiho#toc0">Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc1">Utilizing Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc2">Atemi Attacks</a>
-  </li>
-  <li>
-    <a href="/kiho#toc3">Non-Brotherhood Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc4">Air Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc5">Earth Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc6">Fire Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc7">Water Kiho</a>
-  </li>
-  <li>
-    <a href="/kiho#toc8">Void Kiho</a>
-  </li>
-</ul>
-
 ## <span>Kiho</span> {#toc0}
 
 Somewhere between the spells of shugenja and the martial techniques practiced by bushi, the strange elemental abilities known as Kiho are almost exclusively the province of Rokugan's monastic orders, and are poorly understood by virtually everyone else. While many Kiho represent what an individual is capable of doing when the body and mind exist in a state of spiritual harmony, some represent feats that can only be described as superhuman. Some among the Brotherhood of Shinsei have described Kiho as &quot;stepping stones to enlightenment,&quot; and there may be some truth to that; if they are secrets of the universe that are opened up as one approaches the state of enlightenment, then it could explain why so many seek that near-mythical state with such fervor and devotion.<br>

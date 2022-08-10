@@ -1,44 +1,5 @@
 Title: Bushido
 ---
-
-<ul>
-  <li>
-    <a href="/bushido#toc0">The Tenets of Bushido</a>
-    <ul>
-      <li>
-        <a href="/bushido#toc1">Compassion (Jin)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc2">Courage (Yu)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc3">Courtesy (Rei)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc4">Duty (Chugo)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc5">Honesty (Gi)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc6">Honor (Meyo)</a>
-      </li>
-      <li>
-        <a href="/bushido#toc7">Sincerity (Makoto)</a>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <a href="/bushido#toc8">The Concept of Face (On)</a>
-  </li>
-  <li>
-    <a href="/bushido#toc9">Shame and Disgrace</a>
-  </li>
-  <li>
-    <a href="/bushido#toc10">Seppuku</a>
-  </li>
-</ul>
-
 ## <span>The Tenets of Bushido</span> {#toc0}
 
 <figure class="text-center">

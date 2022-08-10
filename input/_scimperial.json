@@ -1,0 +1,104 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Basic Schools",
+        "Link": "/scimperial#toc0",
+        "Children": [
+          {
+            "Title": "Hantei Bushi (Owl) [Bushi]",
+            "Link": "/scimperial#toc1",
+            "Children": null
+          },
+          {
+            "Title": "Miya Herald [Courtier] [CR]",
+            "Link": "/scimperial#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Otomo Courtier [CR]",
+            "Link": "/scimperial#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Otomo Diplomat (Owl) [Courtier]",
+            "Link": "/scimperial#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Seppun Guardsman [Bushi] [CR]",
+            "Link": "/scimperial#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Seppun Shugenja [CR]",
+            "Link": "/scimperial#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Seppun Shugenja (Owl) [Shugenja]",
+            "Link": "/scimperial#toc7",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Advanced Schools",
+        "Link": "/scimperial#toc8",
+        "Children": [
+          {
+            "Title": "Imperial Scion [Courtier] [EE]",
+            "Link": "/scimperial#toc9",
+            "Children": null
+          },
+          {
+            "Title": "Tsudao\u2019s Legion",
+            "Link": "/scimperial#toc10",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternate Paths",
+        "Link": "/scimperial#toc11",
+        "Children": [
+          {
+            "Title": "Imperial Influencer [Courtier]",
+            "Link": "/scimperial#toc12",
+            "Children": null
+          },
+          {
+            "Title": "Imperial Observer [Courtier]",
+            "Link": "/scimperial#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Otomo Bureaucrat",
+            "Link": "/scimperial#toc14",
+            "Children": null
+          },
+          {
+            "Title": "The Rising Sun [Bushi]",
+            "Link": "/scimperial#toc15",
+            "Children": null
+          },
+          {
+            "Title": "Satoshi\u0027s Legacy [Bushi] [SE]",
+            "Link": "/scimperial#toc16",
+            "Children": null
+          },
+          {
+            "Title": "Seppun Astrologers [Shugenja]",
+            "Link": "/scimperial#toc17",
+            "Children": null
+          },
+          {
+            "Title": "Seppun Hidden Guard [Shugenja] [SE]",
+            "Link": "/scimperial#toc18",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

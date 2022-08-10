@@ -1,0 +1,94 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Armor",
+        "Link": "/equipment#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Weapons",
+        "Link": "/equipment#toc1",
+        "Children": [
+          {
+            "Title": "Arrows",
+            "Link": "/equipment#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Bows",
+            "Link": "/equipment#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Chain weapons",
+            "Link": "/equipment#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Heavy Weapons",
+            "Link": "/equipment#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Knives",
+            "Link": "/equipment#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Ninja weapons",
+            "Link": "/equipment#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Polearms",
+            "Link": "/equipment#toc8",
+            "Children": null
+          },
+          {
+            "Title": "Spears",
+            "Link": "/equipment#toc9",
+            "Children": null
+          },
+          {
+            "Title": "Staves",
+            "Link": "/equipment#toc10",
+            "Children": null
+          },
+          {
+            "Title": "Swords",
+            "Link": "/equipment#toc11",
+            "Children": null
+          },
+          {
+            "Title": "War fans",
+            "Link": "/equipment#toc12",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Crafting Extraordinary Weapons",
+        "Link": "/equipment#toc13",
+        "Children": [
+          {
+            "Title": "Crafting Sacred Weapons",
+            "Link": "/equipment#toc14",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Rokugani Firearms",
+        "Link": "/equipment#toc15",
+        "Children": [
+          {
+            "Title": "Teppoudo (Intelligence)",
+            "Link": "/equipment#toc16",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

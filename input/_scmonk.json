@@ -1,0 +1,173 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Playing a Monk",
+        "Link": "/scmonk#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Monk Basic Schools",
+        "Link": "/scmonk#toc1",
+        "Children": [
+          {
+            "Title": "First Dawn Scholars [Monk]",
+            "Link": "/scmonk#toc2",
+            "Children": null
+          },
+          {
+            "Title": "Four Temples Monk [CR]",
+            "Link": "/scmonk#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Fudoist Order [Monk]",
+            "Link": "/scmonk#toc4",
+            "Children": null
+          },
+          {
+            "Title": "The Order of Eternity",
+            "Link": "/scmonk#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Order Of the Five Rings [Monk]",
+            "Link": "/scmonk#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Order of Heroes Monk [CR]",
+            "Link": "/scmonk#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Order of the Nameless Gift [Monk]",
+            "Link": "/scmonk#toc8",
+            "Children": null
+          },
+          {
+            "Title": "Order of Peaceful Repose [SE]",
+            "Link": "/scmonk#toc9",
+            "Children": null
+          },
+          {
+            "Title": "The Order Of Rebirth [Monk]",
+            "Link": "/scmonk#toc10",
+            "Children": null
+          },
+          {
+            "Title": "Order of the Wind [BoA]",
+            "Link": "/scmonk#toc11",
+            "Children": null
+          },
+          {
+            "Title": "Shinmaki Order [EE]",
+            "Link": "/scmonk#toc12",
+            "Children": null
+          },
+          {
+            "Title": "Shrine of the Seven Thunders Monk [CR]",
+            "Link": "/scmonk#toc13",
+            "Children": null
+          },
+          {
+            "Title": "Temple of Kaimetsu-uo Monk [CR]",
+            "Link": "/scmonk#toc14",
+            "Children": null
+          },
+          {
+            "Title": "the Temple of Heavenly Wisdom [Monk]",
+            "Link": "/scmonk#toc15",
+            "Children": null
+          },
+          {
+            "Title": "Temple of Osano-Wo Monk [CR]",
+            "Link": "/scmonk#toc16",
+            "Children": null
+          },
+          {
+            "Title": "Temple of Persistence [Monk]",
+            "Link": "/scmonk#toc17",
+            "Children": null
+          },
+          {
+            "Title": "Temples of the Thousand Fortunes Monk [CR]",
+            "Link": "/scmonk#toc18",
+            "Children": null
+          },
+          {
+            "Title": "Tengoku\u2019S Fist [Monk]",
+            "Link": "/scmonk#toc19",
+            "Children": null
+          },
+          {
+            "Title": "Wind\u2019s Grace Order [BoA]",
+            "Link": "/scmonk#toc20",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Alternate Paths",
+        "Link": "/scmonk#toc21",
+        "Children": [
+          {
+            "Title": "Abbot [Monk]",
+            "Link": "/scmonk#toc22",
+            "Children": null
+          },
+          {
+            "Title": "Barefoot Breathren [SE]",
+            "Link": "/scmonk#toc23",
+            "Children": null
+          },
+          {
+            "Title": "Brotherhood Spy [Monk]",
+            "Link": "/scmonk#toc24",
+            "Children": null
+          },
+          {
+            "Title": "Defender of the Brotherhood [Monk/Courtier]",
+            "Link": "/scmonk#toc25",
+            "Children": null
+          },
+          {
+            "Title": "Kaze-do Fighter [Bushi/Monk]",
+            "Link": "/scmonk#toc26",
+            "Children": null
+          },
+          {
+            "Title": "Order of Ebisu [Monk/Courtier]",
+            "Link": "/scmonk#toc27",
+            "Children": null
+          },
+          {
+            "Title": "Pure Song Shrine [SE]",
+            "Link": "/scmonk#toc28",
+            "Children": null
+          },
+          {
+            "Title": "Silent Ones [SE]",
+            "Link": "/scmonk#toc29",
+            "Children": null
+          },
+          {
+            "Title": "Student of Hitsu-Do [Monk]",
+            "Link": "/scmonk#toc30",
+            "Children": null
+          },
+          {
+            "Title": "Student of Mizu-Do [Monk/Artisan]",
+            "Link": "/scmonk#toc31",
+            "Children": null
+          },
+          {
+            "Title": "The Taoist Archers [Bushi/Monk]",
+            "Link": "/scmonk#toc32",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}

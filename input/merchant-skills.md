@@ -1,24 +1,5 @@
 Title: Merchant Skills
 ---
-
-<ul>
-  <li>
-    <a href="/merchant-skills#toc0">Animal Handling (Awareness)</a>
-  </li>
-  <li>
-    <a href="/merchant-skills#toc1">Commerce (Intelligence)</a>
-  </li>
-  <li>
-    <a href="/merchant-skills#toc2">Craft (Varies)</a>
-  </li>
-  <li>
-    <a href="/merchant-skills#toc3">Engineering (Intelligence)</a>
-  </li>
-  <li>
-    <a href="/merchant-skills#toc4">Sailing (Agility or Intelligence)</a>
-  </li>
-</ul>
-
 ## <span>Animal Handling (Awareness)</span> {#toc0}
 
 ##### Sub-type:

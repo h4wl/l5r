@@ -1,0 +1,94 @@
+{
+  "TableOfContents": {
+    "Entries": [
+      {
+        "Title": "Skills",
+        "Link": "/rolls#toc0",
+        "Children": null
+      },
+      {
+        "Title": "Raises",
+        "Link": "/rolls#toc1",
+        "Children": null
+      },
+      {
+        "Title": "Types of Rolls",
+        "Link": "/rolls#toc2",
+        "Children": [
+          {
+            "Title": "Skill Rolls",
+            "Link": "/rolls#toc3",
+            "Children": null
+          },
+          {
+            "Title": "Trait Rolls",
+            "Link": "/rolls#toc4",
+            "Children": null
+          },
+          {
+            "Title": "Ring Rolls",
+            "Link": "/rolls#toc5",
+            "Children": null
+          },
+          {
+            "Title": "Damage Rolls",
+            "Link": "/rolls#toc6",
+            "Children": null
+          },
+          {
+            "Title": "Spell Casting Rolls",
+            "Link": "/rolls#toc7",
+            "Children": null
+          },
+          {
+            "Title": "Contested Rolls",
+            "Link": "/rolls#toc8",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Skill Rolls, Expanded",
+        "Link": "/rolls#toc9",
+        "Children": [
+          {
+            "Title": "Unskilled Rolls",
+            "Link": "/rolls#toc10",
+            "Children": null
+          },
+          {
+            "Title": "Failed Rolls",
+            "Link": "/rolls#toc11",
+            "Children": null
+          },
+          {
+            "Title": "Cooperative Rolls",
+            "Link": "/rolls#toc12",
+            "Children": null
+          },
+          {
+            "Title": "Cumulative Rolls",
+            "Link": "/rolls#toc13",
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Title": "Special Dice Rules",
+        "Link": "/rolls#toc14",
+        "Children": [
+          {
+            "Title": "Exploding Dice",
+            "Link": "/rolls#toc15",
+            "Children": null
+          },
+          {
+            "Title": "The Ten Dice Rule",
+            "Link": "/rolls#toc16",
+            "Children": null
+          }
+        ]
+      }
+    ]
+  }
+}
