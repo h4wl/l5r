@@ -1,0 +1,38 @@
+﻿
+.ring-sprite-with-label {
+    background-image: url(../img/5rings-color.png);
+    background-size: 573.77% 100%;
+    background-repeat: no-repeat;
+    width: 122px;
+    height: 175px;
+    max-width: 100%;
+}
+
+.ring-sprite-no-label {
+    background-image: url(../img/5rings-color.png);
+    background-size: 573.77% 143.44%;
+    background-repeat: no-repeat;
+    width: 122px;
+    height: 122px;
+    max-width: 100%;
+}
+
+.sprite--air {
+    background-position: 0 0;
+}
+
+.sprite--earth {
+    background-position: 25% 0;
+}
+
+.sprite--fire {
+    background-position: 50% 0;
+}
+
+.sprite--water {
+    background-position: 75% 0;
+}
+
+.sprite--void {
+    background-position: 100% 0;
+}
