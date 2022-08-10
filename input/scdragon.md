@@ -3,92 +3,92 @@ Title: Dragon Clan Schools
 
 <ul>
   <li>
-    <a href="/l5r/scdragon#toc0">Basic Schools</a>
+    <a href="/scdragon#toc0">Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scdragon#toc1">Kitsuki Investigator [Courtier] [CR]</a>
+        <a href="/scdragon#toc1">Kitsuki Investigator [Courtier] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc2">Mirumoto Bushi [CR]</a>
+        <a href="/scdragon#toc2">Mirumoto Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc3">Mirumoto Taoist Swordsman [Bushi] [EE]</a>
+        <a href="/scdragon#toc3">Mirumoto Taoist Swordsman [Bushi] [EE]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc4">Tamori Shugenja [CR]</a>
+        <a href="/scdragon#toc4">Tamori Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc5">The Togashi Tattooed Order [Monk] [CR]</a>
+        <a href="/scdragon#toc5">The Togashi Tattooed Order [Monk] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc6">The Hoshi Tsurui Zumi Order [Monk] [IH]</a>
+        <a href="/scdragon#toc6">The Hoshi Tsurui Zumi Order [Monk] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc7">The Hitomi Kikage Zumi Order [Monk] [IH]</a>
+        <a href="/scdragon#toc7">The Hitomi Kikage Zumi Order [Monk] [IH]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scdragon#toc8">Advanced Schools</a>
+    <a href="/scdragon#toc8">Advanced Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scdragon#toc9">Mirumoto Master Sensei [Bushi]</a>
+        <a href="/scdragon#toc9">Mirumoto Master Sensei [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc10">Swordmasters [Bushi] [CR]</a>
+        <a href="/scdragon#toc10">Swordmasters [Bushi] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc11">Tamori Master of the Mountain [Shugenja]</a>
+        <a href="/scdragon#toc11">Tamori Master of the Mountain [Shugenja]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scdragon#toc12">Alternate Paths</a>
+    <a href="/scdragon#toc12">Alternate Paths</a>
     <ul>
       <li>
-        <a href="/l5r/scdragon#toc13">Dragon Clan Overseer</a>
+        <a href="/scdragon#toc13">Dragon Clan Overseer</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc14">Dragon's Flame [Bushi]</a>
+        <a href="/scdragon#toc14">Dragon's Flame [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc15">The Dragon’s Wind [Bushi]</a>
+        <a href="/scdragon#toc15">The Dragon’s Wind [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc16">Hojatsu's Legacy [Bushi] [BoF]</a>
+        <a href="/scdragon#toc16">Hojatsu's Legacy [Bushi] [BoF]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc17">Kaze-Do Fighter</a>
+        <a href="/scdragon#toc17">Kaze-Do Fighter</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc18">Kitsuki Debater [Courtier]</a>
+        <a href="/scdragon#toc18">Kitsuki Debater [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc19">Kitsuki’s Eye [Courtier]</a>
+        <a href="/scdragon#toc19">Kitsuki’s Eye [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc20">Kitsuki Justicar [Bushi] [IH]</a>
+        <a href="/scdragon#toc20">Kitsuki Justicar [Bushi] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc21">Mirumoto Mountaineer [Bushi] [CR]</a>
+        <a href="/scdragon#toc21">Mirumoto Mountaineer [Bushi] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc22">Mirumoto Sentinel [Bushi]</a>
+        <a href="/scdragon#toc22">Mirumoto Sentinel [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc23">Tamori Warrior Priest [Shugenja] [CR]</a>
+        <a href="/scdragon#toc23">Tamori Warrior Priest [Shugenja] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc24">Tamori Weaponsmiths [Shugena][Artisan]</a>
+        <a href="/scdragon#toc24">Tamori Weaponsmiths [Shugena][Artisan]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc25">Togashi Defender [Monk]</a>
+        <a href="/scdragon#toc25">Togashi Defender [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc26">The Transcendent Brotherhood [Monk]</a>
+        <a href="/scdragon#toc26">The Transcendent Brotherhood [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scdragon#toc27">Water Hammer Smith [Artisan]</a>
+        <a href="/scdragon#toc27">Water Hammer Smith [Artisan]</a>
       </li>
     </ul>
   </li>
@@ -190,7 +190,7 @@ The Tamori Technique allows for greater versatility in the use of spells, extend
 - <strong>Outfit:</strong> Robes, Wakizashi, any 1 weapon, Scroll Satchel, Traveling Pack, 5 koku
 - <strong>Affinity / Deficiency:</strong> Earth / Air
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Earth, 2 Fire, and 1 Water
-- <strong>Technique:</strong> <em>Flesh of the Elements</em> - The Tamori have learned to distill the essence of magic and contain it within concoctions or objects for later use. You may expend one spell slot to store a spell you know that has an Area of effect &quot;one target person&quot; or &quot;one target creature&quot; in a potion, to be activated later. This stored spell may be activated instantly by anyone holding the potion by expending a Simple Action to drink it or a Complex Action to throw it (depending upon the spell's target), using Athletics (Throwing) / Agility. Spells stored in this manner may be stored indefinitely, but count against your spell slots per day for each day that they continue to await activation. Creating a potion in this manner requires a number of hours equal to the stored spell's Mastery Level. You also gain a Free Raise on any spell with the Craft keyword. GMs who wish to offer more options for alchemically-inclined Tamori and Agasha characters may choose to let them create other, <a href="/l5r/kagaku">Kagaku</a> items than merely potions, spending spell slots and making Craft: Alchemy / Intelligence rolls as appropriate.
+- <strong>Technique:</strong> <em>Flesh of the Elements</em> - The Tamori have learned to distill the essence of magic and contain it within concoctions or objects for later use. You may expend one spell slot to store a spell you know that has an Area of effect &quot;one target person&quot; or &quot;one target creature&quot; in a potion, to be activated later. This stored spell may be activated instantly by anyone holding the potion by expending a Simple Action to drink it or a Complex Action to throw it (depending upon the spell's target), using Athletics (Throwing) / Agility. Spells stored in this manner may be stored indefinitely, but count against your spell slots per day for each day that they continue to await activation. Creating a potion in this manner requires a number of hours equal to the stored spell's Mastery Level. You also gain a Free Raise on any spell with the Craft keyword. GMs who wish to offer more options for alchemically-inclined Tamori and Agasha characters may choose to let them create other, <a href="/kagaku">Kagaku</a> items than merely potions, spending spell slots and making Craft: Alchemy / Intelligence rolls as appropriate.
 
 ### <span>The Togashi Tattooed Order [Monk] [CR]</span> {#toc5}
 
@@ -206,7 +206,7 @@ Togashi monks specialize in unarmed combat and supernatural feats of athleticism
 ##### Rank 1: Blood of the Kami
 
 The blood of the Kami is barely diluted in the ruling line of the Togashi order, and the brothers chosen to serve the Dragon as Togashi vassals receive the mystical blood of a god in the form of unique tattoos. You gain two 
-<a href="/l5r/tattoos">Tattoos</a>
+<a href="/tattoos">Tattoos</a>
  at this rank.
 ##### Rank 2: Body of Stone
 
@@ -214,7 +214,7 @@ Master of the body is the first essential step of a monk's journey toward enligh
 ##### Rank 3: Blessing of the Kami
 
 As an ise zumi continues his journey of self-discovery, accumulating new experiences along the way, he will eventually be judged worth of additional insight in the form of new tattoos. You gain two additional 
-<a href="/l5r/tattoos">Tattoos</a>
+<a href="/tattoos">Tattoos</a>
 .
 ##### Rank 4: Will of Stone
 
@@ -222,7 +222,7 @@ Perfect mastery of the flesh is an indication that a soul's journey is nearing i
 ##### Rank 5: Touch of the Kami
 
 Insight into the true nature of the universe is the reward for a soul that seeks true mastery of the spirit. You gain two additional 
-<a href="/l5r/tattoos">Tattoos</a>
+<a href="/tattoos">Tattoos</a>
 .
 ### <span>The Hoshi Tsurui Zumi Order [Monk] [IH]</span> {#toc6}
 
@@ -235,7 +235,7 @@ The Hoshi family is introduced in the Hidden Emperor era, but the Tsurui Zumi tr
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Robes, Bo, Traveling Pack, 2 koku
 - <strong>Special:</strong> Though the Tsurui Zume is a Dragon affiliated School, mechancially this School is treated as a Brotherhood of Shinsei School.
-- <strong>Technique:</strong> <em>Swift Fist, Subtle Heart</em> - The Tsurui Zumi searches for enlightenment on many different paths, but does not shy away from physical action when it is needed. You may spend a Void Point as a Free Action to activate this Technique for a number of Rounds equal to your School Rank. While this Technique is active, you may either add +1k1 to the total of your unarmed attack rolls or +1k0 to the total of your unarmed damage rolls. You choose which bonus to apply at the beginning of the Turn. You begin the game with one <a href="/l5r/tattoos">Tattoo</a>. You also begin the game knowing 2 Kiho. You must meet all prerequisites in order to use these Kiho. You may purchase additional Kiho normally as per the rules for a Brotherhood of Shinsei monk. At School Rank Four, you gain one additional <a href="/l5r/tattoos">tattoo</a>.
+- <strong>Technique:</strong> <em>Swift Fist, Subtle Heart</em> - The Tsurui Zumi searches for enlightenment on many different paths, but does not shy away from physical action when it is needed. You may spend a Void Point as a Free Action to activate this Technique for a number of Rounds equal to your School Rank. While this Technique is active, you may either add +1k1 to the total of your unarmed attack rolls or +1k0 to the total of your unarmed damage rolls. You choose which bonus to apply at the beginning of the Turn. You begin the game with one <a href="/tattoos">Tattoo</a>. You also begin the game knowing 2 Kiho. You must meet all prerequisites in order to use these Kiho. You may purchase additional Kiho normally as per the rules for a Brotherhood of Shinsei monk. At School Rank Four, you gain one additional <a href="/tattoos">tattoo</a>.
 
 ### <span>The Hitomi Kikage Zumi Order [Monk] [IH]</span> {#toc7}
 
@@ -261,7 +261,7 @@ It should be noted that while the kikage zumi order dominates the Hitomi family,
 ##### Rank 1: The Gift of the Lady
 
 The tattooed men all receive the mystical blood of a good in their unique tattoos, but the warriors of the kikage zumi often manifest their tattoos spontaneously through the gifts of their divine patron. They spend less time in the house of the tattoo masters and more time in their dojo practicing the martial arts. The art of Kaze-do teaches the Kikage Zumi to move as swiftly and unpredicatably as the wind, confounding their opponents. You gain 1 
-<a href="/l5r/tattoos">tattoo</a>
+<a href="/tattoos">tattoo</a>
  at this rank. You may add your Reflexes to your Armor TN, and when rolling to control a Grapple you may choose to use your Reflexes instead of your Strength.
 ##### Rank 2: Strike the Base
 
@@ -269,7 +269,7 @@ As the Kaze-do student grows more proficient, he is able to focus the power of h
 ##### Rank 3: Moving the Wind
 
 The Kikage Zumi now strikes with the swiftness of Air itself, the true path of Kaze-do. You may attack as a Simple Action when making unarmed attacks. You gain one additional 
-<a href="/l5r/tattoos">tattoo</a>
+<a href="/tattoos">tattoo</a>
 .
 ##### Rank 4: Strike the Center
 
@@ -277,7 +277,7 @@ The Kikage Zumi learn to strike with speed and terrible force, while also using 
 ##### Rank 5: Strike the Summit
 
 Final mastery of the ways of Kaze-do allows the tattooed man to deliver strikes and throws that deprive his enemies of Air itself. Any time you perform a Knockdown maneuver, you may call 2 additional Raises; if the Knockdown succeeds, your opponent is automatically Stunned. If you elect to throw an opponent during a Grapple you control, he must roll Earth at TN 20 or he is also Stunned. You gain 1 additional 
-<a href="/l5r/tattoos">tattoo</a>
+<a href="/tattoos">tattoo</a>
 .
 ## <span>Advanced Schools</span> {#toc8}
 

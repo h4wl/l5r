@@ -3,59 +3,59 @@ Title: Rolls
 
 <ul>
   <li>
-    <a href="/l5r/rolls#toc0">Skills</a>
+    <a href="/rolls#toc0">Skills</a>
   </li>
   <li>
-    <a href="/l5r/rolls#toc1">Raises</a>
+    <a href="/rolls#toc1">Raises</a>
   </li>
   <li>
-    <a href="/l5r/rolls#toc2">Types of Rolls</a>
+    <a href="/rolls#toc2">Types of Rolls</a>
     <ul>
       <li>
-        <a href="/l5r/rolls#toc3">Skill Rolls</a>
+        <a href="/rolls#toc3">Skill Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc4">Trait Rolls</a>
+        <a href="/rolls#toc4">Trait Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc5">Ring Rolls</a>
+        <a href="/rolls#toc5">Ring Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc6">Damage Rolls</a>
+        <a href="/rolls#toc6">Damage Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc7">Spell Casting Rolls</a>
+        <a href="/rolls#toc7">Spell Casting Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc8">Contested Rolls</a>
+        <a href="/rolls#toc8">Contested Rolls</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/rolls#toc9">Skill Rolls, Expanded</a>
+    <a href="/rolls#toc9">Skill Rolls, Expanded</a>
     <ul>
       <li>
-        <a href="/l5r/rolls#toc10">Unskilled Rolls</a>
+        <a href="/rolls#toc10">Unskilled Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc11">Failed Rolls</a>
+        <a href="/rolls#toc11">Failed Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc12">Cooperative Rolls</a>
+        <a href="/rolls#toc12">Cooperative Rolls</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc13">Cumulative Rolls</a>
+        <a href="/rolls#toc13">Cumulative Rolls</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/rolls#toc14">Special Dice Rules</a>
+    <a href="/rolls#toc14">Special Dice Rules</a>
     <ul>
       <li>
-        <a href="/l5r/rolls#toc15">Exploding Dice</a>
+        <a href="/rolls#toc15">Exploding Dice</a>
       </li>
       <li>
-        <a href="/l5r/rolls#toc16">The Ten Dice Rule</a>
+        <a href="/rolls#toc16">The Ten Dice Rule</a>
       </li>
     </ul>
   </li>
@@ -94,7 +94,7 @@ Ring Rolls, where dice equal to a character’s Rank in a Ring are rolled and ke
 ### <span>Damage Rolls</span> {#toc6}
 
 Damage rolls are very common in combat. Any time a character makes a successful attack roll (a specifi c kind of Skill Roll), he infl icts damage upon his opponent in the form of Wounds. Damage rolls vary considerably depending upon the weapon used in the attack. Every weapon has a damage rating (or DR) that represents the amount of damage it is capable of infl icting. For melee weapons, a character using a particular weapon adds his Strength to the number of rolled dice in the weapon’s DR. For example, a Crab bushi with Strength 3 using a dai-tsuchi (DR 5k2) would roll 8k2 damage following a successful attack with the dai-tsuchi.<br>
-For ranged weapons, the character’s Strength is not always added to the DR of the weapon, depending upon the weapon used. The most common ranged weapons, bows, have a Strength rating of their own that is added to the rolled dice of the projectile’s DR. A yumi has a Strength of 3, for example. Using a yumi to fire a standard arrow would roll a total of 5k2 (Strength 3 plus the arrow’s DR of 2k2) for damage from a successful attack roll. For rules for other ranged weapons please see <a href="/l5r/equipment">Equipment</a>.<br>
+For ranged weapons, the character’s Strength is not always added to the DR of the weapon, depending upon the weapon used. The most common ranged weapons, bows, have a Strength rating of their own that is added to the rolled dice of the projectile’s DR. A yumi has a Strength of 3, for example. Using a yumi to fire a standard arrow would roll a total of 5k2 (Strength 3 plus the arrow’s DR of 2k2) for damage from a successful attack roll. For rules for other ranged weapons please see <a href="/equipment">Equipment</a>.<br>
 Another kind of damage roll is the unarmed damage roll. A character that has made a successful attack against an opponent using only his bare hands inflicts unarmed damage. Unarmed attacks normally have a DR of 0k1, which means the character rolls a number of dice equal to his Strength, and keeps one.
 
 ### <span>Spell Casting Rolls</span> {#toc7}

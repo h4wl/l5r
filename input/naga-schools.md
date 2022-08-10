@@ -4,7 +4,7 @@ Title: Naga Schools
 
 #### <span>Naga Jakla [Shugenja]</span> {#toc1}
 
-The Naga jakla act as conduits of the mysteries of the universe. Jakla learn to use their connection with the Akasha and focus it into displays of powerful magical prowess. They also perform the major religious and spiritual rituals of Naga society, such as the special ritual that makes all Naga immune to the Shadowlands Taint. Only members of the Cobra bloodline can unlock the magic of the <a href="/l5r/pearls">Pearls</a> and join the jakla School. Other Bloodlines can sometimes coax magic out of the pearls, but at a greatly reduced power, and in mechanical terms they cannot take this School.
+The Naga jakla act as conduits of the mysteries of the universe. Jakla learn to use their connection with the Akasha and focus it into displays of powerful magical prowess. They also perform the major religious and spiritual rituals of Naga society, such as the special ritual that makes all Naga immune to the Shadowlands Taint. Only members of the Cobra bloodline can unlock the magic of the <a href="/pearls">Pearls</a> and join the jakla School. Other Bloodlines can sometimes coax magic out of the pearls, but at a greatly reduced power, and in mechanical terms they cannot take this School.
 
 - <strong>Benefit:</strong> +1 Intelligence
 - Skills:** Athletics, Kyujutsu, Lore: Shadowlands, Medicine, Meditation (Akasha Recovery), Spellcraft, any one High Skill

@@ -40,7 +40,7 @@ Broken Wave City is the beachhead of the Yoritomo family’s influence upon the 
 ##### Child of Chikushudo [Spiritual] (7 Points) [EoE]
 
 One of your ancestors was a spirit from beyond Ningen-do, and you have inherited some of his vast abilities. You may choose a 
-<a href="/l5r/shapeshifter">Minor Shapeshifter Ability</a>
+<a href="/shapeshifter">Minor Shapeshifter Ability</a>
  (subject to GM approval). However, your abilities were never intended to be contained within a human form, so you suffer one of the following special penalties. You may determine the penalty randomly with a single die roll, or collaborate with your GM to develop a specific penalty, either from the chart or personally created.
 - 1-2. Unsettling Visage: You retain a bit of the animal within even in your natural state. You suffer a -2k1 penalty on all Social rolls.
 - 3-4. Crippling Stutter: The ancestor’s true form seems to interfere with your ability to communicate. Every few sentences, your words come out garbled and nonsensical.

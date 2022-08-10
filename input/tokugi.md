@@ -6,7 +6,7 @@ It is possible to combine two or more Tokugi in a single strike, although doing 
 
 Purchasing Tokugi costs a number of Experience Points equal to the Tokugi’s Mastery Level. A bushi may only learn a Tokugi if their relevant Ring is equal to or higher than the listed Mastery Level. Additionally, a Tokugi may only be used with specific weapon types, and often needs a minimal number of skill ranks with said weapons to be performed.
 
-A Bushi may not know more than one Tokugi per level. However, <a href="/l5r/kenshi-schools">Kenshi Schools</a> are an exception to this rule.
+A Bushi may not know more than one Tokugi per level. However, <a href="/kenshi-schools">Kenshi Schools</a> are an exception to this rule.
 
 Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a Iaijutsu dueling, and only if the minimal number of Iaijutsu skill ranks is achieved. Tokugi used this way need to be declared during the Assessment part of the duel.
 

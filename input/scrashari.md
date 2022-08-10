@@ -60,5 +60,5 @@ A long time ago, the Ra'Shari were the chosen people of Vishnu, and called upon 
 - <strong>Integrity:</strong> 1.5
 - <strong>Skills:</strong> Temptation, Divination, Medicine (Herbalism), Spellcraft, Lore: Theology, any one Perform Skill, any one Skill
 - <strong>Outfit:</strong> Knife, staff, clothes, cloak, shoes, traveling pack, 5 copper.
-- <strong>Technique:</strong> <em>The Whispers of the Song</em> - You learn six <a href="/l5r/cokaloi">Cokaloi</a>, plus three additional Cokaloi at each additional level. You may purchase spells as normal. You may add your divination skill to the result of all Lore skills Rolls.
+- <strong>Technique:</strong> <em>The Whispers of the Song</em> - You learn six <a href="/cokaloi">Cokaloi</a>, plus three additional Cokaloi at each additional level. You may purchase spells as normal. You may add your divination skill to the result of all Lore skills Rolls.
 

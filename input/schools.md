@@ -1,22 +1,22 @@
 Title: Schools
 ---
-<a href="/l5r/sccrab">Crab Clan Schools</a><br>
-<a href="/l5r/sccrane">Crane Clan Schools</a><br>
-<a href="/l5r/scdragon">Dragon Clan Schools</a><br>
-<a href="/l5r/sclion">Lion Clan Schools</a><br>
-<a href="/l5r/scmantis">Mantis Clan Schools</a><br>
-<a href="/l5r/scphoenix">Phoenix Clan Schools</a><br>
-<a href="/l5r/scscorpion">Scorpion Clan Schools</a><br>
-<a href="/l5r/scspider">Spider Clan Schools</a><br>
-<a href="/l5r/scunicorn">Unicorn Clan Schools</a>
+<a href="/sccrab">Crab Clan Schools</a><br>
+<a href="/sccrane">Crane Clan Schools</a><br>
+<a href="/scdragon">Dragon Clan Schools</a><br>
+<a href="/sclion">Lion Clan Schools</a><br>
+<a href="/scmantis">Mantis Clan Schools</a><br>
+<a href="/scphoenix">Phoenix Clan Schools</a><br>
+<a href="/scscorpion">Scorpion Clan Schools</a><br>
+<a href="/scspider">Spider Clan Schools</a><br>
+<a href="/scunicorn">Unicorn Clan Schools</a>
 
-<a href="/l5r/scminor">Minor Clan Schools</a><br>
-<a href="/l5r/scimperial">Imperial Family Schools</a><br>
-<a href="/l5r/scmonk">Monk Schools</a><br>
-<a href="/l5r/scronin">Ronin Schools</a><br>
-<a href="/l5r/scmisc">Miscellaneous Schools</a>
+<a href="/scminor">Minor Clan Schools</a><br>
+<a href="/scimperial">Imperial Family Schools</a><br>
+<a href="/scmonk">Monk Schools</a><br>
+<a href="/scronin">Ronin Schools</a><br>
+<a href="/scmisc">Miscellaneous Schools</a>
 
-<a href="/l5r/sclost">Lost Clans Schools</a>
+<a href="/sclost">Lost Clans Schools</a>
 
 Tags will be provided for each school to show from which book it is taken:<br>
 <strong>[CR]</strong> Core Rule Book<br>

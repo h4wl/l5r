@@ -3,97 +3,97 @@ Title: Minor Clan Schools
 
 <ul>
   <li>
-    <a href="/l5r/scminor#toc0">Basic Schools</a>
+    <a href="/scminor#toc0">Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scminor#toc1">Badger Clan - Ichiro Bushi [CR]</a>
+        <a href="/scminor#toc1">Badger Clan - Ichiro Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc2">Bat Clan - Komori Shugenja [CR]</a>
+        <a href="/scminor#toc2">Bat Clan - Komori Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc3">Boar Clan - Heichi Bushi [CR]</a>
+        <a href="/scminor#toc3">Boar Clan - Heichi Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc4">Dragonfly Clan - Tonbo Shugenja [CR]</a>
+        <a href="/scminor#toc4">Dragonfly Clan - Tonbo Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc5">Falcon Clan - Toritaka Bushi [CR]</a>
+        <a href="/scminor#toc5">Falcon Clan - Toritaka Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc6">Fox Clan - Kitsune Shugenja [CR]</a>
+        <a href="/scminor#toc6">Fox Clan - Kitsune Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc7">Hare Clan - Usagi Bushi [CR]</a>
+        <a href="/scminor#toc7">Hare Clan - Usagi Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc8">Monkey Clan</a>
+        <a href="/scminor#toc8">Monkey Clan</a>
         <ul>
           <li>
-            <a href="/l5r/scminor#toc9">Toku Bushi [CR]</a>
+            <a href="/scminor#toc9">Toku Bushi [CR]</a>
           </li>
           <li>
-            <a href="/l5r/scminor#toc10">Fuzake Shugenja [SE]</a>
+            <a href="/scminor#toc10">Fuzake Shugenja [SE]</a>
           </li>
         </ul>
       </li>
       <li>
-        <a href="/l5r/scminor#toc11">Oriole Clan - Tsi Smith [Artisan] [CR]</a>
+        <a href="/scminor#toc11">Oriole Clan - Tsi Smith [Artisan] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc12">Ox Clan - Morito Bushi [CR]</a>
+        <a href="/scminor#toc12">Ox Clan - Morito Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc13">Snake Clan - Chuda Shugenja [CR]</a>
+        <a href="/scminor#toc13">Snake Clan - Chuda Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc14">Sparrow Clan - Suzume Bushi [CR]</a>
+        <a href="/scminor#toc14">Sparrow Clan - Suzume Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc15">Tiger Clan - Yotsu Bushi [IH]</a>
+        <a href="/scminor#toc15">Tiger Clan - Yotsu Bushi [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc16">Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</a>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <a href="/l5r/scminor#toc17">Advanced Schools</a>
-    <ul>
-      <li>
-        <a href="/l5r/scminor#toc18">Minor Clan Defender [Bushi] [EE]</a>
+        <a href="/scminor#toc16">Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scminor#toc19">Alternate Paths</a>
+    <a href="/scminor#toc17">Advanced Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scminor#toc20">Dragonfly Advisor [Courtier/Shugenja] [SE]</a>
+        <a href="/scminor#toc18">Minor Clan Defender [Bushi] [EE]</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/scminor#toc19">Alternate Paths</a>
+    <ul>
+      <li>
+        <a href="/scminor#toc20">Dragonfly Advisor [Courtier/Shugenja] [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc21">Ichiro Pass Warden [SE]</a>
+        <a href="/scminor#toc21">Ichiro Pass Warden [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc22">Minor Clan Alliance Diplomat [Courtier]</a>
+        <a href="/scminor#toc22">Minor Clan Alliance Diplomat [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc23">Ox Clan Vigilant [SE]</a>
+        <a href="/scminor#toc23">Ox Clan Vigilant [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc24">Soldier of the Three Man Alliance [Bushi] [IH]</a>
+        <a href="/scminor#toc24">Soldier of the Three Man Alliance [Bushi] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc25">Suzume Storytellers [Courtier/Artisan] [SE]</a>
+        <a href="/scminor#toc25">Suzume Storytellers [Courtier/Artisan] [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc26">Tortoise Guard [Bushi] [IH]</a>
+        <a href="/scminor#toc26">Tortoise Guard [Bushi] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc27">Tortoise Killers [Bushi] [SE]</a>
+        <a href="/scminor#toc27">Tortoise Killers [Bushi] [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scminor#toc28">Ujina Skirmishers [Bushi]</a>
+        <a href="/scminor#toc28">Ujina Skirmishers [Bushi]</a>
       </li>
     </ul>
   </li>
@@ -185,11 +185,11 @@ The Tonbo Shugenja School uses all the resources at its disposal to prepare its 
 
 ### <span>Falcon Clan - Toritaka Bushi [CR]</span> {#toc5}
 
-see <a href="/l5r/sccrab">Crab Clan Schools</a>
+see <a href="/sccrab">Crab Clan Schools</a>
 
 ### <span>Fox Clan - Kitsune Shugenja [CR]</span> {#toc6}
 
-see <a href="/l5r/scmantis">Mantis Clan Schools</a>
+see <a href="/scmantis">Mantis Clan Schools</a>
 
 ### <span>Hare Clan - Usagi Bushi [CR]</span> {#toc7}
 

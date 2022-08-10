@@ -3,43 +3,43 @@ Title: Ancestors
 
 <ul>
   <li>
-    <a href="/l5r/ancestors#toc0">Crab Ancestors</a>
+    <a href="/ancestors#toc0">Crab Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc1">Crane Ancestors</a>
+    <a href="/ancestors#toc1">Crane Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc2">Dragon Ancestors</a>
+    <a href="/ancestors#toc2">Dragon Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc3">Lion Ancestors</a>
+    <a href="/ancestors#toc3">Lion Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc4">Mantis Ancestors</a>
+    <a href="/ancestors#toc4">Mantis Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc5">Phoenix Ancestors</a>
+    <a href="/ancestors#toc5">Phoenix Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc6">Scorpion Ancestors</a>
+    <a href="/ancestors#toc6">Scorpion Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc7">Spider Ancestors</a>
+    <a href="/ancestors#toc7">Spider Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc8">Unicorn Ancestors</a>
+    <a href="/ancestors#toc8">Unicorn Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc9">Imperial Families Ancestors</a>
+    <a href="/ancestors#toc9">Imperial Families Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc10">Minor Clan Ancestors</a>
+    <a href="/ancestors#toc10">Minor Clan Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc11">Ronin Ancestors</a>
+    <a href="/ancestors#toc11">Ronin Ancestors</a>
   </li>
   <li>
-    <a href="/l5r/ancestors#toc12">Brotherhood of Shinsei Ancestors</a>
+    <a href="/ancestors#toc12">Brotherhood of Shinsei Ancestors</a>
   </li>
 </ul>
 

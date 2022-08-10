@@ -3,81 +3,81 @@ Title: Miscellaneous Schools
 
 <ul>
   <li>
-    <a href="/l5r/scmisc#toc0">Miscellaneous Basic Schools</a>
+    <a href="/scmisc#toc0">Miscellaneous Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scmisc#toc1">The Kenku Swordsman School</a>
+        <a href="/scmisc#toc1">The Kenku Swordsman School</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc2">Kshatriya Warrior [Bushi]</a>
+        <a href="/scmisc#toc2">Kshatriya Warrior [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc3">Sainika Fighter [Guru]</a>
+        <a href="/scmisc#toc3">Sainika Fighter [Guru]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scmisc#toc4">Miscellaneous Alternate Paths</a>
+    <a href="/scmisc#toc4">Miscellaneous Alternate Paths</a>
     <ul>
       <li>
-        <a href="/l5r/scmisc#toc5">Agents of the Second Gozoku</a>
+        <a href="/scmisc#toc5">Agents of the Second Gozoku</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc6">The Amethyst Champion [CR]</a>
+        <a href="/scmisc#toc6">The Amethyst Champion [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc7">The Bloodspeaker Technique</a>
+        <a href="/scmisc#toc7">The Bloodspeaker Technique</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc8">Chrysanthemum Conspirator</a>
+        <a href="/scmisc#toc8">Chrysanthemum Conspirator</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc9">Dragon Channeler [BoV]</a>
+        <a href="/scmisc#toc9">Dragon Channeler [BoV]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc10">The Emerald Champion [CR]</a>
+        <a href="/scmisc#toc10">The Emerald Champion [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc11">Emerald Magistrate [CR]</a>
+        <a href="/scmisc#toc11">Emerald Magistrate [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc12">Gozoku Agent [Courtier]</a>
+        <a href="/scmisc#toc12">Gozoku Agent [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc13">Imperial Legionnaire [CR]</a>
+        <a href="/scmisc#toc13">Imperial Legionnaire [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc14">The Jade Champion [CR]</a>
+        <a href="/scmisc#toc14">The Jade Champion [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc15">Jade Legionnaire [CR]</a>
+        <a href="/scmisc#toc15">Jade Legionnaire [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc16">Jade Magistrate [CR]</a>
+        <a href="/scmisc#toc16">Jade Magistrate [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc17">Kenburo's Way [Bushi] [IH]</a>
+        <a href="/scmisc#toc17">Kenburo's Way [Bushi] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc18">Kolat Master [EoE]</a>
+        <a href="/scmisc#toc18">Kolat Master [EoE]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc19">Order of the Stone Crab [Bushi]</a>
+        <a href="/scmisc#toc19">Order of the Stone Crab [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc20">Imperial Explorers</a>
+        <a href="/scmisc#toc20">Imperial Explorers</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc21">The Ruby Champion [CR]</a>
+        <a href="/scmisc#toc21">The Ruby Champion [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc22">Serpent Hunter [Bushi]</a>
+        <a href="/scmisc#toc22">Serpent Hunter [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc23">Second City Guardsman [Bushi]</a>
+        <a href="/scmisc#toc23">Second City Guardsman [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scmisc#toc24">The Topaz Champion [CR]</a>
+        <a href="/scmisc#toc24">The Topaz Champion [CR]</a>
       </li>
     </ul>
   </li>
@@ -210,7 +210,7 @@ Otomo Nazeru created the Technique of this group, but stopped teaching it to oth
 - <strong>Requires:</strong> At least one Ring at Rank 5 or higher, at least two other Rings at Rank 4 or higher, Meditation 5, Spellcraft 5, Lore: Theology 5
 - <strong>Special:</strong> A character can only become a Dragon Channeler if he or she is either personally chosen by the Elemental Dragons or personally trained by an existing Dragon Channeler.
 
-- <strong>Technique:</strong> <em>Beseech the Dragons</em> - You lose any Affinities and Deficiencies you had prior to becoming a Dragon Channeler, instead gaining an Affinity for <a href="/l5r/dragon-spells">Dragon Spells</a>. Your normal spell slots are reduced by 2 in each Ring; in return, you gain three &quot;Dragon Spell Slots&quot; which can only be used to invoke the powers of the Dragons via Dragon Spells (see below). You may spend Void Points to cast additional Dragon spells when your slots are exhausted. Dragon spell slots do not recover from rest - you may only regain them by sustained meditation (two hours of uninterrupted meditation and Meditation/Void at TN 30 to regain one slot).
+- <strong>Technique:</strong> <em>Beseech the Dragons</em> - You lose any Affinities and Deficiencies you had prior to becoming a Dragon Channeler, instead gaining an Affinity for <a href="/dragon-spells">Dragon Spells</a>. Your normal spell slots are reduced by 2 in each Ring; in return, you gain three &quot;Dragon Spell Slots&quot; which can only be used to invoke the powers of the Dragons via Dragon Spells (see below). You may spend Void Points to cast additional Dragon spells when your slots are exhausted. Dragon spell slots do not recover from rest - you may only regain them by sustained meditation (two hours of uninterrupted meditation and Meditation/Void at TN 30 to regain one slot).
 
 GM’s Option: Some GMs may wish to create a connection between the Dragon Channelers and the Chosen by the Oracles Advantage (due to the link between the Oracles and the Dragons). If this is desired, a character with Chosen by the Oracles starts with four Dragon Spell slots rather than three.
 

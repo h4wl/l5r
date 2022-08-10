@@ -3,39 +3,39 @@ Title: Bushido
 
 <ul>
   <li>
-    <a href="/l5r/bushido#toc0">The Tenets of Bushido</a>
+    <a href="/bushido#toc0">The Tenets of Bushido</a>
     <ul>
       <li>
-        <a href="/l5r/bushido#toc1">Compassion (Jin)</a>
+        <a href="/bushido#toc1">Compassion (Jin)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc2">Courage (Yu)</a>
+        <a href="/bushido#toc2">Courage (Yu)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc3">Courtesy (Rei)</a>
+        <a href="/bushido#toc3">Courtesy (Rei)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc4">Duty (Chugo)</a>
+        <a href="/bushido#toc4">Duty (Chugo)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc5">Honesty (Gi)</a>
+        <a href="/bushido#toc5">Honesty (Gi)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc6">Honor (Meyo)</a>
+        <a href="/bushido#toc6">Honor (Meyo)</a>
       </li>
       <li>
-        <a href="/l5r/bushido#toc7">Sincerity (Makoto)</a>
+        <a href="/bushido#toc7">Sincerity (Makoto)</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/bushido#toc8">The Concept of Face (On)</a>
+    <a href="/bushido#toc8">The Concept of Face (On)</a>
   </li>
   <li>
-    <a href="/l5r/bushido#toc9">Shame and Disgrace</a>
+    <a href="/bushido#toc9">Shame and Disgrace</a>
   </li>
   <li>
-    <a href="/l5r/bushido#toc10">Seppuku</a>
+    <a href="/bushido#toc10">Seppuku</a>
   </li>
 </ul>
 

@@ -3,21 +3,21 @@ Title: Character Generation
 
 <ul>
   <li>
-    <a href="/l5r/chargen#toc0">Step 1: Getting Started</a>
+    <a href="/chargen#toc0">Step 1: Getting Started</a>
   </li>
   <li>
-    <a href="/l5r/chargen#toc1">Step 2: The Basics</a>
+    <a href="/chargen#toc1">Step 2: The Basics</a>
   </li>
   <li>
-    <a href="/l5r/chargen#toc2">Step 3: Customization</a>
+    <a href="/chargen#toc2">Step 3: Customization</a>
   </li>
 </ul>
 
-<a href="/l5r/20-questions">20 Questions</a> - A list of questions for you to ponder to get a better grasp of your character's background and personality.
+<a href="/20-questions">20 Questions</a> - A list of questions for you to ponder to get a better grasp of your character's background and personality.
 
 ## <span>Step 1: Getting Started</span> {#toc0}
 
-There are some things you need to know before you ever look at your character's Skills and other abilities. First and foremost, every character possesses five Rings, which are explained <a href="/l5r/traits">here</a>. Each Ring represents one aspect of the character's mental and physical abilities. As a reminder, they are:
+There are some things you need to know before you ever look at your character's Skills and other abilities. First and foremost, every character possesses five Rings, which are explained <a href="/traits">here</a>. Each Ring represents one aspect of the character's mental and physical abilities. As a reminder, they are:
 
 - Air: Reflexes and Awareness
 - Earth: Stamina and Willpower

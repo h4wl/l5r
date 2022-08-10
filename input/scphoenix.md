@@ -3,107 +3,107 @@ Title: Phoenix Clan Schools
 
 <ul>
   <li>
-    <a href="/l5r/scphoenix#toc0">Basic Schools</a>
+    <a href="/scphoenix#toc0">Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scphoenix#toc1">Agasha Shugenja [CR]</a>
+        <a href="/scphoenix#toc1">Agasha Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc2">Asako Henshin [Monk]</a>
+        <a href="/scphoenix#toc2">Asako Henshin [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc3">Asako Loremaster [Courtier] [CR]</a>
+        <a href="/scphoenix#toc3">Asako Loremaster [Courtier] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc4">Isawa Shugenja [CR]</a>
+        <a href="/scphoenix#toc4">Isawa Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc5">Shiba Artisan [Courtier] [EE]</a>
+        <a href="/scphoenix#toc5">Shiba Artisan [Courtier] [EE]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc6">Shiba Bushi [CR]</a>
+        <a href="/scphoenix#toc6">Shiba Bushi [CR]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scphoenix#toc7">Advanced Schools</a>
+    <a href="/scphoenix#toc7">Advanced Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scphoenix#toc8">Asako Inquisitors [Monk]</a>
+        <a href="/scphoenix#toc8">Asako Inquisitors [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc9">Elemental Guard [Shugenja] [CR]</a>
+        <a href="/scphoenix#toc9">Elemental Guard [Shugenja] [CR]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scphoenix#toc10">Alternative Paths</a>
+    <a href="/scphoenix#toc10">Alternative Paths</a>
     <ul>
       <li>
-        <a href="/l5r/scphoenix#toc11">The Acolytes of Snow [Shugenja]</a>
+        <a href="/scphoenix#toc11">The Acolytes of Snow [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc12">Agasha Alchemist [Shugenja]</a>
+        <a href="/scphoenix#toc12">Agasha Alchemist [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc13">Asako Philosopher [Courtier]</a>
+        <a href="/scphoenix#toc13">Asako Philosopher [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc14">Asako Mediator [Courtier]</a>
+        <a href="/scphoenix#toc14">Asako Mediator [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc15">Asako Scholar [Courtier]</a>
+        <a href="/scphoenix#toc15">Asako Scholar [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc16">Elemental Legions [Bushi]</a>
+        <a href="/scphoenix#toc16">Elemental Legions [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc17">Isawa Acheologist [Shugenja]</a>
+        <a href="/scphoenix#toc17">Isawa Acheologist [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc18">Isawa Temple Guardian [Shugenja]</a>
+        <a href="/scphoenix#toc18">Isawa Temple Guardian [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc19">Isawa Seaguard [Shugenja]</a>
+        <a href="/scphoenix#toc19">Isawa Seaguard [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc20">Isawa Tensai [Shugenja] [CR]</a>
+        <a href="/scphoenix#toc20">Isawa Tensai [Shugenja] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc21">Mist Legion [Shugenja]</a>
+        <a href="/scphoenix#toc21">Mist Legion [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc22">Kawaru Sages [Shugenja]</a>
+        <a href="/scphoenix#toc22">Kawaru Sages [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc23">The Inferno Guard [Shugenja]</a>
+        <a href="/scphoenix#toc23">The Inferno Guard [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc24">Nameless Ones [Shugenja] [IH]</a>
+        <a href="/scphoenix#toc24">Nameless Ones [Shugenja] [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc25">Order of Chikai [Bushi]</a>
+        <a href="/scphoenix#toc25">Order of Chikai [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc26">Provincial Guard [Bushi]</a>
+        <a href="/scphoenix#toc26">Provincial Guard [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc27">Sesai Ninja [Ninja]</a>
+        <a href="/scphoenix#toc27">Sesai Ninja [Ninja]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc28">Shiba Advisor [Courtier]</a>
+        <a href="/scphoenix#toc28">Shiba Advisor [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc29">Shiba Armorsmiths [Bushi] [Artisan]</a>
+        <a href="/scphoenix#toc29">Shiba Armorsmiths [Bushi] [Artisan]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc30">Shiba Illusionists [Shugenja] [Artisan]</a>
+        <a href="/scphoenix#toc30">Shiba Illusionists [Shugenja] [Artisan]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc31">Shiba Yojimbo [Bushi] [CR]</a>
+        <a href="/scphoenix#toc31">Shiba Yojimbo [Bushi] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scphoenix#toc32">Sisters of the Sacred Light [Shugenja]</a>
+        <a href="/scphoenix#toc32">Sisters of the Sacred Light [Shugenja]</a>
       </li>
     </ul>
   </li>

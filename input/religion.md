@@ -3,48 +3,48 @@ Title: Religion in Rokugan
 
 <ul>
   <li>
-    <a href="/l5r/religion#toc0">Rokugani Religion</a>
+    <a href="/religion#toc0">Rokugani Religion</a>
   </li>
   <li>
-    <a href="/l5r/religion#toc1">Kharma &amp;amp; the Celestial Wheel</a>
+    <a href="/religion#toc1">Kharma &amp;amp; the Celestial Wheel</a>
   </li>
   <li>
-    <a href="/l5r/religion#toc2">The Spirit Realms</a>
+    <a href="/religion#toc2">The Spirit Realms</a>
     <ul>
       <li>
-        <a href="/l5r/religion#toc3">Chikushudo (Realm of Animals)</a>
+        <a href="/religion#toc3">Chikushudo (Realm of Animals)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc4">Gaki-do (Realm of the Hungry Dead)</a>
+        <a href="/religion#toc4">Gaki-do (Realm of the Hungry Dead)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc5">Jigoku (Realm of Evil)</a>
+        <a href="/religion#toc5">Jigoku (Realm of Evil)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc6">Maigo no Musha (Realm of Lost Heroes)</a>
+        <a href="/religion#toc6">Maigo no Musha (Realm of Lost Heroes)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc7">Meido (Realm of Waiting)</a>
+        <a href="/religion#toc7">Meido (Realm of Waiting)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc8">Sakkaku (Realm of Mischief)</a>
+        <a href="/religion#toc8">Sakkaku (Realm of Mischief)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc9">Tengoku (Celestial Heavens)</a>
+        <a href="/religion#toc9">Tengoku (Celestial Heavens)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc10">Toshigoku (Realm of Slaughter)</a>
+        <a href="/religion#toc10">Toshigoku (Realm of Slaughter)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc11">Yomi (Realm of Blessed Ancestors)</a>
+        <a href="/religion#toc11">Yomi (Realm of Blessed Ancestors)</a>
       </li>
       <li>
-        <a href="/l5r/religion#toc12">Yume-do (Realm of Dreams)</a>
+        <a href="/religion#toc12">Yume-do (Realm of Dreams)</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/religion#toc13">The Three Sacred Substances</a>
+    <a href="/religion#toc13">The Three Sacred Substances</a>
   </li>
 </ul>
 

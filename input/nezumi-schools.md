@@ -60,11 +60,11 @@ The powers of Nezumi Shamans are both strange and formidable, and are discussed 
 - <strong>Skills:</strong> Lore: Shadowlands, Lore: Spirit Realms (Yumedo), Meditation, Perform: Nezumi Dance, Stealth, any two Skills
 - <strong>Niche:</strong> 4.0
 - <strong>Starting Outﬁt:</strong> Any Small or Peasant weapon, poor quality robes, leather pouch, two Koku worth of scavenged items.
-- <strong>Technique:</strong> <em>Name Magic</em> - A Nezumi shaman is capable of casting Nezumi <a href="/l5r/name-magic">Name Magic</a> spells. See the section later in this chapter for details. All Shamans begin play knowing three Name Magic spells of appropriate Mastery Level of their choice.
+- <strong>Technique:</strong> <em>Name Magic</em> - A Nezumi shaman is capable of casting Nezumi <a href="/name-magic">Name Magic</a> spells. See the section later in this chapter for details. All Shamans begin play knowing three Name Magic spells of appropriate Mastery Level of their choice.
 
 #### <span>Nezumi Rememberer (“Tch’tch”)</span> {#toc4}
 
-Nezumi Rememberers are the keepers of the history, culture, and ethics of the Nezumi race. They are responsible for making certain the deeds of the Nezumi people are not lost to Yesterday. The Rememberers aid their memories with special items called <a href="/l5r/memory-sticks">Memory Sticks</a>.
+Nezumi Rememberers are the keepers of the history, culture, and ethics of the Nezumi race. They are responsible for making certain the deeds of the Nezumi people are not lost to Yesterday. The Rememberers aid their memories with special items called <a href="/memory-sticks">Memory Sticks</a>.
 
 - <strong>Beneﬁt:</strong> +1 Intelligence
 - <strong>Skills:</strong> Lore: Nezumi History, Lore: Nezumi Culture, Lore: Shadowlands, Perform: Storytelling, Stealth, any one Skill

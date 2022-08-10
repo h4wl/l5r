@@ -60,5 +60,5 @@ A <strong>Combat Bonus</strong> is one of the following abilities:
 - Add highest Ring to all Initiative rolls.
 - Add highest Ring to Wounds at each Wound rank.
 
-An <strong>Ability</strong> is any of the abilities listed as a <a href="/l5r/sahir-spell">Sahir Spell</a>, except Jinn Summoning 1 and 3, for obvious reasons. Only Major Jinns may take Jinn Summoning 2.
+An <strong>Ability</strong> is any of the abilities listed as a <a href="/sahir-spell">Sahir Spell</a>, except Jinn Summoning 1 and 3, for obvious reasons. Only Major Jinns may take Jinn Summoning 2.
 

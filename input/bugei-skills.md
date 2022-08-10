@@ -3,58 +3,58 @@ Title: Bugei Skills
 
 <ul>
   <li>
-    <a href="/l5r/bugei-skills#toc0">Athletics (Strength)</a>
+    <a href="/bugei-skills#toc0">Athletics (Strength)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc1">Battle (Perception)</a>
+    <a href="/bugei-skills#toc1">Battle (Perception)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc2">Defense (Reflexes)</a>
+    <a href="/bugei-skills#toc2">Defense (Reflexes)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc3">Horsemanship (Agility)</a>
+    <a href="/bugei-skills#toc3">Horsemanship (Agility)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc4">Hunting (Perception)</a>
+    <a href="/bugei-skills#toc4">Hunting (Perception)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc5">Iaijutsu (Reflexes)</a>
+    <a href="/bugei-skills#toc5">Iaijutsu (Reflexes)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc6">Jiujutsu (Agility)</a>
+    <a href="/bugei-skills#toc6">Jiujutsu (Agility)</a>
   </li>
   <li>
-    <a href="/l5r/bugei-skills#toc7">Weapons (Various)</a>
+    <a href="/bugei-skills#toc7">Weapons (Various)</a>
     <ul>
       <li>
-        <a href="/l5r/bugei-skills#toc8">Chain Weapons (Agility)</a>
+        <a href="/bugei-skills#toc8">Chain Weapons (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc9">Heavy Weapons (Agility)</a>
+        <a href="/bugei-skills#toc9">Heavy Weapons (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc10">Kenjutsu (Agility)</a>
+        <a href="/bugei-skills#toc10">Kenjutsu (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc11">Knives (Agility)</a>
+        <a href="/bugei-skills#toc11">Knives (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc12">Kyujutsu (Reflexes)</a>
+        <a href="/bugei-skills#toc12">Kyujutsu (Reflexes)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc13">Ninjutsu (Agility or Reflexes)</a>
+        <a href="/bugei-skills#toc13">Ninjutsu (Agility or Reflexes)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc14">Polearms (Agility)</a>
+        <a href="/bugei-skills#toc14">Polearms (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc15">Spears (Agility)</a>
+        <a href="/bugei-skills#toc15">Spears (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc16">Staves (Agility)</a>
+        <a href="/bugei-skills#toc16">Staves (Agility)</a>
       </li>
       <li>
-        <a href="/l5r/bugei-skills#toc17">War Fan (Agility)</a>
+        <a href="/bugei-skills#toc17">War Fan (Agility)</a>
       </li>
     </ul>
   </li>

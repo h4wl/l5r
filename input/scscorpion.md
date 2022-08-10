@@ -3,92 +3,92 @@ Title: Scorpion Clan Schools
 
 <ul>
   <li>
-    <a href="/l5r/scscorpion#toc0">Basic Schools</a>
+    <a href="/scscorpion#toc0">Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scscorpion#toc1">Bayushi Bushi [CR]</a>
+        <a href="/scscorpion#toc1">Bayushi Bushi [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc2">Bayushi Courtier [CR]</a>
+        <a href="/scscorpion#toc2">Bayushi Courtier [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc3">Shosuro Actor [Ninja]</a>
+        <a href="/scscorpion#toc3">Shosuro Actor [Ninja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc4">Shosuro Infiltrator [Ninja] [CR]</a>
+        <a href="/scscorpion#toc4">Shosuro Infiltrator [Ninja] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc5">Soshi Magistrate [Bushi] [EE]</a>
+        <a href="/scscorpion#toc5">Soshi Magistrate [Bushi] [EE]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc6">Soshi Shugenja [CR]</a>
+        <a href="/scscorpion#toc6">Soshi Shugenja [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc7">Yogo Wardmaster [Shugenja]</a>
+        <a href="/scscorpion#toc7">Yogo Wardmaster [Shugenja]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scscorpion#toc8">Advanced Schools</a>
+    <a href="/scscorpion#toc8">Advanced Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scscorpion#toc9">Scorpion Instigator [Courtier] [CR]</a>
+        <a href="/scscorpion#toc9">Scorpion Instigator [Courtier] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc10">Scorpion Saboteur [Ninja] [IH]</a>
+        <a href="/scscorpion#toc10">Scorpion Saboteur [Ninja] [IH]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scscorpion#toc11">Alternative Paths</a>
+    <a href="/scscorpion#toc11">Alternative Paths</a>
     <ul>
       <li>
-        <a href="/l5r/scscorpion#toc12">Bayushi Distracter [Courtier]</a>
+        <a href="/scscorpion#toc12">Bayushi Distracter [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc13">Bitter Lies Swordsman [Bushi] [CR]</a>
+        <a href="/scscorpion#toc13">Bitter Lies Swordsman [Bushi] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc14">Fading Shadows [Shugenja]</a>
+        <a href="/scscorpion#toc14">Fading Shadows [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc15">Kuroiban [Shugenja]</a>
+        <a href="/scscorpion#toc15">Kuroiban [Shugenja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc16">Saigo's Blades [Bushi]</a>
+        <a href="/scscorpion#toc16">Saigo's Blades [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc17">The Scorpion Elite Guard [Bushi]</a>
+        <a href="/scscorpion#toc17">The Scorpion Elite Guard [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc18">Scorpion Loyalist [IH]</a>
+        <a href="/scscorpion#toc18">Scorpion Loyalist [IH]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc19">Scorpion Maskmaker [Courtier/Artisan]</a>
+        <a href="/scscorpion#toc19">Scorpion Maskmaker [Courtier/Artisan]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc20">The Scorpion’s Tail [Bushi/Ninja]</a>
+        <a href="/scscorpion#toc20">The Scorpion’s Tail [Bushi/Ninja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc21">Scorpion Weaponmaster [Bushi]</a>
+        <a href="/scscorpion#toc21">Scorpion Weaponmaster [Bushi]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc22">Shadow Blades [Ninja]</a>
+        <a href="/scscorpion#toc22">Shadow Blades [Ninja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc23">Shadow Hunter [Shugenja] [CR]</a>
+        <a href="/scscorpion#toc23">Shadow Hunter [Shugenja] [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc24">Shosuro Assassins [Ninja]</a>
+        <a href="/scscorpion#toc24">Shosuro Assassins [Ninja]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc25">Shosuro Defilers [Courtier]</a>
+        <a href="/scscorpion#toc25">Shosuro Defilers [Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc26">Sons of Shadow</a>
+        <a href="/scscorpion#toc26">Sons of Shadow</a>
       </li>
       <li>
-        <a href="/l5r/scscorpion#toc27">Soshi Deceivers [Shugenja]</a>
+        <a href="/scscorpion#toc27">Soshi Deceivers [Shugenja]</a>
       </li>
     </ul>
   </li>

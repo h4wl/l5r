@@ -3,31 +3,31 @@ Title: Kiho
 
 <ul>
   <li>
-    <a href="/l5r/kiho#toc0">Kiho</a>
+    <a href="/kiho#toc0">Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc1">Utilizing Kiho</a>
+    <a href="/kiho#toc1">Utilizing Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc2">Atemi Attacks</a>
+    <a href="/kiho#toc2">Atemi Attacks</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc3">Non-Brotherhood Kiho</a>
+    <a href="/kiho#toc3">Non-Brotherhood Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc4">Air Kiho</a>
+    <a href="/kiho#toc4">Air Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc5">Earth Kiho</a>
+    <a href="/kiho#toc5">Earth Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc6">Fire Kiho</a>
+    <a href="/kiho#toc6">Fire Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc7">Water Kiho</a>
+    <a href="/kiho#toc7">Water Kiho</a>
   </li>
   <li>
-    <a href="/l5r/kiho#toc8">Void Kiho</a>
+    <a href="/kiho#toc8">Void Kiho</a>
   </li>
 </ul>
 

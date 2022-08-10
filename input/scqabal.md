@@ -35,5 +35,5 @@ So named because the discipline of Summoning magic is the most impressive and ea
 - <strong>Integrity:</strong> 2.5
 - <strong>Skills:</strong> Calligraphy, Divination, Spellcraft, Lore: Theology, any three Skill.
 - <strong>Outfit:</strong> Staff, Knife, clothes, traveling pack, sandals, 5 copper.
-- <strong>Technique:</strong> <em>The Crucible of Knowledge</em> - The Summoner gains three <a href="/l5r/sahir-spell">Sahir Spell</a>s at level one, and three additional Sahir spells at each Insight Rank. At Rank one and each Class Rank thereafter, the Summoner chooses 1 type of spell (such as Jinn or Death) that they know. They function as if they possess a skill emphasis when making Spell Casting Rolls for that type of spell. Select one discipline; you gain a +1k1 bonus when casting spells of that discipline.
+- <strong>Technique:</strong> <em>The Crucible of Knowledge</em> - The Summoner gains three <a href="/sahir-spell">Sahir Spell</a>s at level one, and three additional Sahir spells at each Insight Rank. At Rank one and each Class Rank thereafter, the Summoner chooses 1 type of spell (such as Jinn or Death) that they know. They function as if they possess a skill emphasis when making Spell Casting Rolls for that type of spell. Select one discipline; you gain a +1k1 bonus when casting spells of that discipline.
 

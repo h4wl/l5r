@@ -3,46 +3,46 @@ Title: Families of the Minor Clans
 
 <ul>
   <li>
-    <a href="/l5r/fminor#toc0">The Badger Clan</a>
+    <a href="/fminor#toc0">The Badger Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc1">The Bat Clan</a>
+    <a href="/fminor#toc1">The Bat Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc2">The Boar Clan</a>
+    <a href="/fminor#toc2">The Boar Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc3">The Dragonfly Clan</a>
+    <a href="/fminor#toc3">The Dragonfly Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc4">The Falcon Clan</a>
+    <a href="/fminor#toc4">The Falcon Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc5">The Fox Clan</a>
+    <a href="/fminor#toc5">The Fox Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc6">The Hare Clan</a>
+    <a href="/fminor#toc6">The Hare Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc7">The Monkey Clan</a>
+    <a href="/fminor#toc7">The Monkey Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc8">The Oriole Clan</a>
+    <a href="/fminor#toc8">The Oriole Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc9">The Ox Clan</a>
+    <a href="/fminor#toc9">The Ox Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc10">The Snake Clan</a>
+    <a href="/fminor#toc10">The Snake Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc11">The Sparrow Clan</a>
+    <a href="/fminor#toc11">The Sparrow Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc12">The Tiger Clan</a>
+    <a href="/fminor#toc12">The Tiger Clan</a>
   </li>
   <li>
-    <a href="/l5r/fminor#toc13">The Tortoise Clan</a>
+    <a href="/fminor#toc13">The Tortoise Clan</a>
   </li>
 </ul>
 
@@ -76,11 +76,11 @@ The Tonbo are humble and plain despite their importance in the Empire. Most of t
 
 ## <span>The Falcon Clan</span> {#toc4}
 
-See <a href="/l5r/fcrab">Families of the Crab Clan</a>
+See <a href="/fcrab">Families of the Crab Clan</a>
 
 ## <span>The Fox Clan</span> {#toc5}
 
-see <a href="/l5r/fmantis">Families of the Mantis Clann</a>
+see <a href="/fmantis">Families of the Mantis Clann</a>
 
 ## <span>The Hare Clan</span> {#toc6}
 
@@ -118,7 +118,7 @@ The samurai of the Morito family are determined to make a name for themselves. T
 
 ## <span>The Snake Clan</span> {#toc10}
 
-See <a href="/l5r/fspider">See families of the Spider Clan</a>
+See <a href="/fspider">See families of the Spider Clan</a>
 
 ## <span>The Sparrow Clan</span> {#toc11}
 

@@ -3,59 +3,59 @@ Title: Equipment
 
 <ul>
   <li>
-    <a href="/l5r/equipment#toc0">Armor</a>
+    <a href="/equipment#toc0">Armor</a>
   </li>
   <li>
-    <a href="/l5r/equipment#toc1">Weapons</a>
+    <a href="/equipment#toc1">Weapons</a>
     <ul>
       <li>
-        <a href="/l5r/equipment#toc2">Arrows</a>
+        <a href="/equipment#toc2">Arrows</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc3">Bows</a>
+        <a href="/equipment#toc3">Bows</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc4">Chain weapons</a>
+        <a href="/equipment#toc4">Chain weapons</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc5">Heavy Weapons</a>
+        <a href="/equipment#toc5">Heavy Weapons</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc6">Knives</a>
+        <a href="/equipment#toc6">Knives</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc7">Ninja weapons</a>
+        <a href="/equipment#toc7">Ninja weapons</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc8">Polearms</a>
+        <a href="/equipment#toc8">Polearms</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc9">Spears</a>
+        <a href="/equipment#toc9">Spears</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc10">Staves</a>
+        <a href="/equipment#toc10">Staves</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc11">Swords</a>
+        <a href="/equipment#toc11">Swords</a>
       </li>
       <li>
-        <a href="/l5r/equipment#toc12">War fans</a>
+        <a href="/equipment#toc12">War fans</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/equipment#toc13">Crafting Extraordinary Weapons</a>
+    <a href="/equipment#toc13">Crafting Extraordinary Weapons</a>
     <ul>
       <li>
-        <a href="/l5r/equipment#toc14">Crafting Sacred Weapons</a>
+        <a href="/equipment#toc14">Crafting Sacred Weapons</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/equipment#toc15">Rokugani Firearms</a>
+    <a href="/equipment#toc15">Rokugani Firearms</a>
     <ul>
       <li>
-        <a href="/l5r/equipment#toc16">Teppoudo (Intelligence)</a>
+        <a href="/equipment#toc16">Teppoudo (Intelligence)</a>
       </li>
     </ul>
   </li>

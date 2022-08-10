@@ -8,10 +8,10 @@ Furthermore, a character infected by the Taint must regularly (once per month fo
 
 A character can always &quot;embrace the taint&quot; and add +1k1 to any physical roll in exchange for immediately gaining a single point of Taint. This cannot be prevented. Whenever a character has ten points of Taint, they gain one rank instead. The Taint manifests in various symptoms, such as the following:
 
-- <span style="text-decoration: underline;"><strong><a href="/l5r/mutations">Mutations</a></strong></span> are the result of gaining ranks in Shadowlands Taint and represent difformities that must be concealed.
-- <span style="text-decoration: underline;"><strong><a href="/l5r/minor-shadowlands-powers">Minor Shadowlands Powers</a></strong></span> are powers usable by the least powerful Tainted individuals. Using them forces the user to make an Earth Taint roll (TN 15) or gain an additional point of Taint.
-- <span style="text-decoration: underline;"><strong><a href="/l5r/major-shadowlands-powers">Major Shadowlands Powers</a></strong></span> are powers usable by the most powerful Tainted individuals. Using them forces the user to make an Earth Taint roll (TN 20) or gain an additional point of Taint.
-- <span style="text-decoration: underline;"><strong><a href="/l5r/akutenshi-powers">Akutenshi Powers</a></strong></span> are powers usable only by Akutenshi, and by exceedingly rare other individuals. They are otherwise treated as Major Shadowlands Powers.
+- <span style="text-decoration: underline;"><strong><a href="/mutations">Mutations</a></strong></span> are the result of gaining ranks in Shadowlands Taint and represent difformities that must be concealed.
+- <span style="text-decoration: underline;"><strong><a href="/minor-shadowlands-powers">Minor Shadowlands Powers</a></strong></span> are powers usable by the least powerful Tainted individuals. Using them forces the user to make an Earth Taint roll (TN 15) or gain an additional point of Taint.
+- <span style="text-decoration: underline;"><strong><a href="/major-shadowlands-powers">Major Shadowlands Powers</a></strong></span> are powers usable by the most powerful Tainted individuals. Using them forces the user to make an Earth Taint roll (TN 20) or gain an additional point of Taint.
+- <span style="text-decoration: underline;"><strong><a href="/akutenshi-powers">Akutenshi Powers</a></strong></span> are powers usable only by Akutenshi, and by exceedingly rare other individuals. They are otherwise treated as Major Shadowlands Powers.
 
 ## <span>Taint ranks</span> {#toc0}
 

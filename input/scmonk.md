@@ -3,105 +3,105 @@ Title: Monk Schools
 
 <ul>
   <li>
-    <a href="/l5r/scmonk#toc0">Playing a Monk</a>
+    <a href="/scmonk#toc0">Playing a Monk</a>
   </li>
   <li>
-    <a href="/l5r/scmonk#toc1">Monk Basic Schools</a>
+    <a href="/scmonk#toc1">Monk Basic Schools</a>
     <ul>
       <li>
-        <a href="/l5r/scmonk#toc2">First Dawn Scholars [Monk]</a>
+        <a href="/scmonk#toc2">First Dawn Scholars [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc3">Four Temples Monk [CR]</a>
+        <a href="/scmonk#toc3">Four Temples Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc4">Fudoist Order [Monk]</a>
+        <a href="/scmonk#toc4">Fudoist Order [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc5">The Order of Eternity</a>
+        <a href="/scmonk#toc5">The Order of Eternity</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc6">Order Of the Five Rings [Monk]</a>
+        <a href="/scmonk#toc6">Order Of the Five Rings [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc7">Order of Heroes Monk [CR]</a>
+        <a href="/scmonk#toc7">Order of Heroes Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc8">Order of the Nameless Gift [Monk]</a>
+        <a href="/scmonk#toc8">Order of the Nameless Gift [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc9">Order of Peaceful Repose [SE]</a>
+        <a href="/scmonk#toc9">Order of Peaceful Repose [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc10">The Order Of Rebirth [Monk]</a>
+        <a href="/scmonk#toc10">The Order Of Rebirth [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc11">Order of the Wind [BoA]</a>
+        <a href="/scmonk#toc11">Order of the Wind [BoA]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc12">Shinmaki Order [EE]</a>
+        <a href="/scmonk#toc12">Shinmaki Order [EE]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc13">Shrine of the Seven Thunders Monk [CR]</a>
+        <a href="/scmonk#toc13">Shrine of the Seven Thunders Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc14">Temple of Kaimetsu-uo Monk [CR]</a>
+        <a href="/scmonk#toc14">Temple of Kaimetsu-uo Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc15">the Temple of Heavenly Wisdom [Monk]</a>
+        <a href="/scmonk#toc15">the Temple of Heavenly Wisdom [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc16">Temple of Osano-Wo Monk [CR]</a>
+        <a href="/scmonk#toc16">Temple of Osano-Wo Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc17">Temple of Persistence [Monk]</a>
+        <a href="/scmonk#toc17">Temple of Persistence [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc18">Temples of the Thousand Fortunes Monk [CR]</a>
+        <a href="/scmonk#toc18">Temples of the Thousand Fortunes Monk [CR]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc19">Tengoku’S Fist [Monk]</a>
+        <a href="/scmonk#toc19">Tengoku’S Fist [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc20">Wind’s Grace Order [BoA]</a>
+        <a href="/scmonk#toc20">Wind’s Grace Order [BoA]</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/scmonk#toc21">Alternate Paths</a>
+    <a href="/scmonk#toc21">Alternate Paths</a>
     <ul>
       <li>
-        <a href="/l5r/scmonk#toc22">Abbot [Monk]</a>
+        <a href="/scmonk#toc22">Abbot [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc23">Barefoot Breathren [SE]</a>
+        <a href="/scmonk#toc23">Barefoot Breathren [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc24">Brotherhood Spy [Monk]</a>
+        <a href="/scmonk#toc24">Brotherhood Spy [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc25">Defender of the Brotherhood [Monk/Courtier]</a>
+        <a href="/scmonk#toc25">Defender of the Brotherhood [Monk/Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc26">Kaze-do Fighter [Bushi/Monk]</a>
+        <a href="/scmonk#toc26">Kaze-do Fighter [Bushi/Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc27">Order of Ebisu [Monk/Courtier]</a>
+        <a href="/scmonk#toc27">Order of Ebisu [Monk/Courtier]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc28">Pure Song Shrine [SE]</a>
+        <a href="/scmonk#toc28">Pure Song Shrine [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc29">Silent Ones [SE]</a>
+        <a href="/scmonk#toc29">Silent Ones [SE]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc30">Student of Hitsu-Do [Monk]</a>
+        <a href="/scmonk#toc30">Student of Hitsu-Do [Monk]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc31">Student of Mizu-Do [Monk/Artisan]</a>
+        <a href="/scmonk#toc31">Student of Mizu-Do [Monk/Artisan]</a>
       </li>
       <li>
-        <a href="/l5r/scmonk#toc32">The Taoist Archers [Bushi/Monk]</a>
+        <a href="/scmonk#toc32">The Taoist Archers [Bushi/Monk]</a>
       </li>
     </ul>
   </li>

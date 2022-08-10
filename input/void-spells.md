@@ -3,22 +3,22 @@ Title: Void Spells
 
 <ul>
   <li>
-    <a href="/l5r/void-spells#toc0">Mastery Level 1</a>
+    <a href="/void-spells#toc0">Mastery Level 1</a>
   </li>
   <li>
-    <a href="/l5r/void-spells#toc1">Mastery Level 2</a>
+    <a href="/void-spells#toc1">Mastery Level 2</a>
   </li>
   <li>
-    <a href="/l5r/void-spells#toc2">Mastery Level 3</a>
+    <a href="/void-spells#toc2">Mastery Level 3</a>
   </li>
   <li>
-    <a href="/l5r/void-spells#toc3">Mastery Level 4</a>
+    <a href="/void-spells#toc3">Mastery Level 4</a>
   </li>
   <li>
-    <a href="/l5r/void-spells#toc4">Mastery Level 5</a>
+    <a href="/void-spells#toc4">Mastery Level 5</a>
   </li>
   <li>
-    <a href="/l5r/void-spells#toc5">Mastery Level 6</a>
+    <a href="/void-spells#toc5">Mastery Level 6</a>
   </li>
 </ul>
 

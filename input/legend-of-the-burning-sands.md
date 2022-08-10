@@ -15,26 +15,26 @@ Skill rules apply identical to their L5R counterpart aside from the following.
 
 ## <span>Families</span> {#toc1}
 
-Characters in the Burning Sands belong generally in one of these <a href="/l5r/bsfamily">Factions and Families</a>.
+Characters in the Burning Sands belong generally in one of these <a href="/bsfamily">Factions and Families</a>.
 
 ## <span>Schools</span> {#toc2}
 
 Schools (or alternatively Classes) exist as follows.
 
-- <a href="/l5r/scmedin">Medinaat Al-Salaam Schools</a>
-- <a href="/l5r/scdahab">Dahab Schools</a>
-- <a href="/l5r/scqabal">Qabal Schools</a>
-- <a href="/l5r/scass">Assassin Schools</a>
-- <a href="/l5r/scasha">Ashalan Schools</a>
-- <a href="/l5r/scrashari">Ra'Shari Schools</a>
-- <a href="/l5r/scsenpet">Senpet Schools</a>
-- <a href="/l5r/scyodotai">Yodotai Schools</a>
-- <a href="/l5r/scebon">Ebonite Schools</a>
-- <a href="/l5r/scjackal">Jackal Schools</a>
+- <a href="/scmedin">Medinaat Al-Salaam Schools</a>
+- <a href="/scdahab">Dahab Schools</a>
+- <a href="/scqabal">Qabal Schools</a>
+- <a href="/scass">Assassin Schools</a>
+- <a href="/scasha">Ashalan Schools</a>
+- <a href="/scrashari">Ra'Shari Schools</a>
+- <a href="/scsenpet">Senpet Schools</a>
+- <a href="/scyodotai">Yodotai Schools</a>
+- <a href="/scebon">Ebonite Schools</a>
+- <a href="/scjackal">Jackal Schools</a>
 
 ## <span>Magic</span> {#toc3}
 
-There are two important magical paths in the Burning Sands: <a href="/l5r/sahir-spell">Sahir Spells</a> and <a href="/l5r/cokaloi">Cokaloi</a>.
+There are two important magical paths in the Burning Sands: <a href="/sahir-spell">Sahir Spells</a> and <a href="/cokaloi">Cokaloi</a>.
 
 ## <span>Advantages</span> {#toc4}
 
@@ -59,7 +59,7 @@ The Yodotai empire encompasses many different cultures from different lands. You
 ##### Fitfully Sleeping Blood [Spiritual] (8 Points)
 
 Someone amongst your ancestors was a jinn in disguise, one of the great secrets of the Qabal. While you did not inherit their soul of smokeless fire, the mingling of mortals and jinn blood has left its mark on you. You may roll once on any of the 
-<a href="/l5r/jinn">Jinn</a>
+<a href="/jinn">Jinn</a>
  Ability tables, and receive the result as an ability that you can invoke exactly as if you were a jinn.
 ##### Gorilla Bodyguard [Material] (3 Points)
 
@@ -83,7 +83,7 @@ Your devotion to the Ten Thousand Gods is unshakable. You gain a free Void Point
 ##### Servant of Smokeless Fire [Spiritual] (4 Points)
 
 You have the ability to summon 
-<a href="/l5r/jinn">Jinn</a>
+<a href="/jinn">Jinn</a>
  and barter with them for their services.
 ##### Soul of Warriors [Spiritual] (10 Points)
 

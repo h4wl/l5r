@@ -3,19 +3,19 @@ Title: Low Skills
 
 <ul>
   <li>
-    <a href="/l5r/low-skills#toc0">Forgery (Agility)</a>
+    <a href="/low-skills#toc0">Forgery (Agility)</a>
   </li>
   <li>
-    <a href="/l5r/low-skills#toc1">Intimidation (Willpower)</a>
+    <a href="/low-skills#toc1">Intimidation (Willpower)</a>
   </li>
   <li>
-    <a href="/l5r/low-skills#toc2">Sleight of Hand (Agility)</a>
+    <a href="/low-skills#toc2">Sleight of Hand (Agility)</a>
   </li>
   <li>
-    <a href="/l5r/low-skills#toc3">Stealth (Agility)</a>
+    <a href="/low-skills#toc3">Stealth (Agility)</a>
   </li>
   <li>
-    <a href="/l5r/low-skills#toc4">Temptation (Awareness)</a>
+    <a href="/low-skills#toc4">Temptation (Awareness)</a>
   </li>
 </ul>
 

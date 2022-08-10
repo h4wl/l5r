@@ -3,45 +3,45 @@ Title: Combat
 
 <ul>
   <li>
-    <a href="/l5r/combat#toc0">Definition of Terms</a>
+    <a href="/combat#toc0">Definition of Terms</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc1">Sequence of Events</a>
+    <a href="/combat#toc1">Sequence of Events</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc2">Attack &amp;amp; Defense</a>
+    <a href="/combat#toc2">Attack &amp;amp; Defense</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc3">Wounds</a>
+    <a href="/combat#toc3">Wounds</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc4">Stances</a>
+    <a href="/combat#toc4">Stances</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc5">Actions</a>
+    <a href="/combat#toc5">Actions</a>
     <ul>
       <li>
-        <a href="/l5r/combat#toc6">Move Actions</a>
+        <a href="/combat#toc6">Move Actions</a>
       </li>
     </ul>
   </li>
   <li>
-    <a href="/l5r/combat#toc7">Maneuvers</a>
+    <a href="/combat#toc7">Maneuvers</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc8">Iaijutsu Dueling</a>
+    <a href="/combat#toc8">Iaijutsu Dueling</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc9">Conditional Effects</a>
+    <a href="/combat#toc9">Conditional Effects</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc10">Grappling</a>
+    <a href="/combat#toc10">Grappling</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc11">Sumai Tournaments</a>
+    <a href="/combat#toc11">Sumai Tournaments</a>
   </li>
   <li>
-    <a href="/l5r/combat#toc12">Off-hand Weapons &amp;amp; Multiple Attacks</a>
+    <a href="/combat#toc12">Off-hand Weapons &amp;amp; Multiple Attacks</a>
   </li>
 </ul>
 
@@ -68,7 +68,7 @@ Any attack a character makes against an opponent requires a roll, typically a Sk
 
 If the result of the attack roll meets or exceeds the target’s Armor TN, then the attack was successful and the opponent was struck with the weapon in question. Damage must now be rolled. Penalties or bonuses may be applied to attack rolls for a variety of reasons. The most obvious and frequent penalty is for being injured (see the discussion of Wounds immediately following this section). Any ranged attack made against an opponent who is within melee range also suffers a penalty of -10 to the total of the attack roll, due to the awkwardness of fi ring at someone who is a direct threat. Additional bonuses and penalties are discussed under Stances and Status Effects, and the GM can apply bonuses or penalties based on specific circumstances (a character trying to attack while balancing on a railing would probably suffer a penalty, for example).
 
-Every weapon has a damage rating (DR). This rating indicates how much damage the weapon inflicts upon those struck with it. The katana, the most common weapon wielded by samurai, has DR 3k2. For melee attacks, characters add their Strength to the first number of a weapon’s DR. A character who makes a successful attack roll wielding a katana, and who has Strength 3, would roll 6k2 for damage (3 Strength plus the 3 from the first number of the DR). The character’s player selects the two dice he wishes to keep out of the six and totals them together. This is the number of Wounds the attack has inflicted upon its target. A character adds his Strength to certain types of ranged attacks in the same manner, but not all (see <a href="/l5r/equipment">Equipment</a>).
+Every weapon has a damage rating (DR). This rating indicates how much damage the weapon inflicts upon those struck with it. The katana, the most common weapon wielded by samurai, has DR 3k2. For melee attacks, characters add their Strength to the first number of a weapon’s DR. A character who makes a successful attack roll wielding a katana, and who has Strength 3, would roll 6k2 for damage (3 Strength plus the 3 from the first number of the DR). The character’s player selects the two dice he wishes to keep out of the six and totals them together. This is the number of Wounds the attack has inflicted upon its target. A character adds his Strength to certain types of ranged attacks in the same manner, but not all (see <a href="/equipment">Equipment</a>).
 
 ## <span>Wounds</span> {#toc3}
 

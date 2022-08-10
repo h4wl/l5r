@@ -3,19 +3,19 @@ Title: Traits
 
 <ul>
   <li>
-    <a href="/l5r/traits#toc0">Air</a>
+    <a href="/traits#toc0">Air</a>
   </li>
   <li>
-    <a href="/l5r/traits#toc1">Earth</a>
+    <a href="/traits#toc1">Earth</a>
   </li>
   <li>
-    <a href="/l5r/traits#toc2">Fire</a>
+    <a href="/traits#toc2">Fire</a>
   </li>
   <li>
-    <a href="/l5r/traits#toc3">Water</a>
+    <a href="/traits#toc3">Water</a>
   </li>
   <li>
-    <a href="/l5r/traits#toc4">Void</a>
+    <a href="/traits#toc4">Void</a>
   </li>
 </ul>
 

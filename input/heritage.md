@@ -9,18 +9,18 @@ To use a Heritage Table, the player rolls a single die on the initial chart for 
 Many results on the Heritage Tables allow a character to gain a Skill Rank or an Advantage for free, or to purchase an Advantage for a reduced cost. Since this can have a significant impact on the expenditure of Experience Points, it is recommended that any Heritage rolls be made before the players begins spending Experience Points to build the character.<br>
 Conversely, some Heritage results inflict an automatic Disadvantage on the character. The player does not receive Experience Points for these Disadvantages, though their point value is unchanged for the purpose of game mechanics that target point values (such as the Bayushi Courtier techniques).
 
-<a href="/l5r/htcrab">Crab Clan Tables</a><br>
-<a href="/l5r/htcrane">Crane Clan Tables</a><br>
-<a href="/l5r/htdragon">Dragon Clan Tables</a><br>
-<a href="/l5r/htlion">Lion Clan Tables</a><br>
-<a href="/l5r/htmantis">Mantis Clan Tables</a><br>
-<a href="/l5r/htphoenix">Phoenix Clan Tables</a><br>
-<a href="/l5r/htscorpion">Scorpion Clan Tables</a><br>
-<a href="/l5r/htspider">Spider Clan Tables</a><br>
-<a href="/l5r/htunicorn">Unicorn Clan Tables</a>
+<a href="/htcrab">Crab Clan Tables</a><br>
+<a href="/htcrane">Crane Clan Tables</a><br>
+<a href="/htdragon">Dragon Clan Tables</a><br>
+<a href="/htlion">Lion Clan Tables</a><br>
+<a href="/htmantis">Mantis Clan Tables</a><br>
+<a href="/htphoenix">Phoenix Clan Tables</a><br>
+<a href="/htscorpion">Scorpion Clan Tables</a><br>
+<a href="/htspider">Spider Clan Tables</a><br>
+<a href="/htunicorn">Unicorn Clan Tables</a>
 
-<a href="/l5r/htminor">Minor Clan Tables</a><br>
-<a href="/l5r/htbrotherhood">Brotherhood of Shinsei Tables</a><br>
-<a href="/l5r/htronin">Ronin Tables</a><br>
-<a href="/l5r/htimperial">Imperial Families Tables</a>
+<a href="/htminor">Minor Clan Tables</a><br>
+<a href="/htbrotherhood">Brotherhood of Shinsei Tables</a><br>
+<a href="/htronin">Ronin Tables</a><br>
+<a href="/htimperial">Imperial Families Tables</a>
 
