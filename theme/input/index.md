@@ -21,7 +21,7 @@ the Five Rings, including the role and importance of the five
 Elemental Rings, the various die-rolling mechanics, and the
 essential rules of combat, dueling, and other actions.
 
-###### [The Book of Fire](/l5r/book-of-fire) 
+###### [The Book of Fire](/book-of-fire) 
 The Book of Fire contains the basic character creation rules
 and offers detailed discussions of how to make an assortment
 of basic character types from each of the eight Great Clans. It
@@ -38,7 +38,7 @@ and a variety of special mechanics such as Alternate Paths,
 Advanced Schools, Kata, Kiho, Ancestors, and the sinister se-
 crets of black magic (also known as maho) and the Shadowlands Taint.
 
-###### [The Book of Void](/book-of-void) 
+###### [The Book of Void](/book-of-the-void) 
 Finally, the Book of Void contains rules and information for
 the GM. There is an extended discussion of different ways to
 construct adventures and campaigns for L5R, as well as rules
