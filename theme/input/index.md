@@ -2,10 +2,10 @@ Title: Legend of the Five Rings
 ---
 
 The Rokugani believe that all of reality is organized
-into five Elements - Earth, Air, Fire, Water, and Void - and
+into five Elements&mdash;Earth, Air, Fire, Water, and Void&mdash;and
 it is from these that the "five rings" of the title are derived.
-Accordingly, this site is divided into five sections, each dis-
-cussing a different aspect of Legend of the Five Rings.
+Accordingly, this site is divided into five sections, each discussing 
+a different aspect of Legend of the Five Rings.
 
 ###### [The Book of Air](/book-of-air) 
 The Book of Air contains basic information on the world of
