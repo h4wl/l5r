@@ -1,0 +1,55 @@
+Title: Book Of Fire
+---
+@using System.Text.Json;
+@{
+	var data = Outputs
+			.FromPipeline("Data")
+			.FilterSources("data/*")
+			.FirstOrDefault(s => s.Source.ToString().EndsWith("mainNav.json"));
+
+	var topMenuItemsRaw = data.Get<object[]>("MenuItems");
+
+	var menu = new TopMenuItem
+	{
+		Children = new MenuItem[] { }
+	};
+
+	foreach (var item in topMenuItemsRaw)
+	{
+		string serialized = JsonSerializer.Serialize(item);
+		var topMenuItem = JsonSerializer.Deserialize<TopMenuItem>(serialized);
+		if (topMenuItem.Path == "/book-of-fire")
+		{
+			menu = topMenuItem;
+			break;
+		}
+	}
+}
+<div class="ring-sprite-with-label sprite--fire mx-auto d-block mb-3"></div>
+
+<p>
+	The <em>Book of Fire</em> contains the basic character creation rules
+    and offers detailed discussions of how to make an assortment
+    of basic character types from each of the eight Great Clans. It
+    also offers a full list of Skills, Advantages, Disadvantages, and
+    Spells for use in the game.
+</p>
+@{
+	var hasChildren = (menu.Children?.Count() ?? 0) > 0;
+	if (hasChildren)
+	{
+		<ul class="list-unstyled">
+			@{
+				foreach (var childItem in menu.Children)
+				{
+					<li class="mb-4">
+						<a class="h4" href="@childItem.Path">@childItem.Title</a>
+					</li>
+				}
+			}
+		</ul>
+	}
+
+}
+
+

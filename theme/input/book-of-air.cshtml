@@ -1,0 +1,70 @@
+Title: Book of Air
+---
+@using System.Text.Json;
+@{
+	var data = Outputs
+			.FromPipeline("Data")
+			.FilterSources("data/*")
+			.FirstOrDefault(s => s.Source.ToString().EndsWith("mainNav.json"));
+
+	var topMenuItemsRaw = data.Get<object[]>("MenuItems");
+
+	var menu = new TopMenuItem
+	{
+		Children = new MenuItem[] { }
+	};
+
+	foreach (var item in topMenuItemsRaw)
+	{
+		string serialized = JsonSerializer.Serialize(item);
+		var topMenuItem = JsonSerializer.Deserialize<TopMenuItem>(serialized);
+		if (topMenuItem.Path == "/book-of-air")
+		{
+			menu = topMenuItem;
+			break;
+		}
+	}
+}
+
+<div class="ring-sprite-with-label sprite--air mx-auto d-block mb-3"></div>
+
+<p>
+	The <em>Book of Air</em> contains basic information on the world of
+	Rokugan. It includes a brief century-by-century history of the
+	Emerald Empire, a discussion of Rokugani culture, beliefs, and
+	customs, and specific discussion of the eight Great Clans who
+	dominate the Empire's history and conflicts.
+</p>
+@{
+	var hasChildren = (menu.Children?.Count() ?? 0) > 0;
+	if (hasChildren)
+	{
+		<ul class="list-unstyled">
+			@{
+				foreach (var childItem in menu.Children)
+				{
+					<li class="mb-4">
+						<a class="h4" href="@childItem.Path">@childItem.Title</a>
+					</li>
+				}
+			}
+		</ul>
+	}
+
+}
+
+
+
+@* <img src="/img/5rings.png" alt="air.gif" class="image"> *@
+
+@* <div class="ring-sprite-with-label sprite--air"></div>
+	<div class="ring-sprite-with-label sprite--earth"></div>
+	<div class="ring-sprite-with-label sprite--fire"></div>
+	<div class="ring-sprite-with-label sprite--water"></div>
+	<div class="ring-sprite-with-label sprite--void"></div>
+
+	<div class="ring-sprite-no-label sprite--air"></div>
+	<div class="ring-sprite-no-label sprite--earth"></div>
+	<div class="ring-sprite-no-label sprite--fire"></div>
+	<div class="ring-sprite-no-label sprite--water"></div>
+	<div class="ring-sprite-no-label sprite--void"></div> *@

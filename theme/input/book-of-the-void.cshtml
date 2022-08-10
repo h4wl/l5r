@@ -1,0 +1,57 @@
+Title: Book Of The Void
+---
+@using System.Text.Json;
+@{
+	var data = Outputs
+			.FromPipeline("Data")
+			.FilterSources("data/*")
+			.FirstOrDefault(s => s.Source.ToString().EndsWith("mainNav.json"));
+
+	var topMenuItemsRaw = data.Get<object[]>("MenuItems");
+
+	var menu = new TopMenuItem
+	{
+		Children = new MenuItem[] { }
+	};
+
+	foreach (var item in topMenuItemsRaw)
+	{
+		string serialized = JsonSerializer.Serialize(item);
+		var topMenuItem = JsonSerializer.Deserialize<TopMenuItem>(serialized);
+		if (topMenuItem.Path == "/book-of-the-void")
+		{
+			menu = topMenuItem;
+			break;
+		}
+	}
+}
+<div class="ring-sprite-with-label sprite--void mx-auto d-block mb-3"></div>
+
+<p>
+	The <em>Book of Void</em> contains rules and information for
+    the GM. There is an extended discussion of different ways to
+    construct adventures and campaigns for L5R, as well as rules
+    for monsters and natural creatures, a basic selection of such
+    creatures with which to challenge the players, and a sample
+    adventure with which to start out your Legend of the Five
+    Rings gaming experience.
+</p>
+@{
+	var hasChildren = (menu.Children?.Count() ?? 0) > 0;
+	if (hasChildren)
+	{
+		<ul class="list-unstyled">
+			@{
+				foreach (var childItem in menu.Children)
+				{
+					<li class="mb-4">
+						<a class="h4" href="@childItem.Path">@childItem.Title</a>
+					</li>
+				}
+			}
+		</ul>
+	}
+
+}
+
+

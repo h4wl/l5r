@@ -1,0 +1,55 @@
+Title: Book Of Earth
+---
+@using System.Text.Json;
+@{
+	var data = Outputs
+			.FromPipeline("Data")
+			.FilterSources("data/*")
+			.FirstOrDefault(s => s.Source.ToString().EndsWith("mainNav.json"));
+
+	var topMenuItemsRaw = data.Get<object[]>("MenuItems");
+
+	var menu = new TopMenuItem
+	{
+		Children = new MenuItem[] { }
+	};
+
+	foreach (var item in topMenuItemsRaw)
+	{
+		string serialized = JsonSerializer.Serialize(item);
+		var topMenuItem = JsonSerializer.Deserialize<TopMenuItem>(serialized);
+		if (topMenuItem.Path == "/book-of-earth")
+		{
+			menu = topMenuItem;
+			break;
+		}
+	}
+}
+<div class="ring-sprite-with-label sprite--earth mx-auto d-block mb-3"></div>
+
+<p>
+	The <em>Book of Earth</em> contains the basic rules of the game.
+    It explains the fundamental mechanics of playing Legend of
+    the Five Rings, including the role and importance of the five
+    Elemental Rings, the various die-rolling mechanics, and the
+    essential rules of combat, dueling, and other actions.
+</p>
+
+@{
+	var hasChildren = (menu.Children?.Count() ?? 0) > 0;
+	if (hasChildren)
+	{
+		<ul class="list-unstyled">
+			@{
+				foreach (var childItem in menu.Children)
+				{
+					<li class="mb-4">
+						<a class="h4" href="@childItem.Path">@childItem.Title</a>
+					</li>
+				}
+			}
+		</ul>
+	}
+
+}
+
