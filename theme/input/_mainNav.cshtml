@@ -17,40 +17,78 @@
     }
 }
 <aside>
-    <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
+    <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
         <div class="offcanvas-header">
             <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
                 aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-            <ul class="list-unstyled">
+            <div class="vstack gap-3">
+
                 @{
 
                     foreach (var item in topMenu)
                     {
+                        var sprite = item.Path.Split("-").ToList().Last();
                         var hasChildren = (item.Children?.Count() ?? 0) > 0;
-                        <li class="py-2">
-                            <a href="@item.Path">
-                                @item.Title
-                            </a>
+                        var iconSize = "1.5rem;";
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--@sprite d-inline-block"
+                                style="width: @iconSize height: @iconSize"></div>
+                                <div style="height: @iconSize" class="d-inline-block align-top">
+                                    <a href="@item.Path"><h5>@item.Title</h5></a>
+                                </div>
+                            </div>
+
                             @{
                                 if (hasChildren)
                                 {
-                                    <ul>
-                                        @{
-                                            foreach (var childItem in item.Children)
-                                            {
-                                                <li class="my-1"><a href="@childItem.Path">@childItem.Title</a></li>
-                                            }
-                                        }
-                                    </ul>
+                                    foreach (var childItem in item.Children)
+                                    {
+                                        <div>
+                                            @* <div class="d-inline-block" style="width: @iconSize"></div> *@
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="@childItem.Path">@childItem.Title</a></div>
+                                        </div>
+
+                                    }
                                 }
                             }
-                        </li>
+                        </div>
                     }
                 }
-            </ul>
+            </div>
+
+
+
+            @* <ul class="list-unstyled">
+                @{
+
+                foreach (var item in topMenu)
+                {
+                var hasChildren = (item.Children?.Count() ?? 0) > 0;
+                <li class="py-2">
+                <a href="@item.Path">
+                @item.Title
+                </a>
+                @{
+                if (hasChildren)
+                {
+                <ul>
+                @{
+                foreach (var childItem in item.Children)
+                {
+                <li class="my-1"><a href="@childItem.Path">@childItem.Title</a></li>
+                }
+                }
+                </ul>
+                }
+                }
+                </li>
+                }
+                }
+                </ul> *@
         </div>
     </div>
 </aside>
