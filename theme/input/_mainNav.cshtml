@@ -1,3 +1,21 @@
+@using System.Text.Json;
+@{
+    var data = Outputs
+            .FromPipeline("Data")
+            .FilterSources("data/*")
+            .FirstOrDefault(s => s.Source.ToString().EndsWith("mainNav.json"));
+
+    var topMenuItemsRaw = data.Get<object[]>("MenuItems");
+
+    var topMenu = new List<TopMenuItem>();
+
+    foreach (var item in topMenuItemsRaw)
+    {
+        string serialized = JsonSerializer.Serialize(item);
+        var topMenuItem = JsonSerializer.Deserialize<TopMenuItem>(serialized);
+        topMenu.Add(topMenuItem);
+    }
+}
 <aside>
     <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
         <div class="offcanvas-header">
@@ -6,18 +24,33 @@
                 aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-            //TODO: Main Nav
-            @* <ul class="list-unstyled">
-                <li>
-                    <a href="/book-of-air">The Book of Air</a>
-                    <ul>
-                        <li><a href="/history">History</a></li>
-                        <li><a href="/religion">Religion</a></li>
-                        <li><a href="/religion">Bushido</a></li>
-                        <li><a href="/people">People</a></li>
-                    </ul>
-                </li>
-            </ul> *@
+            <ul class="list-unstyled">
+                @{
+
+                    foreach (var item in topMenu)
+                    {
+                        var hasChildren = (item.Children?.Count() ?? 0) > 0;
+                        <li class="py-2">
+                            <a href="@item.Path">
+                                @item.Title
+                            </a>
+                            @{
+                                if (hasChildren)
+                                {
+                                    <ul>
+                                        @{
+                                            foreach (var childItem in item.Children)
+                                            {
+                                                <li class="my-1"><a href="@childItem.Path">@childItem.Title</a></li>
+                                            }
+                                        }
+                                    </ul>
+                                }
+                            }
+                        </li>
+                    }
+                }
+            </ul>
         </div>
     </div>
 </aside>
