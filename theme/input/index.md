@@ -35,8 +35,8 @@ they please. These rules add more variety and customization
 options to the game. They include information on playing a
 character from one of the Minor Clans or Imperial Families,
 and a variety of special mechanics such as Alternate Paths,
-Advanced Schools, Kata, Kiho, Ancestors, and the sinister se-
-crets of black magic (also known as maho) and the Shadowlands Taint.
+Advanced Schools, Kata, Kiho, Ancestors, and the sinister secrets 
+of black magic (also known as maho) and the Shadowlands Taint.
 
 ###### [The Book of Void](/book-of-the-void) 
 Finally, the Book of Void contains rules and information for
