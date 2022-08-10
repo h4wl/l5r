@@ -18,7 +18,7 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
@@ -29,99 +29,190 @@
 </nav>
 
     <!-- Main Content -->
-    <div class="container">
-        <div class="row">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
             
 
-            <div class="col-lg-2">
+            <div class="col-lg-3 col-xl-2">
                 <!-- Side Nav / Slide-In Nav -->
                 <aside>
-    <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
+    <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
         <div class="offcanvas-header">
             <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
                 aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-            <ul class="list-unstyled">
-                        <li class="py-2">
-                            <a href="/book-of-air">
-                                Book of Air
-                            </a>
-                                    <ul>
-                                                <li class="my-1"><a href="/history">History</a></li>
-                                                <li class="my-1"><a href="/religion">Religion</a></li>
-                                                <li class="my-1"><a href="/bushido">Bushido</a></li>
-                                                <li class="my-1"><a href="/people">People</a></li>
-                                    </ul>
-                        </li>
-                        <li class="py-2">
-                            <a href="/book-of-earth">
-                                Book of Earth
-                            </a>
-                                    <ul>
-                                                <li class="my-1"><a href="/rolls">Rolls</a></li>
-                                                <li class="my-1"><a href="/traits">Traits</a></li>
-                                                <li class="my-1"><a href="/combat">Combat</a></li>
-                                    </ul>
-                        </li>
-                        <li class="py-2">
-                            <a href="/book-of-fire">
-                                Book of Fire
-                            </a>
-                                    <ul>
-                                                <li class="my-1"><a href="/character-creation">Character Creation</a></li>
-                                                <li class="my-1"><a href="/families">Families</a></li>
-                                                <li class="my-1"><a href="/schools">Schools</a></li>
-                                                <li class="my-1"><a href="/advantages">Advantages</a></li>
-                                                <li class="my-1"><a href="/disadvantages">Disadvantages</a></li>
-                                                <li class="my-1"><a href="/skills">Skills</a></li>
-                                                <li class="my-1"><a href="/equipment">Equipment</a></li>
-                                                <li class="my-1"><a href="/magic">Magic</a></li>
-                                                <li class="my-1"><a href="/universal-spells">Universal Spells</a></li>
-                                                <li class="my-1"><a href="/air-spells">Air Spells</a></li>
-                                                <li class="my-1"><a href="/earth-spells">Earth Spells</a></li>
-                                                <li class="my-1"><a href="/fire-spells">Fire Spells</a></li>
-                                                <li class="my-1"><a href="/water-spells">Water Spells</a></li>
-                                                <li class="my-1"><a href="/void-spells">Void Spells</a></li>
-                                    </ul>
-                        </li>
-                        <li class="py-2">
-                            <a href="/book-of-water">
-                                Book of Water
-                            </a>
-                                    <ul>
-                                                <li class="my-1"><a href="/battle">Mass Battle</a></li>
-                                                <li class="my-1"><a href="/ancestors">Ancestors</a></li>
-                                                <li class="my-1"><a href="/heritage">Heritage</a></li>
-                                                <li class="my-1"><a href="/katas">Kata</a></li>
-                                                <li class="my-1"><a href="/kiho">Kiho</a></li>
-                                                <li class="my-1"><a href="/maho">Maho</a></li>
-                                                <li class="my-1"><a href="/shadowlands-taint">Shadowlands Taint</a></li>
-                                    </ul>
-                        </li>
-                        <li class="py-2">
-                            <a href="/book-of-the-void">
-                                Book of the Void
-                            </a>
-                                    <ul>
-                                                <li class="my-1"><a href="/multi-elemental-spells">Multi-Elemental Spells</a></li>
-                                                <li class="my-1"><a href="/the-nothing">The Nothing</a></li>
-                                                <li class="my-1"><a href="/nezumi">Nezumi</a></li>
-                                                <li class="my-1"><a href="/naga">Naga</a></li>
-                                                <li class="my-1"><a href="/tsuno">Tsuno</a></li>
-                                                <li class="my-1"><a href="/legend-of-the-burning-sands">Legend of the Burning Sands</a></li>
-                                                <li class="my-1"><a href="/playable-returned-spirits">Playable Returned Spirits</a></li>
-                                                <li class="my-1"><a href="/tokugi">Tokugi (Unofficial)</a></li>
-                                    </ul>
-                        </li>
-            </ul>
+            <div class="vstack gap-3">
+
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--air d-inline-block"
+                                style="width: 1.5rem; height: 1.5rem;"></div>
+                                <div style="height: 1.5rem;" class="d-inline-block align-top">
+                                    <a href="/book-of-air"><h5>Book of Air</h5></a>
+                                </div>
+                            </div>
+
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/history">History</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/religion">Religion</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/bushido">Bushido</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/people">People</a></div>
+                                        </div>
+                        </div>
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--earth d-inline-block"
+                                style="width: 1.5rem; height: 1.5rem;"></div>
+                                <div style="height: 1.5rem;" class="d-inline-block align-top">
+                                    <a href="/book-of-earth"><h5>Book of Earth</h5></a>
+                                </div>
+                            </div>
+
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/rolls">Rolls</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/traits">Traits</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/combat">Combat</a></div>
+                                        </div>
+                        </div>
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--fire d-inline-block"
+                                style="width: 1.5rem; height: 1.5rem;"></div>
+                                <div style="height: 1.5rem;" class="d-inline-block align-top">
+                                    <a href="/book-of-fire"><h5>Book of Fire</h5></a>
+                                </div>
+                            </div>
+
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/character-creation">Character Creation</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/families">Families</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/schools">Schools</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/advantages">Advantages</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/disadvantages">Disadvantages</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/skills">Skills</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/equipment">Equipment</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/magic">Magic</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/universal-spells">Universal Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/air-spells">Air Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/earth-spells">Earth Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/fire-spells">Fire Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/water-spells">Water Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/void-spells">Void Spells</a></div>
+                                        </div>
+                        </div>
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--water d-inline-block"
+                                style="width: 1.5rem; height: 1.5rem;"></div>
+                                <div style="height: 1.5rem;" class="d-inline-block align-top">
+                                    <a href="/book-of-water"><h5>Book of Water</h5></a>
+                                </div>
+                            </div>
+
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/battle">Mass Battle</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/ancestors">Ancestors</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/heritage">Heritage</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/katas">Kata</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/kiho">Kiho</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/maho">Maho</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/shadowlands-taint">Shadowlands Taint</a></div>
+                                        </div>
+                        </div>
+                        <div class="vstack gap-1">
+                            <div>
+                                <div class="ring-sprite-no-label sprite--void d-inline-block"
+                                style="width: 1.5rem; height: 1.5rem;"></div>
+                                <div style="height: 1.5rem;" class="d-inline-block align-top">
+                                    <a href="/book-of-the-void"><h5>Book of Void</h5></a>
+                                </div>
+                            </div>
+
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/multi-elemental-spells">Multi-Elemental Spells</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/the-nothing">The Nothing</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/nezumi">Nezumi</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/naga">Naga</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tsuno">Tsuno</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/legend-of-the-burning-sands">Legend of the Burning Sands</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/playable-returned-spirits">Playable Returned Spirits</a></div>
+                                        </div>
+                                        <div>
+                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tokugi">Tokugi (Unofficial)</a></div>
+                                        </div>
+                        </div>
+            </div>
+
+
+
         </div>
     </div>
 </aside>
 
             </div>
-            <div id="content" class="col-md-12 col-lg-10">
+            <div id="content" class="col-md-12 col-lg-9 col-xl-7 col-xxl-6">
                         <h4 class="display-4">Ronin Families</h4>
                         <hr />
                 
