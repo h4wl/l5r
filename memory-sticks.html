@@ -19,11 +19,15 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <a class="navbar-brand" href="/">L5R</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item dropdown">
@@ -82,7 +86,25 @@
     <!-- Main Content -->
     <div class="container">
         <div class="row">
-            <div id="content" class="col-md-12">
+            
+
+            <div class="col-lg-2">
+                <!-- Side Nav / Slide-In Nav -->
+                <aside>
+    <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
+                aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            //TODO: Main Nav
+        </div>
+    </div>
+</aside>
+
+            </div>
+            <div id="content" class="col-md-12 col-lg-10">
                 <h4 class="display-4">Memory Sticks</h4>
                 <hr />
                 <p>Remembers are not made, they are born. Only one in every few hundred Nezumi is born with the ability to remember clearly. When a young Nezumi is identiﬁed as having this gift, one of the tribe’s senior Rememberers will take the young one under his tutelage and begin to teach him about the history of his people and tribe. The young Rememberer learns not only the history of his tribe and people but also the secrets of Memory Sticks and how they aid him to remember events from long ago, a sort of Nezumi racial memory. Memory Sticks are usually about six inches in length and are often decorated with feathers or shiny things to signify their importance to the tribe. Aside from that, they appear to be little more than a short piece of wood that has been chewed on, leaving it knobbled and irregular. However, to the Nezumi these sticks are the key to unlocking memories of their race’s past. The intricate pattern of chew marks that covers each stick are signiﬁ cant in themselves, and each stick is also impregnated with a series of pheromones that temporarily awaken memories within the Nezumi who tastes and smells them. Because the pheromones are temporary, Memory Sticks have to be cared for and refreshed periodically; however, highly experienced Rememberers have learned how to create Memory Sticks that can last almost forever.</p>

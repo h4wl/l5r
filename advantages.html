@@ -19,11 +19,15 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <a class="navbar-brand" href="/">L5R</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item dropdown">
@@ -82,7 +86,25 @@
     <!-- Main Content -->
     <div class="container">
         <div class="row">
-            <div id="content" class="col-md-12">
+            
+
+            <div class="col-lg-2">
+                <!-- Side Nav / Slide-In Nav -->
+                <aside>
+    <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
+                aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            //TODO: Main Nav
+        </div>
+    </div>
+</aside>
+
+            </div>
+            <div id="content" class="col-md-12 col-lg-10">
                 <h4 class="display-4">Advantages</h4>
                 <hr />
                 <h5 id="absolute-direction-mental-1-point-cr">Absolute Direction [Mental] (1 Point) [CR]</h5>
