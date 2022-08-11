@@ -36,3 +36,26 @@
 .sprite--void {
     background-position: 100% 0;
 }
+
+@media (min-width: 992px)
+{
+    .l5r-toc {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 5rem;
+        right: 0;
+        z-index: 2;
+        height: calc(100vh - 7rem);
+        overflow-y: auto;
+    }
+
+    .l5r-main-nav {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 5rem;
+        left: 0;
+        z-index: 2;
+        height: calc(100vh - 7rem);
+        overflow-y: auto;
+    }
+}
