@@ -59,3 +59,7 @@
         overflow-y: auto;
     }
 }
+
+html {
+    scroll-padding-top: 5rem;
+  }
