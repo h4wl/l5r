@@ -2,7 +2,7 @@ Title: Legend of the Five Rings
 NoHeader: true
 ---
 <div class="row justify-content-center">
-<div class="col-8 col-md-6 col-lg-5">
+<div class="col-8">
 <img src="/img/l5c_logo_transparent.png" class="img-fluid my-5" alt="...">
 </div>
 </div>
