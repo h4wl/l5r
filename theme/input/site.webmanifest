@@ -1,0 +1,21 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Legend of the Five Rings",
+    "short_name": "L5R",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A fan-site dedicated to the 4th Edition of Fantasy Flight Games 'Legend of the Five Rings' Roleplaying Game",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
