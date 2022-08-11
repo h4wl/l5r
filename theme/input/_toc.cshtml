@@ -1,54 +1,97 @@
 @using System.Text.Json;
 @{
-    if (Document.ContainsKey("TableOfContents"))
-    {
-        var tocRaw = Document.Get<object>("TableOfContents");
-        if (tocRaw == null) return;
-        string serialized = JsonSerializer.Serialize(tocRaw);
-        var toc = JsonSerializer.Deserialize<TableOfContents>(serialized);
+  if (Document.ContainsKey("TableOfContents"))
+  {
+    var tocRaw = Document.Get<object>("TableOfContents");
+    if (tocRaw == null) return;
+    string serialized = JsonSerializer.Serialize(tocRaw);
+    var toc = JsonSerializer.Deserialize<TableOfContents>(serialized);
 
-        <nav id="navbar-example3" class="h-100 flex-column align-items-stretch">
-            <nav class="nav flex-column">
+      <aside>
+    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
+        <div class="offcanvas-header">
+            @* <h5 class="offcanvas-title" id="tableOfContentsLabel">Table of Contents</h5> *@
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+                aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <div class="v-stack">
+<h4>Table of Contents</h4>
+            <nav class="h-100 flex-column align-items-stretch">
+              <nav class="nav flex-column">
                 @{
-                    foreach (var entry in toc.Entries)
+                  foreach (var entry in toc.Entries)
+                  {
+                    <a class="nav-link" href="@entry.Link">@entry.Title</a>
+
+                    if (entry.Children != null && entry.Children.Count() > 0)
                     {
-                        <a class="nav-link" href="@entry.Link">@entry.Title</a>
+                      <nav class="nav flex-column">
+                        @{
+                          foreach (var entry2 in entry.Children)
+                          {
+                            <a class="nav-link ms-3" href="@entry2.Link">@entry2.Title</a>
 
-                        if (entry.Children != null && entry.Children.Count() > 0)
-                        {
-                            <nav class="nav flex-column">
+                            if (entry2.Children != null && entry2.Children.Count() > 0)
+                            {
+                              <nav class="nav flex-column">
                                 @{
-                                    foreach (var entry2 in entry.Children)
-                                    {
-
-                                        <a class="nav-link ms-3" href="@entry2.Link">@entry2.Title</a>
-
-                                        if (entry2.Children != null && entry2.Children.Count() > 0)
-                                        {
-                                            <nav class="nav flex-column">
-                                                @{
-                                                    foreach (var entry3 in entry2.Children)
-                                                    {
-                                                        <a class="nav-link ms-5" href="@entry3.Link">@entry3.Title</a>
-                                                    }
-                                                }
-                                            </nav>
-
-                                        }
-
-
-                                    }
+                                  foreach (var entry3 in entry2.Children)
+                                  {
+                                    <a class="nav-link ms-5" href="@entry3.Link">@entry3.Title</a>
+                                  }
                                 }
-                            </nav>
+                              </nav>
+                            }
+                          }
                         }
-
+                      </nav>
                     }
+                  }
                 }
-
+              </nav>
             </nav>
-        </nav>
+          </div>
+            
+        </div>
+    </div>
+</aside>
+    
+    @* <h4>Table of Contents</h4>
+    <hr/>
+    <nav class="h-100 flex-column align-items-stretch">
+      <nav class="nav flex-column">
+        @{
+          foreach (var entry in toc.Entries)
+          {
+            <a class="nav-link" href="@entry.Link">@entry.Title</a>
 
+            if (entry.Children != null && entry.Children.Count() > 0)
+            {
+              <nav class="nav flex-column">
+                @{
+                  foreach (var entry2 in entry.Children)
+                  {
+                    <a class="nav-link ms-3" href="@entry2.Link">@entry2.Title</a>
 
-
-    }
+                    if (entry2.Children != null && entry2.Children.Count() > 0)
+                    {
+                      <nav class="nav flex-column">
+                        @{
+                          foreach (var entry3 in entry2.Children)
+                          {
+                            <a class="nav-link ms-5" href="@entry3.Link">@entry3.Title</a>
+                          }
+                        }
+                      </nav>
+                    }
+                  }
+                }
+              </nav>
+            }
+          }
+        }
+      </nav>
+    </nav> *@
+  }
 }

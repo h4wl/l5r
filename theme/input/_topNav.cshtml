@@ -22,39 +22,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-        
-        @*
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                @{
-                    foreach (var item in topMenu)
-                    {
-                        var isDropdown = (item.Children?.Count() ?? 0) > 0;
-                        if (!isDropdown)
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="@item.Path">@item.Title</a>
-                            </li>
-                        } 
-                        else
-                        {
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="@item.Path" role="button" data-bs-toggle="dropdown"
-                                    aria-expanded="false">
-                                    @item.Title
-                                </a>
-                                <ul class="dropdown-menu">
-                                    @{
-                                        foreach (var childItem in item.Children)
-                                        {
-                                            <li><a class="dropdown-item" href="@childItem.Path">@childItem.Title</a></li>
-                                        }
-                                    }
-                                </ul>
-                            </li>
-                        }
-                    }
-                }
-        </div> *@
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+            <span>. . .</span>
+        </button>
     </div>
 </nav>
