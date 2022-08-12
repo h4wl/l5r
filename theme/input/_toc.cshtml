@@ -22,7 +22,10 @@
                 @{
                   foreach (var entry in toc.Entries)
                   {
-                    <a class="nav-link" href="@entry.Link">@entry.Title</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('@entry.Link')" aria-label="Close">
+                      @entry.Title
+                    </button>
+                    
 
                     if (entry.Children != null && entry.Children.Count() > 0)
                     {
@@ -30,7 +33,9 @@
                         @{
                           foreach (var entry2 in entry.Children)
                           {
-                            <a class="nav-link ms-3" href="@entry2.Link">@entry2.Title</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('@entry2.Link')" aria-label="Close">
+                              @entry2.Title
+                            </button>
 
                             if (entry2.Children != null && entry2.Children.Count() > 0)
                             {
@@ -38,7 +43,9 @@
                                 @{
                                   foreach (var entry3 in entry2.Children)
                                   {
-                                    <a class="nav-link ms-5" href="@entry3.Link">@entry3.Title</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('@entry3.Link')" aria-label="Close">
+                                      @entry3.Title
+                                    </button>
                                   }
                                 }
                               </nav>
