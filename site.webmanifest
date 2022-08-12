@@ -1,5 +1,4 @@
 {
-    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
     "name": "Legend of the Five Rings",
     "short_name": "L5R",
     "start_url": ".",
