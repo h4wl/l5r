@@ -22,18 +22,19 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-            <span>. . .</span>
-        </button>
+                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+                    <span>. . .</span>
+                </button>
+        
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div class="container-fluid">
+    <div id="content" class="container-fluid">
   
         <div class="row">
             
@@ -41,184 +42,113 @@
             <div class="col-lg-3 l5r-main-nav">
                 <!-- Side Nav / Slide-In Nav -->
                 <aside>
-    <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
-        <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-            <div class="vstack gap-3">
-
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--air d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-air"><h5>Book of Air</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/history">History</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/religion">Religion</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/bushido">Bushido</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/people">People</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--earth d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-earth"><h5>Book of Earth</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/rolls">Rolls</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/traits">Traits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/combat">Combat</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--fire d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-fire"><h5>Book of Fire</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/character-creation">Character Creation</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/families">Families</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/schools">Schools</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/advantages">Advantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/disadvantages">Disadvantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/skills">Skills</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/equipment">Equipment</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/magic">Magic</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/universal-spells">Universal Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/air-spells">Air Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/earth-spells">Earth Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/fire-spells">Fire Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/water-spells">Water Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/void-spells">Void Spells</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--water d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-water"><h5>Book of Water</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/battle">Mass Battle</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/ancestors">Ancestors</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/heritage">Heritage</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/katas">Kata</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/kiho">Kiho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/maho">Maho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/shadowlands-taint">Shadowlands Taint</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--void d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-the-void"><h5>Book of Void</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/multi-elemental-spells">Multi-Elemental Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/the-nothing">The Nothing</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/nezumi">Nezumi</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/naga">Naga</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tsuno">Tsuno</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/legend-of-the-burning-sands">Legend of the Burning Sands</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/playable-returned-spirits">Playable Returned Spirits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tokugi">Tokugi (Unofficial)</a></div>
-                                        </div>
-                        </div>
-            </div>
-
-
-
-        </div>
+  <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation"
+    aria-labelledby="mainNavigationLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="vstack gap-3">
+
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--air d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-air"><strong>Book of Air</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/history">History</a>
+                    <a class="btn btn-toc ms-4" href="/religion">Religion</a>
+                    <a class="btn btn-toc ms-4" href="/bushido">Bushido</a>
+                    <a class="btn btn-toc ms-4" href="/people">People</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--earth d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-earth"><strong>Book of Earth</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/rolls">Rolls</a>
+                    <a class="btn btn-toc ms-4" href="/traits">Traits</a>
+                    <a class="btn btn-toc ms-4" href="/combat">Combat</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--fire d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-fire"><strong>Book of Fire</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/character-creation">Character Creation</a>
+                    <a class="btn btn-toc ms-4" href="/families">Families</a>
+                    <a class="btn btn-toc ms-4" href="/schools">Schools</a>
+                    <a class="btn btn-toc ms-4" href="/advantages">Advantages</a>
+                    <a class="btn btn-toc ms-4" href="/disadvantages">Disadvantages</a>
+                    <a class="btn btn-toc ms-4" href="/skills">Skills</a>
+                    <a class="btn btn-toc ms-4" href="/equipment">Equipment</a>
+                    <a class="btn btn-toc ms-4" href="/magic">Magic</a>
+                    <a class="btn btn-toc ms-4" href="/universal-spells">Universal Spells</a>
+                    <a class="btn btn-toc ms-4" href="/air-spells">Air Spells</a>
+                    <a class="btn btn-toc ms-4" href="/earth-spells">Earth Spells</a>
+                    <a class="btn btn-toc ms-4" href="/fire-spells">Fire Spells</a>
+                    <a class="btn btn-toc ms-4" href="/water-spells">Water Spells</a>
+                    <a class="btn btn-toc ms-4" href="/void-spells">Void Spells</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--water d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-water"><strong>Book of Water</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/battle">Mass Battle</a>
+                    <a class="btn btn-toc ms-4" href="/ancestors">Ancestors</a>
+                    <a class="btn btn-toc ms-4" href="/heritage">Heritage</a>
+                    <a class="btn btn-toc ms-4" href="/katas">Kata</a>
+                    <a class="btn btn-toc ms-4" href="/kiho">Kiho</a>
+                    <a class="btn btn-toc ms-4" href="/maho">Maho</a>
+                    <a class="btn btn-toc ms-4" href="/shadowlands-taint">Shadowlands Taint</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--void d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-the-void"><strong>Book of Void</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/multi-elemental-spells">Multi-Elemental Spells</a>
+                    <a class="btn btn-toc ms-4" href="/the-nothing">The Nothing</a>
+                    <a class="btn btn-toc ms-4" href="/nezumi">Nezumi</a>
+                    <a class="btn btn-toc ms-4" href="/naga">Naga</a>
+                    <a class="btn btn-toc ms-4" href="/tsuno">Tsuno</a>
+                    <a class="btn btn-toc ms-4" href="/legend-of-the-burning-sands">Legend of the Burning Sands</a>
+                    <a class="btn btn-toc ms-4" href="/playable-returned-spirits">Playable Returned Spirits</a>
+                    <a class="btn btn-toc ms-4" href="/tokugi">Tokugi (Unofficial)</a>
+            </div>
+      </div>
+
+
+
+    </div>
+  </div>
 </aside>
 
             </div>
             
-            <div id="content" class="col-md-12 col-lg-6 col-xl-6 col-xxl-6"  >
+            <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Minor Clan Schools</h4>
 
                 <h2 id="toc0"><span>Basic Schools</span></h2>
@@ -549,42 +479,100 @@ Artisans trained in the Tsi Smith School are unique in that everything they lear
 <h4>Table of Contents</h4>
             <nav class="h-100 flex-column align-items-stretch">
               <nav class="nav flex-column">
-                    <a class="nav-link" href="/scminor#toc0">Basic Schools</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scminor#toc0')" aria-label="Close">
+                      Basic Schools
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/scminor#toc1">Badger Clan - Ichiro Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc2">Bat Clan - Komori Shugenja [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc3">Boar Clan - Heichi Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc4">Dragonfly Clan - Tonbo Shugenja [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc5">Falcon Clan - Toritaka Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc6">Fox Clan - Kitsune Shugenja [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc7">Hare Clan - Usagi Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc8">Monkey Clan</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc1')" aria-label="Close">
+                              Badger Clan - Ichiro Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc2')" aria-label="Close">
+                              Bat Clan - Komori Shugenja [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc3')" aria-label="Close">
+                              Boar Clan - Heichi Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc4')" aria-label="Close">
+                              Dragonfly Clan - Tonbo Shugenja [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc5')" aria-label="Close">
+                              Falcon Clan - Toritaka Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc6')" aria-label="Close">
+                              Fox Clan - Kitsune Shugenja [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc7')" aria-label="Close">
+                              Hare Clan - Usagi Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc8')" aria-label="Close">
+                              Monkey Clan
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/scminor#toc9">Toku Bushi [CR]</a>
-                                    <a class="nav-link ms-5" href="/scminor#toc10">Fuzake Shugenja [SE]</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/scminor#toc9')" aria-label="Close">
+                                      Toku Bushi [CR]
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/scminor#toc10')" aria-label="Close">
+                                      Fuzake Shugenja [SE]
+                                    </button>
                               </nav>
-                            <a class="nav-link ms-3" href="/scminor#toc11">Oriole Clan - Tsi Smith [Artisan] [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc12">Ox Clan - Morito Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc13">Snake Clan - Chuda Shugenja [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc14">Sparrow Clan - Suzume Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc15">Tiger Clan - Yotsu Bushi [IH]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc16">Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc11')" aria-label="Close">
+                              Oriole Clan - Tsi Smith [Artisan] [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc12')" aria-label="Close">
+                              Ox Clan - Morito Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc13')" aria-label="Close">
+                              Snake Clan - Chuda Shugenja [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc14')" aria-label="Close">
+                              Sparrow Clan - Suzume Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc15')" aria-label="Close">
+                              Tiger Clan - Yotsu Bushi [IH]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc16')" aria-label="Close">
+                              Tortoise Clan - Kasuga Smuggler [Courtier] [CR]
+                            </button>
                       </nav>
-                    <a class="nav-link" href="/scminor#toc17">Advanced Schools</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scminor#toc17')" aria-label="Close">
+                      Advanced Schools
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/scminor#toc18">Minor Clan Defender [Bushi] [EE]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc18')" aria-label="Close">
+                              Minor Clan Defender [Bushi] [EE]
+                            </button>
                       </nav>
-                    <a class="nav-link" href="/scminor#toc19">Alternate Paths</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scminor#toc19')" aria-label="Close">
+                      Alternate Paths
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/scminor#toc20">Dragonfly Advisor [Courtier/Shugenja] [SE]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc21">Ichiro Pass Warden [SE]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc22">Minor Clan Alliance Diplomat [Courtier]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc23">Ox Clan Vigilant [SE]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc24">Soldier of the Three Man Alliance [Bushi] [IH]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc25">Suzume Storytellers [Courtier/Artisan] [SE]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc26">Tortoise Guard [Bushi] [IH]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc27">Tortoise Killers [Bushi] [SE]</a>
-                            <a class="nav-link ms-3" href="/scminor#toc28">Ujina Skirmishers [Bushi]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc20')" aria-label="Close">
+                              Dragonfly Advisor [Courtier/Shugenja] [SE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc21')" aria-label="Close">
+                              Ichiro Pass Warden [SE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc22')" aria-label="Close">
+                              Minor Clan Alliance Diplomat [Courtier]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc23')" aria-label="Close">
+                              Ox Clan Vigilant [SE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc24')" aria-label="Close">
+                              Soldier of the Three Man Alliance [Bushi] [IH]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc25')" aria-label="Close">
+                              Suzume Storytellers [Courtier/Artisan] [SE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc26')" aria-label="Close">
+                              Tortoise Guard [Bushi] [IH]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc27')" aria-label="Close">
+                              Tortoise Killers [Bushi] [SE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scminor#toc28')" aria-label="Close">
+                              Ujina Skirmishers [Bushi]
+                            </button>
                       </nav>
               </nav>
             </nav>
@@ -601,6 +589,7 @@ Artisans trained in the Tsi Smith School are unique in that everything they lear
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
         crossorigin="anonymous"></script>
+    <script src="/scripts/l5r.js"></script>
 </body>
 
 </html>

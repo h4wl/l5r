@@ -22,18 +22,19 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-            <span>. . .</span>
-        </button>
+                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+                    <span>. . .</span>
+                </button>
+        
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div class="container-fluid">
+    <div id="content" class="container-fluid">
   
         <div class="row">
             
@@ -41,184 +42,113 @@
             <div class="col-lg-3 l5r-main-nav">
                 <!-- Side Nav / Slide-In Nav -->
                 <aside>
-    <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
-        <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-            <div class="vstack gap-3">
-
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--air d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-air"><h5>Book of Air</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/history">History</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/religion">Religion</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/bushido">Bushido</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/people">People</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--earth d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-earth"><h5>Book of Earth</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/rolls">Rolls</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/traits">Traits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/combat">Combat</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--fire d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-fire"><h5>Book of Fire</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/character-creation">Character Creation</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/families">Families</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/schools">Schools</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/advantages">Advantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/disadvantages">Disadvantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/skills">Skills</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/equipment">Equipment</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/magic">Magic</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/universal-spells">Universal Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/air-spells">Air Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/earth-spells">Earth Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/fire-spells">Fire Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/water-spells">Water Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/void-spells">Void Spells</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--water d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-water"><h5>Book of Water</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/battle">Mass Battle</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/ancestors">Ancestors</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/heritage">Heritage</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/katas">Kata</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/kiho">Kiho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/maho">Maho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/shadowlands-taint">Shadowlands Taint</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--void d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-the-void"><h5>Book of Void</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/multi-elemental-spells">Multi-Elemental Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/the-nothing">The Nothing</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/nezumi">Nezumi</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/naga">Naga</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tsuno">Tsuno</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/legend-of-the-burning-sands">Legend of the Burning Sands</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/playable-returned-spirits">Playable Returned Spirits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tokugi">Tokugi (Unofficial)</a></div>
-                                        </div>
-                        </div>
-            </div>
-
-
-
-        </div>
+  <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation"
+    aria-labelledby="mainNavigationLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="vstack gap-3">
+
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--air d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-air"><strong>Book of Air</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/history">History</a>
+                    <a class="btn btn-toc ms-4" href="/religion">Religion</a>
+                    <a class="btn btn-toc ms-4" href="/bushido">Bushido</a>
+                    <a class="btn btn-toc ms-4" href="/people">People</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--earth d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-earth"><strong>Book of Earth</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/rolls">Rolls</a>
+                    <a class="btn btn-toc ms-4" href="/traits">Traits</a>
+                    <a class="btn btn-toc ms-4" href="/combat">Combat</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--fire d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-fire"><strong>Book of Fire</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/character-creation">Character Creation</a>
+                    <a class="btn btn-toc ms-4" href="/families">Families</a>
+                    <a class="btn btn-toc ms-4" href="/schools">Schools</a>
+                    <a class="btn btn-toc ms-4" href="/advantages">Advantages</a>
+                    <a class="btn btn-toc ms-4" href="/disadvantages">Disadvantages</a>
+                    <a class="btn btn-toc ms-4" href="/skills">Skills</a>
+                    <a class="btn btn-toc ms-4" href="/equipment">Equipment</a>
+                    <a class="btn btn-toc ms-4" href="/magic">Magic</a>
+                    <a class="btn btn-toc ms-4" href="/universal-spells">Universal Spells</a>
+                    <a class="btn btn-toc ms-4" href="/air-spells">Air Spells</a>
+                    <a class="btn btn-toc ms-4" href="/earth-spells">Earth Spells</a>
+                    <a class="btn btn-toc ms-4" href="/fire-spells">Fire Spells</a>
+                    <a class="btn btn-toc ms-4" href="/water-spells">Water Spells</a>
+                    <a class="btn btn-toc ms-4" href="/void-spells">Void Spells</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--water d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-water"><strong>Book of Water</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/battle">Mass Battle</a>
+                    <a class="btn btn-toc ms-4" href="/ancestors">Ancestors</a>
+                    <a class="btn btn-toc ms-4" href="/heritage">Heritage</a>
+                    <a class="btn btn-toc ms-4" href="/katas">Kata</a>
+                    <a class="btn btn-toc ms-4" href="/kiho">Kiho</a>
+                    <a class="btn btn-toc ms-4" href="/maho">Maho</a>
+                    <a class="btn btn-toc ms-4" href="/shadowlands-taint">Shadowlands Taint</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--void d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-the-void"><strong>Book of Void</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/multi-elemental-spells">Multi-Elemental Spells</a>
+                    <a class="btn btn-toc ms-4" href="/the-nothing">The Nothing</a>
+                    <a class="btn btn-toc ms-4" href="/nezumi">Nezumi</a>
+                    <a class="btn btn-toc ms-4" href="/naga">Naga</a>
+                    <a class="btn btn-toc ms-4" href="/tsuno">Tsuno</a>
+                    <a class="btn btn-toc ms-4" href="/legend-of-the-burning-sands">Legend of the Burning Sands</a>
+                    <a class="btn btn-toc ms-4" href="/playable-returned-spirits">Playable Returned Spirits</a>
+                    <a class="btn btn-toc ms-4" href="/tokugi">Tokugi (Unofficial)</a>
+            </div>
+      </div>
+
+
+
+    </div>
+  </div>
 </aside>
 
             </div>
             
-            <div id="content" class="col-md-12 col-lg-6 col-xl-6 col-xxl-6"  >
+            <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">History of the Emerald Empire</h4>
 
                 <h2 id="toc0"><span>The Birth of the Universe</span></h2>
@@ -362,44 +292,100 @@ Once the Great Clans were established, the Kami began to create a shining civili
 <h4>Table of Contents</h4>
             <nav class="h-100 flex-column align-items-stretch">
               <nav class="nav flex-column">
-                    <a class="nav-link" href="/history#toc0">The Birth of the Universe</a>
-                    <a class="nav-link" href="/history#toc1">The Fall of the Kami</a>
-                    <a class="nav-link" href="/history#toc2">Pre-History of the Empire</a>
-                    <a class="nav-link" href="/history#toc3">The History of an Empire</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/history#toc0')" aria-label="Close">
+                      The Birth of the Universe
+                    </button>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/history#toc1')" aria-label="Close">
+                      The Fall of the Kami
+                    </button>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/history#toc2')" aria-label="Close">
+                      Pre-History of the Empire
+                    </button>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/history#toc3')" aria-label="Close">
+                      The History of an Empire
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/history#toc4">First Century (1-100 IC)</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc4')" aria-label="Close">
+                              First Century (1-100 IC)
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/history#toc5">The Dawn of the Empire</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc5')" aria-label="Close">
+                                      The Dawn of the Empire
+                                    </button>
                               </nav>
-                            <a class="nav-link ms-3" href="/history#toc6">Second Century (101-200 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc7">Third Century (201-300 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc8">Fourth Century (301-400 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc9">Fifth Century (401-500 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc10">Sixth Century (501-600 IC)</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc6')" aria-label="Close">
+                              Second Century (101-200 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc7')" aria-label="Close">
+                              Third Century (201-300 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc8')" aria-label="Close">
+                              Fourth Century (301-400 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc9')" aria-label="Close">
+                              Fifth Century (401-500 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc10')" aria-label="Close">
+                              Sixth Century (501-600 IC)
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/history#toc11">The First Rise of the Bloodspeaker</a>
-                                    <a class="nav-link ms-5" href="/history#toc12">The Steel Chrysanthemum</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc11')" aria-label="Close">
+                                      The First Rise of the Bloodspeaker
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc12')" aria-label="Close">
+                                      The Steel Chrysanthemum
+                                    </button>
                               </nav>
-                            <a class="nav-link ms-3" href="/history#toc13">Seventh Century (601-700 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc14">Eight Century (701-800 IC)</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc13')" aria-label="Close">
+                              Seventh Century (601-700 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc14')" aria-label="Close">
+                              Eight Century (701-800 IC)
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/history#toc15">The Attack of the Maw</a>
-                                    <a class="nav-link ms-5" href="/history#toc16">The Return of the Bloodspeaker</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc15')" aria-label="Close">
+                                      The Attack of the Maw
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc16')" aria-label="Close">
+                                      The Return of the Bloodspeaker
+                                    </button>
                               </nav>
-                            <a class="nav-link ms-3" href="/history#toc17">Ninth Century (801-900 IC)</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc17')" aria-label="Close">
+                              Ninth Century (801-900 IC)
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/history#toc18">The Return of the Unicorn</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc18')" aria-label="Close">
+                                      The Return of the Unicorn
+                                    </button>
                               </nav>
-                            <a class="nav-link ms-3" href="/history#toc19">Tenth Century (901-1000 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc20">Eleventh Centurty (1001-1100 IC)</a>
-                            <a class="nav-link ms-3" href="/history#toc21">Twelfth Century (1101-1200 IC)</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc19')" aria-label="Close">
+                              Tenth Century (901-1000 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc20')" aria-label="Close">
+                              Eleventh Centurty (1001-1100 IC)
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/history#toc21')" aria-label="Close">
+                              Twelfth Century (1101-1200 IC)
+                            </button>
                               <nav class="nav flex-column">
-                                    <a class="nav-link ms-5" href="/history#toc22">The Scorpion Clan Coup</a>
-                                    <a class="nav-link ms-5" href="/history#toc23">The Clan War &amp;amp; Second Day of Thunder</a>
-                                    <a class="nav-link ms-5" href="/history#toc24">The Hidden Emperor Era (The War Against the Darkness)</a>
-                                    <a class="nav-link ms-5" href="/history#toc25">The Four Winds Era</a>
-                                    <a class="nav-link ms-5" href="/history#toc26">Return of the Bloodspeaker</a>
-                                    <a class="nav-link ms-5" href="/history#toc27">The Race for the Throne</a>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc22')" aria-label="Close">
+                                      The Scorpion Clan Coup
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc23')" aria-label="Close">
+                                      The Clan War &amp;amp; Second Day of Thunder
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc24')" aria-label="Close">
+                                      The Hidden Emperor Era (The War Against the Darkness)
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc25')" aria-label="Close">
+                                      The Four Winds Era
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc26')" aria-label="Close">
+                                      Return of the Bloodspeaker
+                                    </button>
+                                    <button type="button" class="btn btn-toc ms-5" onclick="l5r.tocOnClick('/history#toc27')" aria-label="Close">
+                                      The Race for the Throne
+                                    </button>
                               </nav>
                       </nav>
               </nav>
@@ -417,6 +403,7 @@ Once the Great Clans were established, the Kami began to create a shining civili
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
         crossorigin="anonymous"></script>
+    <script src="/scripts/l5r.js"></script>
 </body>
 
 </html>

@@ -60,6 +60,23 @@
     }
 }
 
-html {
-    scroll-padding-top: 5rem;
-  }
+
+
+h1::before, h2::before,h3::before,h4::before,h5::before,h6::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -5rem; 
+    height: 5rem; 
+    visibility: hidden; 
+    pointer-events: none;
+}
+
+.btn.btn-toc {
+    text-align: left;
+    border: none;
+}
+
+.input-group.books > .input-group-text {
+    background-color: inherit;
+    border: none;
+}

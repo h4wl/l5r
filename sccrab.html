@@ -22,18 +22,19 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-            <span>. . .</span>
-        </button>
+                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+                    <span>. . .</span>
+                </button>
+        
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div class="container-fluid">
+    <div id="content" class="container-fluid">
   
         <div class="row">
             
@@ -41,184 +42,113 @@
             <div class="col-lg-3 l5r-main-nav">
                 <!-- Side Nav / Slide-In Nav -->
                 <aside>
-    <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation" aria-labelledby="mainNavigationLabel">
-        <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-            <div class="vstack gap-3">
-
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--air d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-air"><h5>Book of Air</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/history">History</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/religion">Religion</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/bushido">Bushido</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/people">People</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--earth d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-earth"><h5>Book of Earth</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/rolls">Rolls</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/traits">Traits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/combat">Combat</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--fire d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-fire"><h5>Book of Fire</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/character-creation">Character Creation</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/families">Families</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/schools">Schools</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/advantages">Advantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/disadvantages">Disadvantages</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/skills">Skills</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/equipment">Equipment</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/magic">Magic</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/universal-spells">Universal Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/air-spells">Air Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/earth-spells">Earth Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/fire-spells">Fire Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/water-spells">Water Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/void-spells">Void Spells</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--water d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-water"><h5>Book of Water</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/battle">Mass Battle</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/ancestors">Ancestors</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/heritage">Heritage</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/katas">Kata</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/kiho">Kiho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/maho">Maho</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/shadowlands-taint">Shadowlands Taint</a></div>
-                                        </div>
-                        </div>
-                        <div class="vstack gap-1">
-                            <div>
-                                <div class="ring-sprite-no-label sprite--void d-inline-block"
-                                style="width: 1.5rem; height: 1.5rem;"></div>
-                                <div style="height: 1.5rem;" class="d-inline-block align-top">
-                                    <a href="/book-of-the-void"><h5>Book of Void</h5></a>
-                                </div>
-                            </div>
-
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/multi-elemental-spells">Multi-Elemental Spells</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/the-nothing">The Nothing</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/nezumi">Nezumi</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/naga">Naga</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tsuno">Tsuno</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/legend-of-the-burning-sands">Legend of the Burning Sands</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/playable-returned-spirits">Playable Returned Spirits</a></div>
-                                        </div>
-                                        <div>
-                                            <div class="d-inline-block text-wrap ps-5" ><a href="/tokugi">Tokugi (Unofficial)</a></div>
-                                        </div>
-                        </div>
-            </div>
-
-
-
-        </div>
+  <div class="offcanvas-lg offcanvas-start mt-lg-3" tabindex="-1" id="mainNavigation"
+    aria-labelledby="mainNavigationLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="mainNavigationLabel">The Five Rings</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavigation"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="vstack gap-3">
+
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--air d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-air"><strong>Book of Air</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/history">History</a>
+                    <a class="btn btn-toc ms-4" href="/religion">Religion</a>
+                    <a class="btn btn-toc ms-4" href="/bushido">Bushido</a>
+                    <a class="btn btn-toc ms-4" href="/people">People</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--earth d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-earth"><strong>Book of Earth</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/rolls">Rolls</a>
+                    <a class="btn btn-toc ms-4" href="/traits">Traits</a>
+                    <a class="btn btn-toc ms-4" href="/combat">Combat</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--fire d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-fire"><strong>Book of Fire</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/character-creation">Character Creation</a>
+                    <a class="btn btn-toc ms-4" href="/families">Families</a>
+                    <a class="btn btn-toc ms-4" href="/schools">Schools</a>
+                    <a class="btn btn-toc ms-4" href="/advantages">Advantages</a>
+                    <a class="btn btn-toc ms-4" href="/disadvantages">Disadvantages</a>
+                    <a class="btn btn-toc ms-4" href="/skills">Skills</a>
+                    <a class="btn btn-toc ms-4" href="/equipment">Equipment</a>
+                    <a class="btn btn-toc ms-4" href="/magic">Magic</a>
+                    <a class="btn btn-toc ms-4" href="/universal-spells">Universal Spells</a>
+                    <a class="btn btn-toc ms-4" href="/air-spells">Air Spells</a>
+                    <a class="btn btn-toc ms-4" href="/earth-spells">Earth Spells</a>
+                    <a class="btn btn-toc ms-4" href="/fire-spells">Fire Spells</a>
+                    <a class="btn btn-toc ms-4" href="/water-spells">Water Spells</a>
+                    <a class="btn btn-toc ms-4" href="/void-spells">Void Spells</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--water d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-water"><strong>Book of Water</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/battle">Mass Battle</a>
+                    <a class="btn btn-toc ms-4" href="/ancestors">Ancestors</a>
+                    <a class="btn btn-toc ms-4" href="/heritage">Heritage</a>
+                    <a class="btn btn-toc ms-4" href="/katas">Kata</a>
+                    <a class="btn btn-toc ms-4" href="/kiho">Kiho</a>
+                    <a class="btn btn-toc ms-4" href="/maho">Maho</a>
+                    <a class="btn btn-toc ms-4" href="/shadowlands-taint">Shadowlands Taint</a>
+            </div>
+            <div class="vstack gap-1">
+              <div class="input-group books">
+                <div class="input-group-text px-0">
+                  <div class="ring-sprite-no-label sprite--void d-inline-block"
+                  style="width: 1.5rem; height: 1.5rem;"></div>
+                  </div>
+                  <a class="btn btn-toc" href="/book-of-the-void"><strong>Book of Void</strong></a>
+                </div>
+
+                    <a class="btn btn-toc ms-4" href="/multi-elemental-spells">Multi-Elemental Spells</a>
+                    <a class="btn btn-toc ms-4" href="/the-nothing">The Nothing</a>
+                    <a class="btn btn-toc ms-4" href="/nezumi">Nezumi</a>
+                    <a class="btn btn-toc ms-4" href="/naga">Naga</a>
+                    <a class="btn btn-toc ms-4" href="/tsuno">Tsuno</a>
+                    <a class="btn btn-toc ms-4" href="/legend-of-the-burning-sands">Legend of the Burning Sands</a>
+                    <a class="btn btn-toc ms-4" href="/playable-returned-spirits">Playable Returned Spirits</a>
+                    <a class="btn btn-toc ms-4" href="/tokugi">Tokugi (Unofficial)</a>
+            </div>
+      </div>
+
+
+
+    </div>
+  </div>
 </aside>
 
             </div>
             
-            <div id="content" class="col-md-12 col-lg-6 col-xl-6 col-xxl-6"  >
+            <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Crab Clan Schools</h4>
 
                 <h2 id="toc0"><span>Basic Schools</span></h2>
@@ -564,43 +494,107 @@ The Kaiu are acknowledged throughout the Empire as the foremost practitioners of
 <h4>Table of Contents</h4>
             <nav class="h-100 flex-column align-items-stretch">
               <nav class="nav flex-column">
-                    <a class="nav-link" href="/sccrab#toc0">Basic Schools</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/sccrab#toc0')" aria-label="Close">
+                      Basic Schools
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/sccrab#toc1">Hida Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc2">Hida Pragmatist [Bushi] [EE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc3">Hiruma Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc4">Hiruma Scout [Bushi] [IH]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc5">Kaiu Engineer [Artisan/Bushi] [GC]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc6">Kuni Shugenja [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc7">Kuni Witch-Hunter [Monk] [GC]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc8">Toritaka Bushi [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc9">Yasuki Courtier [CR]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc1')" aria-label="Close">
+                              Hida Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc2')" aria-label="Close">
+                              Hida Pragmatist [Bushi] [EE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc3')" aria-label="Close">
+                              Hiruma Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc4')" aria-label="Close">
+                              Hiruma Scout [Bushi] [IH]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc5')" aria-label="Close">
+                              Kaiu Engineer [Artisan/Bushi] [GC]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc6')" aria-label="Close">
+                              Kuni Shugenja [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc7')" aria-label="Close">
+                              Kuni Witch-Hunter [Monk] [GC]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc8')" aria-label="Close">
+                              Toritaka Bushi [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc9')" aria-label="Close">
+                              Yasuki Courtier [CR]
+                            </button>
                       </nav>
-                    <a class="nav-link" href="/sccrab#toc10">Advanced Schools</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/sccrab#toc10')" aria-label="Close">
+                      Advanced Schools
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/sccrab#toc11">Defender of the Wall [Bushi] [CR]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc11')" aria-label="Close">
+                              Defender of the Wall [Bushi] [CR]
+                            </button>
                       </nav>
-                    <a class="nav-link" href="/sccrab#toc12">Alternate Paths</a>
+                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/sccrab#toc12')" aria-label="Close">
+                      Alternate Paths
+                    </button>
                       <nav class="nav flex-column">
-                            <a class="nav-link ms-3" href="/sccrab#toc13">Crab Berserker [Bushi] [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc14">Crab Defender [Bushi] [BoA]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc15">Crab Knife-Fighter [Bushi] [BoF]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc16">Crab Sumai Wrestler [Bushi] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc17">Falcon&#x27;s Strike [Bushi] [BoA]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc18">Hiruma Slayer [Bushi] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc19">Hiruma Sniper [Bushi] [BoA]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc20">Hiruma Yojimbo [Bushi] [StE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc21">Kaiu Shipmasters [Artisan/Bushi]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc22">Kaiu Siegemaster [Bushi] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc23">Kuni Crystal Master [Shugenja] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc24">Oni Slayer [Shugenja] [CR]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc25">Rajya ke Varisa [Bushi]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc26">Severed Hand [Courtier] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc27">Toritaka Exorcist [Shugenja] [GC]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc28">Tsuru&#x27;s Legion [Bushi] [S&amp;amp;F]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc29">Yasuki Enforcer [Bushi] [StE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc30">Yasuki Extortionist [Courtier] [BoE]</a>
-                            <a class="nav-link ms-3" href="/sccrab#toc31">Yasuki Taskmaster [Bushi] [S&amp;amp;F]</a>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc13')" aria-label="Close">
+                              Crab Berserker [Bushi] [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc14')" aria-label="Close">
+                              Crab Defender [Bushi] [BoA]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc15')" aria-label="Close">
+                              Crab Knife-Fighter [Bushi] [BoF]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc16')" aria-label="Close">
+                              Crab Sumai Wrestler [Bushi] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc17')" aria-label="Close">
+                              Falcon&#x27;s Strike [Bushi] [BoA]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc18')" aria-label="Close">
+                              Hiruma Slayer [Bushi] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc19')" aria-label="Close">
+                              Hiruma Sniper [Bushi] [BoA]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc20')" aria-label="Close">
+                              Hiruma Yojimbo [Bushi] [StE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc21')" aria-label="Close">
+                              Kaiu Shipmasters [Artisan/Bushi]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc22')" aria-label="Close">
+                              Kaiu Siegemaster [Bushi] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc23')" aria-label="Close">
+                              Kuni Crystal Master [Shugenja] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc24')" aria-label="Close">
+                              Oni Slayer [Shugenja] [CR]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc25')" aria-label="Close">
+                              Rajya ke Varisa [Bushi]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc26')" aria-label="Close">
+                              Severed Hand [Courtier] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc27')" aria-label="Close">
+                              Toritaka Exorcist [Shugenja] [GC]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc28')" aria-label="Close">
+                              Tsuru&#x27;s Legion [Bushi] [S&amp;amp;F]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc29')" aria-label="Close">
+                              Yasuki Enforcer [Bushi] [StE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc30')" aria-label="Close">
+                              Yasuki Extortionist [Courtier] [BoE]
+                            </button>
+                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/sccrab#toc31')" aria-label="Close">
+                              Yasuki Taskmaster [Bushi] [S&amp;amp;F]
+                            </button>
                       </nav>
               </nav>
             </nav>
@@ -617,6 +611,7 @@ The Kaiu are acknowledged throughout the Empire as the foremost practitioners of
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
         crossorigin="anonymous"></script>
+    <script src="/scripts/l5r.js"></script>
 </body>
 
 </html>
