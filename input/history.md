@@ -1,6 +1,6 @@
 Title: History of the Emerald Empire
 ---
-## <span>The Birth of the Universe</span>
+## The Birth of the Universe
 
 In the beginning, before the universe was created, there was only Nothing. The Nothing that existed before the birth of all things was aware, and at some point during its timeless existence, it realized it was alone - and thus experienced Fear. This unprecedented emotion was the first Sin, and created one third of the world. The realization of Fear also created in the Nothing a sense of loneliness and a desire for a companion. These sensations were the second Sin, Desire, and created a second third of the world. And when the Nothing realized what it had done, it experienced regret and a wish to unmake what it had mistakenly created. This was the third Sin, Regret, and it created the final portion of the world, completing it and ending the Nothing's existence.
 
@@ -12,7 +12,7 @@ Lady Sun and Lord Moon looked down upon the moral world and were perplexed by it
 
 As the two gods walked the mortal world, Onnotangu noticed something Amaterasu did not; a tiny scrap of the primordial darkness that had once comprised the Nothing. Intrigued and deceptive, Onnotangu chose not to name this particular bit of existence, and did not bring it to Amaterasu's attention. In doing so, he allowed the living shadow to slink away and hide itself, where it would grow powerful as the world aged, and one day threaten the existence of the universe itself. Of course, Onnotangu could not know at the time that his act would have such dire consequences.
 
-## <span>The Fall of the Kami</span>
+## The Fall of the Kami
 
 With the mortal realm fully formed, Amaterasu and Onnotangu returned to the Celestial Heavens, and Lord Moon's ardor for Lady Sun grew more powerful with each passing moment until, driven by his obsessive love, he pursued the Sun across the sky, creating the cycle of day and night. Onnotangu eventually caught up with Amaterasu, and the sky was blackened during the middle of the day. It was at this time, the first eclipse, that the ten children of the Sun and Moon were conceived. Their birth did not come for some time, as the divine are not subject to the same rules as mortals, but eventually they were born: Hantei, Hida, Doji, Togashi, Akodo, Shiba, Bayushi, Shinjo, Fu Leng, and Ryoshun. Their birth was a cause for great concern for Onnotangu, not only because he knew that Amaterasu would love their children far more than she would ever love him, but also because he knew a child of both the Sun and the Moon had the potential to become more powerful than he and might attempt to usurp his position. The Moon God thus decided his children must die.
 
@@ -20,7 +20,7 @@ Lord Moon pursued his children throughout the Heavens, heedless of Lady Sun's pl
 
 In a rage, Onnotangu lashed out and seized Fu Leng, his youngest son, determined that not all his spawn should escape. Hantei struck and severed his father's hand, and Fu Leng tumbled after his siblings. In desperation, Fu Leng reached for anything to save himself, took hold of Hantei, and pulled him down alongside him. thus, nine of the ten children of Lady Sun and Lord Moon fell from the Heavens and came to he mortal realm.
 
-## <span>Pre-History of the Empire</span>
+## Pre-History of the Empire
 
 The mortal perception of time is completely alien to the laws governing the Celestial Heavens, and as a result, things that seem to have taken very little time, or even that might have happened instantaneously, can allow vast lengths of time to pass in the mortal realm. After Lady Sun and Lord Moon named the world, thousands of years passed while they pursued one another and gave birth to their children. During that time, the mortal realm was not idle. Many races were born, rose to prominence, and faded into obscurity long before mankind walked the world. The lion-like Kitsu, the subterranean Zokujin, the wily Kenku, the brutish ogres, and the opportunistic trolls were but a few of the races that flourished during this time, although the conflicting accounts of their &quot;empires&quot; make any attempt to properly chronicle this era impossible.
 
@@ -42,13 +42,14 @@ At their Emperor's command, the other seven Kami set forth to gather followers t
 - The manipulative Bayushi crafted the Scorpion Clan in the shadows.
 - The compassionate Shinjo created the Ki-Rin Clan, later known as the Unicorn.
 
-## <span>The History of an Empire</span>
+## The History of an Empire
 
 The Empire of Rokugan uses a dating system devised by the Isawa family, which measures time from the year of the Empire's founding. This system is known as the Isawa Calendar (IC) and is used by all Rokugani to record historical events.
 
-### <span>First Century (1-100 IC)</span>
+### First Century (1-100 IC)
 
-+++The First War<br>
+#### The First War
+
 Once the Great Clans were established, the Kami began to create a shining civilization under their rule. Unfortunately, they had little time and preparation before their work was threatened to its core. A monstrous horde of demonic oni, cackling goblins, and other Shadowlands creatures appeared from the south and began to advance, destroying everything that stood in its way. The unsuspecting Empire had never seen such powerful beasts and could do little to prevent the collapse of its defenses. The general who led the gruesome legion was an even worse surprise for the Kami. It was their fallen brother Fu Leng, who had not died as they previously believed. Instead, he had fallen through to the realm of Jigoku. The Realm of Evil had consumed him with insidious whispers, manipulating Fu Leng until he became the leader of that malignant place. Filled with hate for his former family, Fu Leng intended to topple the fledgling Empire of Rokugan.
 
 The Great Clans marched onto the battlefield in teh first test of their mettle. Many of the Kami took the field themselves to protect their followers, yet the thought of fighting their brother troubled their hearts. Akodo, the war leader of Rokugan's forces, was a tactical genius but he could only slow down the Shadowlands assault. Hantei himself was critically wounded in battle. Slowly but surely, Rokguan was losing the war.
@@ -59,7 +60,7 @@ Shinsei's idea seemed outlandish. How could one mortal from each clan be enough 
 
 On what was later recorded in the history books as the Day of Thunder, the heroes of Rokugan faced Fu Leng in personal combat for the fate of the Empire and the world. The fight was brutal, and Fu Leng killed each Thunder except for Shosuro, the Scorpion. But the mortals prevailed. The Thunders sealed Fu Leng's soul into twelve magical scrolls, the Black Scrolls, and banished him from the mortal realm. Shosuro returned to Rokugan with the Black Scrolls, which Hantei entrusted to the Scorpion Clan. The Scorpion had to protect the Black Scrolls forever, lest the dark god return to wreak havoc once more.
 
-#### <span>The Dawn of the Empire</span>
+#### The Dawn of the Empire
 
 The First War, the War Against Fu Leng, was finally over, and Rokugan looked to the future. Shinjo decided the Empire needed to be aware of any other forces that could one day menace Rokugan. She did not want to see another war like the war against her fallen brother, with whom she had remained sympathetic even as she battled his terrible army. Shinjo decided she and her followers would travel outside the Empire's borders and explore the world. The Ki-Rin Clan left to the west and disappeared into the desert. They would not be seen again in Rokugan for many centuries, but they would not be forgotten. Their exploits with and against the people they met along the way would become the stuff of legend.
 
@@ -71,7 +72,7 @@ The first century also saw dynamic changes in the land itself. Fu Leng's fall ha
 
 Finally, the first century saw the adoption of Shinsei's words into the organized religion of Shintao, and the formation of Bushido, the samurai code of honor. The first Minor Clans, the Fox and Mantis, appeared. Shugenja made great advancements into spellcraft, as they learned to speak to the kami who formed the Five Elements. this era is remembered in modern Rokugan as a mythic time when every man could easily change the course of history.
 
-### <span>Second Century (101-200 IC)</span>
+### Second Century (101-200 IC)
 
 The second hundred years of Rokugan's history were a welcome respite from the tumultuous events that had marked the birth of the Empire. During these years, the Empire built a firm foundation of laws and practices that would become honored tradition. For instance, two samurai from different clans put aside their differences to create a strong Imperial force that could regulate law and conflict between the Great Clans. The warrior Doji Hatsu and the courtier Soshi Saibankan created the outlines of both the Imperial Legions and the Emerald Magistrates. These two institutions would come to play vital roles in Rokguan's governance.
 
@@ -79,13 +80,13 @@ The second century also saw the decline of divine presence within the land. Many
 
 The second century was a time of peace and production, and those who lived during this era found great pride in the newly formed samurai way. Without clear threats on the horizon, the people of Rokugan set their minds to developing their culture. Many of the traditions and archetypes of samurai life were formed during this time, especially by Hantei Genji, the &quot;Shining Prince.&quot; The courtiers of the Great Clans founded their own traditions. The formation of the Emerald Magistrates and the Imperial Legions also established the Empire's tradition of law enforcement and political appointments.
 
-### <span>Third Century (201-300 IC)</span>
+### Third Century (201-300 IC)
 
 The last of the Kami disappeared from the world of man with little fanfare. The Kami Hida had long since abdicated his leadership of the Crab Clan to his son Osano-Wo, and played no role in Rokugan's affairs. However, his divine instincts told him something terrible had befallen his first son, the Thunder Hida Atarasi, supposedly killed on the Day of Thunder. Finally, he decided to travel into the Shadowlands to find out for himself. After a difficult journey, the Kami discovered his son, mortally wounded by Fu Leng, had been infected by the corrupting touch of the Shadowlands. The two waged a vicious battle. Hida finally destroyed the abomination that had been his on, and succumbed to his wounds shortly after. No word of this battled ever reached Rokugan, although strange and grotesque legends about it persisted in the Shadowlands for centuries.
 
 The third century, like the one before it, was mostly calm and peaceful. The people who lived during this time were concerned with improving the quality of life for their clans, and small improvements made during this era have remained relevant ever since. The Brotherhood of Shinsei was formally organized during this time, sparking great intellectual debate among the scholars and theologians of every clan.
 
-### <span>Fourth Century (301-400 IC)</span>
+### Fourth Century (301-400 IC)
 
 After arguments that persisted for decades, the Yasuji family finally decided to permanently leave the Crane Clan. This event marked the first time any family had ever seceded from a Great Clan. The neighboring Crab Clan accepted the Yasuki into their ranks, and also decided to take their lands. This sparked a full-scale war between the Crane Clan and the Crab Clan, another first in Rokugan's history. The first Yasuki War, as it is now known, lasted over a decade and ended in a stalemate, with the Crane reluctantly accepting the Yasuki departure. The war spawned the Minor Clan of the Sparrow, and resulted in an Imperial Edict banning open large-scale warfare among the Great Clans.
 
@@ -95,7 +96,7 @@ The Gozuku believed they were doing the right thing, and they made many improvem
 
 The fourth century had begun with an era of growth and peace. Several Minor Clans formed during this time and in the Crab lands a new alliance between man and the nonhuman Nezumi was forged. However, this era of optimism slowly fell into corruption after the Gozuku took over. The end of the fourth century was marked by intrigue and conflict. It is one of the darkest points in Rokugani history, as Rokugan damaged itself without any external forces compelling the change.
 
-### <span>Fifth Century (401-500 IC)</span>
+### Fifth Century (401-500 IC)
 
 As the fifth century opened, the Gozuku took extreme measures to ensure their reign would endure. They executed those they suspected of being spies, including many monks from the Brotherhood of Shinsei. This brutality helped others, especially in the Lion and Dragon Clans, to recognize the darker aspects of the Gozoku and plot their end. They found their opportunity with the Emperor's daughter Hantei Yugozohime. The Lion trained her to be a wise and capable warrior, and upon the death of her father, she challenged the new Gozoku puppet Emperor to a duel and won. The combined armies of the Lion and Dragon Clans stood behind her and secured her power, and as Empress, Yugozohime quickly dismantled the Gozoku power structure.
 
@@ -105,9 +106,9 @@ The fifth century was a turmultous era of change and war. When Yugozohime overth
 
 The arrival of gaijin forces in Rokugan illuminated the exact problem Shinjo foresaw at the birth of the Empire. Until this event, Rokugan had no contact with those from outside its borders, and this first interaction nearly threw the whole Empire into chaos. As it was, this minor meeting resulted in a giant naval battle and the death of the Empress. The Rokugani grew deeply suspicious of foreign influences, which would create many problems centuries later with the return of Shinjo's people.
 
-### <span>Sixth Century (501-600 IC)</span>
+### Sixth Century (501-600 IC)
 
-#### <span>The First Rise of the Bloodspeaker</span>
+#### The First Rise of the Bloodspeaker
 
 The sixth century saw the rise of a new villain of grand and terrible proportions. Otomo Jama, the youngest son of the Emperor, found a secret collection of magical texts written by a Crab shugenja who had researched the effects of the Shadowlands Taint. Jama was intrigued by the power described within and began to dabble in these abilities. His research and hard work paid off by making him one of the most powerful maho-tsukai (blood sorcerers) of all time. Even worse, he learned from gaijin lands the secret of removing and hiding his own heart, making himself immortal. He adopted the name Iuchiban and gathered other depraved worshippers and power-mongers into a deadly cult called the Bloodspeakers.
 
@@ -123,13 +124,13 @@ Unfortunately, Iuchiban did not remain imprisoned. His underling Yajinden had fo
 
 The people of the sixth century were ill prepared for the terrifying might of unfettered blood magic, known as maho. They knew vaguely of the power inherent in such dark magic, but it had never been used on such scale and power before Iuchiban. Yajinden's bloodswords incapacitated the leaders of three powerful Great Clans and would have done even more were it not for the caution and guidance of the Scorpion Clan Champion. Even so, the terror of facing undead soldiers nearly routed the magistrates and Imperial guards who came to arrest Iuchiban. Although the warriors of the Crab Clan were accustomed to fighting shambling corpses, other samurai were not prepared for such horrors. The thought of fighting perverted corpses ofpast heroes was especially shocking to a society that revered its ancestors. After Iuchiban's defeat, Emperor Hantei XII decreed that everyone would be cremated upon death to prevent such an atrocity from occurring again.
 
-#### <span>The Steel Chrysanthemum</span>
+#### The Steel Chrysanthemum
 
 A sense of horror colored the beginning of the sixth century with the rise of Iuchiban. After his defeat, the Empire endured a period of uncertainty, punctuated by a Mantis attempt to kidnap the Imperial heir and, even worse, the bizarre tyranny of the Steel Chrysanthemum.
 
 Hantei XVI was brilliant and capable, but also a brutal tyrant and a paranoid, sadistically cruel man. His rule quickly became a reign of terror as he tortured and killed anyone he suspected of disloyalty, crushing every hint of open rebellion with military force. Over time his mental state became increasingly unstable, leading to bizarre behavior such as proclaiming Fortunes for Dung and Torture. Finally, his murder of his own mother in open court prompted the Imperial Guard to overthrow him. The true fate of the Emperor was concealed from the public at large, and most of his abuses were carefully left out of the Empire's official histories. The throne of Rokugan passed to the Steel Chrysanthemum's young son - who, fortunately, proved to be a far better ruler than his father. Nevertheless, Iuchiban and Hantei XVI offered a cautionary warning of what might happen if divine power fell into the wrong hands.
 
-### <span>Seventh Century (601-700 IC)</span>
+### Seventh Century (601-700 IC)
 
 What the destruction of two great threats, Iuchiban and the Steel Chrysanthemum, all of Rokugan was on edge for the next century, wondering what fate would bring next. Thankfully, the Empire enjoyed a period of respite, with no events as earth shattering as those of the previous two hundred years.
 
@@ -137,9 +138,9 @@ Rokugan recovered slowly from the effects of Hantei XVI's reign. To try to ensur
 
 Organized crime did increase somewhat during this era, and the romanticized story of Yasuki Fumoki, dashing pirate, became popular among the people. The increase in criminal activities centered around the large cities on the coast, though smuggling and bandit gangs also rose inland. The reported death of Fumoki did little to stem the increase, as people enamored with his glamorized lifestyle continued to rebel against society.
 
-### <span>Eight Century (701-800 IC)</span>
+### Eight Century (701-800 IC)
 
-#### <span>The Attack of the Maw</span>
+#### The Attack of the Maw
 
 After a quiet century of relative peace, Rokugan erupted in war again. This time the Empire would face a clear enemy, the Shadowlands. An Oni Lord known simply as &quot;the Maw&quot; gathered the largest Shadowlands army seen since the War Against Fu Leng. They appeared without warning and assaulted the Crab Lands, quickly overwhelming the clan's defenses. The Maw's army advanced relentlessly, overrunning the Hiruma lands and threatening to crush the entire Crab Clan. Finally the battered Crab armies gathered in the Hida provinces for a last-ditch effort. All looked hopeless, until a young, unknown shugenja named Kuni Osaku called forth remarkable power from within herself and raises a river into a wall of water to stand in the path of the Shadowlands army. Osaku bought the Crab precious time, and they put it to good use. For 73 days, the Crab used magic and manpower to construct a giant wall that stretched across their lands. Other clans sent aid and supplies, and the Great Carpenter Wall was finally completed with no time to spare. Osaku died, her life force consumed by her mighty spell, and the Maw's armies resumed their attack. The Wall, however, stopped them where nothing else could. The Crab crushed the Shadowlands army, slew the Maw, and forced his shattered army back to the south. Rokugan was safe once more. Thereafter, the Crab went to work expanding and lengthening the new Carpenter Wall, also known in the Empire as the Kaiu Wall, until it stretched across their entire border with the Shadowlands.
 
@@ -147,15 +148,15 @@ Although the Crab had prevailed, they paid a bitter price. The Kuni lands had be
 
 Sadly, the other Great Clans did not learn as much as the Crab from this near-disaster. The Kaiu Wall did become very effective in stemming the Shadowlands threate, and the other Great Clans, who rarely saw it with their own eyes, came to believe the Shadowlands was always kept well under control by the strong Crab.
 
-#### <span>The Return of the Bloodspeaker</span>
+#### The Return of the Bloodspeaker
 
 Decades after the Maw's attack, the plans of the Bloodspeaker Iuchiban were finally exposed when he made the mistake of trying to possess he body of a Dragon Clan tattooed monk. The Togashi was well trained and fortified against spiritual attack and fought off Iuchiban's influence. He quickly warned the other clans of Iuchiban's escape. The Great Clans remembered the terror Iuchiban spread across Rokugan the first time, and gathered their forces against the Bloodspeakers. Iuchiban assembled his own followers and a terrible seven-day-long battle ensured, at the end of which the clans totally destroyed Iuchiban's undead army. The Togashi monk who had first detected Iuchiban was able to capture the sorcerer within a special tattoo, sealing Iuchiban within his own body. He entered Iuchiban's tomb, sacrificing himself, and the shugenja of the Empire worked a great ritual to bind the Bloodspeaker's soul into the very stone of the prison.
 
 It was simple for everyone to push aside petty rivalries with other Great Clans to come together against Iuchiban's threat. The Imperial Edict for cremation greatly limited the size of his new army, and the Dragon Clan monk's sacrifice limited the Bloodspeaker's actions. However, it was a strong reminder that this villain was not yet truly defeated.
 
-### <span>Ninth Century (801-900 IC)</span>
+### Ninth Century (801-900 IC)
 
-#### <span>The Return of the Unicorn</span>
+#### The Return of the Unicorn
 
 The internal boundaries of Rokugan changed forever when the followers of Shinjo finally returned to the Emerald Empire after eight centuries of exploration. Now calling themselves the Unicorn Clan, they were unaware of the Shadowlands threat and approached their ancestral homeland from the south. The Crab Clan readied to defense against the foreigners, but the Unicorn bypassed their fortifications and rushed on into the Empire. They fought several battles against the rest of the Great Clans, most notably the Scorpion and Lion, before everyone realized the truth. The Emperor welcomed the return of Rokugan's lost brothers and sisters, and restored them to control of their original provinces.
 
@@ -165,11 +166,11 @@ Unfortunately, the Unicorn Clan's return also birthed a new enemy for Rokugan. T
 
 The reintegration of the Unicorn Clan into Rokugan would prove to be a long and difficult undertaking. Despite their best efforts, the Unicorn would remain outsiders for centuries to come. The ninth century was thus a time of vast change and culture clash, and the courts became both interesting and dangerous during this era.
 
-### <span>Tenth Century (901-1000 IC)</span>
+### Tenth Century (901-1000 IC)
 
 In contrast to the time just passed, few tumultuous events occurred during the tenth century. The Rokugani continued to adjust to the arrival of the Unicorn Clan. It was a time of minor battles and skirmishes for political gain. This era is in many ways the perfect example of the &quot;normal&quot; Empire, when people could live without grand, epic events hanging over their heads.
 
-### <span>Eleventh Centurty (1001-1100 IC)</span>
+### Eleventh Centurty (1001-1100 IC)
 
 Rokugan continues to thrive without any external threats menacing its borders. Various small skirmishes and battles continued to take place, some with disastrous results. Two Minor Clans, the Hare and the Fox, nearly went to war of territorial disputes. The situation worsened when Fox Clan diplomats were assassinated during negotiations. The involvement of the Crane Clan finally calmed things down from the precipice of full-scale war.
 
@@ -177,11 +178,11 @@ It was during the eleventh century that the Lying Darkness began to make overt m
 
 Few major or tumultuous events occurred during the eleventh century, but this was in part a prelude to far greater things, as the Empire approached the Second Day of Thunder. Thus like the century before it, the eleventh century is perfect to showcase a normal and relatively peaceful Empire.
 
-### <span>Twelfth Century (1101-1200 IC)</span>
+### Twelfth Century (1101-1200 IC)
 
 The twelfth century is one of the most tumultuous periods in Rokugan's history, beginning with the gradual escalation of minor events that led up to the Clan War and the Second Day of Thunder. The Black Scrolls had been entrusted to the Scorpion Clan's care at the founding of the Empire and they had remained safe for a thousand years, but this century would see each one opened and used, heralding the return of the dark god Fu Leng. The Second Day of Thunder would call on the descendents of the Seven Thunders to face Fu Leng and defeat him once more. These events in turn would lay the groundwork for further crises that would nearly shatter the Empire during the second half of the century.
 
-#### <span>The Scorpion Clan Coup</span>
+#### The Scorpion Clan Coup
 
 Bayushi Shoju, Scorpion Clan Champion, foresaw the return of Fu Leng. Secret prophecies told that the last Hantei would doom the Empire and herald back the dark god's return. Shoju's heart filled with dread and he sought out ways to halt the coming catastrophe. He decided the only choice was to bring an end to the Hantei dynasty. He and his clan assaulted the capital, killed the Emperor, and attempted to seize control of Rokugan by force. This event was later known as the Scorpion Clan Coup. The Great Clans allied together to defeat the Scorpion Clan, and Shoju perished for his temerity.
 
@@ -189,7 +190,7 @@ Shoju had failed to kill the Emperor's son, and Hantei XXXIX took the throne in 
 
 Yogo Junzo, daimyo of the Scorpion Clan's Yogo family, was filled with rage at the outcome of the Coup. He opened the first of several Black Scrolls to punish the Empire for Shoju's defeat. The Black Scroll spread a deadly plague known as the Wasting Disease across Rokugan, and its Taint transformed Junzo into an undead mockery of what he was. Shortly after, Junzo opened the second Black Scroll, strengthening Fu Leng's grasp on the mortal realm. The dark god immediately latched on to the weak mind and soul of the young Emperor and began to whisper in his ear.
 
-#### <span>The Clan War &amp; Second Day of Thunder</span>
+#### The Clan War &amp; Second Day of Thunder
 
 The Elemental Masters, leaders of the Phoenix Clan, saw the looming and deadly threat of the Shadowlands. They felt they did not understand enough about the Shadowlands, and the Elemental Masters were not accustomed to lacking full information on every situation. They decided to open several Black Scrolls in their possession to gain more intimate knowledge of their foe. The Masters, arrogantly secure in their power, believed they would not be affected by the Scrolls. They were quite wrong, and soon fell under the influence of the Shadowlands Taint.
 
@@ -197,7 +198,7 @@ Though Akodo Toturi became ronin after his failure during the Scorpion Clan Coup
 
 The Emperor had fallen ill from the Wasting Disease, and with no heir apparent, war soon raged across Rokugan between all the Great Clans. The Crab entered into a misguided alliance with the Shadowlands, a decision they would come to bitterly regret. The weakened Emperor succumbed to Fu Leng's power, and brought Shadowlands creatures into the heart of Rokguan to prepare for the Second Day of Thunder. Once the Rokugani finally realized the truth, they banded together in a desperate attempt to defeat the dark god. Togashi and a mysterious man called the Hooded Ronin, the descendent of Shinsei himself, assembled a new set of Seven Thunders, spiritual descendents of the original seven heroes: Hida Yakamo, Doji Hoturi, Mirumoto Hitomi, Toturi, Isawa Tadaka, Bayushi Kachiko, and Otaku Kamoko. They traveled into Otosan Uchi to confront Fu Leng in mortal combat, and while Togashi, Doji Hoturi, and Isawa Tadaka all perished, the Thunders succeeded once more in killing Fu Leng and banishing him from the mortal world. Toturi, who struck the final death-blow to the dark god's human form, ascended to the throne and became the first Emperor of the Toturi Dynasty.
 
-#### <span>The Hidden Emperor Era (The War Against the Darkness)</span>
+#### The Hidden Emperor Era (The War Against the Darkness)
 
 Toturi's first actions as Emperor were to reinstate the Scorpion Clan and elevate the Mantis Clan to the status of Great Clan, the latter a reward for their valiant service to the Empire during the Clan War. He did not reform the Akodo family, partly to avoid accusations of favoritism and partly from continuing shame over his previous failure. The Empire was safe for several years before a new crisis arose.
 
@@ -215,7 +216,7 @@ By now, the Empire was finally awake to the threat posed by the Lying Darkness. 
 
 In the aftermath of the War Against the Darkness, the Naga race returned to sleep once more, believing that one more challenge yet lay in their future.
 
-#### <span>The Four Winds Era</span>
+#### The Four Winds Era
 
 The Rokugani hoped the defeat of the Lying Darkness would finally bring about a time of peace, but it was not to be. Many of the spirits who had returned through Oblivion's Gate could not understand that their time in the mortal realm, Ningen-do, had passed. One of them was none other than Hantei XVI, the Steel Chrysanthemum. The returned Hantei gathered the spirits together and attempted a coup against Toturi. The war of the Spirits pitted man against revered ancestor in a conflict that lasted a decade. Eventually, the war ended in a truce between the Toturi Dynasty and the Steel Chrysanthemum.
 
@@ -225,7 +226,7 @@ In the ensuing political infighting, the Rokugani nearly missed the appearance o
 
 The Four Winds, warned of the danger to the Heavens, gathered together and attacked Daigotsu in his Shadowlands stronghold, the City of the Lost. While Tsudao, Sezaru, and Kaneka battled Daigotsu's minions, Naseru managed to undermine Daigotsu's relationship with Fu Leng, suggesting that Daigotsu held too much power and would one day challenge the dark god. Fu Leng's sudden doubt in his chosen champion shattered his great power, drawn from the worship of Daigotsu's followers, and he retreated from the Heavens. Tsudao took advantage of this moment to strike down Daigotsu's physical body at the cost of her own life. In the aftermath of the battle, neither Kaneka nor Sezaru felt themselves worthy of the throne. Nasure became Emperor of Rokugan, but took the title of Toturi III, declaring his late sister Tsudao to have been Toturi II.
 
-#### <span>Return of the Bloodspeaker</span>
+#### Return of the Bloodspeaker
 
 Though Daigotsu had died, his preparations allowed him to return to the mortal realms. His power was immediately challenged by the return of the dreaded sorcerer Iuchiban, who had escaped his tomb once more. Iuchiban defeated Daigotsu and forced him out of his own home, and the Bloodspeaker cult seized control of the City of the Lost. Daigotsu traveled into the Burning Sands to find the secret of Iuchiban's power.
 
@@ -237,7 +238,7 @@ Even as Iuchiban was destroyed, Shinsei's descendent Rosoku, son of the Hooded R
 
 The emergence of Rosoku and the Keepers sparked a wave of enlightenment and religious fervor across the Empire, much to the surprise of Emperor Toturi III. Naseru was always a very rational man and could not understand enlightenment. He wandered the land incognito, trying to understand this concept, and finally traveled into the heart of the Shadowlands to the Tomb of Seven Thunders, the resting place of the original seven heroes. Naseru sacrificed himself so that the Empire's heroes could return with the wisdom needed to protect the Empire from impending threats.
 
-#### <span>The Race for the Throne</span>
+#### The Race for the Throne
 
 With the death of Toturi III, another power-struggle erupted across the Empire. Sezaru's magical power drove him down the slope of madness and eventual death. Moto Chagatai the Khan of the Unicorn, attempted to seize the throne of the Empire through sheer force in an attempt to unify the Empire under one strong ruler. Kaneka died at the Battle of Toshi Ranbo, fighting his old friend Chagatai. Chagatai was ultimately unsuccessful in his attempt. Wars raged across the land and courtiers schemed to place the throne into the hands of one lord or another, until the Celestial Heavens themselves intervened.
 
