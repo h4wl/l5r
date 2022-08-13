@@ -23,7 +23,7 @@
     @RenderSectionOrPartial("TopNav", "_topNav")
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -41,8 +41,10 @@
                     }
                 }
 
-                @* @RenderSectionOrPartial("TableOfContents", "_toc") *@
-                @RenderBody()
+                <div id="content">
+                    @RenderBody()
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
                 @RenderSectionOrPartial("TableOfContents", "_toc")
