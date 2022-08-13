@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Magic</h4>
 
-                <p>Rokugani spells are actually prayers and invocations to the kami, spoken in a mystical tongue which the kami can understand. All shugenja study this speech as part of their schooling. These prayers are complex, and most shugenja must read them from scrolls in order to cast them properly. This is why shugenja normally must have their spell-scroll in hand while they cast, so that they can read off the prayers correctly. A skilled shugenja, however can memorize the incantations by spending a number of Experience Points equal to the Mastery Level of the spell. This allows them to cast without a scroll.<br>
+                <div id="content">
+                    <p>Rokugani spells are actually prayers and invocations to the kami, spoken in a mystical tongue which the kami can understand. All shugenja study this speech as part of their schooling. These prayers are complex, and most shugenja must read them from scrolls in order to cast them properly. This is why shugenja normally must have their spell-scroll in hand while they cast, so that they can read off the prayers correctly. A skilled shugenja, however can memorize the incantations by spending a number of Experience Points equal to the Mastery Level of the spell. This allows them to cast without a scroll.<br>
 Because the kami must hear the prayers, spells are normally spoken aloud. It is possible to conceal a spell, however, by muttering the prayers under one's breath, using the Stealth Skill.</p>
 <h2 id="toc0"><span>Spell Casting Rolls &amp; Spell Target Numbers</span></h2>
 <p>The Spell Casting Roll is a unique roll used by shugenja to entreat the kami and cast a spell. When casting a spell, a shugenja rolls a number of dice equal to his rank in the relevant Ring plus his Shugenja School Rank, and keeps a number of dice equal to his Ring. The result is compared to the spell's TN, which is equal to 5 plus (5x the spell's Mastery Level).<br>
@@ -220,9 +224,43 @@ After the Assessment step, either shugenja may opt to acknowledge defeat and the
 <h3 id="toc16"><span>Avatar Duels</span></h3>
 <p>Certain high-powered shugenja duels involve the duelists summoning forth powerful Elemental avatars and using these avatars to wage battle against each other by proxy. In game terms, this is accomplished by casting the various Rank 6 “Rise” spells (Rise Earth, Rise Water, etc) and using these powerful summoned kami to fight a skirmish combat. Since the summoned avatars are infused completely with the energy of the kami, they are able to damage each other (ignoring Invulnerability). The fight continues until one of the avatars is reduced to zero Wounds and thereby dispelled.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Spell Casting Rolls &amp; Spell Target Numbers</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Actions &amp; Casting Time</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Banishing and Importuning the Spirits</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Affinities &amp; Deficiencies</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Counterspelling</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Who can Counterspell, and When</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Counterspelling Procedures</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Instances where Counterspelling is Impossible</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Additional Counterspelling Options</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Taryu-Jiai Dueling</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Taryu-jiai MeChaniCs</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc11')">Step One: Selection</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc12')">Step Two : Assessment</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc13')">Step Three: Empower</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc14')">Step Four: Strike</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Additional Options</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Avatar Duels</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

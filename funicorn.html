@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Families of the Unicorn Clan</h4>
 
-                <h2 id="toc0"><span><span style="text-decoration: underline;">The Horiuchi Family: +1 Willpower</span></span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span><span style="text-decoration: underline;">The Horiuchi Family: +1 Willpower</span></span></h2>
 <p>The tiny Horiuchi family has never claimed more than a few dozen members at most. Created a few decades before the Clan War, the Horiuchi are a branch of the Iuchi family that specializes in defensive and protective magic. Horiuchi samurai are compassionate individuals who tend to intervene in the affairs of others during times of crisis.</p>
 <h2 id="toc1"><span><span style="text-decoration: underline;">The Ide Family: +1 Perception</span></span></h2>
 <p>The public face of the Unicorn, the Ide have worked tirelessly to cmobat the perception many have of the Clan as barbarians and near-gaijin. They flawlessly merge the traditions of their people with the customs of the Empire, and in doing so seek to earn the gradual respect and acceptance of other clans. Samurai of the Ide family are almost universally even-tempered and eager to forge alliances with others, whether personal or larger in scale.</p>
@@ -171,9 +175,33 @@ Marta (Shinjo): +1 Awareness<br>
 Hyuga (Utaku): +1 Awareness<br>
 Naoko (Utaku): +1 Perception</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Horiuchi Family: +1 Willpower</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">The Ide Family: +1 Perception</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">The Iuchi Family: +1 Intelligence</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">The Moto Family: +1 Agility</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">The Shinjo Family: +1 Reflexes</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">The Utaku Family: +1 Stamina</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">Vassal Families</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

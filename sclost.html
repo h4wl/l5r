@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Lost Clans Schools</h4>
 
-                <p>While these minor clans are not part of Rokugan's canonical Clans, they have been a part of Rokugan's history and have been designed by the team responsible for the fourth edition of Legend of the Five Rings. Their status as canon and use are left up to the GM.</p>
+                <div id="content">
+                    <p>While these minor clans are not part of Rokugan's canonical Clans, they have been a part of Rokugan's history and have been designed by the team responsible for the fourth edition of Legend of the Five Rings. Their status as canon and use are left up to the GM.</p>
 <h2 id="toc0"><span>The Bee Clan</span></h2>
 <h3 id="toc1"><span>The Hachi Family: + 1 Awareness</span></h3>
 <p>The Hachi were a small family of sharp witted samurai, led by the five matriarchs descended from the founders of the Clan. Most dedicated their lives to the arts, and to their deeper meanings. They were in their natural element in the highest courts of Rokugan.</p>
@@ -353,9 +357,54 @@ With great effort, this allowed the Salamander to emulate some of the powers of 
 <h5 id="gaze-of-the-cocotte-social-2-points">Gaze Of the Cocotte [Social] (2 Points)</h5>
 <p>You have the uncanny ability to know who is more susceptible to the wiles of seduction just by looking at them. When engaged in any Social Contests you know instantly when your target has the Lechery Disadvantage. Peacock, Scorpion and geisha characters may purchase this Advantage for 1 point.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Bee Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">The Hachi Family: + 1 Awareness</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Hachi Courtier School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">The Raven Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">The Karasu Family: +1 Stamina</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Karasu Bushi School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">The Shark Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">The Jirozame Family: +1 Agility</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Jirozame Bushi School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">The Salamander Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">The Hitokage Family: +1 Intelligence</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Hitokage Shugenja School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">The Firefly Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">The Hotaru Family: +1 Perception</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Hotaru Bushi School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc15')">The Tanuki Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">The Tanuki Family: +1 Stamina</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc17')">Tanuki Bushi School</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">Tanuki Sake Master [Bushi/Monk]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">Blue Tanuki's Brand Ambassador [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">Kiho</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">Advantages</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc22')">The Peacock</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">The Kujaku Family: +1 Reflexes</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc24')">New Basic School: Kujaku Bushi School</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Peacock Advanced School: Peacock Provocateur [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">Kata</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Advantages</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

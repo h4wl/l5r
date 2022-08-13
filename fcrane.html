@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Families of the Crane Clan</h4>
 
-                <h2 id="toc0"><span><span style="text-decoration: underline;">The Asahina Family: +1 Intelligence</span></span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span><span style="text-decoration: underline;">The Asahina Family: +1 Intelligence</span></span></h2>
 <p>Quiet and serene, the Asahina are among the most monastic of all samurai families. They are also perhaps the most pacifistic, even more so than the Phoenix Clan, and abhor violence, seeking other means of resolving disputes at all costs. The Asahina are also known for their devotion to philosophy and the arts.</p>
 <h2 id="toc1"><span><span style="text-decoration: underline;">The Daidoji Family: +1 Stamina</span></span></h2>
 <p>The so-called Iron Crane are the strong arm of the Crane Clan and the enforcers of the Doji and Kakita's will. They do not employ grace and style as their kinsmen do, but instead focus on sheer strength of arms and employ tactics that some might consider ruthless or even dishonorable. Daidoji means &quot;defenders of Doji,&quot; and it is a name the family has earned.</p>
@@ -165,9 +169,31 @@ Tsume (Doji): +1 Agility<br>
 Ashidaka (Kakita): +1 Agility<br>
 Iwasaki (Kakita): +1 Awareness</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Asahina Family: +1 Intelligence</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">The Daidoji Family: +1 Stamina</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">The Doji Family: +1 Awareness</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">The Kakita Family: +1 Agility</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Vassal Families</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

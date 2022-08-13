@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Air Spells</h4>
 
-                <h2 id="toc0"><span>Mastery Level 1</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Mastery Level 1</span></h2>
 <h6 id="arrows-flight">Arrow's Flight</h6>
 <ul>
 <li>Ring/Mastery: Air 1 (Battle)</li>
@@ -800,45 +802,32 @@ Casting this spell requires the caster to hold the target by the head and focus 
 <p>The wrath of the air kami, and the Fortune of the Wind, is truly dreadful to behold. In casting this spell, you unleash the full force of a hurricane upon your enemies. When the spell takes effect, you are standing in the eye of the storm, a zone radiating twenty feet in every direction from you, and in which no ill effects of the spell are suffered. Outside the eye, however, the brutal effects of the storm tear at everything in its path. Objects weighing less than five hundred pounds are lifted by the wind and tossed into the storm. Individuals in this area must hold on to something immobile or be cast into the winds to their certain death. Everyone within the affected region who does not have sturdy shelter suffers 1k1 Wounds each minute from the winds and minor debris. there is a one in ten chance each minute that an exposed individual will instead suffer 5k5 Wounds due to being struck by a wind-borne object. This spell lasts for a maximum of one hour, although it can last far shorter times if you are disrupted while maintaining the spell.</p>
 <p>This spell may not be cast in a given area more than once per month, as it completely exhausts the favors of the air kami to perform it.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc0')" aria-label="Close">
-                      Mastery Level 1
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc1')" aria-label="Close">
-                      Mastery Level 2
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc2')" aria-label="Close">
-                      Mastery Level 3
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc3')" aria-label="Close">
-                      Mastery Level 4
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc4')" aria-label="Close">
-                      Mastery Level 5
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/air-spells#toc5')" aria-label="Close">
-                      Mastery Level 6
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Mastery Level 1</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Level 2</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Mastery Level 3</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Mastery Level 4</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mastery Level 5</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

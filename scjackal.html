@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Jackal Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Jani (Warrior)</span></h3>
 <p>Jani are the Jackals' rank-and-fileoperatives, and the stealthy toughs who know how to wield a blade and cut a purse, and move unnoticed through the streets. They also learn a bit of acting and something of the art of disguise. The Jani spend a great deal of time above ground and in the streets, serving as the Jackal's eys and ears.</p>
 <ul>
@@ -207,9 +211,30 @@
 <h5 id="rank-5-jackal-ambassador">Rank 5: Jackal Ambassador</h5>
 <p>You gain an additional +1k0 bonus to all Etiquette, Storytelling, Courtier and Deceit Rolls (for a total of +2k0). You may purchase the Perceived Honor Advantage for 1 less Experience Point per Rank. You receive a one-time gain of Experience Points equal to the Ranks of the Perceived Honor Advantage you had (if any) when you learned this Technique.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Jani (Warrior)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Necromancer (Sahir)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Kabir (Diplomat)</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

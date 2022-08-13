@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Naga</h4>
 
-                <p>The ancient civilization of the Naga rose and fell before humans ever stepped foot on the world, and for many centuries humans were not even aware of them save as strange ruins in the Shinomen Mori. Ironically, although they are known for their peaceful nature and refuse to fi ght against each other, their greatest contributions to the world have been defined by wars, wars reluctantly waged when they believed their cause was right. Long before the fi rst Day of Thunder, the Naga fought the insidious influence of the Nothing and the Shadowlands Taint all across the world. After their great struggle against the Foul, as they called these forces, the Naga left the world behind and entered a Great Sleep. They had foreseen the Foul would rise again in the far future, and the Great Sleep would allow them to be ready to fight when they were needed by the world once more.<br>
+                <div id="content">
+                    <p>The ancient civilization of the Naga rose and fell before humans ever stepped foot on the world, and for many centuries humans were not even aware of them save as strange ruins in the Shinomen Mori. Ironically, although they are known for their peaceful nature and refuse to fi ght against each other, their greatest contributions to the world have been defined by wars, wars reluctantly waged when they believed their cause was right. Long before the fi rst Day of Thunder, the Naga fought the insidious influence of the Nothing and the Shadowlands Taint all across the world. After their great struggle against the Foul, as they called these forces, the Naga left the world behind and entered a Great Sleep. They had foreseen the Foul would rise again in the far future, and the Great Sleep would allow them to be ready to fight when they were needed by the world once more.<br>
 To humans, Naga are fantastical creatures: they have the torso and arms of a human but the tail of a massive serpent. Over the centuries, the Naga have crossed paths with the Rokugani more than once. Though conflict was perhaps inevitable, when faced with greater evils the two alien cultures were able to put aside their differences, at least for a time. And if evil rises again in the future, the Naga may return from their Great Sleep once more to stand against the Foul.</p>
 <p><a href="/naga-bloodlines">Naga Bloodlines</a><br>
 <a href="/naga-schools">Naga Schools</a></p>
@@ -264,9 +268,30 @@ To humans, Naga are fantastical creatures: they have the torso and arms of a hum
 <li>Price: 5 koku</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Naga Specific Abilities</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Naga Specific Advantages</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Naga Specific Disadvantages</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">New Equipment</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

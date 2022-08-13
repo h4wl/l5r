@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Kenshi Schools</h4>
 
-                <p>Kenshi schools are similar to Bushi Schools (and are in fact treated as such for the purpose of learning Katas and gaining Advantages), but only possess one Technique. In addition to that Technique however, the gain three Tokugi at Rank One, and three additional Tokugi whenever they gain an Insight Rank.</p>
+                <div id="content">
+                    <p>Kenshi schools are similar to Bushi Schools (and are in fact treated as such for the purpose of learning Katas and gaining Advantages), but only possess one Technique. In addition to that Technique however, the gain three Tokugi at Rank One, and three additional Tokugi whenever they gain an Insight Rank.</p>
 <h2 id="toc0"><span>Crab Clan Schools</span></h2>
 <h3 id="toc1"><span>Hiruma Kenshi [Bushi]</span></h3>
 <ul>
@@ -395,9 +399,72 @@
 <li><strong>Technique:</strong> <em>Cut Down the Soul</em> - Despite their techniques differing from standard Bushi training, Kenshi are often trained to attack with the swiftness of the elements - be it the speed of avalanches, the relentless advance of wildfires, the changing tides, or the furious hurricanes. You may make attacks (including this attack) as Simple Actions with any weapon for which you possess at least 5 skill ranks.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Crab Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Hiruma Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Toritaka Purifier [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Hida Kensai [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Kuni Demon Slayer [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Crane Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Kakita Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Doji Lawbringer [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Daidoji Steelsoul [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Dragon Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Mirumoto Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Kitsuki War Collegiate [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc12')">Togashi Blademaster [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc13')">Lion Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Akodo Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Matsu Blademaster [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Ikoma Kensai [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc17')">Mantis Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">Tsuruchi Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">Yoritomo Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">Moshi Sunseeker [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc21')">Phoenix Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc22')">Shiba Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">Asako Sword Mystic [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc24')">Scorpion Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Bayushi Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">Shosuro Executioner [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Soshi Justiciar [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc28')">Spider Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc29')">Daigotsu Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc30')">Goju Shadowblade [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc31')">Hand of Venom [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc32')">Oni-Bujin [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc33')">Unicorn Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc34')">Shinjo Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc35')">Utaku Blade-Queen [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc36')">Moto Endbringer [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc37')">Imperial Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc38')">Seppun Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc39')">Opal Magistrate [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc40')">Minor Clan Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc41')">Toku Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc42')">Suzume Kenshi [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc43')">Ronin/Generic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc44')">Wandering Kenshi [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc45')">Kenshi Weaponsmaster [Bushi]</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

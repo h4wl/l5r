@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Fire Spells</h4>
 
-                <h2 id="toc0"><span>Mastery Level 1</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Mastery Level 1</span></h2>
 <h6 id="biting-steel-cr">Biting Steel [CR]</h6>
 <ul>
 <li>Ring/Mastery: Fire 1 (Craft)</li>
@@ -699,45 +701,32 @@ The target of this spell is instantly killed, reduced to Dead and then burned do
 </ul>
 <p>This spell imbues incredibly powerful Fire kami into a weapon, granting it the full fury of a raging firestorm. A bushi armed with this weapon is a terrible opponent, for the Fire spirits shock and daze his enemies with every blow. For the duration of the spell, the weapon will overcome Invulnerability, and every target hit with it is automatically Stunned.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc0')" aria-label="Close">
-                      Mastery Level 1
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc1')" aria-label="Close">
-                      Mastery Level 2
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc2')" aria-label="Close">
-                      Mastery Level 3
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc3')" aria-label="Close">
-                      Mastery Level 4
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc4')" aria-label="Close">
-                      Mastery Level 5
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/fire-spells#toc5')" aria-label="Close">
-                      Mastery Level 6
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Mastery Level 1</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Level 2</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Mastery Level 3</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Mastery Level 4</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mastery Level 5</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

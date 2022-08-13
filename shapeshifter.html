@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Shapeshifter</h4>
 
-                <p>Animal spirits and other shapeshifters have physical traits that resemble normal creatures of their race, yet possess gifts and intelligence far beyond such creatures. Many of these spirits also have fantastical abilities to alter their own form to fit the needs of the moment. Some races have better control of their bodies than others and are able to access greater powers and abilities.<br>
+                <div id="content">
+                    <p>Animal spirits and other shapeshifters have physical traits that resemble normal creatures of their race, yet possess gifts and intelligence far beyond such creatures. Many of these spirits also have fantastical abilities to alter their own form to fit the needs of the moment. Some races have better control of their bodies than others and are able to access greater powers and abilities.<br>
 A shapeshifter may choose a number of Abilities from the list that follows. The table shows how many abilities each race of Shapeshifters can potentially take and whether they can take Major Abilities or only Minor Abilities. However, every Shapeshifter is subject to laws and restrictions in order to gain access to its power. For each Ability the Shapeshifter must also choose a Minor or Major Penalty - a Minor Ability can be compensated with a Minor or Major Penalty, but a Major Ability always requires a Major Penalty. If a Shapeshifter ever breaks any of the rules set by its Penalties, it immediately loses all the benefi ts of its Shapeshifter Abilities until the next sunrise.</p>
 <h2 id="toc0"><span>Minor Shapeshifter Abilities</span></h2>
 <ul>
@@ -198,9 +202,30 @@ A shapeshifter may choose a number of Abilities from the list that follows. The 
 <li>You must marry a worthy human within one year and treat your spouse with loyalty and respect. If your spouse proves unworthy of being by your side, you must return to your own Realm and never come back to Ningen-do.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Minor Shapeshifter Abilities</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Major Shapeshifter Abilities</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Minor Shapeshifter Penalties</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Major Shapeshifter Penalties</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

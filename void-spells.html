@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Void Spells</h4>
 
-                <h2 id="toc0"><span>Mastery Level 1</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Mastery Level 1</span></h2>
 <h6 id="boundless-sight-cr">Boundless Sight [CR]</h6>
 <ul>
 <li>Ring/Mastery: Void 1</li>
@@ -487,45 +489,32 @@ This spell cannot be used to restore someone who has died.</p>
 </ul>
 <p>The most powerful and terrifying ability of those who command the Void is the ability to destroy the bonds that exist between the five elements. By eradicating the bonds between existing elements, you can effectively cause one object or creature to cease to exist. When you cast this spell on a living creature, you must succeed at a Contested Roll using your Void against the target's Earth. If you are successful, they are instantly killed, and their remains disappear into the Void. Success is automatic against a non-magical object, but attempting to destroy an awakened object, such as a nemuranai, may have dire ramifications at the GM's discretion (the kami contained within an awakened object frequently respond very poorly to this manner of attack, for instance).</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc0')" aria-label="Close">
-                      Mastery Level 1
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc1')" aria-label="Close">
-                      Mastery Level 2
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc2')" aria-label="Close">
-                      Mastery Level 3
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc3')" aria-label="Close">
-                      Mastery Level 4
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc4')" aria-label="Close">
-                      Mastery Level 5
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/void-spells#toc5')" aria-label="Close">
-                      Mastery Level 6
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Mastery Level 1</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Level 2</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Mastery Level 3</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Mastery Level 4</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mastery Level 5</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Bushido</h4>
 
-                <h2 id="toc0"><span>The Tenets of Bushido</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>The Tenets of Bushido</span></h2>
 <figure class="text-center">
   <blockquote class="blockquote">
     <p>
@@ -254,62 +256,37 @@ When a samurai has said he will perform an action, it is as good as done. Nothin
 <p>Aside from acting to preserve family honor, the other form of permissible seppuku is to protest unjust orders from one's lord. This form of protesting seppuku is known as kanshi and must still be authorized by the daimyo. Most daimyo don't care for such an act, but it is considered quite dishonorable and ill-mannered to refuse one's samurai permission to commit kanshi.</p>
 <p>Women of the samurai caste who are not bushi are permitted to kill themselves in a less painful fashion, known as jigai, in which they stab themselves in the throat with a knife. This is generally reserved for women who are courtier or shugenja. Given the chance, they will bind their ankles together before performing this act, so as not to shame themselves with wild kicking during their death throes.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/bushido#toc0')" aria-label="Close">
-                      The Tenets of Bushido
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc1')" aria-label="Close">
-                              Compassion (Jin)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc2')" aria-label="Close">
-                              Courage (Yu)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc3')" aria-label="Close">
-                              Courtesy (Rei)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc4')" aria-label="Close">
-                              Duty (Chugo)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc5')" aria-label="Close">
-                              Honesty (Gi)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc6')" aria-label="Close">
-                              Honor (Meyo)
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/bushido#toc7')" aria-label="Close">
-                              Sincerity (Makoto)
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/bushido#toc8')" aria-label="Close">
-                      The Concept of Face (On)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/bushido#toc9')" aria-label="Close">
-                      Shame and Disgrace
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/bushido#toc10')" aria-label="Close">
-                      Seppuku
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Tenets of Bushido</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Compassion (Jin)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Courage (Yu)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Courtesy (Rei)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Duty (Chugo)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Honesty (Gi)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Honor (Meyo)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Sincerity (Makoto)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc8')">The Concept of Face (On)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Shame and Disgrace</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">Seppuku</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

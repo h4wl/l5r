@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Name Magic</h4>
 
-                <p>Nezumi do not use magic in any way recognized by humans. They have no shugenja, they do not importune the kami or read prayers from scrolls, and they do not revere the Fortunes or Kami (though the Transcendent are god-like in their estimation). Instead they use their own magical tradition known as Name Magic.<br>
+                <div id="content">
+                    <p>Nezumi do not use magic in any way recognized by humans. They have no shugenja, they do not importune the kami or read prayers from scrolls, and they do not revere the Fortunes or Kami (though the Transcendent are god-like in their estimation). Instead they use their own magical tradition known as Name Magic.<br>
 While in some ways it is more powerful than Rokugani magic, in other ways it is extremely limited. Players and GMs alike should try not to present Nezumi Shamans as just “ratling shugenja.” Name Magic has a unique ﬂavor and style all its own. Shamans have such a powerful sense of identity, such a powerful Name, that they are able to consciously alter reality by focusing their will. While this means a Nezumi can use magic without relying on scrolls or kami, it also means a shaman must practice rigid mental discipline. If a Shaman’s Name weakens, his magic weakens – and since Name is dependent on Niche, a Shaman who behaves in ways that violate Nezumi ethics will soon ﬁ nd his effective Name (and thus his magic) diminishing. Worse yet, some shamans fall into a prison of self-deception (“N-kich”), becoming twisted and evil.</p>
 <h3 id="toc0"><span>Learning Name Magic Spells</span></h3>
 <p>Nezumi Shamans start play knowing three spells, and when they increase in School Rank they immediately learn two new spells of any Mastery Level which they can cast. Shamans can learn additional spells by training with other Nezumi shamans or by communing with Transcendent spirits in Yume-do – however, each time a Shaman learns an extra spell in this way, he must spend Experience Points equal to its Mastery Level. Shamans can never know more total spells than 4x their current School Rank. (Spells gained with the Namebound Advantage do not count against this limit.) If a Shaman has an opportunity to learn a new spell but has already reached the maximum number of spells he can know at his current School Rank, he may elect to permanently forget one of his previously known spells in order to learn the new one.</p>
@@ -579,9 +583,34 @@ While in some ways it is more powerful than Rokugani magic, in other ways it is 
 </ul>
 <p>The caster becomes one of the Transcendent, casting off his mortal coil and forever entering the Realm of Dreams. This spell can only be learned from the Transcendents, and is revealed only to those Shamans they judge worthy of joining their ranks.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Learning Name Magic Spells</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Casting Name Magic Spells</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Mastery Level 1</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Mastery Level 2</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Mastery Level 3</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Mastery Level 4</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Mastery Level 5</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

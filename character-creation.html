@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Character Generation</h4>
 
-                <h2 id="toc0"><span>Character Generation</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Character Generation</span></h2>
 <p>The following section is a very general overview of character creation. At the bottom of the page, click on the CharGen link for a more in depth guide to the process.</p>
 <h2 id="toc1"><span>Step 1: <a href="/families">Pick Your Clan</a></span></h2>
 <p>This is the most defining aspect of any Legend of the Five Ring character, and the one that will most impact your roleplaying experience. Select the Great Clan or Minor Clan from which your character originates. Characters from the Imperial families requires GM approval beforehand.</p>
@@ -173,9 +177,34 @@
 <p>and so forth.</p>
 <h2 id="toc7"><span>Click <a href="/chargen">CharGen</a> for character creation.</span></h2>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Character Generation</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Step 1: Pick Your Clan</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Step 2: Pick Your Family</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Step 3: Heritage Table</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Step 4: Pick Your School</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Step 5: Customize Your Character</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">Step 6: Derived Attributes</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc7')">Click CharGen for character creation.</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

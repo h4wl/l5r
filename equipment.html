@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Equipment</h4>
 
-                <h2 id="toc0"><span>Armor</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Armor</span></h2>
 <h6 id="bogu">Bogu</h6>
 <ul>
 <li>Bonus to Armor TN: +0</li>
@@ -580,84 +582,43 @@ A smith must have a Craft: Weaponsmithing Skill Rank of at least 7 to create an 
 <li>Special: At half range or less, the Teppo ignores Reduction from natural toughness.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/equipment#toc0')" aria-label="Close">
-                      Armor
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/equipment#toc1')" aria-label="Close">
-                      Weapons
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc2')" aria-label="Close">
-                              Arrows
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc3')" aria-label="Close">
-                              Bows
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc4')" aria-label="Close">
-                              Chain weapons
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc5')" aria-label="Close">
-                              Heavy Weapons
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc6')" aria-label="Close">
-                              Knives
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc7')" aria-label="Close">
-                              Ninja weapons
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc8')" aria-label="Close">
-                              Polearms
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc9')" aria-label="Close">
-                              Spears
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc10')" aria-label="Close">
-                              Staves
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc11')" aria-label="Close">
-                              Swords
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc12')" aria-label="Close">
-                              War fans
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/equipment#toc13')" aria-label="Close">
-                      Crafting Extraordinary Weapons
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc14')" aria-label="Close">
-                              Crafting Sacred Weapons
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/equipment#toc15')" aria-label="Close">
-                      Rokugani Firearms
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/equipment#toc16')" aria-label="Close">
-                              Teppoudo (Intelligence)
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Armor</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Weapons</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Arrows</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Bows</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Chain weapons</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Heavy Weapons</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Knives</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Ninja weapons</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Polearms</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Spears</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Staves</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Swords</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc12')">War fans</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc13')">Crafting Extraordinary Weapons</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Crafting Sacred Weapons</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc15')">Rokugani Firearms</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Teppoudo (Intelligence)</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

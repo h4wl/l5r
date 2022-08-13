@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Dahabi Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Dahabi Enforcer (Warrior)</span></h3>
 <p>The houses of Dahab and the Qolat both find themselves in need of fighting men, and to this end they funded research into the most effective fighting techniques, culled from the retired veterans of the City Guard. After several years of careful testing in the field, the Houses settled on a curriculum of techniques they believe serves as an appropriate <em>thug and leg-breaker</em> for both the organization and the conspiracy.<br>
 The Dahabi Enforcers come from all of the Jewel's social strata, from scions of the Merchant Houses looking for a respectable military record with the City Guard to beggars with the will and the wit to impress a merchant enough to pay for their schooling. They are at home in virtually any setting and always calculate the likelihood that hey can make it to an exit or chokepoint quickly, sizing up potential opponents' grip strength and neck circumference, and noting the proximity of weapons. While other warriors might be more personally dangerous, no warrior is as prepared as a Dahabi Enforcer for combat at anitime, anywhere.</p>
@@ -200,9 +204,30 @@ The Houses of Dahab almost universally endorse the practice of magic, as they do
 <h5 id="rank-5-merchant-king">Rank 5: Merchant King</h5>
 <p>When making an uncontested Social Skill Roll for which you call no Raises, you gain +5k0 to the roll.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Dahabi Enforcer (Warrior)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Dahabi Bargainer (Sahir)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Dahabi Merchant (Diplomat)</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

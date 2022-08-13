@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Jinn</h4>
 
-                <p>Summoning a Jinn takes an Air roll at TN 5 after six hours of uninterrupting meditation after drawing Hakhim's seal. The TN may be increased if you need a specific type of Jinn, or a specific Jinn instead. Characters of Insight rank 1 et 2 may only summon Minor Jinn, of insight rank 3 and 4 may only summon Intermediate Jinn, and Major Jinn can only be summoned by characters with Insight Rank 5.</p>
+                <div id="content">
+                    <p>Summoning a Jinn takes an Air roll at TN 5 after six hours of uninterrupting meditation after drawing Hakhim's seal. The TN may be increased if you need a specific type of Jinn, or a specific Jinn instead. Characters of Insight rank 1 et 2 may only summon Minor Jinn, of insight rank 3 and 4 may only summon Intermediate Jinn, and Major Jinn can only be summoned by characters with Insight Rank 5.</p>
 <h3 id="toc0"><span>Negotiating with Jinn</span></h3>
 <p>In order to negotiate with the Jinn, you may make a contested Commerce / Awareness roll against him. You gain a bonus on the roll depending on whether you are needing…</p>
 <ul>
@@ -206,9 +210,28 @@
 </ul>
 <p>An <strong>Ability</strong> is any of the abilities listed as a <a href="/sahir-spell">Sahir Spell</a>, except Jinn Summoning 1 and 3, for obvious reasons. Only Major Jinns may take Jinn Summoning 2.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Negotiating with Jinn</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Creating a Jinn</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Water Spells</h4>
 
-                <h2 id="toc0"><span>Mastery Level 1</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Mastery Level 1</span></h2>
 <h6 id="bo-of-water-cr">Bo of Water [CR]</h6>
 <ul>
 <li>Ring/Mastery: Water 1 (Craft)</li>
@@ -744,45 +746,32 @@ Also, this spell cannot work in any area which has been warded against the infue
 </ul>
 <p>The greatest form of augury is one that speaks directly and allows others to witness it. By focusing your energy on a still body of water, you can invoke powerful visions of the future based upon your questions. You may ask one question, and the waters will reveal the answer. The answer takes the form of three separate images, which may be connected in any number of ways, including events occurring over time, or perhaps three facets of a single event. Unlike other forms of augury, others may witness these visions as well.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc0')" aria-label="Close">
-                      Mastery Level 1
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc1')" aria-label="Close">
-                      Mastery Level 2
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc2')" aria-label="Close">
-                      Mastery Level 3
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc3')" aria-label="Close">
-                      Mastery Level 4
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc4')" aria-label="Close">
-                      Mastery Level 5
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/water-spells#toc5')" aria-label="Close">
-                      Mastery Level 6
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Mastery Level 1</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Level 2</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Mastery Level 3</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Mastery Level 4</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mastery Level 5</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

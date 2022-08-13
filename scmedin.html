@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Medinaat Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Soldier of the City Guard (Warrior)</span></h3>
 <p>The most enduring institution of the Jewel, the City Guard has served the Caliph since its inception. A purely volunteer organization for most of its history, the City Guard forms the core of the Jewel's standing army as well as policing the streets. The City Guard is also the only organization that is allowed to carry swords and heavy weapons legally. Since all it takes to join the Guard is volunteering two days of the week, many organizations such as the Houses of Dahab and the Ebonites enroll their warriors in the City Guard to allow them the privilege of carrying weapons. All of the Qadi serving in the Jewel were at one point guardsmen. This list of technique represents the training given to Guardsmen with no other affiliation.</p>
 <ul>
@@ -218,9 +222,35 @@
 <h5 id="rank-3-judge-of-the-jewel">Rank 3: Judge of the Jewel</h5>
 <p>You gain a level of the Magic Resistance Advantage, even if this would take you above the normal limit.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Soldier of the City Guard (Warrior)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Free Sahir (Sahir)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Path of the Free Men</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Alley Thug (Path)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Scholar (Path)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Street Rat (Path)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc7')">Advanced Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">The Heartless Khadi</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

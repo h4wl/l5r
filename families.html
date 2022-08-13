@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Book Of Earth - Families of Rokugan</h4>
 
-                <h2 id="toc0"><span>The Great Clans</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>The Great Clans</span></h2>
 <h3 id="toc1"><span><a href="/fcrab">The Crab Clan</a></span></h3>
 <p>The stalwart Crab are the defenders of Rokugan, responsible for ensuring the Empire's southern border is secure against the demons of the Shadowlands. Centuries of constant warfare against inhuman foes have hardened the Crab into tremendously powerful and brutally practical warriors, but they have little sense of civility or manners. As a result they are often considered crude and barbaric by the other clans.</p>
 <h3 id="toc2"><span><a href="/fcrane">The Crane Clan</a></span></h3>
@@ -180,68 +182,39 @@
 <p>A ronin family can also be created when a samurai family is officially disbanded but its members refuse to accept the judgment, clinging to their name and traditions while living as wave-men. The Akodo and the Usagi during the Clan War and Hidden Emperor eras are examples of this phenomenon, as are the Tsume in the Heroes of Rokugan era. Unless they can restore their reputation, these sorts of ronin families tend to die out within a couple of generations, both due to loss of faith among their members and enmity from clan samurai who consider their behavior improper.</p>
 <p>Mechanically, a ronin PC who belongs to a ronin family must spend 5 Experience Points on Social Advantage: Ronin Family. This grants him the ronin family’s Trait bonus as well as social connections to the rest of the family— the GM may award a variety of bonuses and obligations in play based on such connections. Such characters still technically have Status of 0.0, but their name grants them a certain degree of respect from clan samurai that other ronin do not receive.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/families#toc0')" aria-label="Close">
-                      The Great Clans
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc1')" aria-label="Close">
-                              The Crab Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc2')" aria-label="Close">
-                              The Crane Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc3')" aria-label="Close">
-                              The Dragon Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc4')" aria-label="Close">
-                              The Lion Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc5')" aria-label="Close">
-                              The Mantis Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc6')" aria-label="Close">
-                              The Phoenix Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc7')" aria-label="Close">
-                              The Scorpion Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc8')" aria-label="Close">
-                              The Spider Clan
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/families#toc9')" aria-label="Close">
-                              The Unicorn Clan
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/families#toc10')" aria-label="Close">
-                      The Minor Clans
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/families#toc11')" aria-label="Close">
-                      The Imperial Families
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/families#toc12')" aria-label="Close">
-                      Ronin Families
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Great Clans</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">The Crab Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">The Crane Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">The Dragon Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">The Lion Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">The Mantis Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">The Phoenix Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">The Scorpion Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">The Spider Clan</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">The Unicorn Clan</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">The Minor Clans</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc11')">The Imperial Families</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Ronin Families</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

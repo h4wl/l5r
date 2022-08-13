@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Mass Battle</h4>
 
-                <p>The most sacred duty of any samurai is to make war upon the enemies of his lord. For many, that duty takes its most literal form as massive combats on the field of battle, with hundreds or even thousands of samurai on either side. For obvious reasons, conflicts of this magnitude cannot be resolved using the normal combat system, which is designed for small skirmishes. While some GMs may prefer to simply dictate the outcome of a given battle, others may prefer a dice-based method of resolving such instances. In these cases, the Mass Battle system is used.</p>
+                <div id="content">
+                    <p>The most sacred duty of any samurai is to make war upon the enemies of his lord. For many, that duty takes its most literal form as massive combats on the field of battle, with hundreds or even thousands of samurai on either side. For obvious reasons, conflicts of this magnitude cannot be resolved using the normal combat system, which is designed for small skirmishes. While some GMs may prefer to simply dictate the outcome of a given battle, others may prefer a dice-based method of resolving such instances. In these cases, the Mass Battle system is used.</p>
 <p>The Mass Battle system allows characters to determine how involved in the fi ghting they are, and then uses the characters’ capabilities to determine how well they are faring at that level. Conflicts of this scale are measured in Battle Turns, which consist of thirty minutes each. Every character participating in the battle must determine the results of their involvement once per Battle Turn. The length of a battle can vary wildly, but a good rule of thumb is that one Battle Turn takes place per 250 troops on each side. So a battle between two forces of 500 men each would take two Battle Turns to resolve. Each Battle Turn takes place in the following stages:</p>
 <ul>
 <li><strong>Stage 1: Declaration</strong> - During the Declaration Stage, all characters participating in the battle should determine their level of involvement. These range from Reserves, where a character is positioned well behind the front lines and relatively safe from the vast majority of his enemies, to Heavily Engaged, in which the character is positioned on the very front lines and as such is situated right in the middle of his foes. Each character may choose to be in one of the following four levels: Reserves, Disengaged, Engaged, or Heavily Engaged.</li>
@@ -531,9 +535,28 @@ A sample list is presented below, and GMs should feel free to create more. Some 
 <p>Between the blood and carnage you spot the standard bearer of the opposing army. You have the opportunity to take the enemy’s banner! You must kill the bearer in combat to take it. If you take it, you must try to get it back to your Reserves.</p>
 <p>Without the help of the character’s army, this Opportunity is nigh impossible to complete. While the character holds the enemy banner, he cannot undergo any other Heroic Opportunity. Each Battle Turn, the character is assaulted by a number of enemy samurai (chosen by the GM) of equal Rank. On each Battle Turn the enemy banner is in the character’s possession, impose a -5 penalty to the enemy general’s Battle Roll. When this Opportunity is completed, the character gains a Rank of Glory.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Battle Table</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Heroic Opportunities</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

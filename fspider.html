@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,20 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <div style="width: 60px;" class="d-block" />
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +150,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Families of the Spider Clan</h4>
 
-                <p><span style="text-decoration: underline;">The Chuda Family: +1 Intelligence</span><br>
+                <div id="content">
+                    <p><span style="text-decoration: underline;">The Chuda Family: +1 Intelligence</span><br>
 The spiritual heirs of the first Chuda family, wiped out centuries previously, the Chuda are a collection of ambitious and power-hungry maho-tsukai who delve into the secrets of blood magic. Their loyalties are always suspect, since they have changed masters on more than one occasion in the past.</p>
 <p><span style="text-decoration: underline;">The Daigotsu Family: +1 Stamina</span><br>
 The lords of the Spider Clan are far and away the most numerous of the families who comprise the Spider. Great numbers of samurai from all walks of life who have fallen to the Shadowlands Taint or succumbed to the worship of Fu Leng have embraced the philosophy and methodology of the Dark Lord Daigotsu, and eagerly enact his sinister will without consideration for their previous families and allies. Not all Daigotsu are Tainted, but a large majority of them have felt Jigoku's sinister touch.</p>
@@ -160,9 +162,24 @@ The strangest agents of the Spider Clan are the monks of the Order of the Spider
 <p><span style="text-decoration: underline;">The Susumu Family : +1 Awareness</span><br>
 The Susumu family was founded in 1173 after the Imperial declaration making the Spider a Great Clan. The family took the name of Daigotsu Susumu, who is considered to be its founder, even though he was never a Daimyo and the family didnot exist until after his death.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

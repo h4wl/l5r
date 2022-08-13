@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Ronin Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Dutiful Disciple Shugenja [EnE]</span></h3>
 <ul>
 <li><strong>Benefit:</strong> +1 Intelligence</li>
@@ -576,209 +578,82 @@ c Requirements: Character must belong to a Minor Clan</p>
 <li><strong>Technique:</strong> <em>Black Lion Talon</em> – The traditions of the Wolf Legion are steeped in honor and bushido. Whenever you spend a Void Point to add +1k1 to the total of an attack roll, you may add your Honor Rank to the total of that attack roll as well.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc0')" aria-label="Close">
-                      Basic Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc1')" aria-label="Close">
-                              Dutiful Disciple Shugenja [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc2')" aria-label="Close">
-                              Generic Ronin [Bushi] [SE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc3')" aria-label="Close">
-                              Ronin Order Shugenja [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc4')" aria-label="Close">
-                              Self-Taught Shugenja [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc5')" aria-label="Close">
-                              Void Mystic [Shugenja]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc6')" aria-label="Close">
-                      Advanced Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc7')" aria-label="Close">
-                              Disciples of Sun Tao [SE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc8')" aria-label="Close">
-                              Kolat Assassin [Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc9')" aria-label="Close">
-                              Legion of Two Thousand [SE]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc10')" aria-label="Close">
-                      Rank 1 Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc11')" aria-label="Close">
-                              Disciples of Sun Tao [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc12')" aria-label="Close">
-                              Forest Killers [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc13')" aria-label="Close">
-                              Hawk Purist [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc14')" aria-label="Close">
-                              Koga Ninja [Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc15')" aria-label="Close">
-                              People&#x27;s Legionnaire [Bushi] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc16')" aria-label="Close">
-                              Tawagoto&#x27;s Army [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc17')" aria-label="Close">
-                              Tengoku&#x27;s Justice [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc18')" aria-label="Close">
-                              The Tessen [Bushi] [CR]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc19')" aria-label="Close">
-                      Rank 2 Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc20')" aria-label="Close">
-                              Claws of the Wolf [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc21')" aria-label="Close">
-                              East Wind [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc22')" aria-label="Close">
-                              Eyes of Nanashi [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc23')" aria-label="Close">
-                              Fireman Gang Lord [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc24')" aria-label="Close">
-                              The Guards&#x2019; Wrath [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc25')" aria-label="Close">
-                              Hateru Ninja
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc26')" aria-label="Close">
-                              Kaze-do Fighter [Bushi/Monk]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc27')" aria-label="Close">
-                              Master of Games [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc28')" aria-label="Close">
-                              Moonless Riders [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc29')" aria-label="Close">
-                              Silent Blades [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc30')" aria-label="Close">
-                              The Thousand [Bushi] [SE]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc31')" aria-label="Close">
-                      Rank 3 Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc32')" aria-label="Close">
-                              Broken Guard [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc33')" aria-label="Close">
-                              The Ghosts of the Forest
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc34')" aria-label="Close">
-                              Hidden Sword [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc35')" aria-label="Close">
-                              Machi-Kanshisha [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc36')" aria-label="Close">
-                              Order of Isashi [Shugenja] [SE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc37')" aria-label="Close">
-                              Scales Of the Carp [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc38')" aria-label="Close">
-                              Serpents of Sanada [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc39')" aria-label="Close">
-                              The Silken Promises Geisha [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc40')" aria-label="Close">
-                              Snow Riders [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc41')" aria-label="Close">
-                              Tsume Pikemen [Bushi] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc42')" aria-label="Close">
-                              the Unbroken [Bushi]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc43')" aria-label="Close">
-                      Rank 4 Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc44')" aria-label="Close">
-                              Guardian of the Hidden Temple [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc45')" aria-label="Close">
-                              Kenburo&#x27;s Way [Bushi] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc46')" aria-label="Close">
-                              Minor Clan Alliance Diplomat [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc47')" aria-label="Close">
-                              Order of Five Weapons [Shugenja] [SE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc48')" aria-label="Close">
-                              Seven Waves Mercenaries [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc49')" aria-label="Close">
-                              Sword of Yotsu [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc50')" aria-label="Close">
-                              Weavers [Bushi] [EnE]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scronin#toc51')" aria-label="Close">
-                      Rank 5 Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc52')" aria-label="Close">
-                              Iron Gauntlet Brotherhood [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc53')" aria-label="Close">
-                              Shadowed Steel [Bushi] [EnE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc54')" aria-label="Close">
-                              The Taoist Archers [Bushi/Monk]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scronin#toc55')" aria-label="Close">
-                              Wolf Legion [Bushi] [EnE]
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Dutiful Disciple Shugenja [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Generic Ronin [Bushi] [SE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Ronin Order Shugenja [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Self-Taught Shugenja [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Void Mystic [Shugenja]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">Advanced Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Disciples of Sun Tao [SE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Kolat Assassin [Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Legion of Two Thousand [SE]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">Rank 1 Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Disciples of Sun Tao [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc12')">Forest Killers [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">Hawk Purist [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Koga Ninja [Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">People's Legionnaire [Bushi] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Tawagoto's Army [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc17')">Tengoku's Justice [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">The Tessen [Bushi] [CR]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc19')">Rank 2 Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">Claws of the Wolf [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">East Wind [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc22')">Eyes of Nanashi [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">Fireman Gang Lord [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc24')">The Guards’ Wrath [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Hateru Ninja</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">Kaze-do Fighter [Bushi/Monk]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Master of Games [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc28')">Moonless Riders [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc29')">Silent Blades [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc30')">The Thousand [Bushi] [SE]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc31')">Rank 3 Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc32')">Broken Guard [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc33')">The Ghosts of the Forest</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc34')">Hidden Sword [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc35')">Machi-Kanshisha [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc36')">Order of Isashi [Shugenja] [SE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc37')">Scales Of the Carp [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc38')">Serpents of Sanada [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc39')">The Silken Promises Geisha [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc40')">Snow Riders [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc41')">Tsume Pikemen [Bushi] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc42')">the Unbroken [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc43')">Rank 4 Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc44')">Guardian of the Hidden Temple [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc45')">Kenburo's Way [Bushi] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc46')">Minor Clan Alliance Diplomat [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc47')">Order of Five Weapons [Shugenja] [SE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc48')">Seven Waves Mercenaries [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc49')">Sword of Yotsu [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc50')">Weavers [Bushi] [EnE]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc51')">Rank 5 Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc52')">Iron Gauntlet Brotherhood [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc53')">Shadowed Steel [Bushi] [EnE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc54')">The Taoist Archers [Bushi/Monk]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc55')">Wolf Legion [Bushi] [EnE]</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

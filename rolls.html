@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Rolls</h4>
 
-                <h2 id="toc0"><span>Skills</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Skills</span></h2>
 <p>Rings and Traits represent the innate mental and physical abilities of a character. What they learn through training and experience, however, is represented by Skills. Samurai begin acquiring the basic building blocks of Skills at a very young age, when they fi rst enter a dojo to begin training for a life of service in the name of their Clan. Each Clan’s dojo teaches different Skills, and even within a single Clan the Skills taught at particular dojo can vary widely. All dojo offer a number of additional, optional courses of study for their students, however, so even two samurai who attend the same dojo can have different Skills, albeit with a common base of training.<br>
 Like Rings and Traits, Skills are ranked from 1 to 10. A rank of 1 in a Skill indicates that a character has been introduced to the most basic principles of that Skill, whereas a character with a rank of 10 in any given Skill is either one of the greatest masters on the planet, or a supernatural being of some sort.<br>
 When a Skill Roll is called for, it lists the Skill fi rst, then the Trait being used for the particular roll. A call for an Athletics / Agility roll, for instance, would require a player to roll a total number of dice equal to his character’s ranks in the Athletics Skill and Agility Trait, and to keep a number of dice equal to the character’s Agility Trait.</p>
@@ -208,84 +210,43 @@ result is added to the die’s total. If the result is another 10, the die is ro
 <li>Example : A roll of 14k12 would become 10k10 +12. Since both rolled and kept dice exceed ten, the four additional rolled dice become a bonus of +8, and the two additional kept dice become a bonus of +4, for a total of +12.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/rolls#toc0')" aria-label="Close">
-                      Skills
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/rolls#toc1')" aria-label="Close">
-                      Raises
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/rolls#toc2')" aria-label="Close">
-                      Types of Rolls
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc3')" aria-label="Close">
-                              Skill Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc4')" aria-label="Close">
-                              Trait Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc5')" aria-label="Close">
-                              Ring Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc6')" aria-label="Close">
-                              Damage Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc7')" aria-label="Close">
-                              Spell Casting Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc8')" aria-label="Close">
-                              Contested Rolls
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/rolls#toc9')" aria-label="Close">
-                      Skill Rolls, Expanded
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc10')" aria-label="Close">
-                              Unskilled Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc11')" aria-label="Close">
-                              Failed Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc12')" aria-label="Close">
-                              Cooperative Rolls
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc13')" aria-label="Close">
-                              Cumulative Rolls
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/rolls#toc14')" aria-label="Close">
-                      Special Dice Rules
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc15')" aria-label="Close">
-                              Exploding Dice
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/rolls#toc16')" aria-label="Close">
-                              The Ten Dice Rule
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Skills</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Raises</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Types of Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Skill Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Trait Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Ring Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Damage Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Spell Casting Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Contested Rolls</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Skill Rolls, Expanded</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Unskilled Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Failed Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc12')">Cooperative Rolls</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">Cumulative Rolls</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc14')">Special Dice Rules</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Exploding Dice</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">The Ten Dice Rule</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

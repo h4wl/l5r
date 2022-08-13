@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Dragon Clan Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Kitsuki Investigator [Courtier] [CR]</span></h3>
 <p>Even among the Dragon, the methods and beliefs imparted at the Kitsuki School are unusual. Alone in the Empire, the Kitsuki believe in the importance of evidence, something that most others cannot comprehend. The sensei of this unusual School place tremendous emphasis on developing the family's trademark powers of observation, honing them to a razor point, so much so that those trained in its Techniques possess a nearly infallible memory, perfect recall, and an almost inhuman attention to detail. Very little escapes the eye of a trained Kitsuki investigator.</p>
 <p>Although their primary role is as the court representatives of the Dragon, the Kitsuki Investigators obviously make excellent magistrates, and their strengths lie in a gathering information both from the environment and from other people.</p>
@@ -451,117 +453,54 @@ The Tamori shugenja who take up the art of practical weaponsmithing (as opposed 
 <li><strong>Technique:</strong> <em>Child of the Water</em> - You have studied the secrets of the Water Dragon found in Water Hammer City, and the path of the smith has been made open to you. You may spend a Void Point to add double your Water Ring to the total of all Craft Skills you make for the rest of the day. If you are a shugenja, you may instead pay this cost by spending a Water spell slot. You may only benefit from a single use of this Technique at a time (i.e. you cannot spent two Void Points at different times during the day and gain two bonuses equal to three times your Void Point).</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scdragon#toc0')" aria-label="Close">
-                      Basic Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc1')" aria-label="Close">
-                              Kitsuki Investigator [Courtier] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc2')" aria-label="Close">
-                              Mirumoto Bushi [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc3')" aria-label="Close">
-                              Mirumoto Taoist Swordsman [Bushi] [EE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc4')" aria-label="Close">
-                              Tamori Shugenja [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc5')" aria-label="Close">
-                              The Togashi Tattooed Order [Monk] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc6')" aria-label="Close">
-                              The Hoshi Tsurui Zumi Order [Monk] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc7')" aria-label="Close">
-                              The Hitomi Kikage Zumi Order [Monk] [IH]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scdragon#toc8')" aria-label="Close">
-                      Advanced Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc9')" aria-label="Close">
-                              Mirumoto Master Sensei [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc10')" aria-label="Close">
-                              Swordmasters [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc11')" aria-label="Close">
-                              Tamori Master of the Mountain [Shugenja]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scdragon#toc12')" aria-label="Close">
-                      Alternate Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc13')" aria-label="Close">
-                              Dragon Clan Overseer
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc14')" aria-label="Close">
-                              Dragon&#x27;s Flame [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc15')" aria-label="Close">
-                              The Dragon&#x2019;s Wind [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc16')" aria-label="Close">
-                              Hojatsu&#x27;s Legacy [Bushi] [BoF]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc17')" aria-label="Close">
-                              Kaze-Do Fighter
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc18')" aria-label="Close">
-                              Kitsuki Debater [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc19')" aria-label="Close">
-                              Kitsuki&#x2019;s Eye [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc20')" aria-label="Close">
-                              Kitsuki Justicar [Bushi] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc21')" aria-label="Close">
-                              Mirumoto Mountaineer [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc22')" aria-label="Close">
-                              Mirumoto Sentinel [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc23')" aria-label="Close">
-                              Tamori Warrior Priest [Shugenja] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc24')" aria-label="Close">
-                              Tamori Weaponsmiths [Shugena][Artisan]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc25')" aria-label="Close">
-                              Togashi Defender [Monk]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc26')" aria-label="Close">
-                              The Transcendent Brotherhood [Monk]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scdragon#toc27')" aria-label="Close">
-                              Water Hammer Smith [Artisan]
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Kitsuki Investigator [Courtier] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Mirumoto Bushi [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Mirumoto Taoist Swordsman [Bushi] [EE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Tamori Shugenja [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">The Togashi Tattooed Order [Monk] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">The Hoshi Tsurui Zumi Order [Monk] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">The Hitomi Kikage Zumi Order [Monk] [IH]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc8')">Advanced Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Mirumoto Master Sensei [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Swordmasters [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">Tamori Master of the Mountain [Shugenja]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Alternate Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">Dragon Clan Overseer</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Dragon's Flame [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">The Dragon’s Wind [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Hojatsu's Legacy [Bushi] [BoF]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc17')">Kaze-Do Fighter</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">Kitsuki Debater [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">Kitsuki’s Eye [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">Kitsuki Justicar [Bushi] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">Mirumoto Mountaineer [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc22')">Mirumoto Sentinel [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">Tamori Warrior Priest [Shugenja] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc24')">Tamori Weaponsmiths [Shugena][Artisan]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Togashi Defender [Monk]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">The Transcendent Brotherhood [Monk]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Water Hammer Smith [Artisan]</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

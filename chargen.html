@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Character Generation</h4>
 
-                <p><a href="/20-questions">20 Questions</a> - A list of questions for you to ponder to get a better grasp of your character's background and personality.</p>
+                <div id="content">
+                    <p><a href="/20-questions">20 Questions</a> - A list of questions for you to ponder to get a better grasp of your character's background and personality.</p>
 <h2 id="toc0"><span>Step 1: Getting Started</span></h2>
 <p>There are some things you need to know before you ever look at your character's Skills and other abilities. First and foremost, every character possesses five Rings, which are explained <a href="/traits">here</a>. Each Ring represents one aspect of the character's mental and physical abilities. As a reminder, they are:</p>
 <ul>
@@ -180,36 +182,29 @@ With the inherent benefits and Skills taken care of, you now must be sure to inc
 <li>When spending Experience Points, please remember that no starting character may begin play with any ability, whether a Trait or a Skill, above 4.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/chargen#toc0')" aria-label="Close">
-                      Step 1: Getting Started
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/chargen#toc1')" aria-label="Close">
-                      Step 2: The Basics
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/chargen#toc2')" aria-label="Close">
-                      Step 3: Customization
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Step 1: Getting Started</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Step 2: The Basics</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Step 3: Customization</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Playable Returned Spirits</h4>
 
-                <h2 id="toc0"><span>Playing a Spirit PC</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Playing a Spirit PC</span></h2>
 <p>If a GM is prepared to allow returned spirits as PCs, there are several important considerations. First of all, such a PC gains some meaningful advantages from his spirit nature, something which may lead to accusations of unfairness. Secondly, while roleplaying a character misplaced in time can certainly be fun, it is also challenging to do effectively while not interfering with the overall flow of the game or claiming disproportionate attention. This can be a particular problem in clans like the Unicorn where the presence of a spirit may automatically lead to conflict and throw obstacles in front of the group. GMs and players must also be wary of “metagaming” (whether deliberate or inadvertent), since the spirit PC will have great knowledge of past events but little to no understanding of the current era. A returned spirit (whether PC or NPC) is always clearly recognizable as such, because their exposed skin glows softly but distinctly with a golden light. This makes their nature impossible to conceal and also makes it somewhat difficult for them to employ stealth—which may explain why Hantei XVI was so willing to go along with Bayushi Paneki’s declaration that the Scorpion would support both sides.</p>
 <p>The exposed skin of a returned spirit glows with a soft golden light. The glow will not penetrate clothing or armor that is completely opaque but otherwise cannot be obscured and only fades when the spirit dies. The spilled blood of a returned spirit glows in a similar way until the blood dries. Mechanically, a returned spirit (whether NPC or PC) can be represented by applying the following Special Ability to a human character from any clan or school.</p>
 <ul>
@@ -170,9 +174,28 @@
 <li><strong>Technique</strong> <em>Light of Yomi</em> - Once per skirmish, a Blessed Guard may take a Complex Action to target an opponent with lower Honor Rank (creatures without an Honor Rank are considered to have 0 Honor for the purposes of this ability). That opponent may not perform any Complex or Simple Actions during his next Turn.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Playing a Spirit PC</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Blessed Guard</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

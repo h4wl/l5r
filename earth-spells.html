@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Earth Spells</h4>
 
-                <h2 id="toc0"><span>Mastery Level 1</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Mastery Level 1</span></h2>
 <h6 id="armor-of-earth-cr">Armor of Earth [CR]</h6>
 <ul>
 <li>Ring/Mastery: Earth 1 (Battle, Defense)</li>
@@ -708,45 +710,32 @@ When using the Siege rules from the L5R 4th edition supplement The Great Clans, 
 <p>Most famously used by Isawa Tadaka and Isawa Sezaru in the early twelfth century, this powerful variation of Rise, Earth is found solely in the Phoenix libraries. Thus far the Phoenix have not shared it with any other clan, although they seriously considered doing so during the Kali-Ma Invasion. Depending on specific campaign settings, the GM could also have this spell introduced to the wider Empire in an earlier era. The spell creates ten human-sized warriors, forming them from earth and stone and animating them with the power of the Earth kami which infuse them. The warriors will move, fight, and otherwise act as the caster commands, obediently and fearlessly. They have Traits and Rings equal to the caster’s Earth, attack (with swords made of stone) as though they have Kenjutsu of 4, and have Reduction equal to twice the caster’s Earth. Their swords are considered to have the Jade property. When destroyed (or when the spell’s duration ends) they collapse<br>
 into piles of loose earth.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc0')" aria-label="Close">
-                      Mastery Level 1
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc1')" aria-label="Close">
-                      Mastery Level 2
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc2')" aria-label="Close">
-                      Mastery Level 3
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc3')" aria-label="Close">
-                      Mastery Level 4
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc4')" aria-label="Close">
-                      Mastery Level 5
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/earth-spells#toc5')" aria-label="Close">
-                      Mastery Level 6
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Mastery Level 1</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Level 2</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Mastery Level 3</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Mastery Level 4</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mastery Level 5</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Mastery Level 6</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

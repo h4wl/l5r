@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">High Skills</h4>
 
-                <h2 id="toc0"><span>Acting (Awareness)</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Acting (Awareness)</span></h2>
 <h5 id="sub-types">Sub-types:</h5>
 <p>Social Skill, Acting is considered a Perform Skill for the purposes of effects that target Perform Skills</p>
 <h6 id="emphases">Emphases:</h6>
@@ -333,72 +335,41 @@
 <li>Rank 5: All participants regain 2 Void Points rather than 1.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc0')" aria-label="Close">
-                      Acting (Awareness)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc1')" aria-label="Close">
-                      Artisan (Awareness)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc2')" aria-label="Close">
-                      Calligraphy (Intelligence)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc3')" aria-label="Close">
-                      Courtier (Awareness)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc4')" aria-label="Close">
-                      Divination (Intelligence)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc5')" aria-label="Close">
-                      Etiquette (Awareness)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc6')" aria-label="Close">
-                      Games (Various)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc7')" aria-label="Close">
-                      Investigation (Perception)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc8')" aria-label="Close">
-                      Lore (Intelligence)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc9')" aria-label="Close">
-                      Medicine (Intelligence)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc10')" aria-label="Close">
-                      Meditation (Void)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc11')" aria-label="Close">
-                      Perform (Varies)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc12')" aria-label="Close">
-                      Sincerity (Awareness)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc13')" aria-label="Close">
-                      Spellcraft (Intelligence)
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/high-skills#toc14')" aria-label="Close">
-                      Tea Ceremony (Void)
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Acting (Awareness)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Artisan (Awareness)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Calligraphy (Intelligence)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Courtier (Awareness)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Divination (Intelligence)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Etiquette (Awareness)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">Games (Various)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc7')">Investigation (Perception)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc8')">Lore (Intelligence)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Medicine (Intelligence)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">Meditation (Void)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc11')">Perform (Varies)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Sincerity (Awareness)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc13')">Spellcraft (Intelligence)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc14')">Tea Ceremony (Void)</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

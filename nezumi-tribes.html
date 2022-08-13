@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Nezumi Tribes</h4>
 
-                <h3 id="toc0"><span>Blue Fur</span></h3>
+                <div id="content">
+                    <h3 id="toc0"><span>Blue Fur</span></h3>
 <ul>
 <li>Beneﬁt: +1 Awareness</li>
 </ul>
@@ -208,9 +212,37 @@ The tribe was so large and successful that it eventually divided into seven semi
 </ul>
 <p>The Third Whisker are one of the smallest of Nezumi tribes, never numbering more than a few dozen individuals. However, they have always included a disproportionate number of prophets and Shamans and an especially strong link to the Transcendents. They are the third tribe that emerged from the centuries-old fracture of the Forever Racing Tomorrow tribe, and from their earliest origins they were beset with dire prophecies about terrible events lying in their future. Paralyzed by these visions, they remained in the Shadowlands until the eighth century, when the rise of the Maw forced them to ﬂ ee north to the Crab lands. When the Maw was ﬁ nally beaten back, the Third Whisker remained, living in tunnels beneath Shiro Kaiu and the newly built Kaiu Wall. There they remained, eventually forming an uneasy alliance with the Kaiu family. The Crab engineers often found the Nezumi highly annoying, but could not deny that the little creatures contributed to the Wall’s defense and upkeep – after all, it was their home too. The Third Whisker are some of the smallest of Nezumi, with an average height of only three feet. They are also among the grimmest and most stoic of ratlings, believing that the world is doomed and they are the only ones who know the truth. Although their Shamans are skilled, other tribes often regard them with trepidation due to their dour natures. The Third Whisker were one of the ﬁrst tribes to join the One Tribe, believing it might offer a way to avert their prophecies. When Tomorrow came, however, they believed their visions had ﬁ nally come true, and their handful of survivors gave in to despair. To the best the Kaiu could determine, no Third Whisker Nezumi survived the ﬁrst harsh winter of the After Times.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Blue Fur</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Broken Shinbone</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Chipped Tooth</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Crippled Bone</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Crooked Tail</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Grasping Paw</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Green-Green White</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Squeaky Eyeball</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Stained Paw</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Tattered Ear Tribe</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Third Whisker</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

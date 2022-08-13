@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Naga Schools</h4>
 
-                <h3 id="toc0"><span>Basic Schools</span></h3>
+                <div id="content">
+                    <h3 id="toc0"><span>Basic Schools</span></h3>
 <h4 id="toc1"><span>Naga Jakla [Shugenja]</span></h4>
 <p>The Naga jakla act as conduits of the mysteries of the universe. Jakla learn to use their connection with the Akasha and focus it into displays of powerful magical prowess. They also perform the major religious and spiritual rituals of Naga society, such as the special ritual that makes all Naga immune to the Shadowlands Taint. Only members of the Cobra bloodline can unlock the magic of the <a href="/pearls">Pearls</a> and join the jakla School. Other Bloodlines can sometimes coax magic out of the pearls, but at a greatly reduced power, and in mechanical terms they cannot take this School.</p>
 <ul>
@@ -243,9 +247,35 @@
 <li><strong>Technique:</strong> <em>Shards Of Light</em> - Pearl Shapers sacrifi ce their normal magical connections to focus their talents into fi erce magical assaults. They shatter jakla pearls to release their magical energy across the battlefield. As a Complex Action, you may crush any pearl (it does not need to be a jakla spell-pearl) and spend a spell slot of any Element to make a ranged attack against a single target within 100’. Your attack roll is equal to your Agility + (twice your School Rank), keeping your Agility. This attack ignores any armor bonuses to Armor TN. The energy bolt’s damage roll is equal to your Akasha + your School Rank, keeping your Akasha.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc1')">Naga Jakla [Shugenja]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc2')">Naga Scout [Bushi]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc3')">Naga Vedic [Courtier]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc4')">Naga Warrior [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Alternative Paths</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc6')">Disciples Of the Dashmar [Courtier]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc7')">Master Bowman [Bushi]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc8')">Pearl Shapers [Shugenja]</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Ashalan Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Blood-Sworn (Warrior)</span></h3>
 <p>Created shortly after the Day of Wrath, the Blood-Sworn are dedicated to protect the Ashalan race against anything that would threaten their people, whether in the Burning Sands or abroad. They are consecrated by the Ishanti Crystal, and after this ritual they find that their senses have been sharpened and they have become truly the ideal guardians for their race.</p>
 <ul>
@@ -227,9 +231,34 @@
 <h2 id="toc7"><span>Notes</span></h2>
 <p>At the GM’s discretion, Ranks in Warrior and Diplomat classes may count as Ranks in other Classes or Schools which perform magic, where the Ashalan has had a chance to study said magic. Sahir of this variety should be ancient and high Insight Rank and therefore are usually not suitable as PC’s. Most PCs taking Ashalan Classes are expected to be dominated humans who have been inducted into the Ashalan to protect and serve the diminished race. Given the powerful classes of the Ashalan, even these should be rare</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Blood-Sworn (Warrior)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Children of Midnight (Sahir)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Heart-Seekers (Warrior)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Sun-Riders (Diplomat)</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Alternate Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Ashalan Sandsmith</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc7')">Notes</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

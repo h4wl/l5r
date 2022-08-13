@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,20 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <div style="width: 60px;" class="d-block" />
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +150,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">20 Questions</h4>
 
-                <p>The Game of Twenty Questions<br>
+                <div id="content">
+                    <p>The Game of Twenty Questions<br>
 Although the process of creating a character mechanically is very important, the most important aspects of your character have very little to do with mechanics at all. What kind of character do you want to play? What is his history like? What are his goals? What is the most important thing in the world to him? These are questions you should consider before you even start to spend points.</p>
 <p><span style="text-decoration: underline;">1. What clan does your character belong to?</span><br>
 A character's clan is their most defining characteristic because each clan has a well-established and distinct set of philosophies, prejudices, and ideals. Whether a character adheres to they stereotypes of his clan or breaks them, one way or the other they will prove very important to his personality.</p>
@@ -192,9 +194,24 @@ Among bushi and courtiers, levels of religious devotion vary widely. Shugenja ar
 <p><span style="text-decoration: underline;">20. How will your character die?</span><br>
 This is a very important and intimidating question, but one that should be given consideration. Every samurai lives a few short feet from death, and death is a threat that can rear its head on any day of a samurai's entire life. What is the character's destiny? How will he meet his end when the time comes for him to join his ancestors, or to rejoin the universe as part of the Celestial Wheel?</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,20 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <div style="width: 60px;" class="d-block" />
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +150,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">The Imperial Families</h4>
 
-                <p><span style="text-decoration: underline;">The Hantei Family: +1 Void</span><br>
+                <div id="content">
+                    <p><span style="text-decoration: underline;">The Hantei Family: +1 Void</span><br>
 Descendants of the first Hantei (however far removed), members of the Hantei line tend to have a great destiny, and can excel in nearly any area if they have but the will to focus their efforts.</p>
 <p><span style="text-decoration: underline;">The Miya Family: +1 Reflexes</span><br>
 At the dawn of the Empire, Miya was assigned the duty of spreading the news of Fu Leng's defeat across Rokugan. The Miya family has continued to fulfill their duty as heralds and peacemakers with diligence and pride. Miya samurai tend to be solemn, quiet, and focused on upholding their great responsibilities.</p>
@@ -160,9 +162,24 @@ Seppun was one of Hantei's most loyal followers and the family remains closest t
 <p><span style="text-decoration: underline;">The Toturi Family: +1 Willpower</span><br>
 The leaders of the Toturi dynasty rewarded their most loyal heroes with the Toturi name. As a result, the Toturi family is formed by those of the greatest bravery and talent. Only a dozen warriors bear the Toturi name at any time, each one with the potential to be one of the leaders of his generation.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

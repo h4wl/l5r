@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Scorpion Clan Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Bayushi Bushi [CR]</span></h3>
 <p>The greatest villains in Rokugan's most successful plays are always Scorpions, because it is so easy for most samurai to believe. It is the actions of students from the Bayushi Bushi School that have brought this stereotype to life and reinforced it over and over again. Every student in the Bayushi dojo is trained to be the perfect weapon of discord, capable of turning the Clans against one another with minimal effort. Weapons training is only one aspect of their education, which often includes social manipulation, stealth, and even the use of poisons when the student is deemed suitable for such things.</p>
 <p>The Bayushi Techniques might best be described as dirty tricks. They focus on granting the character an advantage, such as an increase in Initiative, or ruthlessly exploiting any other advantage that might already exist. In particular the ability to cripple an opponent with Conditions can turn the tide of a battle against a vastly superior opponent, if one has but a little luck.</p>
@@ -440,117 +442,54 @@ The effects of this Technique last one week, and it cannot target the same perso
 <li><strong>Technique:</strong> <em>Way of the Shadow</em> - A master of Shadow gains many powerful abilities. You may sacrifice a spell slot of an Element to gain perfect vision when in absolute darkness. Alternatively, you may spend an Air or Void spell slot to gain a bonus of +1k1 to the total of any Stealth, Sleight of Hand, or Sincerity (Deceit) Skill Roll. You may not spend more spell slots than your Insight Rank in this manner on any one Skill Roll.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scscorpion#toc0')" aria-label="Close">
-                      Basic Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc1')" aria-label="Close">
-                              Bayushi Bushi [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc2')" aria-label="Close">
-                              Bayushi Courtier [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc3')" aria-label="Close">
-                              Shosuro Actor [Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc4')" aria-label="Close">
-                              Shosuro Infiltrator [Ninja] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc5')" aria-label="Close">
-                              Soshi Magistrate [Bushi] [EE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc6')" aria-label="Close">
-                              Soshi Shugenja [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc7')" aria-label="Close">
-                              Yogo Wardmaster [Shugenja]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scscorpion#toc8')" aria-label="Close">
-                      Advanced Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc9')" aria-label="Close">
-                              Scorpion Instigator [Courtier] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc10')" aria-label="Close">
-                              Scorpion Saboteur [Ninja] [IH]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scscorpion#toc11')" aria-label="Close">
-                      Alternative Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc12')" aria-label="Close">
-                              Bayushi Distracter [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc13')" aria-label="Close">
-                              Bitter Lies Swordsman [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc14')" aria-label="Close">
-                              Fading Shadows [Shugenja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc15')" aria-label="Close">
-                              Kuroiban [Shugenja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc16')" aria-label="Close">
-                              Saigo&#x27;s Blades [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc17')" aria-label="Close">
-                              The Scorpion Elite Guard [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc18')" aria-label="Close">
-                              Scorpion Loyalist [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc19')" aria-label="Close">
-                              Scorpion Maskmaker [Courtier/Artisan]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc20')" aria-label="Close">
-                              The Scorpion&#x2019;s Tail [Bushi/Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc21')" aria-label="Close">
-                              Scorpion Weaponmaster [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc22')" aria-label="Close">
-                              Shadow Blades [Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc23')" aria-label="Close">
-                              Shadow Hunter [Shugenja] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc24')" aria-label="Close">
-                              Shosuro Assassins [Ninja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc25')" aria-label="Close">
-                              Shosuro Defilers [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc26')" aria-label="Close">
-                              Sons of Shadow
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scscorpion#toc27')" aria-label="Close">
-                              Soshi Deceivers [Shugenja]
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Bayushi Bushi [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Bayushi Courtier [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Shosuro Actor [Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Shosuro Infiltrator [Ninja] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Soshi Magistrate [Bushi] [EE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Soshi Shugenja [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Yogo Wardmaster [Shugenja]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc8')">Advanced Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Scorpion Instigator [Courtier] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">Scorpion Saboteur [Ninja] [IH]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc11')">Alternative Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc12')">Bayushi Distracter [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">Bitter Lies Swordsman [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Fading Shadows [Shugenja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Kuroiban [Shugenja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Saigo's Blades [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc17')">The Scorpion Elite Guard [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">Scorpion Loyalist [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">Scorpion Maskmaker [Courtier/Artisan]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">The Scorpion’s Tail [Bushi/Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">Scorpion Weaponmaster [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc22')">Shadow Blades [Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">Shadow Hunter [Shugenja] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc24')">Shosuro Assassins [Ninja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Shosuro Defilers [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">Sons of Shadow</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Soshi Deceivers [Shugenja]</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Families of the Dragon Clan</h4>
 
-                <h2 id="toc0"><span><span style="text-decoration: underline;">The Kitsuki Family: +1 Awareness</span></span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span><span style="text-decoration: underline;">The Kitsuki Family: +1 Awareness</span></span></h2>
 <p>The ever-perceptive Kitsuki serve the Dragon Clan as magistrates and court representatives, although they are better suited as the former. Even in court, however, a Kitsuki's ability to perceive truth when presented with lies has proven a tremendous asset to the Dragon in their pursuit of an Empire free of deceit and treachery.</p>
 <h2 id="toc1"><span><span style="text-decoration: underline;">The Mirumoto Family: +1 Agility</span></span></h2>
 <p>The Mirumoto are the broad shoulders that carry the burden of the Dragon Clan. While the Togashi pursue their unique brand of enlightenment, the Mirumoto rule the clan in all but name, overseeing its day to day operations and filling the ranks of its military. Comprising more than half of the Clan's ranks, the Mirumoto are the most commonly encountered Dragon samurai in the Empire.</p>
@@ -169,9 +173,32 @@ Chiyu (Tamori): +1 Perception<br>
 Hiasobi (Tamori): +1 Intelligence<br>
 Izaku (Agasha/Tamori): +1 Intelligence</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">The Kitsuki Family: +1 Awareness</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">The Mirumoto Family: +1 Agility</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">The Tamori Family: +1 Willpower</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">The Togashi Order: +1 Reflexes</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">The Agasha Family: +1 Perception</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Vassal Families</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

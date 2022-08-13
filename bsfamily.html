@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Families of the Burning Sands</h4>
 
-                <h2 id="toc0"><span>Dahab Houses</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Dahab Houses</span></h2>
 <h3 id="toc1"><span>House Asmari: +1 Strength</span></h3>
 <p>The closest thing the houses of Dahab have to ambassadors, House Asmari officially serves as the Houses' liaison to the mercantile interests of foreign power, but in truth House Asmari uses its power to chose what is and is not allowed to be sold within the Jewel.</p>
 <h3 id="toc2"><span>House Basiri: +1 Intelligence</span></h3>
@@ -209,9 +213,56 @@
 <h3 id="toc29"><span>Order of the Ebon Hand: +1 to Any Trait</span></h3>
 <p>The Order of the Ebon Hand are something of an oddity even mong the wildly varied cultures of the Burning Sands. They are a diverse organization that holds allegiance to no one. Their primary concern is protecting the broken shards of the Ebon Stone that they revere and hold sacred.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Dahab Houses</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">House Asmari: +1 Strength</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">House Basiri: +1 Intelligence</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">House Enour: +1 Willpower</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">House Haffit: +1 Agility</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">House Hazaad: +1 Awareness</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">House Mendadi: +1 Reflexes</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">House Menjari: +1 Perception</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">House Rashid : +1 Stamina</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">The Qabal</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc10')">The Traditionalists: +1 Intelligence</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">The Progressivists: +1 Willpower</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Ashalan</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc13')">Assassins</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Qadi and Caliphate Guards: +1 Perception</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Daughters and Sons of the Mountain: +1 Reflexes</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Order of the Blood-Red Tiger : +1 Agility</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc17')">Ra'Shari</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">The Great Caravan of Commerce: +1 Willpower</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">The Great Caravan of Entertainment: +1 Awareness</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">The Great Caravan of Memory: +1 Intelligence</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">The Great Caravan of Mysticism: +1 Perception</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc22')">Senpet</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">The Senpet: +1 Void</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc24')">Yodotai</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">The Yodotai: +1 Strength.</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc26')">Jackals</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">The Jackals: +1 Agility</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc28')">Ebonites</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc29')">Order of the Ebon Hand: +1 to Any Trait</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

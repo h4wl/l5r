@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Shadowlands Taint</h4>
 
-                <p>The Shadowlands Taint is a manifestation of Jigoku's corruptive influence on the moral world. It functions as a disease, spreading upon contact, but corrupts the soul as readily as the body. Those subjected to the taint slowly face strange mutations, exhibit unnatural strength and unholy powers, and become violent and malicious as the taint subverts their thoughts and dreams. Corpses suffused with the taint return as undead abominations.</p>
+                <div id="content">
+                    <p>The Shadowlands Taint is a manifestation of Jigoku's corruptive influence on the moral world. It functions as a disease, spreading upon contact, but corrupts the soul as readily as the body. Those subjected to the taint slowly face strange mutations, exhibit unnatural strength and unholy powers, and become violent and malicious as the taint subverts their thoughts and dreams. Corpses suffused with the taint return as undead abominations.</p>
 <p>Much like Honor and Glory, one's Taint is representing through Ranks and Points. Whenever a character is exposed to Taint from an outside source, they must make an Earth roll to resist it. The roll's TN depends on the circumstance (from 10 from a simple contact to 30 for being swallowed alive by an oni). Failure means gaining a single point of Taint.</p>
 <p>Furthermore, a character infected by the Taint must regularly (once per month for level 0 or 1 infection, twice per month for level 2, once per week for level 3, once per day for level 4) make an Earth roll. The roll's TN is 5 at level 0, then increases by 5 for each level thereafter. Failure means gaining a single point of Taint. A character drinking Jade Petal tea gains +2k2 on such rolls, and living a life of spiritual purity grants from +1k0 to +3k0 on such rolls.</p>
 <p>A character can always &quot;embrace the taint&quot; and add +1k1 to any physical roll in exchange for immediately gaining a single point of Taint. This cannot be prevented. Whenever a character has ten points of Taint, they gain one rank instead. The Taint manifests in various symptoms, such as the following:</p>
@@ -175,9 +179,27 @@ A character with five ranks of Taint becomes Lost, unless they are exceptional (
 <p>Some characters manage to survive the ordeal as the Lost, or Akutsukai, becoming abominations under the GM's control. They have no longer any penalties for having the Taint, gain 0-3 additional mutations, and 0-3 additional Shadowlands powers. They can no longer embrace the taint, but instead add their Taint rank to all their physical rolls. Although they can be perceived as self-willed, Lost characters are in fact only driven by Jigoku, and are completely evil, without self-will, and with a twisted remnant of their former self as their only personality.</p>
 <p>Even rarer are the Akutenshi, truly self-willed abominations. Sometimes claimed to bear the blood of Fu Leng himself, while supposed by others to be powerful Lost imbued with the power of Jigoku itself, Akutenshi exhibit a high level of free will and personality, although the full extent of such attributes is uncertain. Akutenshi can have any number of lesser and greater Shadowlands powers, but always have at least three of each. Furthermore, they have between one and four additional abilities exclusive to Akutenshi and extremely powerful Lost.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Taint ranks</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

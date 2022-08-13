@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Skills</h4>
 
-                <p>Skills fall into a number of categories. The most significant of these is referred to as the subtype, a system where all Skills are sorted into one of four broad categories depending upon how the use of the Skill is regarded in Rokugani society.</p>
+                <div id="content">
+                    <p>Skills fall into a number of categories. The most significant of these is referred to as the subtype, a system where all Skills are sorted into one of four broad categories depending upon how the use of the Skill is regarded in Rokugani society.</p>
 <ul>
 <li><span style="text-decoration: underline;"><strong><a href="/high-skills">High Skills</a></strong></span> are exclusively the province of the samurai caste. These are the Skills one would typically see in use at a daimyo's court, or even among the attendants of the Emperor's court. They reflect sophistication and nobility, and typically require considerable education in order to attain and practice.</li>
 <li><span style="text-decoration: underline;"><strong><a href="/bugei-skills">Bugei Skills</a></strong></span> are the domain of the bushi. These are the Skills of a warrior, and while the samurai are not the only ones who practice them (since ashigaru and budoka learn some of these as well), they are unquestionably the masters of the craft.</li>
@@ -165,9 +169,28 @@ When making a Skill Roll, if the character has an Emphasis that applies to the s
 Mastery Abilities are additional benefits that characters gain from having higher ranks in a given Skill. Although most Skills have them, there are some that do not. Those Skills that have Mastery Abilities typically gain them at Ranks 3, 5, and 7, although there are some Skills that gain a single Mastery Ability at Rank 5. These benefits are listed in the individual Skill write-ups. Unless otherwise specified, Mastery Abilities only apply when the actual Skill in question is being used.<br>
 All Skills possess a single Mastery Ability at Rank 10, which is a Free Raise on all rolls made using that Skill.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Emphases</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Mastery Abilities</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>

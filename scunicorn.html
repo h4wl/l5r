@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Unicorn Clan Schools</h4>
 
-                <h2 id="toc0"><span>Basic Schools</span></h2>
+                <div id="content">
+                    <h2 id="toc0"><span>Basic Schools</span></h2>
 <h3 id="toc1"><span>Horiuchi Shugenja</span></h3>
 <p>The Horiuchi family was formed late in the history of the Unicorn, but the shugenja school bears their name in modern times has an ancient history with roots from before the Great Clan's return to their ancestral home in Rokugan. During their travels outside the borders of the Emerald Empire, the Unicorn discovered many different methods and styles of magic among both their allies and enemies, incorporating them into a single method. After the Horiuchi family was formed they became some of the foremost practitioners of the meishodo method and in modern times the school bears the Horiuchi name.</p>
 <p>The original gaijin sorcerers who created name magic could not speak to the elemental kami and had no direct access to the gods. Instead, they forged amulets of power that could simulate magical effects by invoking the true names of the elements. When the Unicorn studied this magic, they realized it trapped a kami into the item, forcing it to reproduce a single effect whenever the sorcerer focused his will into it. The Unicorn changed and adapted the process to fit their own beliefs. Their meishodo amulets no longer trap the kami, but instead appeal to the elements surrounding the amulet to perform the desired magical effects. However, somewhat like the gaijin originals, a Unicorn meishodo amulet contains only one unalterable effect that can be invoked in this manner.</p>
@@ -439,117 +441,54 @@ The Ide Techniques are different from most courtier Techniques in that they are 
 <li><strong>Technique:</strong> <em>Master of the Open Plains</em> - The Utaku men devote themselves to raising and training horses, and are without question the greatest in Rokugan at this task. Indeed, the Unicorn claim that in all their travels across the world they have never encountered better. You gain a +2k0 bonus to all Animal Handling, Horsemanship, and Hunting rolls.</li>
 </ul>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scunicorn#toc0')" aria-label="Close">
-                      Basic Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc1')" aria-label="Close">
-                              Horiuchi Shugenja
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc2')" aria-label="Close">
-                              Ide Emissary [Courtier] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc3')" aria-label="Close">
-                              Iuchi Shugenja [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc4')" aria-label="Close">
-                              Moto Bushi [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc5')" aria-label="Close">
-                              Moto Death Priest [Shugenja] [IH]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc6')" aria-label="Close">
-                              Moto Vindicator [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc7')" aria-label="Close">
-                              Shinjo Bushi [EE]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc8')" aria-label="Close">
-                              Utaku Battle Maiden [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc9')" aria-label="Close">
-                              Utaku Mounted Infantry [Bushi]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scunicorn#toc10')" aria-label="Close">
-                      Advanced Schools
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc11')" aria-label="Close">
-                              The White Guard [Bushi] [CR]
-                            </button>
-                      </nav>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/scunicorn#toc12')" aria-label="Close">
-                      Alternative Paths
-                    </button>
-                      <nav class="nav flex-column">
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc13')" aria-label="Close">
-                              Calm Heart Duelist [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc14')" aria-label="Close">
-                              Hand of Peace [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc15')" aria-label="Close">
-                              Ide Caravan Master [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc16')" aria-label="Close">
-                              Ide Trader [Courtier]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc17')" aria-label="Close">
-                              Iuchi Couriers (Lord of the Plains) [Shugenja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc18')" aria-label="Close">
-                              Iuchi Traveler [Shugenja] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc19')" aria-label="Close">
-                              Moto Fanatic [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc20')" aria-label="Close">
-                              Rajya ke Varisa [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc21')" aria-label="Close">
-                              Shinjo Magistrate [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc22')" aria-label="Close">
-                              Shinjo Scout [Bushi] [CR]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc23')" aria-label="Close">
-                              Unicorn Bariqu Wrestler [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc24')" aria-label="Close">
-                              Unicorn Doomseeker [Shugenja]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc25')" aria-label="Close">
-                              Unicorn Wardog Masters [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc26')" aria-label="Close">
-                              Unicorn Yomanri Archer [Bushi]
-                            </button>
-                            <button type="button" class="btn btn-toc ms-3" onclick="l5r.tocOnClick('/scunicorn#toc27')" aria-label="Close">
-                              Utaku Horse Master
-                            </button>
-                      </nav>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc1')">Horiuchi Shugenja</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc2')">Ide Emissary [Courtier] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc3')">Iuchi Shugenja [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc4')">Moto Bushi [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Moto Death Priest [Shugenja] [IH]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc6')">Moto Vindicator [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc7')">Shinjo Bushi [EE]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc8')">Utaku Battle Maiden [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc9')">Utaku Mounted Infantry [Bushi]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">Advanced Schools</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc11')">The White Guard [Bushi] [CR]</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Alternative Paths</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc13')">Calm Heart Duelist [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc14')">Hand of Peace [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc15')">Ide Caravan Master [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc16')">Ide Trader [Courtier]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc17')">Iuchi Couriers (Lord of the Plains) [Shugenja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc18')">Iuchi Traveler [Shugenja] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc19')">Moto Fanatic [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc20')">Rajya ke Varisa [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc21')">Shinjo Magistrate [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc22')">Shinjo Scout [Bushi] [CR]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc23')">Unicorn Bariqu Wrestler [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc24')">Unicorn Doomseeker [Shugenja]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc25')">Unicorn Wardog Masters [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc26')">Unicorn Yomanri Archer [Bushi]</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc27')">Utaku Horse Master</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

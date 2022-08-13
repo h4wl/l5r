@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,21 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
-                    <span>. . .</span>
-                </button>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -151,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Ancestors</h4>
 
-                <p>Ancestors are a special form of Spiritual Advantage, and are purchased with Character Points in the same manner as other Advantages. They represent guidance and advice from great heroes of Rokugan's past who now dwell in Yomi. Only a rare and exceptional character should receive an ancestor's guidance, and players who choose this option will be subjecting their characters to significant role-play restrictions. Ancestors are powerful, but the constraints they place on characters may be frustrating to many players, especially given their high point cost. Ancestors do not apply to the maximum number of advantages that a player may purchase during character creation.</p>
+                <div id="content">
+                    <p>Ancestors are a special form of Spiritual Advantage, and are purchased with Character Points in the same manner as other Advantages. They represent guidance and advice from great heroes of Rokugan's past who now dwell in Yomi. Only a rare and exceptional character should receive an ancestor's guidance, and players who choose this option will be subjecting their characters to significant role-play restrictions. Ancestors are powerful, but the constraints they place on characters may be frustrating to many players, especially given their high point cost. Ancestors do not apply to the maximum number of advantages that a player may purchase during character creation.</p>
 <p>All ancestors are governed by the following restrictions:</p>
 <ul>
 <li><span style="text-decoration: underline;">Loyalty:</span> An ancestor will only advise someone from the same clan/faction. They will not aid those who are not part of the clan they served (and in some cases, founded) in life, even if that person can claim a direct blood descent from them.</li>
@@ -413,66 +415,39 @@
 <h6 id="demands-57">Demands:</h6>
 <p>Mizumoto sought always to extend his knowledge of the Tao and the ways of Enlightenment. If you ever voluntarily pass over a chance to learn about a new teaching, sect, or belief within the Brotherhood, Mizumoto will abandon you.</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                      <aside>
-    <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents" aria-labelledby="tableOfContentsLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
-                aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="v-stack">
-<h4>Table of Contents</h4>
-            <nav class="h-100 flex-column align-items-stretch">
-              <nav class="nav flex-column">
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc0')" aria-label="Close">
-                      Crab Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc1')" aria-label="Close">
-                      Crane Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc2')" aria-label="Close">
-                      Dragon Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc3')" aria-label="Close">
-                      Lion Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc4')" aria-label="Close">
-                      Mantis Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc5')" aria-label="Close">
-                      Phoenix Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc6')" aria-label="Close">
-                      Scorpion Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc7')" aria-label="Close">
-                      Spider Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc8')" aria-label="Close">
-                      Unicorn Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc9')" aria-label="Close">
-                      Imperial Families Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc10')" aria-label="Close">
-                      Minor Clan Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc11')" aria-label="Close">
-                      Ronin Ancestors
-                    </button>
-                    <button type="button" class="btn btn-toc" onclick="l5r.tocOnClick('/ancestors#toc12')" aria-label="Close">
-                      Brotherhood of Shinsei Ancestors
-                    </button>
-              </nav>
-            </nav>
-          </div>
-            
-        </div>
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
     </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc0')">Crab Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc1')">Crane Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc2')">Dragon Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc3')">Lion Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc4')">Mantis Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc5')">Phoenix Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc6')">Scorpion Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc7')">Spider Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc8')">Unicorn Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc9')">Imperial Families Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc10')">Minor Clan Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc11')">Ronin Ancestors</button>
+  <button class="btn btn-toc" onclick="l5r.tocOnClick('#toc12')">Brotherhood of Shinsei Ancestors</button>
+</div>
+      </div>
+    </div>
+  </div>
 </aside>
-
             </div>
         </div>
     </div>

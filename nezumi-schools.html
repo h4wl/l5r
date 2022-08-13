@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,19 +20,22 @@
 
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+    
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
     <div class="container-fluid">
         <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavigation" aria-controls="mainNavigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/"><img src="/img/l5c_logo_transparent.png" class="" style="height: 50px;" alt="..."></a>
-                <div class="d-block" style="width: 60px;"></div>
+        <button style="width: 60px; border: none;" class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#tableOfContents" aria-controls="tableOfContents">
+  <span>. . .</span>
+</button>
         
     </div>
 </nav>
 
     <!-- Main Content -->
-    <div id="content" class="container-fluid">
+    <div  class="container-fluid">
   
         <div class="row">
             
@@ -149,7 +152,8 @@
             <div class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
                         <h4 class="display-4">Nezumi Schools</h4>
 
-                <h3 id="toc0"><span>Basic Schools</span></h3>
+                <div id="content">
+                    <h3 id="toc0"><span>Basic Schools</span></h3>
 <h4 id="toc1"><span>Nezumi Warriors (“Ch”) [Bushi]</span></h4>
 <p>Nezumi warriors are a cunning, hardy lot that make the most of their physical abilities. They are adept at utilizing guerilla tactics and ﬁ ghting as a team. They serve as the hunters and protectors of the tribe.</p>
 <ul>
@@ -220,9 +224,33 @@
 <h5 id="rank-3-sever-tomorrow">Rank 3: Sever Tomorrow</h5>
 <p>For a true Berserker, failure is worse than death. If you suffer enough Wounds to kill you, before dying you may immediately take a Free Action to make a ﬁ nal melee attack against an opponent within melee range (this must be the opponent who killed you if he is within reach). You gain a +3k0 bonus to this attack roll. You die after this attack is resolved (whether or not it succeeds).</p>
 
+                </div>
+                
             </div>
             <div class="col-lg-3 l5r-toc">
-                
+                <aside>
+  <div class="offcanvas-lg offcanvas-end mt-lg-3" tabindex="-1" id="tableOfContents"
+    aria-labelledby="tableOfContentsLabel">
+    <div class="offcanvas-header">
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tableOfContents"
+        aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="v-stack">
+        <div class="d-grid">
+  <h4>Table of Contents</h4>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc0')">Basic Schools</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc1')">Nezumi Warriors (“Ch”) [Bushi]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc2')">Nezumi Scrounger (“Ithith”)</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc3')">Nezumi Shaman (Nameseeker/”Kir”) [Shugenja]</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc4')">Nezumi Rememberer (“Tch’tch”)</button>
+  <button class="btn btn-toc ms-3" onclick="l5r.tocOnClick('#toc5')">Advanced Schools</button>
+  <button class="btn btn-toc ms-5" onclick="l5r.tocOnClick('#toc6')">Berserkers (“Chitatachikkan”)</button>
+</div>
+      </div>
+    </div>
+  </div>
+</aside>
             </div>
         </div>
     </div>
