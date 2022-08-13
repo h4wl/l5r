@@ -28,22 +28,22 @@ The Ide Techniques are different from most courtier Techniques in that they are 
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Extravagant Clothing, Wakizashi, any 1 weapon, Calligraphy Set, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Heart Speaks
+## <strong>Techniques</strong>
+#### Rank 1: The Heart Speaks
 
 The Ide are taught to adapt instantly to new customs and social nuances, allowing them to avoid giving offense in even the most dangerous and hostile of courts. Also, since they must often deal with foreigners who might react poorly to lies or manipulation, they are taught to employ honesty and direct speech whenever possible. In any situation in which you might inadvertently give offense, whether through accident or ignorance (such as being unware of a daimyo's hostility to a particular subject of conversation), you may roll Etiquette (Courtesy) / Awareness at TN 20 to avoid doing so. You gain a Free Raise when rolling Sincerity (Honest), but any time you roll Sincerity (Deceit), your TN is increased by +5.
-##### Rank 2: Piercing the Veils
+#### Rank 2: Piercing the Veils
 
 After centuries of dealing with unpredictable and sometimes violent folk in the Burning Sands, the Ide have learned an almost preternatural ability to read the emotions of others, recognizing their true feelings and, hopefully, steering away from trouble. You may attempt to read someone else's true emotions in a social situation by making a Contested Social Roll of Etiquette / Awareness against the target's Etiquette / Willpower. With a success, you gain a simple, general idea of their true feelings - which can be very useful when those feelings are not the same as their outward actions. You may Raise for better information, subject to GM's adjudication. (For example, two Raises might tell you, &quot;The Doji is actually hoping for your success against the Dragon.&quot;)
-##### Rank 3: The Heart Listens
+#### Rank 3: The Heart Listens
 
 The Ide family's training emphasizes friendship and good personal relations as the key to successful diplomacy. You may attempt to sway someone's attitude toward you in a positive direction. This requires spending at least 10 minutes in conversation, after which you may make a Contested Roll of your Sincerity (Honesty) / Awareness against their Etiquette (Courtesy) / Willpower. With a success, you shift their attitude toward you in a positive direction. (A hostile individual will become more neutral, an undecided individual will become friendly, etc.) If you make at least two successful Raises on this roll, the target will regard you as an Ally for the remainder of this day (subject to GM approval).
 
 This technique cannot be used on Sworn Enemies, and the GM is the final arbiter on whether it functions against unusual targets such as nonhuman creatures.
-##### Rank 4: Answering the Heart
+#### Rank 4: Answering the Heart
 
 At this level of training, the Ide have become true masters of mediation, able to see past all the deceptions and false fronts of diplomacy and discern the true solution to any problem. When using your Rank Two and Rank Three techniques, you may roll additional unkept dice equal to your School Rank.
-##### Rank 5: The Immovable Hand of Peace
+#### Rank 5: The Immovable Hand of Peace
 
 The final lesson the Ide school teaches its students is to be such perfect mediators that no honorable person can raise a hand against them in violence. You may spend a Void Point to make a Contested Roll of your Sincerity (Honesty) / Awareness against a target individual's Etiquette (Courtesy) / Awareness. If you win the roll, the target cannot take any hostile action against you (physical, social, or magical) for a number of hours equal to twice your School Rank, as long as your likewise refrain from hostility against that person. This Technique does not work agaisnt those with an Honor Rank less than 2.0 or who possess no Honor Rank (animals, oni, etc).
 ### <span>Iuchi Shugenja [CR]</span> {#toc3}
@@ -71,20 +71,20 @@ The Moto Bushi are heavy cavalry, a role around which their Techniques are unaba
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Riding or Heavy Armor, Sturdy Clothing, Daisho, Heavy Weapon or Polearm, Traveling Pack, Horse (Unicorn riding horse), 10 koku, any one weapon
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Unicorn
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Unicorn
 
 The Moto combat style is a wild, unfettered fury that intimidates witnesses. You may wield any two-handed weapon with one hand (except for bows). You gain a bonus of +1k0 to damage rolls while mounted, using a scimitar, or while using a two-handed melee weapon (these bonuses do not stack). Scimitars have the Samurai keyword for you.
-##### Rank 2: Shinsei's Smile
+#### Rank 2: Shinsei's Smile
 
 The Moto are famed for slicing their enemies' throats from ear to ear, a gruesome display they proudly call Shinsei's Smile. You take advantage of your opponent's weakened state, gaining a bonus to your attack rolls equal to half of his Wound Rank TN penalties, rounded down. For example, if your opponent is unhurt and in the Healthy Wound Rank, you do not gain a bonus. If your opponent is in the Crippled Wound Rank, you gain a bonus of +10 to the total of attack rolls.
-##### Rank 3: Desert Wind Strike
+#### Rank 3: Desert Wind Strike
 
 Power and precision are equally valuable to the Moto. You may make attacks as a Simple Action instead of a Complex Action when using a melee weapon.
-##### Rank 4: The Charge of Madness
+#### Rank 4: The Charge of Madness
 
 The Moto fighting style is utterly relentless, allowing him to move from one foe to another without ceasing. Once per skirmish, if you successfully bring a target down to the Out Wound Level, you may immediately make an additional attack as a Free Action. This attack may not target the same target as the attack that activated Technique. You may not make Raises on this attack.
-##### Rank 5: Moto Cannot Yield
+#### Rank 5: Moto Cannot Yield
 
 A Moto never surrenders. While mounted or while assuming the Full Attack Stance you keep an additional number of damage dice equal to half your strength, rounded down. You only gain this bonus while wielding a two-handed weapon or a weapon with the Samurai keyword.
 ### <span>Moto Death Priest [Shugenja] [IH]</span> {#toc5}
@@ -115,22 +115,22 @@ The Moto Vindicator School focuses the fury and dedication of the Moto to a dest
 - <strong>Outfit:</strong> Heavy Armor, Sturdy Clothing, Daisho, any 1 Weapon, Traveling Pack, Riding Horse, 5 koku
 - <strong>Special:</strong> To join this School, you must have either the Higher Purpose (Defeat the Shadowlands) Advantage or the Driven (Defeat the Shadowlands) Disadvantage.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Purity of the Breath
+## <strong>Techniques</strong>
+#### Rank 1: Purity of the Breath
 
 The Vindicator knows the only way to combat the Shadowlands is to maintain integrity in the face of the foulest corruption. At the beginning of each Round, you may choose one of two effects to apply until the end of the Round. You may reduce your TN penalties from Wound Ranks by an amount equal to your School Rank plus Willpower. Or, you may instead choose to add a bonus to your Armor TN equal to your School Rank plus your Willpower.
 
 If you are in a skirmish against creatures of the Shadowlands, the chosen bonus is doubled.
-##### Rank 2: Facing the Dark Within
+#### Rank 2: Facing the Dark Within
 
 The Vindicator learns to hone his senses so that he is never surprised by those who serve the darkness. You gain a +2k0 bonus to all Investigation rolls. This bonus is increased to +2k1 if you are specifically attempting to notice the effects of Shadowlands Taint.
-##### Rank 3: Justice of Our Ancestors
+#### Rank 3: Justice of Our Ancestors
 
 The Vindicator's rage at his foes knows no bounds. You may make melee attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Avenging Our Own
+#### Rank 4: Avenging Our Own
 
 The Vindicator's fury is provoked the most when it is directed at those creatures he once called his brothers. You gain a bonus of +2k0 to your attack and damage rolls against an enemy who has attacked you in a skirmish and against any creature with the Shadowlands Taint whether it has attacked you or not.
-##### Rank 5: Bloodied but Unbowed
+#### Rank 5: Bloodied but Unbowed
 
 The Vindicator can push on past physical limits once his goal is in sight. Once per skirmish, you may choose to keep fighting despite your injuries. Activating this Technique is a Free Action. Once it is active, while making melee attacks you gain a bonus to the total of your damage rolls equal to the TN penalties you are suffering from Wound Ranks. (This uses the default Wound penalties, ignoring modifications from Advantages, spells, or other such effects.) The effects of this Technique last for two full Rounds. You may choose to extend the effects of this Technique for an additional Round by taking 10 Wounds.
 ### <span>Shinjo Bushi [EE]</span> {#toc7}
@@ -142,20 +142,20 @@ The Shinjo excel at mounted tactics, a trait common to all Unicorn bushi traditi
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Clothing, Daisho, Bow, Knife, Traveling Pack, Horse, 10 Koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Ki-Rin
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Ki-Rin
 
 The Shinjo family's natural affinity for horsemanship is immediately obvious and pervades their every action. When spending a Void Point to add +1k1 to any School Skill Roll, you may also add your Horsemanship to the total. This bonus cannot be used while in the Center Stance.
-##### Rank 2: Dance of the Blade
+#### Rank 2: Dance of the Blade
 
 The ancient gaijin swordsmanship techniques practiced by the Shinjo have given them a defensive edge against many styles practiced within the Empire. When you are in the Full Defense Stance and an opponent succeeds with an attack roll that targets you, you may immediately take a Free Action to make a Contested Agility Roll against that opponent. If successful, the attack misses instead. This may be done a number of times per Round equal to your School Rank.
-##### Rank 3: The Four Winds Strike
+#### Rank 3: The Four Winds Strike
 
 The swift and relentless assault of a Shinjo is a dreadful sight to behold for his enemies. You may make attacks as a Simple Action rather than a Complex Action when wielding weapons that possess the Samurai keyword. If you are fighting while mounted, you may also attack as a Simple Action when wielding a bow.
-##### Rank 4: Spirit of the Blade Unleashed
+#### Rank 4: Spirit of the Blade Unleashed
 
 Those who mistake the defensive style of the Shinjo as weak can find themselves brutally surprised in the last moments of their lives. When you are in the Defense or Full Defense Stances and an opponent makes a melee attack targeting you, after the attack resolves you may immediately take a Free Action to make one melee attack against that opponent. This causes you to immediately assume the Attack Stance. This Technique may be used a number of times per skirmish equal to your School Rank, but may only be used once per Round.
-##### Rank 5: Dancing With the Fortunes
+#### Rank 5: Dancing With the Fortunes
 
 A Shinjo atop a horse is a sight that gives even the most seasoned among his enemies pause, and for good reason. During a skirmish, when mounted, when you wish to spend a Void Point you may make a Void Ring Roll (TN 20) as a Free Action. If the Ring Roll is successful, you gain the mechanical benefit of having spent the Void Point without actually spending it. (This does not actually create a bonus Void Point, it simply generates the mechanical effects of spending one.) If the roll fails, you spend the Void Point as normal. You may only use this Technique a number of times per skirmish equal to the number of Void Points you had at the start of the skirmish.
 
@@ -171,20 +171,20 @@ Like other Unicorn bushi Schools, the Utaku Battle Maiden Techniques focus on mo
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light or Riding Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, Horse (Utaku Warhorse), 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Riding in Harmony
+## <strong>Techniques</strong>
+#### Rank 1: Riding in Harmony
 
 The Utaku Battle Maidens value honor above all. You gain a bonus equal to your Honor Rank to one attack per Round. While mounted, you may instead choose to apply to bonus to one damage roll if you choose. You gain a bonus equal to your Honor Rank to the total of all Horsemanship rolls.
-##### Rank 2: The Void of War
+#### Rank 2: The Void of War
 
 An Utaku can sacrifice defense for speed if the flow of the battle calls for it. During Stage 1 of any Combat Round, you may add 5 to either your Initiative Score or your Armor TN. This bonus lasts until you use this Technique again or the skirmish ends.
-##### Rank 3: Sensing the Breeze
+#### Rank 3: Sensing the Breeze
 
 The natural feel of the saddle lends an Utaku unnatural freedom of movement. While mounted, you may make attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Wind Never Stops
+#### Rank 4: Wind Never Stops
 
 Like the wind across the battlefield, the charge of an Utaku is unstoppable. While mounted, you may overrun the enemy spending a Void Point. You may take a Simple Action to charge the enemy and attack him at the end of your movement. (Both the movement and the attack take the same Simple Action. If you are mounted, this Action uses the movement rate of your steed.) If this attack succeeds, you gain a bonus of +2k1 to the total of all damage rolls this Turn.
-##### Rank 5: Otaku's Blessing
+#### Rank 5: Otaku's Blessing
 
 The Utaku carry the honor of their founder as their shield. At the beginning of your Turn, you may spend a Void Point as a Free Action to activate this Technique. You add your Honor Rank to all damage rolls and Bugei Skill Rolls this Turn. This bonus stacks with those from Riding in Harmony.
 ### <span>Utaku Mounted Infantry [Bushi]</span> {#toc9}
@@ -198,8 +198,8 @@ Over time, the School which developed from Buki’s techniques came to be known 
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Normal clothing, daisho, any one spear or polearm, light armor, steed (Unicorn riding horse), traveling pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Choose Your Weapon
+## <strong>Techniques</strong>
+#### Rank 1: Choose Your Weapon
  - The Utaku infantry are trained to fight with sword, spear, and polearm, but each student of the School is expected to choose one such weapon on which to focus his training.
 
 
@@ -219,19 +219,19 @@ You may choose either the Kenjutsu Skill, the Polearms Skill, or the Spears Skil
 
 The White Guard are an elite heavy cavalry force that often serves as the center of the Unicorn army. They represent the best warriors of the Moto family, upholding the causes the Moto hold close their hearts. They fight against gaijin forces that may threaten the safety of Rokugan and fight anything that might tarnish the Moto family legacy. Their extreme pious dedication to the gaijin gods known as the Lords of Death is notable, as are their merciless tactics.
 
-###### Requirements:
+### Requirements:
 - <strong>Ring/Traits:</strong> Earth 5, Agility 5, Strength 4
 - <strong>Skills:</strong> Horsemanship 5, Lore: Theology 5
 - <strong>Other:</strong> You must be a devout follower of the Lords of Death.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Pale Face of Death
+## <strong>Techniques</strong>
+#### Rank 1: Pale Face of Death
 
 The White Guard marches into battle in ceremonial white face paint, striking fear into the hearts of his enemies. At the start of your Turn, you may spend a Void Point as a Free Action and choose an opponent within 30'. He suffers TN penalties to all actions equal to your Lore: Theology Skill Rank. This penalty lasts until the end of the encounter. You may only affect one target in this manner at any one time.
-##### Rank 2: Moto's Strength
+#### Rank 2: Moto's Strength
 
 The White Guard stays true to the teachings and abilities that are the core of his soul. You ignore TN penalties from Wound Levels equal to double your Lore: Theology Skill Rank.
-##### Rank 3: Fury of Heaven
+#### Rank 3: Fury of Heaven
 
 The White Guard attacks with vigor and intensity, repeatedly striking his enemies without abandon. Whenever you make an attack, you may spend a Void Point to add five times your Lore: Theology Skill Rank to the total of your roll.
 ## <span>Alternative Paths</span> {#toc12}

@@ -13,20 +13,20 @@ The Bayushi Techniques might best be described as dirty tricks. They focus on gr
 - <strong>Honor:</strong> 2.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Scorpion
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Scorpion
 
 Scorpion bushi always seem to get the jump on opponents. You gain a bonus +1k1 to your Initiative Rolls. You also gain a bonus of +5 to your Armor TN against any opponent with lower Initiative.
-##### Rank 2: Pincers and Tail
+#### Rank 2: Pincers and Tail
 
 The infamous Scorpion feint has been the demise of many foolhardy samurai. You may make the Feint Maneuver for one Raise instead of two.
-##### Rank 3: Strike at the Tail
+#### Rank 3: Strike at the Tail
 
 Scorpion bushi strive to keep their enemies off guard, stopping their attacks and slowing them down. When you assume a Stance at the start of your Turn, you may choose a target within 30'. If you successfully hit him during your Turn, the target is Fatigued as if he had gone without rest for 24 hours. During the Reaction Stage, an affected opponent may attempt an Earth Ring roll against a TN of 25 to negate the effects of this Technique. If he fails, the effects of this Technique end during the next Reactions Stage (the second Reactions Stage after he was struck).
-##### Rank 4: Strike From Above, Strike From Below
+#### Rank 4: Strike From Above, Strike From Below
 
 The swiftness of the Scorpion allows him to cut down foes before they realize they have been attacked. You may make melee attacks as a Simple Action instead of a Complex Action.
-##### Rank 5: The Pincers Hold, The Tail Strikes
+#### Rank 5: The Pincers Hold, The Tail Strikes
 
 Striking an opponent's weakest point is the Scorpion's true path to victory. Once per encounter, you may spend a Void Point as a Complex Action to attack your opponent with a melee weapon. If the attack is successful, the target is Stunned. During the Reactions Stage, an affected opponent may attempt an Earth Ring roll against at TN equal to the amount of damage dealt to end the Stun effect. If he fails or does not attempt this roll, the Stun effect ends during the next Reactions Stage (the second Reaction Stage after he was struck).
 ### <span>Bayushi Courtier [CR]</span> {#toc2}
@@ -40,22 +40,22 @@ A Scorpion courtier is a master of manipulation and deceit. Even more than that,
 - <strong>Honor:</strong> 2.5
 - <strong>Outfit:</strong> Extravagant Clothing, Wakizashi, any 1 weapon, Calligraphy Set, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Weakness is My Strength
+## <strong>Techniques</strong>
+#### Rank 1: Weakness is My Strength
 
 The Bayushi are masters of ferreting out and exploiting the weaknesses and failures of others. Even if they do not know the exact nature of a rival's secrets, there mere realization that he has some sort of secret is enough for them to work with. When you are making a Contested Social Roll against someone else, you gain a Free Raise to your roll for every 3 points of Mental or Social Disadvantages (rounded off) he possesses. Disadvantages which did not award Experience Points still count for their normal point value for the purposes of this Technique. This technique cannot award more than 5 Free Raises.
 The Bayushi are also known as the masters of both truth and lies, speaking so smoothly that both are indistinguishable in their mouths. You gain a Free Raise when using the Courtier skill to spread gossip, and need not Raise in order to conceal that you are the source of that gossip.
 
-##### Rank 2: Shallow Waters
+#### Rank 2: Shallow Waters
 
 The Scorpion know how to assess others, sensing their weaknesses so as to determine how best to bring them down. By conversing with someone for a few minutes, you can make a Contested Roll of your Investigation / Awareness against their Etiquette / Awareness. With a success, you learn the identity and rank of their lowest Mental and their lowest social Skill that has at least one Rank (The GM chooses in the case of ties). You may spend a Void point to also learn their next lowest Mental Trait and next lowest Social Skill.
-##### Rank 3: Secrets are Birthmarks
+#### Rank 3: Secrets are Birthmarks
 
 At this rank, the Scorpion has become so adept at ferreting out secrets that he can lure others in revealing them in casual conversation. By speaking with someone for a few minutes, you may make a Contested Roll of your Courtier (Manipulation) / Awareness against their Etiquette (Courtesy) / Awareness to force them into revealing one Mental or Social Disadvantage they possess. If they have no such Disadvantage, this will instead reveal one Mental or Social Advantage. (Note this will only reveal the rulebook title of the Advantage / Disadvantage, not the specific nature of it. For example, you might learn that the target has &quot;Dark Secret,&quot; but not the specific nature of the secret.) If the roll succeeded in revealing a Disadvantage, with the GM's permission you may take a 2-point Blackmail Advantage against this individual, for no cost in Experience Points.
-##### Rank 4: Scrutiny's Sweet Sting
+#### Rank 4: Scrutiny's Sweet Sting
 
 At this rank, the Bayushi Courtier has learned to use all the information he has collected to subtly wreck his enemies, undermining their every word and deed. Any time you make a Contested Social Skill Roll against someone on whom you have Blackmail, his dice cannot explode. In addition, any time you make a Contested Social Skill Roll against someone, regardless of whether you have Blackmail on them or not, you may spend a Void Point to force them to use a mental Trait of your choice (instead of the normal Trait used for the roll).
-##### Rank 5: No More Masks
+#### Rank 5: No More Masks
 
 The final lesson of the Bayushi School is to force the rest of the court to see the corrupt, dishonorable world he knows, shattering the reputations of those he speaks against. A number of times per session equal to your School Rank, you may make an Opposed Social Roll of Courtier (Gossip) / Awareness against an opponent's Etiquette (Courtesy) / Awareness. If you have Blackmail on the person you are targeting with his technique, you gain a bonus of +5k0 to the total of this roll. With a success, you may inflict one Social Disadvantage on the target: Social Disadvantage, Sworn Enemy, or Obligation (to someone of your choice). The Disadvantage lasts for one month, unless the GM judges that the target has taken action which can expunge it sooner. (This Technique cannot be used on the same target until its effect expires.)
 ### <span>Shosuro Actor [Ninja]</span> {#toc3}
@@ -69,20 +69,20 @@ The skilled infiltrators who emerge from the Butei Academy are a matter of rumor
 - <strong>Starting Honor:</strong> 1.5
 - <strong>Outfit:</strong> Fine Clothing, Assorted Costumes and Disguises, Knife, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The First Face
+## <strong>Techniques</strong>
+#### Rank 1: The First Face
 
 The Shosuro Actor begins his career by learning the basics of deception and mimicry, and takes his first steps on the path of infiltrating the Empire. You learn one persona. Any time you spend a Void Point on an Acting or Sincerity (Deceit) Skill roll, you gain a bonus of +3k1 instead of the normal +1k1.
-##### Rank 2: The Subtle Sting
+#### Rank 2: The Subtle Sting
 
 Shosuro Actors are expected to serve their clan as both infiltrators and assassins. You gain a bonus of +2k0 to your attack rolls when wielding a Small weapon.
-##### Rank 3: The Second Face
+#### Rank 3: The Second Face
 
 The Actor's training has now advanced enough to make him a far more flexible and capable infiltrator. You learn a second persona. In addition, you may now spend 2 Void Points (rather than just one) when enhancing a Skill Roll with any of your School Skills. This stacks with the effects of your Rank One ability.
-##### Rank 4: The Viper's Kiss
+#### Rank 4: The Viper's Kiss
 
 The Shosuro Actor intensifies his martial training to enable swift and deadly assassinations of his targets. You may attack as a Simple Action instead of a Complex Action when using a Small-sized weapon.
-##### Rank 5: The Third Face
+#### Rank 5: The Third Face
 
 The Shosuro Actor is now a true master of deception, infiltration, and murder. You gain a third persona. In addition, if you attack a foe who is unaware or does not expect danger form you, your Raises are not limited by your Void.
 ### <span>Shosuro Infiltrator [Ninja] [CR]</span> {#toc4}
@@ -96,20 +96,20 @@ The specialization of the Shosuro Infiltrators is relatively simple: they attack
 - <strong>Honor:</strong> 1.5
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Black Clothing, Daisho, Bow or Knife, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Path of Shadows
+## <strong>Techniques</strong>
+#### Rank 1: The Path of Shadows
 
 The first lesson of an infiltrator is to mask all signs of one's true nature. You lose no Honor for use of Low Skills or Ninjutsu Weapons in the service of the Scorpion Clan (subject to GM approval). You gain a bonus of +2k0 to the total of all Stealth Skill rolls.
-##### Rank 2: Strike From Darkness
+#### Rank 2: Strike From Darkness
 
 A student of the Shosuro Techniques never fails to exploit any advantage held over a foe. Whenever you declare an attack against an opponent who is unaware of your presence until the moment of the attack, your Raises are not limited to your Void and you roll additional dice equal to your School Rank on the attack roll. You also roll half this number of additional unkept dice on an attack roll made against an opponent who is suffering from a Condition effect (such as Stunned or Fatigued). These two effects are not cumulative, and if both could apply, you must choose one of them. (You do not add one and one half times your School Rank in dice to an attack roll against an opponent who is both Blinded and unaware of your presence, for example.)
-##### Rank 3: Steel Within Silk
+#### Rank 3: Steel Within Silk
 
 Striking quickly and effectively is the hallmark of a true shadow warrior. When attacking from ambush as described above, or when using ninjutsu weapons (including any weapons with the Ninja keyword), you may make a melee attack (or ranged attack, in the case of shuriken or tsubute) as a Simple Action rather than a Complex Action. Alternatively, when wielding shuriken, you may take a Complex Action to make a number of ranged attacks equal to your School Rank.
-##### Rank 4: Whisper of Steel
+#### Rank 4: Whisper of Steel
 
 A master assassin strikes from shadow without ever revealing his presence. Even after attacking a target, your opponents and bystanders must succeed at a Contested Roll using Investigation (Notice) / Perception against Stealth / Agility to detect you. You may only use this Technique if you make a single attack per round. (The GM may rule that this technique does not work in situations where concealment is impossible.)
-##### Rank 5: The Final Silence
+#### Rank 5: The Final Silence
 
 The true assassin requires but a single strike. After you make a damage roll as a result of a successful attack, you may spend a Void Point to increase any two dice to show 10s. These 10s do not explode. You may spend multiple Void Points in this manner, with each Void Point spent increasing the result of up to two damage dice.
 ### <span>Soshi Magistrate [Bushi] [EE]</span> {#toc5}
@@ -121,20 +121,20 @@ The Soshi magistrate school is descended from a set of techniques taught to the 
 - Honor:** 2.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 5 Koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Face of Justice
+## <strong>Techniques</strong>
+#### Rank 1: The Face of Justice
 
 The Soshi magistrates are trained to control their environment through a mixture of fear and force, intimidating even the most violent street gang with ease. You gain a +1k0 bonus to the Intimidation skill; when you use it against someone of lower Status Rank than yourself, the bonus is +2k0 instead. You also gain a +1k0 damage bonus with melee attacks.
-##### Rank 2: Rise to Meet the Challenge
+#### Rank 2: Rise to Meet the Challenge
 
 Soshi magistrates often deal close-up with criminals and thugs who employ dishonorable tactics, so they are taught brawling techniques and learn to quickly recover any time they find themselves in a vulnerable position. Any time you are Prone, you may take a Free Action to roll Athletics / Agility at TN 20 to regain your feet. You gain a +1k1 bonus to any roll made to control a Grapple.
-##### Rank 3: The Magistrate's Cut
+#### Rank 3: The Magistrate's Cut
 
 Soshi magistrates prefer to disable foes rather than kill them outright, since prisoners can be useful when ferreting out criminals and enemy spies. In a skirmish, once per opponent, by successfully making three Raises for a Called Shot on a melee attack you may temporarily Blind a foe. They are considered Blinded until the Reactions stage of the following Round.
-##### Rank 4: Certainty of Purpose
+#### Rank 4: Certainty of Purpose
 
 When the time comes to fight, the Soshi magistrate does so with vicious speed and ruthlessness. You may make melee attacks (including unarmed attacks) as Simple Actions rather than Complex Actions.
-##### Rank 5: Relentless Resolve
+#### Rank 5: Relentless Resolve
 
 The Soshi magistrates are taught to wait for the perfect moment and then overwhelm their enemies with fear and aggression, crushing lawbreakers with a few swift blows. Once per skirmish, you may gain extra unkept dice equal to your Intimidation skill rank on all your attack rolls for one Round. This technique cannot be used in the Center Stance.
 ### <span>Soshi Shugenja [CR]</span> {#toc6}
@@ -176,20 +176,20 @@ The school founded by Yogo is known for an unusual style of magic that focuses o
 
 The Scorpion Clan is the Clan of Secrets, and the Scorpion Instigator strives to maintain mastery over that domain. These courtiers are given access to rigorous training designed to exploit their own weaknesses until they become strengths. The Instigator learns to control the flow of conversation so that his falsehoods can pass undetected even against the most trained investigators. His ability to mask the truth keeps his opponents unsettled and unable to perform at their best.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Awareness 5, Intelligence 5, Perception 3
 - <strong>Skills:</strong> Courtier 6, Etiquette 5, Sincerity 5, Stealth 4
 - <strong>Advantages:</strong> Blackmail (on at least 4 different individuals)
 - <strong>Other:</strong> All members of the Instigators must possess at least one Dark Secret and must divulge this secret to their sensei upon joining.
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Depths of Dishonor
+## <strong>Techniques</strong>
+#### Rank 1: The Depths of Dishonor
 
 The Instigator learns to turn his own dishonor into a weapon and to use his opponent's Honor against him, subverting their beliefs. When making a Contested Social Skill roll, you gain a bonus of +Xk0, where X is the difference between your Honor Rank and that of your opponent.
-##### Rank 2: Sheath Your Lies in Truth
+#### Rank 2: Sheath Your Lies in Truth
 
 An Instigator is taught to constantly reassure himself the lies he speaks are actually the truth. This causes some mild psychological discomfort, but is extremely effective on others trying to see through his lies. If anyone is trying to tell whether you are lying, you may spend a Void Point to gain a bonus of +3k3 to the Contested Social Skill roll to conceal your falsehood (instead of the normal +1k1). Note that if you use this Technique to make statements that are blatantly and obviously false (&quot;the sky is red&quot;), you will quickly become known as a madman.
-##### Rank 3: Pull the String
+#### Rank 3: Pull the String
 
 Those who are weak and unworthy are nothing more than pawns to the Instigator. If you possess Blackmail on someone, you may spend 10 minutes conversing with them and then spend a Void Point as a Complex Action to suggest an action they should take. This also requires you to win a Contested Social Skill roll of your Courtier (Manipulation) / Awareness against their Etiquette (Courtesy) / Willpower. If you win the roll, so long as the action is not life-threatening and its consequences will not be worse than revealing the Blackmail, the target must either take the action or lose 4 points of Honor.
 ### <span>Scorpion Saboteur [Ninja] [IH]</span> {#toc10}
@@ -198,19 +198,19 @@ The saboteurs are the military elite of the Scorpion shinobi forces. While the c
 
 During the Clan War era, with most of the Scorpion Clan dead or scattered, the saboteurs bear the burden of protecting their lands and punishing those who occupy them. Both the Imperial Legions and the Crab invaders suffer heavily at the Saboteurs' hands.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Fire 4, Reflexes 4
 - <strong>Skills:</strong> Craft: Explosives 3, Stealth 5, Knives 4, Ninjutsu 4
 - <strong>Other:</strong> Must be trained in one the Scorpion schools with the [Ninja] tag.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Follow the Pincers
+## <strong>Techniques</strong>
+#### Rank 1: Follow the Pincers
 
 The saboteur are trained to an extreme degree of focus and alertness, assuring they can slip through enemy lines and silence anyone who spots them. You gain +1k1 bonus to all Stealth rolls and suffer no Initiative penalties for being surprised, Dazed, or Fatigued.
-##### Rank 2: No Mistakes
+#### Rank 2: No Mistakes
 
 The saboteur specializes in using demolitions to destroy vital targets such as walls, bridges, supply dumps, and castles. When you spend a Void Point on a roll with Craft: Explosives, you gain a +2k2 bonus instead of the normal +1k1. Due to your extensive training with gaijin pepper, you suffer no ill effects from low rolls with Craft: Explosives and if the optional &quot;fizzle&quot; rule is in effect you are immune to it as well.
-##### Rank 3: Seeking Weakness
+#### Rank 3: Seeking Weakness
 
 The saboteurs are trained to strike at their opponents' weak points with lethal and shocking speed. When fighting with a Small weapon (melee or ranged) you may make a single attack as a Free Action each Round in addition to any other Simple Action or Complex Action attacks you might make. Also, when fighting with a Small weapon (melee or ranged), you may ignore the effects of your opponent's armor on his Armor TN and Reduction.
 ## <span>Alternative Paths</span> {#toc11}

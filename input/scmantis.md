@@ -21,36 +21,36 @@ The Kitsune's love for nature is evident in the abilities taught at their school
 For most of its history the Mantis Clan has included a strong element of disreputable piracy and black-market smuggling. Although the clan has occasionally made efforts to purge these criminals from its ranks (especially after it attained Great Clan status), they have never been fully eliminated. The various efforts to purge them have, however, ensured that their fighting techniques may be found among ronin, commoner wako (pirate gangs), and numerous smuggling cartels as well as within the clan's own ranks.<br>
 The fighting techniques of the Mantis Brawlers are even more unconventional than those of the regular Yoritomo bushi. They are born out of the violence of dirty shipboard fights and drunken bar-brawls and passed down parent to child through direct instruction (often of a rather unusual kind) rather than in a formal setting of a dojo. Some tales about this fighting form have claimed it is found in the Brotherhood of Shinsei as well, or perhaps even originated among misbehaving drunken monks and spread from there to the Mantis Clan. Whatever the case may be, this unconventional fighting style continues to prosper among Mantis and criminals alike.
 
-##### Benefit:
+#### Benefit:
  +1 Agility
 
 
-###### Skills:
+#### Skills:
  Athletics, Commerce, Intimidation, Jiujutsu, Knives, Sailing, any 1 Weapon Skill
 
 
-###### Honor:
+#### Honor:
  3.5
 
 
-###### Outfit:
+#### Outfit:
  Rugged Clothing, any 2 weapons, Kama, Tanto, Traveling Pack, 4 koku
-###### <strong>Techniques</strong>
-##### Rank 1: Way of Drunken Fists
+## <strong>Techniques</strong>
+#### Rank 1: Way of Drunken Fists
 
 The basic techniques of the Mantis brawlers are based on the need to prevail in chaotic fights on tilting ship decks&#8230; or when reeling drunk through a sake house. Brawlers are tough and slippery fighters who evade the grip of their enemies while striking them at every opportunity. If you are Prone, you do not suffer any penalties to your Armor TN or to your attacks with Small weapons (or when unarmed). You still gain the Prone Armor TN bonus against ranged attacks. Also, you gain a bonus of +1k0 to rolls made to take control of Grapples and to your damage rolls with unarmed strikes, improvised weapons, and small weapons.
-##### Rank 2: Drunk Loses His Sandal
+#### Rank 2: Drunk Loses His Sandal
 
 Mantis brawlers learn to be swift and flexible fighters who attack their foes from unexpected directions, often deliberately offering the appearance of weakness in order to create openings. If you successfully perform the Feint maneuver, you may choose to reduce the extra damage from the Feint by 5 in order to add +5 to your Armor TN until the start of the next Turn; if you were Prone when you perform the Feint, you add +10 instead.
 
 Also, immediately after an enemy attack resolves against you (whether or not the attack hit or inflicted damage on you), you may take a Free Action to become Prone.
-##### Rank 3: Drunk Never Falls
+#### Rank 3: Drunk Never Falls
 
 The third lesson of the Mantis brawler is to win even when exhausted, dead drunk, or clubbed on the head. During a skirmish, you do not suffer penalties for being Fatigued or Dazed, nor do you suffer any penalties for intoxication. If you become Stunned, you may still take one Simple Action per Round.
-##### Rank 4: Two Drunks Dance
+#### Rank 4: Two Drunks Dance
 
 The erratic bobbing, squirming, and weaving of the Mantis brawler creates additional opportunities for him to attack his foe. You may attack as a Simple Action when fighting unarmed, with an improvised weapon, or with a small weapon.
-##### Rank 5: Drunk Pounds a Door
+#### Rank 5: Drunk Pounds a Door
 
 The final lesson of the Mantis Brawler is to strike so hard his foe never gets the chance to strike back. When making a melee attack you may spend a Void Point to deliver a fierce shattering blow; this attack gains a bonus of +4k1 to both the attack roll and the damage roll. If you are Prone, the bonus is +4k2 instead.
 ### <span>Moshi Shugenja [CR]</span> {#toc3}
@@ -78,22 +78,22 @@ The Tsuruchi Techniques focus almost exclusively on ranged combat, an area in wh
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Clothing, Bow and 20 arrows, Wakizashi, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Always Be Ready
+## <strong>Techniques</strong>
+#### Rank 1: Always Be Ready
 
 The Tsuruchi Archer must be prepared to fight against his foes with little warning. You gain a bonus of +1k0 to the total of all attack rolls using a bow. Additionally, you gain a bonus of +3 to your Initiative Score.
-##### Rank 2: The Arrow Knows the Way
+#### Rank 2: The Arrow Knows the Way
 
 A Tsuruchi must not aim, but simply allow the arrow to follow its own path. You gain one Free Raise that can only be used to make the Called Shot Maneuver. Additionally, you gain a bonus of +2k0 to the total of all damage rolls while using a bow.
-##### Rank 3: The Wasp's Sting
+#### Rank 3: The Wasp's Sting
 
 Tsuruchi's technique teaches its students uncanny speed. You may make attacks as a Simple Action instead of a Complex Action when using a bow.
-##### Rank 4: Flight of No-Mind
+#### Rank 4: Flight of No-Mind
 
 The true archer does not concern himself with the arrow, but exists only to loose it. Once per skirmish, you may spend a Void Point as a Complex Action to shoot an arrow that knows exactly where it must go. This attack ignores all effects of armor, as well as any penalties from Wound Ranks or visibility. You may make Raises but you cannot perform the Extra Attack Maneuver for this attack.
 
 You may not shoot a target that is further than your bow's normal range with this Technique.
-##### Rank 5: Tsuruchi's Eye
+#### Rank 5: Tsuruchi's Eye
 
 The final lesson of Tsuruchi is that there is nothing that cannot be felled by a single arrow. You may make a ranged attack as a Complex Action to gain a bonus of +4k1 to the total of both attack and damage rolls. You may not use this Technique in conjunction with Flight of No-Mind.
 ### <span>Tsuruchi Bounty Hunter [Bushi]</span> {#toc5}
@@ -111,20 +111,20 @@ Tsuruchi Bounty Hunters traverse the Empire in search of fugitives, those accuse
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Clothing, Daisho, Bow or Knife, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: A Hunter's Sense
+## <strong>Techniques</strong>
+#### Rank 1: A Hunter's Sense
 
 A Tsuruchi bounty hunter is well known as a fierce and terrible opponent of all who seek to evade justice, and even those who are without guilt find them intimidating. You gain a bonus of +1k1 to any Intimidation Skill Roll used against someone of lower caste who you believe can help you find your prey. When interacting with samurai, this bonus is reduced to +1k0 but applies to all Social Skill Rolls, not just Intimidation. Also, when you are hunting a particular target, you may roll additional unkept dice equal to your School Rank or any Hunting or Investigation Skill Rolls used to track the quarry down.
-##### Rank 2: No Prey Escapes
+#### Rank 2: No Prey Escapes
 
 A true master of the Tsuruchi method has an encyclopedic knowledge of criminals throughout the Empire and can use them as tools to capture his prey. You may spend a Void Point to automatically succeed at a Lore: Underworld Skill Roll to identify any criminals in an area who you might be able to press for information regarding your prey. You lose Honor as normal for associating with such individuals, however.
-##### Rank 3: Justice of the Wasp
+#### Rank 3: Justice of the Wasp
 
 The Tsuruchi hunters are merciless, but have a reputation for bringing their prey back alive to suffer a proper sentence for their criminal acts. When facing an opponent who has been declared guilty of a crime by an Imperial or a higher Mantis authority, you may make the Disarm or Knockdown Maneuvers for one Raise less than normal. If you successfully execute one of these Maneuvers against an opponent, that opponent is automatically Dazed.
-##### Rank 4: Twin Sting Strike
+#### Rank 4: Twin Sting Strike
 
 The justice of a Tsuruchi is swift and without mercy. You may make ranged attacks as a Simple Action when wielding a yumi. Additionally, if facing any target decreed guilty of a crime by an Imperial or a higher Mantis authority, you may also make melee attacks as a Simple Action when wielding a katana or any knife.
-##### Rank 5: Eyes of the Wasp
+#### Rank 5: Eyes of the Wasp
 
 The worst truth a bounty hunter learns is that anyone can be a fugitive; thus a bounty hunter makes careful assessments of everyone he meets. When you identify a samurai using a Lore: Heraldry Skill Roll, you not only learn his Glory but also his Honor Rank and all Social and Mental Disadvantages. Also, any opponent who may be targeted by your Rank 3 Technique is now automatically Dazed if you successfully hit them with an attack, regardless of whether or not you use a Disarm or Knockdown Maneuver on them.
 ### <span>Yoritomo Bushi [CR]</span> {#toc6}
@@ -133,34 +133,34 @@ The Yoritomo are masters of the sea, and as a result of centuries spent fighting
 
 The Yoritomo Techniques essentially focus on dabbling in a little bit of everything. They have potent attacks, unhindered movement, and can cripple an opponent's Armor TN, among other things. The Yoritomo are jacks of all trades, but master of none, making them highly adaptable assets in a skirmish.
 
-##### Benefit:
+#### Benefit:
  +1 Strength
 
 
-###### Skills:
+#### Skills:
  Commerce, Defense, Jiujutsu (Improved Weapons), Kenjutsu, Knives (Kama), Sailing, any one Skill
 
 
-###### Honor:
+#### Honor:
  3.5
 
 
-###### Outfit:
+#### Outfit:
  Light Armor, Sturdy Clothing, Daisho, any 1 weapon (or pair of Knives), Traveling Pack, 10 koku
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Mantis
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Mantis
 
 Mantis bushi learn to fight on the pitching decks of ships and to use anything within reach as a weapon. You suffer no penalties to movement or attacks for rough or uneven terrain. You do not lose Glory or Honor when using improvised weapons, or weapons with the Peasant keyword, in combat. You suffer no penalties for fighting with a Small or Medium weapon in your off-hand if that weapon has the Peasant keyword. finally, you gain a bonus of +1k0 to all attack rolls.
-##### Rank 2: Voice of the Storm
+#### Rank 2: Voice of the Storm
 
 Your wild, unfettered attacks disorient your opponent and opens holes in his defenses. Every time you hit an opponent in melee, his Armor TN is reduced by 5. This penalty only applies to your attacks, and lasts for 2 Rounds. This Technique is cumulative (a number of times equal to your School Rank), and the duration resets with each application.
-##### Rank 3: Strike of the Mantis
+#### Rank 3: Strike of the Mantis
 
 A Yoritomo strikes as swiftly as the storm. You may make attacks as a Simple Action instead of a Complex Action while using weapons with the Samurai or Peasant keyword.
-##### Rank 4: The Rolling Wave
+#### Rank 4: The Rolling Wave
 
 The Yoritomo Bushi reacts with the flow of combat, deftly dodging blows while reaching his target. If you move at least 5 feet, you gain a bonus of +10 to your Armor TN until your next Turn. You may sacrifice this bonus during your Turn before you roll any attack to gain two Free Raises that may only be used to perform the Knockdown Maneuver.
-##### Rank 5: Hand of Osano-Wo
+#### Rank 5: Hand of Osano-Wo
 
 The Yoritomo Bushi strikes with brutal force, digging his weapons deep into his target. You may choose to activate this Technique by spending a Void Point as a Free Action. You keep an additional number of damage dice equal to your Strength. If these attacks hit a Prone target, you gain a bonus of +0k2 to the total of your damage rolls against that target.
 ### <span>Yoritomo Courtier [CR]</span> {#toc7}
@@ -174,20 +174,20 @@ The Yoritomo Techniques specialize in intimidation and, frankly, bullying. This 
 - <strong>Honor:</strong> 2.5
 - <strong>Outfit:</strong> Extravagant Clothing, Wakizashi, any 1 weapon, Calligraphy Set, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Duty Before Honor
+## <strong>Techniques</strong>
+#### Rank 1: Duty Before Honor
 
 Like the Yasuki, the Mantis Courtiers are merchants as well as diplomats, and they cultivate a personal style built around intimidation rather than friendship. Furthermore, they spend much of their lives outside of the courts dealing with some of the more unsavory characters in Rokugan. You do not lose Glory or Honor for using the Commerce Skill in public, and you do not lose Honor for using the Intimidation (Control) skill. Any time you are making Social Skill Rolls against ronin, bandits, gang members, mercenaries, pirates, and other lawless types, you gain a number of Free Raises equal to your School Rank.
-##### Rank 2: Storm Heart
+#### Rank 2: Storm Heart
 
 When the time comes to act in courts, the Yoritomo eschew the eloquent words of the Doji or the subtle gibes of the Scorpion in favor of straightforward bullying, browbeating friend and foe alike into accepting their position. When you use the Intimidation (Control) Skill, your Willpower is considered to be one Rank higher. When you use the Intimidation (Control) skill against a samurai with lower Status Rank than you, your Willpower is considered two Ranks higher instead.
-##### Rank 3: Command the Winds
+#### Rank 3: Command the Winds
 
 The Mantis are taught to put the force of their boorish and aggressive behavior behind their words in court, making it difficult to tell whether they are lying or telling the truth. A number of times per session equal to your School rank, if you have failed a Sincerity Social Skill Roll, you may re-roll it as an Intimidation (Control) Social Skill Roll instead. You must take the result of the Intimidation roll.
-##### Rank 4: Will of the Storm
+#### Rank 4: Will of the Storm
 
 An experienced Mantis has learned to shatter and demoralize his opponents in court with his mere presence. When initiating a conversation with someone, you may make a Contested roll of your Intimidation (Control) / Willpower against his Etiquette (Courtesy) / Willpower. If you win the roll, he cannot spend any Void points against you for the next hour. Also, during that time he suffers a -3k0 penalty to all Social Rolls made against you. (This Technique cannot be used again until its effect expires.)
-##### Rank 5: Strength in All Things
+#### Rank 5: Strength in All Things
 
 At this Rank the Mantis courtier's iron willpower and threatening nature have reached perfection, allowing him to overcome all foes and to laugh in the face of threats that would make even a Hida bushi turn pale. Any time you are attempting to use the Intimidation skill against someone else, or are rolling to resist an Intimidation or Temptation Skill roll or a Fear effect, you gain a bonus of +5k0 to the roll.
 ### <span>Yoritomo Shugenja</span> {#toc8}
@@ -210,38 +210,38 @@ For centuries, the small number of Yoritomo shugenja have maintained an inexplic
 
 The majority of the Mantis Clan's holdings are removed from the mainland by a vast expanse of sea, resting amid the Islands of Silk and Spice. The clan has lived this way for one thousand years; although the ascension of the Mantis to Great Clan status resulted in the addition of small mainland provinces held by the Tsuruchi and Moshi (and later the Kitsune), the lifeblood of the Yoritomo family still flows through the fleets of kobune that ferry materials and personnel back and forth to the mainland. The captains of thses vessels are the trusted servants of the Mantis Clan Champion, and are responsible for ensuring their clan endures and prospers in spite of the perpetual threats they face from enemies, pirates, weather, and any other number of other hazards. Young samurai look upon these masters of the wave as an inspiration, admiring them for their bravery, their reputation, and their wealth. If some are possessed by the stereotypical arrogance of the Yoritomo family, it is at least well deserved, for they are surely the true sons and daughters of the clan founder Kaimetsu-uo and the chief bearers of his legacy in the modern Empire.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Water 3
 - <strong>Skills:</strong> Commerce 4, Knives 3, Sailing 4
 - <strong>Other:</strong> Must possess the Leadership Advantage, and have been appointed to a position of command within the Mantis Clan
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Joy of Plunder
+## <strong>Techniques</strong>
+#### Rank 1: The Joy of Plunder
 
 The promotion to the rank of captain in the Mantis navy is one that comes with considerable benefit and reputation. Your Status Rank is considered one higher when interacting with all members of the Mantis Clan and with any merchants from the heimin caste. When you spend a Void Point to augment any Merchant Skill, you gain +2k2 instead of +1k1. Once per month you may make a Commerce / Intelligence Roll (TN 25) and gain an amount of koku equal to the amount by which your roll exceeds the TN.
-##### Rank 2: Strength of the Mantis
+#### Rank 2: Strength of the Mantis
 
 The true measure of a captain is the quality of those who pledge their loyalty to him. You gain 30 Experience Points which may only be used to purchase the Servants Advantage. The servants purchased in this manner represent a portion of your crew. Budoka servants purchased in this manner are instead considered to be Rank 1 Yoritomo Bushi. You may also spend 10 points to gain a Rank 1 Moshi Shugenja as your navigator. The shugenja is considered to have Air 3 rather than all Rings at 2.
-##### Rank 3: Master of the Seas
+#### Rank 3: Master of the Seas
 
 A true captain of the Mantis Clan excels in all areas pertaining to his duties. You may spend a Void Point on any Merchant Skill Roll (excluding Craft Skills) to replace the normal amount you would roll with 10k10. You may also add a bonus of +3k0 to all Bugei Skill Rolls made while onboard a water-borne vessel.
 ### <span>Storm Riders [Shugenja] [CR]</span> {#toc11}
 
 The Storm Riders are the elite shugenja unit at the heart of the Mantis Clan's armadas. They devote all of their studies to the ocean and the water kami that flow around the Mantis islands. The Storm Riders are the undisputed masters of the sea, and they strive to maintain their connection to the waves at all times. The Storm Riders' value in naval combat is fearsome, a deadly threat to any who might challenge the Mantis Clan's dominance of the waters.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Air 3, Fire 3, Water 5
 - <strong>Skills:</strong> Lore: the Sea 5, Sailing 3, Spellcraft 3, Lore: Theology 3
 - <strong>Other:</strong> Elemental Blessing (Water) Advantage
 
-###### <strong>Techniques</strong>
-##### Rank 1: Strength of Suitengu
+## <strong>Techniques</strong>
+#### Rank 1: Strength of Suitengu
 
 The Storm Riders are at home on the seas, navigating with an ease envied by all who see them. Your Shugenja School Rank is considered one higher for purposes of casting Water spells. You may spend a Void Point to release a lightning bolt from your hands as a Complex Action. This bolt strikes one target within a range of 10' x our Water Ring. It rolls and keeps a number of damage dice equal to your Air Ring. You may expend spell slots to increase the damage of this bolt by +1k0 per spell slot expended, up to a maximum of your Storm Rider Rank.
-##### Rank 2: The Raging Ocean
+#### Rank 2: The Raging Ocean
 
 The Storm Rider's connection to the ocean allows him to extend beyond his limits. Your Shugenja School Rank increases by one. You Water Ring is considered 2 ranks higher for purposes of determining the number of spells you may cast per day.
-##### Rank 3: Child of Osano-Wo
+#### Rank 3: Child of Osano-Wo
 
 The Storm Riders are the descendants of the Fortune of Fire and Thunder, and their blessings protect them from his domain. Your Shugenja School Rank is considered 1 higher for the purpose of casting Water spells. You may spend A Void Point as a Free Action to gain immunity to all spells possessing the Thunder keyword for 3 rounds. This ability only affects spells of Mastery Level 3 and lower.
 ## <span>Alternative Paths</span> {#toc12}

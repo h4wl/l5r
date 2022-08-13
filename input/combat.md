@@ -29,40 +29,40 @@ Every weapon has a damage rating (DR). This rating indicates how much damage the
 
 Individual characters have Wound Ranks that measure the amount of damage that they can sustain before it begins to impair their ability to take actions and eventually incapacitates or kills them. The Wounds inflicted by an attack fill up these Wound Ranks in order, with each Rank containing a maximum number of Wounds determined by the character’s Earth Ring. As soon as a character suffers damage that begins filling in a particular Wound Rank, the character is then considered to be in the state described by that Rank. Once that Rank has been filled, additional damage goes to the next Rank. The ranks are as follows:
 
-##### Healthy
+#### Healthy
 
 This is the default condition of any character who has not suffered damage. Regardless of what Earth Ring multiplier is chosen for a campaign (see sidebar), this Wound Rank should utilize the character’s Earth x5 in order to create a buffer for normal activity. All further Wound Ranks normally utilize the character's Earth x2.
-##### Nicked
+#### Nicked
 
 (Increase the TN of all rolls made by +3 while nicked)
 
 A character who has been nicked has suffered a mild but distracting injury.
-##### Grazed
+#### Grazed
 
 (Increase the TN of all rolls made by +5 while Grazed)
 
 A grazed character is injured, but still able to function without tremendous difficulty.
-##### Hurt
+#### Hurt
 
 (Increase the TN of all rolls made by +10 while Hurt)
 
 A character who is hurt has begun to suffer noticeably from the effects of his injuries.
-##### Injured
+#### Injured
 
 (Increase the TN of all rolls made by +15 while Injured)
 
 An injured character has difficulty focusing his attention on the task at hand.
-##### Crippled
+#### Crippled
 
 (Increase the TN of all rolls made by +20 while Crippled)
 
 A crippled character can barely stand, much less move. Any attempt to make a Move action is increased by one level of difficulty (a Free Action becomes Simple, etc.)
-##### Down
+#### Down
 
 (Increase the TN of all rolls made by +40 while Down)
 
 A character who is Down is virtually incapacitated. They may speak only in a whisper. Such a character may only potentially take Free Actions unless a particular wound makes such action impossible (and cannot take Move actions), and must spend a Void Point in order to be able to do so.
-##### Out
+#### Out
 
 A character who has been reduced to this level is immobile, unconscious, and likely dying. Once this Rank is filled, any additional damage inflicted to the character kills him instantly.
 ## <span>Stances</span> {#toc4}
@@ -111,25 +111,25 @@ A character may not move more than twenty times his Water Ring in feet per round
 
 Maneuvers are specialized actions and attacks that are more diffi cult than the standard melee and ranged attacks that characters can make as part of a combat round. Because these attacks accomplish additional effects above normal attack damage, they require Raises in order to be made. Certain Maneuvers can only be performed in particular Stances. It should be noted that these maneuvers do not constitute an exhaustive list of the things which a character might be able to accomplish with an attack. Rather, they specify the maneuvers that are most likely to come up during a skirmish. The GM and players should feel free to improvise other maneuvers based on the rules presented here.
 
-##### Called Shot (Variable raises)
+#### Called Shot (Variable raises)
 
 A Called Shot is an attack that specifically targets one section of the body. Without the Called Shot Maneuver, it is assumed that an attack will strike the target’s torso, but with an increasing number of Raises, smaller and more specific parts of the body can be targeted. A specific limb can be targeted with 1 Raise, a hand or foot with 2 Raises, the head with 3 Raises, or an eye, ear, finger, or other similarly small part with 4 Raises. There is no specific mechanical effect for striking a particular body part in this manner, although individual GMs may rule that a certain amount of damage may sever or destroy the body part in question, and any items held or worn on that part may be dropped or destroyed.
-##### Disarm (3 Raises)
+#### Disarm (3 Raises)
 
 The Disarm Maneuver specifically targets a weapon held by the target, with the intent of knocking it out of the target’s grasp. A successful Disarm attack inflicts only 2k1 damage from the jarring impact of the strike, regardless of the weapon used, and characters executing this Maneuver do not add their Strength to the number of rolled damage dice. If the Maneuver is successful, the character and his target make a Contested Strength Roll. If the attacking character wins, the target drops the weapon in question. Weapons with wooden components that are the target of a Disarm Maneuver by weapons with a steel blade may be broken, at the GM’s discretion. Recovering a dropped weapon requires a Simple Action on the part of a character who has been Disarmed.
-##### Extra Attack (5 Raises)
+#### Extra Attack (5 Raises)
 
 The ability to make multiple attacks per Turn is normally only granted by powerful School Techniques. This Maneuver allows anyone to gain an extra attack per Turn, however, as long as they have the skill necessary to pull it off. To gain an additional attack, a character must make 5 successful Raises on the first attack roll. These Raises confer no benefits, but if they succeed, the character may immediately make a second attack roll as soon as the first attack has been resolved (including damage). The Extra Attack Maneuver may only be used once per turn. The initial attack in this Maneuver must be successful, but the second may miss without any negative effects.
-##### Feint (2 Raises)
+#### Feint (2 Raises)
 
 A Feint is an attack that contains, as its first component, a deceptive movement intended to make a target believe that the attack will come from one direction, and then the actual attack comes from another direction, exploiting a hole in the target’s defenses opened by their attempt to defend against the initial attack. If the Feint Maneuver is successful, half the amount by which the character’s attack roll exceeded the target’s Armor TN (taking the 2 Raises for his Maneuver into account) is added to the damage roll for that attack, to a maximum amount equal to fi ve times the character’s Insight Rank.
-##### Guard (0 Raises)
+#### Guard (0 Raises)
 
 Guard is a unique combat Action that does not actually require an attack roll. However, it has been placed here with Maneuvers for convenience, since it is used only in combat. During a skirmish, a character can choose to dedicate himself to protecting another character, making it harder for enemies to attack that person. Guarding is a Simple Action, and you may not take the Guard Action while in the Full Attack stance. When you declare a Guard Action, you must designate one other person within 5 feet of you. Until your next Turn, any time that person is within 5 feet of you, their Armor TN is increased by 10 and your Armor TN is decreased by 5.
-##### Increased Damage (1 or more Raises)
+#### Increased Damage (1 or more Raises)
 
 The simplest of all Maneuvers, an Increased Damage Maneuver adds a bonus of 1k0 to the total of the damage roll that corresponds to the attack. Multiple Raises can be made to gain a larger amount of Increased Damage, but all Raises made in one combat Round count as one effect for the purposes of any mechanics that decrease the number of Raises required.
-##### Knockdown (2 or 4 Raises)
+#### Knockdown (2 or 4 Raises)
 
 The Knockdown Maneuver is a specialized attack intended to damage an opponent and knock them prone. Because this attack generally targets the legs, it is only useable against two- or four-legged opponents (requiring 2 and 4 Raises respectively). If successful, the attack deals normal damage and forces a Contested Strength Roll between the character and the target. If the character is successful, the target is knocked prone.
 ## <span>Iaijutsu Dueling</span> {#toc8}

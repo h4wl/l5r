@@ -13,20 +13,20 @@ The Ichiro Bushi School focuses on their love of wrestling and unarmed combat. I
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Daisho, any Heavy or Polearm, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Transcend the Mountain
+## <strong>Techniques</strong>
+#### Rank 1: Transcend the Mountain
 
 The bushi of the Badger Clan live and train in the rugged territory of the Great Wall of the North, and revere strength as the ultimate measure of any warrior's capabilities - the power of a warrior's fists can still be relied on when all else fails. You may re-roll any Skill roll or Trait roll which uses Strength, but you must keep the result of the second roll. You suffer no movement or combat penalties for Moderate terrain, and only half the normal penalty for Difficult terrain.
-##### Rank 2: Strength of the Badger
+#### Rank 2: Strength of the Badger
 
 With practice, the Badger learn to call upon their strength to crush their opponents. A number of times per session equal to your Strength Rank, you may re-roll a damage roll, keeping the better of the two results.
-##### Rank 3: Crushing Blow
+#### Rank 3: Crushing Blow
 
 Experienced Badger learn to deliver blows of truly fearsome power, with weapons or even their bare hands, which can pulverize flesh even through the protection of armor. You may ignore the effects of armor on an opponent's Armor TN. Your unarmed attacks may ignore 1 Rank of your target's Reduction.
-##### Rank 4: Crashing Stones
+#### Rank 4: Crashing Stones
 
 Ichiro samurai are taught to strike with the speed of the deadly avalanche. Your attacks with Samurai weapons or unarmed strikes are considered Simple Actions.
-##### Rank 5: Return the Strike
+#### Rank 5: Return the Strike
 
 The final lesson taught in Badger Clan dojo is that the most effective blows in combat are not the swiftest, but the hardest struck. At the start of a skirmish, before Iniative is rolled, you may choose to lower your Initiative total by 20 for the duration of the skirmish. In exchange, you add your Strength Rank in unkept dice to both your attack and your damage rolls for the first two rounds of that combat.
 ### <span>Bat Clan - Komori Shugenja [CR]</span> {#toc2}
@@ -54,20 +54,20 @@ The Heichi Bushi School emphasizes a weapon that is rarely seen in the rest of t
 - <strong>Honor:</strong> 3.0
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Daisho, any Spear, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Charge of the Boar
+## <strong>Techniques</strong>
+#### Rank 1: The Charge of the Boar
 
 The attack of a boar can come from nowhere, with little warning. If you are in the Full Attack stance, you may ready a medium weapon or a spear as a Free Action. When wielding a spear in combat, you gain a damage bonus of +0k1.
-##### Rank 2: The Strength of Opposition
+#### Rank 2: The Strength of Opposition
 
 The Boar school specializes in using spears, especially the Mai Chong, to snare an opponent's clothing and armor, rendering them helpless. You may call two Raises to Entangle an opponent with a Mai Chong, or three Raises to Entangle them with another spear-class weapon.
-##### Rank 3: The Speed of the Boar
+#### Rank 3: The Speed of the Boar
 
 The Boar bushi learns to strike with the relentless speed of his namesake animal. You may attack as a Simple Action when wielding a spear.
-##### Rank 4: The Anger of the Boar
+#### Rank 4: The Anger of the Boar
 
 Much like their namesake, Boar bushi keep fighting even when critically injured. You may spend a Void point during the Reactions segment to reduce your Wound TN penalty by one Wound Rank (the wounds still exist, you simply feel less pain from them). This effect lasts the remainder of the skirmish.
-##### Rank Five: Beyond the Mountains
+#### Rank Five: Beyond the Mountains
 
 At this rank the Boar has learned to control his warrior's fury and unleash it at the most unexpected times, even when he appears to be completely defensive. If you are in the Full Defense Stance, you may make one normal attack with a spear or a Samurai-keyword weapon as a Free Action, ingoring the restriction of the Full Defense Stance. This attack gains a bonus of +2k0 to the attack roll.
 ### <span>Dragonfly Clan - Tonbo Shugenja [CR]</span> {#toc4}
@@ -103,20 +103,20 @@ The Usagi Bushi School takes the athleticism of the Hare Clan and channels it in
 - <strong>Honor:</strong> 4.0
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Clothing, Daisho, Bow (with 20 arrows) or Knife, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Speed of the Hare
+## <strong>Techniques</strong>
+#### Rank 1: Speed of the Hare
 
 The Hare are known for fighting with a speed and agility reminiscent of the animal for which their clan is named. In any situation where you have room to dodge, jump, and otherwise maneuver (GM's discretion), you may add your Athletics Skill Rank to your Armor TN except when in the Full Attack or Center stance. Your Water Ring is considered 1 higher for purposes of how far you can move with Move actions.
-##### Rank 2: Leap of the Hare
+#### Rank 2: Leap of the Hare
 
 The Hare bushi has learned to strike with a devastating springing attack that catches many opponents off guard. If you are in the Full Attack stance, you can leap forward and attack an opponent up to 15' away without taking a Move Action. All of your attacks on this turn must target that opponent.
-##### Rank 3: Swift as Lightning
+#### Rank 3: Swift as Lightning
 
 The speed and flexibility of the Hare allows him to strike with fearsome rapidity. Your attacks with unarmed strikes, knives, or Samurai-keyword weapons are considered Simple Actions.
-##### Rank 4: Kick of the Hare
+#### Rank 4: Kick of the Hare
 
 The Hare has learned not only how to strike with speed, but also how to dodge and avoid his foes at the same time. You may now perform your Rank Two Techniques while in the Attack stance instead of the Full Attack stance. If you perform the technique in the Full Attack stance, you may make your second attack of the Round against another opponent within 15' of the first opponent.
-##### Rank 5: Reichin's Style
+#### Rank 5: Reichin's Style
 
 The final lesson of the Hare school is a whirling flurry of leaps, feints, and attacks that come at the opponent from all directions, confusing and disorienting him. You may perform the Feint Maneuver for only 1 Raise, and your damage bonus from a successful Feint is not limited to your Insight Rank x 5.
 ### <span>Monkey Clan</span> {#toc8}
@@ -132,20 +132,20 @@ The Toku Bushi School teaches techniques to help fight against multiple enemies.
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 Weapon, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Toku's Lesson
+## <strong>Techniques</strong>
+#### Rank 1: Toku's Lesson
 
 A Monkey Bushi will prevail, even in the face of the most difficult odds. You add +1k0 to all Skill Rolls with a TN of 25 or higher. (This includes attack rolls.) Additionally, all your Wound Penalties are reduced by an amount equal to your Willpower plus double your School Rank.
-##### Rank 2: The Strength of One Man
+#### Rank 2: The Strength of One Man
 
 As a member of a very small Minor Clan, the Toku bushi is accustomed to fighting against the odds. While facing multiple opponents or an enemy with a higher Insight Rank, you add +1k1 to your attack and damage rolls.
-##### Rank 3: Courage Above All
+#### Rank 3: Courage Above All
 
 The Toku bushi calls on the courage of his Clan's founder to speed his own attacks. You may make melee attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Forge Your Own Fate
+#### Rank 4: Forge Your Own Fate
 
 The Toku Bushi learns to dodge the worst of any attack. You may spend a Void Point when suffering Wounds to force your opponent to drop his two highest dice from his damage roll, even if this would reduce the total amount of kept dice. This cannot reduce the damage roll to less than 1k1.
-##### Rank 5: Fortune Favors the Mortal Man
+#### Rank 5: Fortune Favors the Mortal Man
 
 The Toku bushi earns his good blessings with his own sheer tenacity. Once per Round, you may spend a Void Point to reroll any roll. You add +2k1 to the new roll. You may choose to keep the new roll or your original roll.
 #### <span>Fuzake Shugenja [SE]</span> {#toc10}
@@ -169,20 +169,20 @@ Artisans trained in the Tsi Smith School are unique in that everything they lear
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Sensible Clothing, Wakizashi, Calligraphy Set, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Tools of the Fortunes
+## <strong>Techniques</strong>
+#### Rank 1: Tools of the Fortunes
 
 The Tsi Smith dedicates his life to reaching perfection in the heat of the furnace. All Craft Skills are considered School Skills for you for the purpose of effects that target School Skills. Whenever you make a Craft Skill Roll, you gain one point of Glory for succeeding, and one additional point for every increment of 5 by which you exceed the TN. This effect only applies to rolls made against a TN equal to 10 plus your School Rank x 5 or higher.
-##### Rank 2: Tsi Xing Guo's Blessing
+#### Rank 2: Tsi Xing Guo's Blessing
 
 The Oriole smith seeks to emulate the works of the Fortune of Steel. When wielding or using one of your own creations (such as a weapon in battle or wearing an elaborate kimono in court), you gain a bonus of +2k1 for Void Points spent on relevant Skill Rolls, rather than the usual +1k1. Additionally, when an item you created is given as a gift among members of the samurai caste, both you and the gift-giver gain Glory equal to your School Rank.
-##### Rank 3: A Crafter's Dedication
+#### Rank 3: A Crafter's Dedication
 
 A Tsi Smith knows the worth of everything he creates, years after it has left his forge. When crafting, the price of the object you are creating is reduced by half for the purposes of determining how long it takes to create the object in question. When someone in your presence is using an item you created, you may take a Complex Action to grant them a bonus of +xk1, where X is your School Rank, on the relevant Skill Roll (for example, Kenjutsu for a katana, Defense for armor, or Etiquette for a kimono).
-##### Rank 4: Exhaustive Knowledge
+#### Rank 4: Exhaustive Knowledge
 
 All members of the Tsi smiths are expected to test their own creations for weight, balance, and effectiveness. You may spend a Void Point as a Free Action to allow you to make any attacks with a weapon you created as Simple Actions rather than Complex Actions. This effect lasts for a number of Rounds equal to your School Rank.
-##### Rank 5: Star-filled Steel
+#### Rank 5: Star-filled Steel
 
 Oriole-made items are rivaled only by the masterful items of the Kaiu Forge. Once per day upon the completion of crafting a weapon, you may spend all your Void Points in order to create a Sacred Weapon (as per the Advantage). this weapon is known as a Tsi Weapon (e.g., a Tsi Blade, Tsi Tetsubo, etc.), and may possess one of the following qualities: Balanced (the wielder gains a bonus of +1k0 on attack rolls made with this weapon), Swift (The wielder gains a bonus of +5 to his Initiative Score while wielding the weapon, or Unbreakable (the weapon may not be broken). At the GM's option, a truly gifted Tsi smith may also be able to make a weapon Radiant (treat the weapon as jade for purposes of harming Invulnerable creatures).
 ### <span>Ox Clan - Morito Bushi [CR]</span> {#toc12}
@@ -196,22 +196,22 @@ The Morito bushi is taught to maximize the benefit of mountain combat. He learns
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Daisho, Heavy Weapon or Polearm, Horse (Rokugani Pony), Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Legacy of the Four Winds
+## <strong>Techniques</strong>
+#### Rank 1: Legacy of the Four Winds
 
 The Ox warrior fights as one with his horse. At the beginning of combat, you may add +1k0 to your Initiative if you are Mounted. Additionally, you may add +1k0 to attack rolls while mounted.
-##### Rank 2: The Wind Blows Many ways
+#### Rank 2: The Wind Blows Many ways
 
 A Moriton bushi becomes adept in all facets of war. At the beginning of combat, you may declare a number of Bugei Skills equal to your School Rank. You add +1k0 to all rolls involving the chosen Skills.
-##### Rank 3: Thunder and Fury
+#### Rank 3: Thunder and Fury
 
 The Morito bushi strikes with the speed of his charging horse. You may make attacks as a Simple Action instead of a Complex Action while Mounted.
-##### Rank 4: The Blade Upon the Wind
+#### Rank 4: The Blade Upon the Wind
 
 The Morito bushi can rush forward, moving faster than any of his foes can anticipate. Once per skirmish, you may spend a Void Point as a Free Action to set your Initative Score equal to that of another participant in the battle. This may be either an ally or opponent. However, after you use this Technique, your Initiative Score is reduced by 5 during the Reactions Stage of each Round until the end of the encounter.
 
 You may only have one Turn per Round, even if your Initiative Score drops below your current Initiative Score.
-##### Rank 5: Fast and Furious
+#### Rank 5: Fast and Furious
 
 The Morito bushi rides into battle, trampling those who cannot escape his path. while you are attacking an opponent with lower Initiative, you add +2k2 to all attacks and damage rolls.
 ### <span>Snake Clan - Chuda Shugenja [CR]</span> {#toc13}
@@ -239,20 +239,20 @@ The Suzume Bushi's love of storytelling gives him an insight into battle. He use
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: All Things in Time
+## <strong>Techniques</strong>
+#### Rank 1: All Things in Time
 
 The Suzume watches the flow of combat to discern the perfect time for assault. At the beginning of the Combat Round, before the first character has taken his Turn, you may reduce your Initiative by 5 to add +1k0 to all your attack and damage rolls for the Round.
-##### Rank 2: Purity of Chi
+#### Rank 2: Purity of Chi
 
 The Suzume's body is filled with disdain for those who indulge in temptations away from the tenets of Bushido. You add +5 to your Armor TN against creatures and against human opponents with lower Honor.
-##### Rank 3: Wisdom is the Greatest Weapon
+#### Rank 3: Wisdom is the Greatest Weapon
 
 The Suzume is a masterful storyteller, captivating audiences with his words. You may spend a Void Point to add your Honor Rank to any Perform or Lore Skill Roll.
-##### Rank 4: Quiet Spirit, Steady Blade
+#### Rank 4: Quiet Spirit, Steady Blade
 
 the serenity of a Sparrow is often mistaken for complacency, but that is far from the case. You may make melee attacks as a Simple Action instead of a Complex Action while in the Attack Stance.
-##### Rank 5: Slow and Deadly
+#### Rank 5: Slow and Deadly
 
 The Suzume strikes when his foes least expect it, even if he must weather the worst of the opponents' attacks. During the Round following your adoption of the Center Stance, you add +10 to your attack and damage rolls. You do not gain this benefit during iaijutsu duels.
 ### <span>Tiger Clan - Yotsu Bushi [IH]</span> {#toc15}
@@ -264,20 +264,20 @@ The original Yotsu technique was based on the family's self-appointed role as pr
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Ashigaru or Light Armor, Sturdy Clothing, Daisho, any 2 weapons, Traveling Pack, 4 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Tiger's Tread
+## <strong>Techniques</strong>
+#### Rank 1: The Tiger's Tread
 
 The Yotsu are taught to stalk and attack their enemies with the same mixture of stealth and speed displayed by the tiger when it hunts its prey. You do not lose Honor for using the Ambush or Shadowing functions of the Stealth Skill so long as you are using them against enemies of the Empire (GM's discretion). When operating in an urban environment (including a ruin or other ancient relic of such an environment), you gain a +1k0 bonus to Stealth Skill rolls and add your Stealth skill rank to your Armor TN.
-##### Rank 2: The Tiger's Pounce
+#### Rank 2: The Tiger's Pounce
 
 The Yotsu are taught to strike with uncanny speed, catching their opponents by surprise. On the first Round of a skirmish, you may add your Stealth Skill rank to the total of your Initiative roll. (This bonus ends on the Reactions stage of the first Round.)
-##### Rank 3: Rending Claws
+#### Rank 3: Rending Claws
 
 The Yotsu strike with the speed of the pouncing tiger. When fighting with a Samurai weapon you may make attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Shelter the Blameless
+#### Rank 4: Shelter the Blameless
 
 The Sword of Yotsu draw strength from their duty to protect others. During any Round when you are actively defending or protecting (GM's discretion), you gain one bonus Void Point for use during that Round. Unspent Void Points gained from this Technique are lost at the end of the Round (after the Reactions stage).
-##### Rank 5: The Tiger's Fangs
+#### Rank 5: The Tiger's Fangs
 
 The final lesson of the Yotsu is to emulate the Tiger's pounce, striking the opponent so fiercely with one's first attack that he has no opportunity to fight back. On the first Round of a skirmish, you may declare Maneuvers for one less Raise.
 ### <span>Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</span> {#toc16}
@@ -291,20 +291,20 @@ The Kasuga Smugglers must mingle with the dirty criminal riffraff of the Empire,
 - <strong>Honor:</strong> 2.0
 - <strong>Outfit:</strong> Extravagant Clothing, Wakizashi, any 1 weapon, Calligraphy Set, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Way of the Tortoise
+## <strong>Techniques</strong>
+#### Rank 1: Way of the Tortoise
 
 The Tortoise routinely consort with the lowest elements of Rokugani society, often spend time in foreign ports, dealing with gaijin, and other villains, and otherwise do things most samurai would find repugnant. They are also skilled merchants, an unavoidable side effect of being smugglers. At character creation, you may learn an additional gaijin language for free with every purchase of the Languages Advantage. You do not lose Honor for using Low Skills, or Glory for using the Commerce skill in public, so long as you are doing so as part of your duty to your clan. When dealing with heimin or hinin, such as peasants, merchants, and eta, you gain a +2k0 bonus to all Social Skill rolls.
-##### Rank 2: The Shell of the Tortoise
+#### Rank 2: The Shell of the Tortoise
 
 Most samurai in Rokugan revile the Tortoise for their unusual behavior and their association with commoners and gaijin, but all samurai know the Tortoise Clan has the special permission and sponsorship of the Emperor. Any clan or Imperial samurai who physically attacks or openly slanders you without provocation on your part (GM's discretion) will immediately lose a number of points of Honor equal to twice your School Rank.
-##### Rank 3: The Eyes of the Emperor
+#### Rank 3: The Eyes of the Emperor
 
 The Tortoise function as spies and agents of the Emperor, and are adept at the lowest of tactics and methods. When acting on behalf of your clan, you may roll additional unkept dice equal to your School Rank on all Low Skills in which you have at least one Skill Rank. This includes any School Skills which only function as Low Skills when used in certain ways (such as Sincerity with the Deceit Emphasis). This does not work with Advantages and Techniques which simulate Skill Ranks (such as the Crafty Advantage.)
-##### Rank 4: Hand in Hand
+#### Rank 4: Hand in Hand
 
 The Tortoise work in close cooperation with the common folk of Rokugan, people who other samurai ignore as much as possible. This gives them access to information networks no other samurai can reach. Once per session, if you have access to the local heimin or hinin, you can roll Lore: Underworld / Awareness at TN 25 to learn one useful piece of information (chosen by the GM) that cannot be learned any other way.
-##### Rank 5: The Tortoise Smiles
+#### Rank 5: The Tortoise Smiles
 
 With his training completed, the Tortoise smuggler can transcend his own limits in the pursuit of his Clan's devious goals, serving the Emperor without constraint. When making a Skill Roll with any of your six specified School Skills, your maximum Raises are not limited by your Void. A number of times per session equal to your Void Ring, you may gain a +5k0 bonus when making a roll with any of your School Skills. This bonus can stack with the bonus from your Rank Three technique.
 ## <span>Advanced Schools</span> {#toc17}
@@ -313,19 +313,19 @@ With his training completed, the Tortoise smuggler can transcend his own limits 
 
 The samurai of the Minor Clans begin their career in service to the Emperor at a significant disadvantage compared to their counterparts from the Great Clans. They have fewer resources, fewer allies, and vastly less prestige. Many simply accept this is their lot as servants of a lesser clan and never challenge it. There are a few, however, who refuse to accept such a fate, and commit themselves fully to championing the cause of their clans to the Empire at large. These men and women do not have any particular unifying qualities other than their passion and drive to better the lot of the Minor Clans. Such individuals occasionally come into contact with one another during the course of their activities, and over the years can form strong alliances in order to better serve their cause. Although no formal dojo exist in which students can follow the lessons of such heroes, there are secrets passed down through family lines and via apprenticeship for those who choose to follow such a path. In a show of devotion these individuals have to a greater cause, these secrets are shared among all those who share the same passion for their cause, regardless of what Minor Clan affiliations they possess.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Agility 5, Strength 4
 - <strong>Skills:</strong> Any 1 Weapon skill at Rank 5
 - <strong>Other:</strong> Only members of Minor Clans can take ranks in this Advanced School; must possess one Paragon Advantage.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Know No Boundaries
+## <strong>Techniques</strong>
+#### Rank 1: Know No Boundaries
 
 Conviction and determination can elevate even the lowest samurai to greatness if he but follows his own sense of honor in moments of crisis. You may spend a Void Point to temporarily gain 2 Ranks in Status, forcing others to recognize your talents and abilities. This effect lasts for a period of 1 hour.
-##### Rank 2: The Speed of Certainty
+#### Rank 2: The Speed of Certainty
 
 A true master of destiny is versatile and fleet of action. Once per Round you may spend a Void Point to make one melee attack as a Free Action. You may make no other attacks during this Round.
-##### Rank 3: The Strength of Humility
+#### Rank 3: The Strength of Humility
 
 A defender of the Minor Clans is a paragon of strength and certainty, skilled in the samurai arts and capable of virtually any deadly action. You may make melee attacks as a Simple Action when using weapons with the Samurai keyword. If you already possess the ability to make attacks as a Simple Action when wielding such weapons, you may choose any one other type of melee weapon (knives, heavy weapons, spears, etc.). You gain the ability to attack with these weapons as a Simple Action instead.
 ## <span>Alternate Paths</span> {#toc19}

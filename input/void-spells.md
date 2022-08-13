@@ -2,7 +2,7 @@ Title: Void Spells
 ---
 ## <span>Mastery Level 1</span> {#toc0}
 
-###### Boundless Sight [CR]
+### Boundless Sight [CR]
 - Ring/Mastery: Void 1
 - Range: 50 miles
 - Area of Effect: Self
@@ -11,7 +11,7 @@ Title: Void Spells
 
 The most essential lesson of the ishiken is that all is linked through the Void, and through the Void all can be perceived. By focusing your energy, you can look through the veil and see another location as if you were standing there. This location must be familiar to you, and you must have been there at least once before. For the duration of the spell, you can see and hear all that transpires in the other location, but you may not be detected and you may not interact with things or individuals there in any way. During this spell, your body is in a trance-like state that leaves you highly vulnerable to attack (your Armor TN is reduced to 5).
 
-###### Drawing the Void [CR]
+### Drawing the Void [CR]
 - Ring/Mastery: Void 1
 - Range: Personal
 - Area of Effect: Self
@@ -20,7 +20,7 @@ The most essential lesson of the ishiken is that all is linked through the Void,
 
 The ability to reach into the Void itself and gain strength from it is a vital lesson in the training of all ishiken. Upon completion of this spell, you gain a number of additional Void Points equal to your School Rank plus one. If these Void Points take you above the number you may normally possess, then you lose one of the extra Void Points every Round that you do not spend one.
 
-###### Flow Through the Void [CR]
+### Flow Through the Void [CR]
 - Ring/Mastery: Void 1
 - Range: Touch
 - Area of Effect: Up to one cubic foot of pure elemental matter
@@ -29,7 +29,7 @@ The ability to reach into the Void itself and gain strength from it is a vital l
 
 In the Void, all things are equal, all one and none. By tapping into this connection, you may transform a small amount of pure elemental matter - water, fire, air, or earth in the form of dirt or soil - into any one other element.
 
-###### See Through Lies [CR]
+### See Through Lies [CR]
 - Ring/Mastery: Void 1
 - Range: 25'
 - Area of Effect: Target individual
@@ -38,7 +38,7 @@ In the Void, all things are equal, all one and none. By tapping into this connec
 
 The patterns that comprise all things in the Void exist in individuals as well, and with training, ishiken can recognize them. You learn the highest point Advantage or highest point Disadvantage (your choice) possessed by the target of this spell.
 
-###### Sense Void [CR]
+### Sense Void [CR]
 - Ring/Mastery: Void 1
 - Range: Personal
 - Area of Effect: 25' radius around caster
@@ -47,7 +47,7 @@ The patterns that comprise all things in the Void exist in individuals as well, 
 
 Life is evident in the Void like the stars in the night sky. This spell causes you to enter a trance during which you become aware of the existence and location of all living creatures within the radius of the spell. Although you are aware of their location, you cannot see them or any details. You would know that there were three humans waiting outside the castle wall, for instance, but you would not recognize them other than to know that they were present. This also gives you information regarding non-sentient, natural living creatures. Spirits and Shadowlands creatures are recognizable as a gap in your awareness, although this spell cannot recognize Tainted humans as anything other than humans.
 
-###### Touch the Emptiness [CR]
+### Touch the Emptiness [CR]
 - Ring/Mastery: Void 1
 - Range: 30'
 - Area of Effect: 1 target individual
@@ -56,7 +56,7 @@ Life is evident in the Void like the stars in the night sky. This spell causes y
 
 The sensation of experiencing the Void firsthand can be extremely disturbing for those unaccustomed to it. The target of this spell suffers 1k1 damage and is Dazed.
 
-###### The Void's Caress [CR]
+### The Void's Caress [CR]
 - Ring/Mastery: Void 1
 - Range: Touch
 - Area of Effect: One target individual
@@ -65,7 +65,7 @@ The sensation of experiencing the Void firsthand can be extremely disturbing for
 
 Although beginning students of ishiken-do cannot affect the pattern of the Void, they can make very short-term alterations to it. You may negate any one Mental or Spiritual Disadvantage the target of this spell possesses, up to a maximum of 5 points in value. The Shadowlands Taint may not be removed via this spell, although the mental disorders that can be caused by it can be temporarily alleviated.
 
-###### Witness the Untold [CR]
+### Witness the Untold [CR]
 - Ring/Mastery: Void 1 (Divination)
 - Range: 15'
 - Area of Effect: 1 target individual
@@ -76,7 +76,7 @@ It is possible to gain fleeting glimpses of things that have not yet happened by
 
 ## <span>Mastery Level 2</span> {#toc1}
 
-###### Altering the Course [CR]
+### Altering the Course [CR]
 - Ring/Mastery: Void 2
 - Range: Personal
 - Area of Effect: Self
@@ -85,7 +85,7 @@ It is possible to gain fleeting glimpses of things that have not yet happened by
 
 Ishiken have a much greater capacity to draw upon the Void than others, and may do it consciously rather than unconsciously. You may spend multiple Void Points on any roll made within the duration of this spell. It still must be a roll on which the expenditure of Void Points is allowable (no damage rolls may be augmented via this spell, for example).
 
-###### Balance in All
+### Balance in All
 - Ring/Mastery: Void 2
 - Range: Self
 - Area of Effect: Self
@@ -94,7 +94,7 @@ Ishiken have a much greater capacity to draw upon the Void than others, and may 
 
 One of the most powerful lessons the Isawa took from the Tao of Shinsei was a deeper understanding of the connection between the various Elements. With this insight, their gifted Void shugenja were able to manipulate these connections to further their spellcasting potential before exhausting themselves. Once this spell is cast, you may cast spells of any given Element as if they were a different Element - affecting the Ring that is used to roll it, the number of spells of that Element you may cast per day, and any relevant Affinity, Deficiency, or other mechanics. The GM should feel free to interpret how using different Elements for a spell might affect the spell in various ways - a Katana of Fire cast as an Air spell, for example, might create a blade of nearly invisible, burning wind.
 
-###### Commune with the Void [BoV]
+### Commune with the Void [BoV]
 - Ring/Mastery: Void 2
 - Range: N/A
 - Area of Effect: Self
@@ -110,7 +110,7 @@ provide information not only from the past but also from the future. (Of course,
 being too specific about things that have not happened yet.) The GM can even go beyond the specific question if he<br>
 wishes, giving the player information not actually sought. On the other hand, the Void is difficult to comprehend - the GM should also feel free to deliver confusing or misleading information, but nothing outright false.
 
-###### Drink of Your Essence [CR]
+### Drink of Your Essence [CR]
 - Ring/Mastery: Void 2
 - Range: 30'
 - Area of Effect: 1 target individual
@@ -119,7 +119,7 @@ wishes, giving the player information not actually sought. On the other hand, th
 
 As an ishiken grows more powerful, he can gain more information from examining an individual's pattern within the Void. You learn a great deal of information about the target of this spell, including his individual Rings (but not Traits), his current Wound penalties, and one word summation of his present mood (&quot;hostile&quot;, &quot;sorrowful,&quot; &quot;confused&quot;, etc).
 
-###### STRENGTHEN THE VOID [BoV]
+### STRENGTHEN THE VOID [BoV]
 - Ring/Mastery: Void 2
 - Range: N/A
 - Area of Effect: 20’ radius from caster
@@ -130,7 +130,7 @@ This spell allows the caster to thin the veil separating the Void from reality, 
 While this spell is in effect, anyone within the Area of Effect gains a Free Raise to casting Void spells; however, the intensity of the Void in the area makes it harder to focus enough on individual Elements cast other spells, inflicting a +5&#160;TN penalty on all non-Void spells. Also, anyone who spends a Void Point within the area of effect gains a +2k1 bonus instead of the normal +1k1.<br>
 Any creature of the Lying Darkness (and any mortal with at least 1 Shadow Rank) who enters the area of effect will feel a deep sense of discomfort. Such creatures and individuals must roll Willpower at TN 20 or suffer a +10&#160;TN penalty to all their Skill rolls and attack rolls made while they are within the area of effect. If they fail the Willpower roll by more than 10, they must try to leave the area of effect and cannot voluntarily re-enter it.
 
-###### The Empty Voice [CR]
+### The Empty Voice [CR]
 - Ring/Mastery: Void 2
 - Range: Personal
 - Area of Effect: Self
@@ -139,7 +139,7 @@ Any creature of the Lying Darkness (and any mortal with at least 1 Shadow Rank) 
 
 Drawing on the essence of everything allow an ishiken to invoke the kami with far greater ease than normal. For the duration of this spell, you may cast spells of other elements without speaking your prayers aloud. This applies only to spells of equal or lower Mastery Level (any spell of Mastery Level 1 or 2).
 
-###### False Whispers [CR]
+### False Whispers [CR]
 - Ring/Mastery: Void 2
 - Range: 30'
 - Area of Effect: 1 target individual
@@ -148,7 +148,7 @@ Drawing on the essence of everything allow an ishiken to invoke the kami with fa
 
 Mingling the Void of two beings, even for just a moment, can lead to one of the two being manipulated if he is not prepared for it. The target of this spell will repeat the next sentence you say, verbatim, without any foreknowledge of what his is doing. They speak the words in their own normal voice, regardless of how you speak it. This effect will not allow others to cast spells, even if you have them recite a portion of a spell. This spell only allows the effect once, the first time you speak a single sentence during the duration of the spell.
 
-###### Reach Through the Void [CR]
+### Reach Through the Void [CR]
 - Ring/Mastery: Void 2
 - Range: 50'
 - Area of Effect: Target object, up to 5 pounds in weight
@@ -157,7 +157,7 @@ Mingling the Void of two beings, even for just a moment, can lead to one of the 
 
 All things, both living and unliving, exist within the Void, and can be touched through it. You can manipulate items through the Void, moving them without touching them. These items are small, usually only up to only five pounds, although a powerful shugenja can Raise enough to move somewhat heavier items.
 
-###### Severed from the Stream [CR]
+### Severed from the Stream [CR]
 - Ring/Mastery: Void 2
 - Range: 25'
 - Area of Effect: 1 target individual
@@ -168,7 +168,7 @@ Talented ishiken can rob others of their ability to tap into the Void, if only t
 
 ## <span>Mastery Level 3</span> {#toc2}
 
-###### BANISH THE VOID [BoV]
+### BANISH THE VOID [BoV]
 - Ring/Mastery: Void 3
 - Range: N/A
 - Area of Effect: 20’ radius from caster
@@ -179,7 +179,7 @@ This spell is the exact counterpoint to Strengthen the Void; it thickens the vei
 Within this spell’s area of effect, casting other Void spells suffers a +10&#160;TN penalty. Also, anyone wishing to spend Void Points within this area must spend two Void Points to gain the effects of one. If the character only has one Void Point, he cannot spend it within the area of effect.<br>
 GM’s Note: It is left to the GM’s decision whether the effects of Strengthen the Void and Banish the Void also apply to “Void-like” effects such as Naga Akasha or the ratling Name.
 
-###### Echoes in the Void [CR]
+### Echoes in the Void [CR]
 - Ring/Mastery: Void 3
 - Range: 25'
 - Area of Effect: 1 target individual
@@ -188,7 +188,7 @@ GM’s Note: It is left to the GM’s decision whether the effects of Strengthen
 
 Thoughts are as whispers in the Void, if one knows how to listen. As long as this spell is in effect and you maintain concentration on one target within the area of effect, you can hear what that person is thinking. How this manifests may vary depending upon the individual. Stalwart warriors may have short, curt statements summarizing their thoughts, while artisans may think in terms of poetry.
 
-###### Kharmic Intent [CR]
+### Kharmic Intent [CR]
 - Ring/Mastery: Void 3
 - Range: 20'
 - Area of Effect: 1 target individual
@@ -197,7 +197,7 @@ Thoughts are as whispers in the Void, if one knows how to listen. As long as thi
 
 Links forged of the Void allow the passage of enormous energy, the substance of the universe itself, between those who share it. You may target any one willing individual with this spell. All remaining Void Points either of you possess are placed in a single pool, which either of you may draw upon as normal. Essentially, this spell allows two individuals to share Void Points back and forth as they see fit. This also allows ishiken to share the additional Void Points they gain from other Void spells. At the end of the spell's Duration, all remaining Void Points are divided between the participants, up to their normal maximum number.
 
-###### Moment of Clarity [CR]
+### Moment of Clarity [CR]
 - Ring/Mastery: Void 3
 - Range: Personal
 - Area of Effect: Self
@@ -206,7 +206,7 @@ Links forged of the Void allow the passage of enormous energy, the substance of 
 
 The entirety of human achievement is reflected in the Void. You may select any one Skill. You gain temporary ranks in this Skill equal to your Void Ring. If you already posses ranks in this Skill, the new level of Skill replaces your old one; the two are not cumulative.
 
-###### Read the Essence [CR]
+### Read the Essence [CR]
 - Ring/Mastery: Void 3 (Divination)
 - Range: Personal
 - Area of Effect: 1 target object
@@ -215,7 +215,7 @@ The entirety of human achievement is reflected in the Void. You may select any o
 
 Even objects have resonance, and retain some memory of those who hold them, and events that take place involving them. By meditating upon an object, you can gain a vision of the individual who held it last, or of a major event that might have involved it in some manner. Using this spell on a calligraphy brush, for example, might show the last person who used it to write a letter. Using it on a weapon might instead show the last death it was used to inflict. The GM has ultimate authority over what vision the spell imparts. Extremely important objects, such as ancestral weapons or standards, may have powerful visions that grip the caster for longer periods of time, rather than imparting simple instantaneous visions.
 
-###### Void Release [CR]
+### Void Release [CR]
 - Ring/Mastery: Void 3
 - Range: 25'
 - Area of Effect: 1 target individual
@@ -226,7 +226,7 @@ Most are ignorant of the Void coursing within them, and do not realize that it c
 
 ## <span>Mastery Level 4</span> {#toc3}
 
-###### Balance of Elements [CR]
+### Balance of Elements [CR]
 - Ring/Mastery: Void 4
 - Range: Touch
 - Area of Effect: 1 target individual (may be caster)
@@ -235,7 +235,7 @@ Most are ignorant of the Void coursing within them, and do not realize that it c
 
 Flaws in the great pattern of the Void can be overcome, no matter how severe. You may negate all Disadvantages of the target for the duration of the spell. Negated effects inflicted from spells (such as TN penalties, Armor TN reduction, or Trait/Ring reduction) are negated as well, as long as the Mastery Level of the spell causing the penalty is 3 or less. If used during the taxing environment of combat, the duration of the spell is extremely limited (5 rounds). In non-combat situations, however, the effects of the spell can last significantly longer (5 minutes). This temporary replenishing of the target's pattern also heals 3k3 Wounds.
 
-###### Dart of Void [SE]
+### Dart of Void [SE]
 - Ring/Mastery: Void 4
 - Range: 100’
 - Area of Effect: One target creature
@@ -244,7 +244,7 @@ Flaws in the great pattern of the Void can be overcome, no matter how severe. Yo
 
 The Dart of Void spell was created by the shugenja Ekuro in his famous battle. The spell has been preserved as a secret of the Order of Five Weapons, but it is believed the Phoenix may also have the spell in their libraries, and it is possible other shugenja families have copies as well. Casting this spell requires spending a Void Point; the spell summons forth a missile of pure Void which flies out and unerringly strikes any one target within range. The Dart inflicts damage with a DR equal to your Void. This damage ignores Invulnerability and Reduction from all sources.
 
-###### Draw Closed the Veil [CR]
+### Draw Closed the Veil [CR]
 - Ring/Mastery: Void 4
 - Range: 50'
 - Area of Effect: 1 target spirit
@@ -253,7 +253,7 @@ The Dart of Void spell was created by the shugenja Ekuro in his famous battle. T
 
 The emptiness that is the Void is part and parcel of what separates the various spirit realms from one another, and it is possible to strengthen it in certain areas. You may target any one spirit not native to the mortal realm of Ningen-do. That spirit is banished to its home realm for a minimum amount of time equal to your Void Ring in months. Spirits that possess a physical body in the mortal realm, such as oni or shapeshifter spirits, require a Contested Willpower Roll for this spell to affect them. Spirits that are significantly more powerful than you are (GM's discretion) may prove immune to these effects of this spell.
 
-###### ESSENCE OF VOID [BoV]
+### ESSENCE OF VOID [BoV]
 - Ring/Mastery: Void 4
 - Range: 50’
 - Area of effect: One target creature
@@ -264,7 +264,7 @@ This spell allows the ishiken to suffuse another living creature with the pure e
 the creature’s bodily functions and rendering that creature inert and unmoving so long as the spell remains in effect.<br>
 The caster must be able to see the target, and the spell requires a successful Contested Void Roll (creatures without a Void Ring may resist with Name, Akasha, or Willpower at the GM’s discretion). If the target fails the Contested Roll, it is held immobile, unable to move, speak, or otherwise act of its own volition so long as the caster maintains concentration. On the second and subsequent Rounds of the spell, the target may make another Contested Roll during the Reactions Stage to throw off the spell’s effects.
 
-###### Fill the Emptiness [CR]
+### Fill the Emptiness [CR]
 - Ring/Mastery: Void 4
 - Range: Touch
 - Area of Effect: 1 target individual
@@ -273,7 +273,7 @@ The caster must be able to see the target, and the spell requires a successful C
 
 Strengthening an individual's connection to the Void can replenish their reserves of inner energy. The target of this spell regains all lost Void Points, up to their maximum number.
 
-###### Void Strike [CR]
+### Void Strike [CR]
 - Ring/Mastery: Void 4
 - Range: 50'
 - Area of Effect: 1 target individual
@@ -284,7 +284,7 @@ The mortal shell can endure only so much direct contact with the Void; too much,
 
 ## <span>Mastery Level 5</span> {#toc4}
 
-###### Divide the Soul [CR]
+### Divide the Soul [CR]
 - Ring/Mastery: Void 5
 - Range: Personal
 - Area of Effect: Self
@@ -293,7 +293,7 @@ The mortal shell can endure only so much direct contact with the Void; too much,
 
 The true mysteries of the Void are beyond the comprehension of non-ishiken. Using this spell, you may divide your soul across the Void, and exist in two places in the mortal realm simultaneously. The second &quot;you&quot; appears anywhere you might wish within your sight when you cast the spell. You have full knowledge of all that happens in both locations, and may take actions simultaneously as if they were two separate individuals). Only one manifestation may make a Spell Casting Roll per round. Any Wounds suffered by either manifestation are combined when the spell ends, and if either of your selves dies, both die.
 
-###### Reforge [CR]
+### Reforge [CR]
 - Ring/Mastery: Void 5
 - Range: Touch
 - Area of Effect: 1 object
@@ -302,7 +302,7 @@ The true mysteries of the Void are beyond the comprehension of non-ishiken. Usin
 
 All is one and one is all. You may take any single object and transform it into any other object of comparable size. This will only work with an object that is uniform in construction, rather than assembled from multiple pieces. This spell will not affect living material. Although the effect of this spell is permanent, it can be reversed by a second casting on the same object, even by a different ishiken.
 
-###### Unbound Essence [CR]
+### Unbound Essence [CR]
 - Ring/Mastery: Void 5
 - Range: 25'
 - Area of Effect: 1 target individual
@@ -313,7 +313,7 @@ Tampering with the pattern of another being's Void can result in catastrophic ch
 
 ## <span>Mastery Level 6</span> {#toc5}
 
-###### Ring of the Void [CR]
+### Ring of the Void [CR]
 - Ring/Mastery: Void 6
 - Range: Personal
 - Area of Self: Self
@@ -322,7 +322,7 @@ Tampering with the pattern of another being's Void can result in catastrophic ch
 
 Rare and extraordinarily powerful, even by shugenja standards, this prayer calls on the unique favor of the dragon whose domain the ishiken tread: the Void Dragon. Unlike most spells, this is not something that is taught by others, but rather is simply learned though insight by those capable of casting it (and as such it has no scroll associated with it). This spell, more of a meditation ritual, actually allows you to commune with the Void Dragon itself, a feat few mortals have ever managed to perform successfully. During your brief moments of contact with this divine entity, you may ask it questions as you see fit. The Void Dragon knows all that can be known, although it is under no particular compulsion to answer you directly, or even at all. Respect must be maintained at all times, for those who have attempted this feat in the past and failed to pay homage to their patron have ceased to exist altogether.
 
-###### Rise from the Ashes [CR]
+### Rise from the Ashes [CR]
 - Ring/Mastery: Void 6
 - Range: Touch
 - Area of Effect: 1 target individual
@@ -332,7 +332,7 @@ Rare and extraordinarily powerful, even by shugenja standards, this prayer calls
 Everything that exists has a pattern in the Void, a threat woven in the tapestry that is existence. By recalling the memory of that pattern, you can reverse recent effects that have happened to a living creature. When you cast this spell on an individual, you are essentially restoring their existence within the Void in accordance with their previous self. Upon completion of the spell, the person is immediately restored to the state they were in eight hours prior to when the spell begun. Any injuries suffered during this time, the effects of disease or poisons, even the acquisition of supernatural conditions such as the Shadowlands Taint or corruption by the Lying Darkness, can be undone in this manner. Upon the completion of this spell, you lose all Void Points, and may not regain Void Points for a period of three days, after which they will begin to recover at one Void Point per day until you have your maximum normal amount again.<br>
 This spell cannot be used to restore someone who has died.
 
-###### Unmake the World [CR]
+### Unmake the World [CR]
 - Ring/Mastery: Void 6
 - Range: 50'
 - Area of Effect: 1 target creature, individual, or object

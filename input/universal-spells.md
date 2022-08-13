@@ -1,6 +1,6 @@
 Title: Universal Spells
 ---
-###### Commune [CR]
+### Commune [CR]
 - Ring/Mastery: All 1
 - Range: 20'
 - Area of Effect: Self
@@ -16,7 +16,7 @@ A spirit reached with Commune will answer two questions. The caster may Raise to
 - Fire spirits are irritable and temperamental, and are often angry at being summoned unless they are propitiated with an offering of something to burn. On the other hand, if a shugenja can please them they tend to offer the clearest and most accurate information.
 - Water spirits communicate their knowledge through soundless visual images. This can be very helpful to a shugenja trying to investigate a past incident, but since the spirits cannot convey scent, sound, or emotion, the information they provide can often be incomplete or misleading.
 
-###### Sense [CR]
+### Sense [CR]
 - Ring/Master: All 1
 - Range: Personal
 - Area of Effect: 50' radius from caster
@@ -25,7 +25,7 @@ A spirit reached with Commune will answer two questions. The caster may Raise to
 
 This spell can be cast in any of the four standard elements. It allows the caster to sense the presence, quantity, and rough location of elemental spirits (not the evil spirits known as kansen) of that element within the range of the spell. This is most frequently applied when looking for spirits with which to Commune, but can also be useful as a crude, basic location device. For example, a caster lost in the wilderness could cast Sense (Water) in hopes of locating a source of drinking water.
 
-###### Summon [CR]
+### Summon [CR]
 - Ring/Master: All 1
 - Range: 30'
 - Area of Effect: 1 cubic foot of summoned material
@@ -36,7 +36,7 @@ This spell can be cast in any of the four standard elements. It allows the caste
 
 Raises may be used with this spell to summon a more specific type of the appropriate element, such as wood or iron with Earth, or tea with Water. The GM should choose how many Raises (generally anywhere from 1 to 4) this requires. However, these Raises cannot be used to create rare/precious materials (such as gold) or spiritually powerful substances (such as jade or crystal).
 
-###### Command
+### Command
 - Ring/Mastery: All 1
 - Range: 30’
 - Area of Effect: 1 cubic foot of affected material
@@ -47,7 +47,7 @@ A controversial spell devised by Iuchi during the Ki-Rin Clan’s exile, this sp
 This spell can be cast in any of the four standard elements. Once this spell is cast, the caster may create a quantity of the element in question (per the Summon spell) or affect the shape of an existing quantity of that element. A stone table, for example, could be commanded to break, or change its shape so that it is round instead of square. The GM may require Raises for more complex uses of this spell (such as attempting to create a complex shape out of fire). Using this spell within Rokugan (or anywhere that the elemental kami exist) can be dangerous, as it forces the will of the caster over the spirits rather than beseeching their aid. Every use of this spell increases all of the caster’s Spellcasting rolls in the commanded element for the next 24 hours to be at +5TN.<br>
 This spell may also be used in place of Commune roll when Importuning. If this is done, the Spellcraft roll is automatically successful, but the penalty for casting spells of that Element is +10 to the TN rather than +5 (including the spell being Importuned) if in Rokugan.
 
-###### Transmute
+### Transmute
 - Ring/Mastery: Any non-Void 2
 - Range: 10’
 - Area of Effect: One material object (up to 10 cubic feet)

@@ -27,20 +27,20 @@ The Daidoji are a versatile group, with Techniques that emphasize both enduring 
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Daisho, Heavy Weapon or Polearm, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Force of Honor
+## <strong>Techniques</strong>
+#### Rank 1: The Force of Honor
 
 The Iron Warrior serves as the shield of his clan, defending the honor and homes of the Crane. You gain a bonus of your Honor Rank (rounded down) minus 4 to your Wounds at each Wound Rank, to a minimum bonus of one. (Thus at Honor Rank 6.5, you gain a bonus of 2 Wounds to each Wound Rank.) Additionally, you gain a bonus of +1k0 to the total of all attack rolls while in the Attack Stance.
-##### Rank 2: The Shield of Faith
+#### Rank 2: The Shield of Faith
 
 The Iron Warrior truly believes that his work serves a higher purpose. When you perform the Guard Maneuver, the benefits last for an additional Round. Additionally, the Armor TN bonus of the Guard Maneuver is increased by 5. (This bonus applies to both your Armor TN and your target's Armor TN - thus, you suffer not TN penalty when Guarding, and your target gains a bonus of +15 to his Armor TN instead of +10.)
-##### Rank 3: Strike Beneath the Veil
+#### Rank 3: Strike Beneath the Veil
 
 The Daidoji is an intractable foe, devastating to face under any circumstances. You may make melee attacks as a Simple Action instead of a Complex Action while in the Attack Stance.
-##### Rank 4: Vigilance of Mind
+#### Rank 4: Vigilance of Mind
 
 The Iron Warrior is always on the lookout for dangers. You may spend a Void Point during the Reactions Stage to target an opponent who has attempted to strike at either you or the target of your Guard Maneuver during the Round. You gain a bonus of +2k1 to the total of all attack and damage rolls against that opponent during the next Round.
-##### Rank 5: To Tread on the Sword
+#### Rank 5: To Tread on the Sword
 
 When the Iron Warrior fights to protect his charge, he will continue on long after others would perish. You may spend two Void Points as a Free Action when someone declares an action against the target of your Guard Maneuver. You become the target of the action instead (if it would be a legal action - GM's discretion in questionable instances). You also gain one Free Action that you may use immediately for the sole purpose of moving toward the target of your Guard Maneuver. If you cannot reach your target, this Technique has no effect.
 ### <span>Daidoji Scout [Bushi]</span> {#toc3}
@@ -52,20 +52,20 @@ Although the Iron Warriors are the most well-known public face of the Daidoji fa
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Light or Ashigaru Armor, Rugged Clothing, Daisho, Bow, Knife, any 1 weapon, Trap-making Gear, Camouflage Face-paint, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Surveying the Land
+## <strong>Techniques</strong>
+#### Rank 1: Surveying the Land
 
 The Daidoji scouts are masters of observation and pursuit, tracking their opponents, harassing them, and delaying them with traps and ambushes. You gain +1k0 with Stealth and Hunting skill Rolls. Any rural/improvised traps you create are exceptionally deadly, inflicting +1k1 extra damage.
-##### Rank 2: Scouring the Shadows
+#### Rank 2: Scouring the Shadows
 
 Daidoji scouts strike from concealment, hitting their opponents with swift and devastating attacks. When attacking an unaware opponent you gain a bonus of +2k0 to your attack roll.
-##### Rank 3: Weaken the Resistance
+#### Rank 3: Weaken the Resistance
 
 The Daidoji learn to strike with precision, hitting their opponents in weak spots and evading their armor. You may ignore any Reduction your opponent gains from wearing armor or from school techniques. (You cannot ignore the natural Reduction of creatures, or Reduction bestowed by magical or supernatural effects.) If you attack an opponent who has no Reduction from armor or techniques, you gain +1k0 to your damage rolls.
-##### Rank 4: Strike and Move
+#### Rank 4: Strike and Move
 
 The Daidoji scout strikes with the swiftness of the wind itself. You may make attacks as a Simple Action instead of a Complex Action when wielding a katana, wakizashi, knife, or bow. Your traps now inflict +2k1 extra damage.
-##### Rank 5: Cunning of Daidoji
+#### Rank 5: Cunning of Daidoji
 
 The true master of the Daidoji scout school needs only a single strike, for his opponent never survives to see the second one. During a skirmish, you may spend a Void Point as a Free Action to attempt a deadly precision strike on your next attack (this may be done with a melee or a ranged attack, but cannot be done more than once in the same Turn). Any Maneuvers called on this attack require 1 less Raise (to a minimum of 1 Raise), and if you successfully hit you gain a bonus of +1k1 to your Damage roll. Furthermore, if your opponent is unaware of you, your Raises on this attack are not limited by your Void.
 ### <span>Doji Courtier [CR]</span> {#toc4}
@@ -79,24 +79,24 @@ The Doji Courtier School is built upon the notion of trading favors. That is not
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Extravagant Clothing, Wakizashi, any 1 weapon, Calligraphy Set, Traveling Pack, 10 koku
 
-##### <strong>Techniques</strong>
+#### <strong>Techniques</strong>
 
 
 
 
-###### Rank 1: The Soul of Honor
+#### Rank 1: The Soul of Honor
 
 Apprentice Doji courtiers are taught to rely on their Honor when dealing with others, infusing their every word and gesture with the power of their purity, and to build networks of allies by discerning what others need and fulfilling those needs. So long as you maintain your Honor Rank at 6.0 or better, you gain a Free Raise on all Courtier, Sincerity, and Etiquette rolls. Also, by conversing with another person for a few minutes, you can make a Contested Roll of Courtier (Manipulation) / Awareness against the target's Etiquette (Courtesy) / Awareness to learn whether they are in need of any favors or assistance (such as needing travel papers to reach another province, for example).
-##### Rank 2: Speaking in Silence
+#### Rank 2: Speaking in Silence
 
 At this Rank the Doji learns Cadence, the art of communicating through subtle gestures and body language. This gives them a huge advantage in the courts by allowing them to share information while their rivals are none the wiser. You can roll Courtier / Intelligence at TN 15 to communicate simple ideas and instructions (things like &quot;distract them,&quot; &quot;this favors us,&quot; or &quot;Intercept that person&quot;) with any other Crane who is trained in the Doji Courtier School or who has at least 5 Ranks in the Courtier Skill. More complex ideas can be conveyed with Raises, although there is an upper limit (set by the GM) on how complicated Cadence can become.
-##### Rank 3: The Perfect Gift
+#### Rank 3: The Perfect Gift
 
 The Doji build their networks of alliances through selflessness, offering others what they need so that in the future the Doji may rely on their assistance. Any time you are in court or in an urban area, you can roll Courtier / Awareness at TN 20 to come up with a suitable gift or a helpful political favor for someone else. By calling Raises on this roll, you can acquire a rarer or more potent gift or favor. If such a gift or favor is accepted, you may immediately take that person as an Ally with 1-point Devotion, without XP cost (subject to the GM's permission).
-##### Rank 4: Voice of Honor
+#### Rank 4: Voice of Honor
 
 At this Rank the Doji has learned the art of political maneuvering, making his positions and arguments appear synonymous with Honor, forcing anyone who disagrees with him to take a dishonorable position. In any debate or argument, you may make a Contested Roll of Courtier (Manipulation) / Awareness against the target's Etiquette (Courtesy) / Awareness. If you win the roll, the opponent is forced to concede that his position conflicts with the demands of Honor and Bushido, and if he persists in that position he will commit a breach of etiquette. (It is the GM's discretion, based on the circumstances, as to whether it is a minor or major breach.)
-##### Rank 5: The Gift of the Lady
+#### Rank 5: The Gift of the Lady
 
 The final training of the Doji teaches them the art of influencing the emotions of others, making friends and allies out of almost anyone - even bitter enemies. By conversing with someone for a few minutes, you may make a Contested Roll of Courtier (Manipulation) / Awareness against the target's Etiquette (Courtesy) / Willpower. If the target is an Ally, you gain a bonus of +5k0 to the total of this roll. With a success, you shift the target's emotions in a favorable direction, persuading them to listen to your advice and counsel. The GM is the final arbiter but in general, the target will go along with anything you suggest which does not conflict with his basic loyalties.
 ### <span>Doji Magistrate [Bushi] [EE]</span> {#toc5}
@@ -110,20 +110,20 @@ Despite the name of the school, in actuality only a minority of its students are
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon (or 2 Knives), Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Temper Steel With Honor
+## <strong>Techniques</strong>
+#### Rank 1: Temper Steel With Honor
 
 Doji Magistrates are trained to fight with compassion, avoiding injury to both themselves and whenever possible to others, a style known to the Crane as Mizu-do (the Way of Water). They specialize in the use of weapons designed to disarm or capture foes rather than kill them. You may add an amount equal to your Air Ring to your Armor TN (unless caught helpless or unaware). You gain a +1k0 bonus to your attack rolls when fighting with a jitte or a sasumata.
-##### Rank 2: Flowing Like Water
+#### Rank 2: Flowing Like Water
 
 The Magistrates are taught the art of subduing law-breakers non-lethally by turning their own strength against them, an especially useful skill when dealing with drunken samurai whose deaths might carry political repercussions. When rolling to control a Grapple or to resolve a Disarm attempt, you may use your opponent's Strength Rank in place of your own.
-##### Rank 3: Breath of the Law
+#### Rank 3: Breath of the Law
 
 The Doji Magistrates practice a variety of submission holds designed to disarm and disable lawbreakers without harming them. If you successfully Grapple or Disarm an opponent, they are also Dazed.
-##### Rank 4: Flowing Like Air
+#### Rank 4: Flowing Like Air
 
 A true student of the Doji path can move as swiftly as the wind of justice that brings ruin to his enemies. You may make attacks as a Simple Action when fighting unarmed or when wielding a jitte, sasumata, or a weapon with the Samurai keyword.
-##### Rank 5: The Willow in the Storm
+#### Rank 5: The Willow in the Storm
 
 In their final lesson, Doji Magistrates are taught to maneuver around their opponents, redirecting their energy and defeating them with their own momentum. You may spend a Void point during the Reactions stage of a skirmish Round to force anyone who attacks you on the next Round to subtract their Air Ring from each of their dice. (Dice which explode have their final total reduced.) This technique cannot be activated while you are in the Full Attack stance or the Center stance.
 ### <span>Kakita Bushi [CR]</span> {#toc6}
@@ -137,20 +137,20 @@ The Kakita Techniques place an obvious emphasis on iaijutsu but several of them 
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Crane
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Crane
 
 The study of the sword demonstrates the many ways in which the art of Kakita's technique can be applied. You add twice your Iaijutsu Skill to all Initiative rolls. You gain a bonus of +1k1 plus your School Rank to the total of all attack and Focus rolls while assuming the Center Stance. This bonus also applies during the Combat Round following one in which you assume the Center Stance.
-##### Rank 2: Speed of Lightning
+#### Rank 2: Speed of Lightning
 
 Enemies who are slow or weak of spirit are doomed to failure. You gain a bonus of +2k0 to the total of all attack rolls against those with lower Initiative than your own.
-##### Rank 3: First and Last Strike
+#### Rank 3: First and Last Strike
 
 A Kakita Bushi is feared throughout the Empire as a follower of the oldest and most venerated dueling tradition in the Empire. You may Strike first in a duel if you win the Iaijutsu/Void roll by a difference of 3 or higher. You gain a Free Raise on your Strike for each additional margin of 3 instead of 5.
-##### Rank 4: One Strike, Two Cuts
+#### Rank 4: One Strike, Two Cuts
 
 With one pure strike, the advanced student of Kakita's technique cuts his opponent twice. You may make attacks as a Simple Action instead of a Complex Action while using weapons with the Samurai keyword.
-##### Rank 5: Strike With No Thought
+#### Rank 5: Strike With No Thought
 
 A true student of Kakita requires no thought before the perfect strike, depending entirely on instinct. You may take one Simple Action per Turn while assuming the Center Stance. You gain the benefits of Center Stance while you assume the stance instead of the following Turn, and you may remain in the Center Stance as many consecutive Turns as desired. The Simple Action you take can be a Move Action (bypassing the normal restriction of the Center Stance).
 ### <span>Kakita Artisan</span> {#toc7}
@@ -162,26 +162,26 @@ Unlike their occasional rivals among the Shiba, the Kakita Artisans do not confi
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Court Robes, Beautiful Clothing, Wakizashi, Art supplies, Fan, Steed (Rokugan pony), Traveling Pack, 10 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Soul of the Artisan
+## <strong>Techniques</strong>
+#### Rank 1: Soul of the Artisan
 
 The Kakita Artisan is taught from the earliest youth to focus on one specific form of art above all others, devoting himself to it heart and soul and pursuing the goal of absolute perfection within its forms. Of course, in keeping with Crane tradition, the Artisan is also taught to be a ruthless critic to any artistic rivals. Select one of the three chosen School Skills (Acting, an Artisan Skill, or a Perform Skill) as the focus of your artistic training. This becomes your 'chosen art'. When making skill rolls with your chosen art, you gain a +2k0 bonus and your Raises are not limited by your Void.
 Any time you are using Games: Sadane to criticize someone else's art or performance, you gain a Free Raise on your Skill Roll.
 
-##### Rank 2: The Soul's Dream
+#### Rank 2: The Soul's Dream
 
 The Kakita Artisan is taught to use his art to affect those around them, inspiring emotions and shifting the views of the audience. When presenting a public performance or display of your chosen art, you may make a Contested Social Roll of (chosen art) / Awareness against Etiquette (Courtesy) / Willpower of the audience members. Those audience members who fail their rolls are profoundly swayed and their emotions shift in a direction you desire - becoming friendlier, more hostile, calmer, or whatever other emotional shift your art is designed to evoke. This emotional shift normally lasts a number of hours equal to your Insight Rank.
 Note that not all persons are equally susceptible to the impact of art - the GM may rule that a particular individual is affected for a shorter period of time, or award a bonus to the resistance roll for person whose emotions are difficult to manipulate. The GM should normally have each individual audience member roll separately to resist this technique (this should always be done for PCs or important NPCs), but with large groups of ordinary NPCs the GM can opt to save time by making a single roll for most or all of them.
 
-##### Rank 3: Free the Spirit
+#### Rank 3: Free the Spirit
 
 You may select a second of your three chosen School Skills as a chosen art, and all Technique bonuses and effects which applied to your first chosen art now applies to it as well. The bonus to your chosen art skill rolls increases to +2k1.
-##### Rank 4: Undying Name
+#### Rank 4: Undying Name
 
 Your art is now so magnificent that you make and break the reputations of others by depicting or referencing them in your work. You may create a piece of art referring to another person by rolling (chosen art) / Awareness at a TN equal to 20 plus 5 x their Glory Rank. With a success, you may either increase (if your art is complimentary) or decrease (if it is critical) their Glory by up to 5 points, plus an additional 5 points for every Raise you make on the roll. You may call two additional Raises to inflict a gain of Infamy on the target instead of a Glory change.
 You may not target the same person with this technique more than once every six months. Furthermore, persons of high station cannot have their reputations damaged by artist lacking in prestige - the target's Status cannot exceed your Glory or Status Rank (whichever is higher).
 
-##### Rank 5: A Gift Beyond Price
+#### Rank 5: A Gift Beyond Price
 
 Your art is now so perfect that a gift of it can profoundly change another person's attitude toward you or your clan. Once per month, you may give a gift of your chosen art to someone from another clan or faction. Make a Contested Social Roll of your (chosen art) / Awareness against their Etiquette (Courtesy) / Willpower. (The GM may aware Free Raises to you or the target of this technique based on the type and subject of the art and the attitudes and beliefs of the target - some people are easier to sway than others.) With a success, you permanently alter their attitude toward your clan/faction in a favorable direction. With a failure, the target becomes aware of your attempt to manipulate his emotions, and his attitude toward your clan/faction permanently shifts in a hostile direction.
 ## <span>Advanced Schools</span> {#toc8}
@@ -190,26 +190,26 @@ Your art is now so perfect that a gift of it can profoundly change another perso
 
 The Doji Courtier School thrives on alliances, maintaining a vast network of friends and favors. The elite order known as the Children of Doji claims absolute dominance over the Crane system of allies and favors. Each of these elite courtiers is trained to understand that nothing is beyond one’s reach- so long as one has the aid of a few dozen friends. The Children of Doji know everyone desires something and all samurai below the Emperor must bow to the will of another. Know the correct favor to offer, know the right ear in which to speak, and an entire court will dance to one’s tune. Even a war’s course can be changed by such influence with sufficient skill and artistry.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Awareness 5, Void 4
 - <strong>Skills:</strong> Courtier 6, Etiquette 6, Sincerity 5, any one Perform/Artisan skill 4
 - <strong>Advantages:</strong> Ally (with at least four different individuals, one of which must be Devotion 4)
 - <strong>Other:</strong> Honor Rank 5.0 or higher
 
-##### <strong>Techniques</strong>
+#### <strong>Techniques</strong>
 
 
-###### Rank One: Social Butterfly
+#### Rank One: Social Butterfly
 
 A Child of Doji makes friends like others breathe and is able to call upon them with the mere mention of a name. When making any Contested Social Skill roll, you gain a bonus of +Xk0, where X equals the number of Allies you possess in this court with a Devotion of 2 or greater (this bonus cannot exceed your Insight Rank in dice). Also, if you have at least three such Allies in this court, you may expend (lose) one of those Allies to gain the Darling of the court Advantage for the remainder of this season (spring, winter, etc).
-##### Rank 2: All is Fair
+#### Rank 2: All is Fair
 
 A key skill of the Children of Doji is the ability to reach beyond the courts to control the field of battle through their political influence. A rikugunshokan who is leading his army against the Crane may suddenly find that favorable terrain has been deemed sacrosanct and the war must be fought on less advantageous ground, or that a key supply shipment has been diverted elsewhere. Conversely, an ally of the Crane may find a legion of Imperial troops arriving to aid his cause, or a duelist cutting down the opposing commander for a personal slight.
 
 You may manipulate a neutral or friendly court to favor or oppose a military conflict happening elsewhere (you cannot, obviously, manipulate the court of your enemy). You must have at least five Allies of Devotion 2 or higher in the court, and must spend a week speaking and maneuvering in the court, after which you may make a roll of Courtier (Manipulation) / Awareness at TN 40. A successful roll awards a Free Raise on Battle Skill Rolls to the commander of the side you favor, with an additional such award granted for each Raise you make on the Courtier roll.
 
 If your activities are being opposed by a representative of the other side in the conflict, your Courtier roll becomes a Contested Roll against that opponent. You may only influence each military campaign with this Technique once (GM’s discretion), and each Free Raise is expended once the commander uses it. If the commander does not use the Free Raises by the end of the campaign, they are lost.
-##### Rank 3: Gild the Lily
+#### Rank 3: Gild the Lily
 
 The Crane comprehend that the easiest way to maintain a strong network of allies is to regularly offer them favor. Conversely, the best way to flex your political muscle against an obstinate enemy is the denial of favor. You may grant any of your Allies a boon, which takes the form of any Social or Material Advantage with an Experience Point value of up to your Honor Rank. (The GM may veto any Advantage that seems inappropriate.) This is done by spending an hour in court speaking with the ally, then spending a Void Point and making a Courtier (Manipulation)/Awareness roll at a TN of 20 + (5x Experience Point value of Advantage). The effects of the boon last one month.
 
@@ -222,19 +222,19 @@ The students of Shiro Giji took to calling themselves 'Harriers' to distinguish 
 
 The organization was finally exposed during the so-called War of Silk and Steel between the Dragon and the Crane in the late twelfth century. Crane Champion Doji Domotai was outraged by the Harriers' activities and ordered the entire group disbanded, an order reluctantly obeyed by the Daidoji daimyo.
 
-###### Requirements:
+### Requirements:
 - <strong>Ring/Traits:</strong> Agility 4, Air 4
 - <strong>Skills:</strong> Craft: Explosive 3, Hunting (Traps) 3, Stealth 5, Knives 4
 - <strong>Other:</strong> Must be a Daidoji and recruited for membership in the Harriers.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Move Like Shadows
+## <strong>Techniques</strong>
+#### Rank 1: Move Like Shadows
 
 The Harriers are taught to sacrifice their own Honor for the sake of the greater good of the Crane Clan (as they perceive it). They train to blend into the shadows and to defeat their foes with traps and ambushes. You lose only half the normal amount of Honor (rounded down) for any dishonorable actions taken on behalf of the Crane Clan. You gain a +1k1 bonus to the DR of any rural traps you create (this stacks, with the Daidoji Scout techniques, if applicable).
-##### Rank 2: Iron Feather
+#### Rank 2: Iron Feather
 
 The lightning reflexes of a Harrier allows him to dodge his opponent's attacks easily. When wearing light armor, ashigaru armor, or no armor, you may add your Stealth Skill Rank to your Armor TN.
-##### Rank 3: Unforgiving Steel
+#### Rank 3: Unforgiving Steel
 
 The Harrier is taught to disable his foes with a single deadly strike. If you successfully attack a surprised or unaware opponent, or if an opponent takes damage fro a rural trap you created, he is Dazed in addition to any other effects of your attack. He may not attempt to recover from the Daze until after the next Reactions stage, and the TN to recover from the Daze is increased by +5.
 ### <span>Kakita Master Artisan</span> {#toc11}
@@ -246,14 +246,14 @@ At their highest pinnacle of skill the Kakita Masters can actually change realit
 - <strong>Skills:</strong> At least one Kakita Artisan chosen art Skill must be Rank 8 or higher.
 - <strong>Other:</strong> If you are trained as a Kakita Artisan you must have Great Potential in the Skill of one of your chosen arts. If you are not trained as a Kakita Artisan, you must be a Crane with both the Prodigy advantage and Great Potential Advantage in either Acting, an Artisan Skill, or a Perform Skill. This single skill becomes your chosen art for the purposes of this school's techniques.
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Master's Touch
+## <strong>Techniques</strong>
+#### Rank 1: The Master's Touch
 
 The Master Artisan transcends the social demands of art to focus on creating works of lasting magnificence which transform those who witness them. You may attempt to create such a work or performance with a chosen art Skill roll at TN 40. A success results in a creation or performance that awes everyone who witnesses its first public appearance. You gain 5 points of Glory, +1 additional point of Glory for each Raise called on the Roll. everyone in the audience at the art's unveiling/performance gains one bonus Void Point (which can exceed their normal maximum) for the next 24 hours; if you successfully called at least 4 Raises on the roll, they gain two bonus Void Points instead. (The effects of this technique cannot stack.)
-##### Rank 2: Mastery Unbound
+#### Rank 2: Mastery Unbound
 
 At this level of skill, the Master Artisan's skills become truly legendary. You gain a bonus of +2k0 with your chosen art skill rolls. If you are trained as a Kakita Artisan you may select a third chosen art from your School Skills.
-##### Rank 3: The Perfect Art
+#### Rank 3: The Perfect Art
 
 The final secret of the Master Artisans is a level of excellence that transcends the normal bounds of mortal capability, producing art that literally comes to life. Once per month when creating a work or performance with one of your chosen arts, you may spend 2 Void Points and then roll (chosen art) / Awareness at TN 50. With a success, the art comes to life - birds fly off a painting, the characters of a play manifest on the stage, the statue of a Fortune comes to life, and so forth.
 
@@ -266,14 +266,14 @@ The iaijutsu duel has always been the domain of the Crane Clan, and the Crane Cl
 - <strong>Skills:</strong> Iaijutsu 5, Lore: Bushido 4, Meditation 5
 - <strong>Other:</strong> To become a member of the Kenshinzen, you must defeat a current member of the Kenshinzen in a legal iaijutsu duel. The duel need not necessarily be to the death (and most often are not), but the candidate must win fairly.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Drawing the Void
+## <strong>Techniques</strong>
+#### Rank 1: Drawing the Void
 
 The Kenshinzen remains still on the battlefield while the chaos of battle rages around him. If you are in the Center Stance, you add an additional +10 to your Armor TN.
-##### Rank 2: Kakita's Strength
+#### Rank 2: Kakita's Strength
 
 The Kenshinzen can sense the moments between heartbeats, allowing him to strike at the exact moment needed. When making an Assessment or Focus roll as part of an Iajutsu duel, your dice explode on a 9 as well as a 10.
-##### Rank 3: A Single Moment
+#### Rank 3: A Single Moment
 
 The Kenshinzen's will to defeat his enemy exudes out of him, paralyzing his enemies. If you make only one attack this Turn, an opponent you hit is Stunned until the beginning of your next Turn.
 ## <span>Alternate Paths</span> {#toc13}

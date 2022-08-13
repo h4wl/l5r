@@ -27,22 +27,22 @@ The Henshin follow the Path of Man as revealed by Shiba to Asako. By developing 
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Robes Bo, Scroll Satchel, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Four Mysteries
+## <strong>Techniques</strong>
+#### Rank 1: The Four Mysteries
 
 The first lesson of the mysterious Henshin is the relationship between the individual and the Elements that comprise all things. You may, as a Simple Action, increase or decrease both Traits associated with one of your Rings by an amount equal to your School Rank. This lasts for a number of minutes equal to your Insight Rank and may be done a total number of times per day equal to five times your Insight Rank. You may instead increase or decrease the Traits of another in a similar manner, but only by an amount equal to half your School Rank, rounding down (to a minimum of 1). Altering the Traits of an unknowing or unwilling target requires a Contested Willpower Roll. Traits reduced in this manner do not affect a target's Ring (and thus do not change Wound Ranks when the Earth Ring is targeted, etc.).
-##### Rank 2: The Riddle of Earth
+#### Rank 2: The Riddle of Earth
 
 The stoic and straightforward kami of Earth are the simplest to entertain with one's riddles, and their blessings are potent indeed. As a Simple Action, you may invoke this Technique and gain Earth's blessing; you are immune to all Conditional Effects (excluding Grappled and Mounted) for a number of hours equal to your Earth Ring.
-##### Rank 3: The Riddle of Air
+#### Rank 3: The Riddle of Air
 
 The capricious spirits of Air can be delighted into conferring their blessings upon you. As a Simple Action, you may invoke the blessing of Air. The blessing lasts a number of hours equal to your School Rank. For the duration of this effect, you cannot be deceived by any illusion or other false images, and can perceive them as transparent falsehoods. If an illusion is created by a spell of higher Mastery Level than your Insight Rank, you and the spell's caster must engage in a Contested Air Roll. If you are defeated, you do not perceive the falsehood of the illusion.
-##### Rank 4: The Riddle of Fire
+#### Rank 4: The Riddle of Fire
 
 The wrathful spirits of Fire can be entertained by your riddles, if only briefly. As a Complex Action you may invoke Fire's blessing to increase the number of kept dice on an unarmed damage roll (which is normally 0k1to your Fire Ring. This effect lasts a number of Rounds equal to your School Rank.
 
 Alternatively, when an opponent strikes you with a melee attack, you may spend a Void Point to force a Contested Fire Ring Roll. If you are successful, the number of damage dice your opponent rolls is reduced by your Fire Ring.
-##### Rank 5: The Riddle of Water
+#### Rank 5: The Riddle of Water
 
 The mercurial spirits of Water can confer their speed and fluidity in exchange for your riddles. You must succeed at a Lore: Elements (Water) / Water Skill Roll against TN 20. If successful, you may take one Complex and one Simple Action per Turn, or you may instead take three Simple Actions per Turn.
 ### <span>Asako Loremaster [Courtier] [CR]</span> {#toc3}
@@ -56,20 +56,20 @@ The Loremasters specialize in scholarly pursuits, and use those as a means of su
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Sensible Clothing, Wakizashi, Calligraphy Set, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Temple of the Soul
+## <strong>Techniques</strong>
+#### Rank 1: Temple of the Soul
 
 The Asako are historians and scholars, and their studies are broader than those of any others in the Empire. They pride themselves on the depth of their knowledge in all fields of intellectual endeavor. They also share the Phoenix devotion to peace and civility, relying on genteel discourse to resolve problems. You gain a Free Raise on any Skill Roll with a Lore Skill. Any time you spend a Void Point on an Etiquette Skill Roll, you gain a bonus of +3k1 to the total of the roll instead of the normal +1k1.
-##### Rank 2: From the Ashes
+#### Rank 2: From the Ashes
 
 The Asako Loremasters' in-depty study of historical events allows them to detect subtle patterns in behavior in every court, patterns invisible to their more worldly rivals from the other Clans. After spending at least one day observing the events in a particular court, you can roll Lore: History / Perception at TN 20 to gain a bonus +2k0 to the total of all your Social Skill Rolls for the next two days, so long as your remain in that court. (This Technique's effect can be re-activated with another skill roll when it expires - it is not necessary to spend additional days observing so long as you remain in the same court.)
-##### Rank 3: Voice of the Universe
+#### Rank 3: Voice of the Universe
 
 As the Asako's training progresses, his recall of obscure historical facts allows him to provide useful contemporary advice to his allies. You may spend an hour conversing with a friend or ally and then roll Lore: History / Intelligence at TN 25. With a success, that ally may add your Lore: History Skill Rank to the total of any Social Skill Rolls he makes within the next twenty-four hours. You may Raise twice to affect one (and only one) additional ally, provided that ally also participates in the conversation. (This Technique cannot be used on the same person again until its effect expires.)
-##### Rank 4: Invincible Mind
+#### Rank 4: Invincible Mind
 
 The enlightened and educated Asako can see through the games, tricks, and deceits of the material world. Any time you fail a Contested Social Skill Roll to resist someone trying to influence your emotions, opinions, or behavior (such as with the Courtier, Temptation, or Intimidation skills), you may re-roll using Intelligence as the Trait for the second roll in place of whichever Trait was originally required. You must keep the result of the second roll. This Technique cannot be used to resist Fear.
-##### Rank 5: Wisdom of the Ages
+#### Rank 5: Wisdom of the Ages
 
 At this rank, the Asako truly demonstrate that the wisdom of the Phoenix is eternal. Any time you are rolling a Lore Skill, including for your other School Techniques, you gain a +5k0 bonus to the total of the roll.
 ### <span>Isawa Shugenja [CR]</span> {#toc4}
@@ -95,22 +95,22 @@ Although not as prestigious or politically connected at the Kakita Artisans, the
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Sensible Clothing, Wakizashi, tools necessary to practice your chosen specialty, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Soul of Brilliance
+## <strong>Techniques</strong>
+#### Rank 1: Soul of Brilliance
 
 A true child of the Shiba line finds his perfect center in the serenity and beauty of creation. Select any one Artisan Skill. Whenever you spend a Void Point making a Skill Roll using that Skill, you gain a bonus of +2k2 instead of the normal +1k1.
-##### Rank 2: The Way of Sincerity
+#### Rank 2: The Way of Sincerity
 
 Through use of his craft, a Shiba artisan can forge close bonds with others that allow for long-term alliances to be formed. Once per month you may make an Artisan Skill Roll against a TN 15. You gain a number of Experience Points equal to the amount by which your roll exceeds the TN, but these Experience Points may only be spent to purchase the Allies Advantage (subject to GM approval). These Allies are temporary and last for a period of time equal to your School Rank in weeks.
-##### Rank 3: The Art Speaks
+#### Rank 3: The Art Speaks
 
 An artisan has the ability to fall back on his art when pressed in a social situation, allowing its beauty and simplicity to speak for him. Choose one Artisan Skill. When you are called to make a Social Skill Roll, you may use your Ranks in the Artisan Skill in place of whatever Social Skill is called for. You gain no Mastery Level benefits when using this Technique, since you do not actually possess ranks in the Social Skill in question.
 
 There may be social situations where this Technique is not applicable; when in doubt, the GM has the final say.
-##### Rank 4: Bounty of the Craft
+#### Rank 4: Bounty of the Craft
 
 When presenting your art to others, you increase not only your own understanding of your place in the universe, but you aid others in perceiving theirs as well. Once per day you may make an Artisan Skill Roll against a TN 30. If successful, you and a number of other people up to your School Rank who are present at the time regain all Void Points. This ritualized presentation of your craft requires at least fifteen minutes to complete. This Technique cannot be used in the Shadowlands.
-##### Rank 5: The Touch of Destiny
+#### Rank 5: The Touch of Destiny
 
 The work of a true master requires no explanation to inspire others to greatness. When your work is on display in court or in the home of a lord, all present in the chamber where it is displayed gain one additional Void Point. If you are present, you gain two additional Void Points, instead, and you may choose to deny the benefit of this Technique to any in attendance. An individual may only receive a maximum of one additional Void Point per day in this manner (or two, in your case).
 ### <span>Shiba Bushi [CR]</span> {#toc6}
@@ -124,20 +124,20 @@ The Shiba Techniques optimize the use of Void Points and specialize in the prote
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Phoenix
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Phoenix
 
 Shiba bushi move through battle as the Void moves through all the elements. When spending a Void Point to gain +1k1 on a roll, you may choose to spend 2 Void Points (to gain +2k2) on the roll instead. You may Guard as a Free Action; however, if you do so, your target only adds +5 to his Armor TN instead of +10.
-##### Rank 2: Dancing With the Elements
+#### Rank 2: Dancing With the Elements
 
 Shiba bushi become attuned to the shugenja they protect, aiding their spells and deterring those of their enemies. When you assume your Stance for the Round, you may choose a target within 30'. Whenever your target casts or is the target of a spell, you may choose to increase or decrease the TN of the spell by 5. Additionally, whenever you are the target of a spell, you may immediately choose to increase or decrease the TN of the spell by 5.
-##### Rank 3: One With the Void
+#### Rank 3: One With the Void
 
 In battle, the Shiba can find his place in the world. This Technique automatically activates during the Reaction Stage of Combat if another character spent a Void Point during this Combat Round. You regain a Void Point. This Void Point may exceed your maximum, but all excess Void Points are lost after combat resolves. You do not learn anything regarding the source of the Void Point or how it was originally spent. this Technique only activates twice per skirmish.
-##### Rank 4: Move With the World
+#### Rank 4: Move With the World
 
 Serenity brings certainty, and certainty brings speed. You may make attacks as a Simple Action instead of a Complex Action with using Polearms, Spears, or weapons with the Samurai keyword.
-##### Rank 5: Touch of the Void
+#### Rank 5: Touch of the Void
 
 Masters of the Shiba style can draw back the veil and allow the universe to act through them. For every Void Point you spend, you gain the effects of spending two, when applicable. Additionally, you may now spend Void Points on enhancements twice in one Turn.
 ## <span>Advanced Schools</span> {#toc7}
@@ -148,40 +148,40 @@ The Asako are generally regarded as a peaceful and serene family, the very pictu
 
 The Asako Inquisitors do not concern themselves exclusively with maho or Shadowlands corruption, although these crimes are among their most frequent targets. They also investigate gaijin magic and any religious groups with heretical beliefs, such as the Bloodspeaker Cult. Members of the Inquisitor order are selected primarily from the ranks of Phoenix Shugenja, but many bushi serve with them and a few Henshin and Brotherhood Monks have been inducted as well. Those who are inducted into the order and take the necessary vows of duty and secrecy are granted a stylized tattoo of an eye, the symbol of the order, somewhere on their body. The back of the hand is the most common location.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Void 4, any 2 other Rings at 3
 - <strong>Skills:</strong> Lore: Law 4, Lore: Shugenja 3
 - <strong>Other:</strong> Must be able to cast spells of Mastery Level 4 in one element OR have the ability to make melee attacks as a Simple Action and possess the Phoenix Sacred Weapon (the Inquisitor's Strike). May not be Tainted.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Eye of the Inquisitor
+## <strong>Techniques</strong>
+#### Rank 1: Eye of the Inquisitor
 
 The Asako Inquisitors are taught to focus their will to disrupt the unnatural magic of blasphemers and criminals. You are considered one Rank higher in your original Shugenja School for the purposes of casting spells. Non-shugenja Inquisitors instead gain one Kiho, for which you must meet all prerequisites.
 During a skirmish you may use a Complex Action to prepare a disruption of energy magic. At any point later in the same skirmish when an opponent is casting a spell, you may as a Free Action force him to make 2 additional Raises on his spell-casting roll. These additional Raises have no effect other than to raise the TN of the roll. Once this is done, you must take another Complex Action if you wish to ready another disruption.
 
-##### Rank 2: The Trials of Jade
+#### Rank 2: The Trials of Jade
 
 An Inquisitor finds the weakness in his enemies and exploits it, bringing them the Emperor's justice. When casting any spell, you may spend a Void Point for the spell to count as jade or crystal for the purposes of reducing or defeating your target's Reduction or Invulnerability traits. If you cannot cast spells, you may instead make a melee attack as a Simple Action instead of a Complex Action when facing an opponent you know has violated the Empire's laws regarding the legal forms of magic.
-##### Rank 3: Conviction of Purity
+#### Rank 3: Conviction of Purity
 
 Those who commit the unpardonable sin of breaking the Emperor's laws concerning magic are unable to stand against you. You are considered one Rank higher in your original Shugenja School for the purposes of casting spells. Non-Shugenja Inquisitors instead gain one additional Kiho, for which you must meet all prerequisites. You may now prepare a disruption (as per your Rank One technique) as a Simple Action instead of a Complex Action, and opponents whose spells are disrupted require 3 additional Raises rather than 2.
 ### <span>Elemental Guard [Shugenja] [CR]</span> {#toc9}
 
 The Elements that form the world are as different and unique as the people who inhabit the Empire. It is inevitable that shugenja feel a closer kinship to the personality of the kami of one aspect of nature. These priests join one of the units of the Elemental Guard, four separate schools that focus on each of the four main Elements.
 
-###### Requirements:
+### Requirements:
 - Rings/Traits: One chosen Ring at 6
 - Skills: Spellcraft 6, Lore: Theology 6
 - Other: Must be able to cast spells of the chosen Element (see above) of Mastery Level 4
 
-###### <strong>Techniques</strong>
-##### Rank 1: Name of the Elements
+## <strong>Techniques</strong>
+#### Rank 1: Name of the Elements
 
 The Elemental Guard hones his entire soul to his chosen Element until he is completely at harmony with its kami. Your Shugenja School Rank is considered one higher for the purposes of casting spells of your Chosen Element. You may also spend a Void Point as a Free Action to add twice your Rank in your chosen Ring to your Armor TN. This effect lasts a number of minutes equal to your Shugenja School Rank, and is a very visible effect (you are surrounded by flames or by swirling water, you skin becomes rocklike, etc.).
-##### Rank 2: Touch of the Elements
+#### Rank 2: Touch of the Elements
 
 The link between the kami and the Elemental Guard deepens further. Your Shugenja School Rank increases by one. Your chosen Ring is considered two ranks higher for purposes of determining the number of spell slots you have in that Element per day.
-##### Rank 3: Shape of the Elements
+#### Rank 3: Shape of the Elements
 
 The Elemental Guard can wield the power of the kami with a single whisper. Your Shugenja School Rank is considered one higher for the purposes of casting spells of your Chosen Element. You may select one spell of your Chosen Element of Mastery Level 3 or greater. A number of times per day equal to your Void Ring, you may cast that spell with a single Simple Action.
 ## <span>Alternative Paths</span> {#toc10}

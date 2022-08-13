@@ -25,28 +25,28 @@ Although this school is intended primarily to represent ronin, it can also be us
 - <strong>Skills:</strong> Athletics, Defense, Hunting, Intimidation, Kenjutsu, Knives, any one Weapon Skill
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 1 koku
 
-###### <strong>Techniques</strong>
-##### Rank One:
+## <strong>Techniques</strong>
+#### Rank One:
  
 <em>Strength of My Father</em>
 
 Ronin are known for their resilience in the face of adversity. When you are suffering TN penalties due to Wounds, you may make an Earth Roll (ignoring Wound TN penalties) during the Reactions Stage of each Round, with a TN equal to 5 + 5x the number of Wound Ranks you are currently suffering. If the roll is successful, you may ignore the effects of your Wound penalties until the next Reactions Stage. This Technique does not work once you reach the Down or Out Wound Ranks.
-##### Rank Two:
+#### Rank Two:
  
 <em>Never Yield</em>
 
 Ronin are accustomed to being the underdogs. When you are outnumbered in a skirmish, you gain a bonus to your Armor TN equal to the amount by which the number of enemies exceeds the number of your allies. This bonus cannot exceed the total of your School Rank x2.
-##### Rank Three:
+#### Rank Three:
  
 <em>Bite of the Wolf</em>
 
 Veteran ronin are swift and deadly fighters. You may attack as a Simple Action when wielding a katana or a knife.
-##### Rank Four:
+#### Rank Four:
  
 <em>Twice-Cutting Spirit</em>
 
 As ronin become truly experienced, they become ever more deadly with many different weapons. Choose one additional melee weapon: you may attack with that weapon as a Simple Action. Once per skirmish, you may spend a Void Point on a damage roll, regardless of what weapon you are using.
-##### Rank Five:
+#### Rank Five:
  
 <em>Valor of the Wolf</em>
 
@@ -89,23 +89,23 @@ Travelling Pack, 5 bu
 
 The Disciples are an ancient ronin band based around Sun Tao’s legendary book. The leaders of the band believe they possess the only complete copy of Sun Tao’s writings. Due to the band’s age and dedication, it has actually developed multiple Techniques. Those raised within the band usually learn the Gaze of Sun Tao initially before moving on to study the Disciples’ advanced teachings. However, the Disciples also recruit other ronin who have learned different basic Techniques.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Fire 4, Water 3
 - <strong>Skills:</strong> Battle (Mass Battle) 4, any two Weapon skills at Rank 4
 - <strong>Other:</strong> Must be born into or recruited into the Disciples of Sun Tao ronin band.
 
-###### <strong>Techniques</strong>
-##### Rank One:
+## <strong>Techniques</strong>
+#### Rank One:
  
 <em>Terumoto’s Lesson</em>
 
 Sun Tao’s chief disciple was a skilled warrior who embraced his master’s doctrine of studying battle in all its forms and mastering all types of warfare. Choose any three Weapon Skills; you gain a +1k0 bonus to your rolls with those Skills.
-##### Rank Two:
+#### Rank Two:
  
 <em>Sun Tao’s Legacy</em>
 
 All members of the Disciples study the Book of Sun Tao, which binds them together as a group. You gain a bonus of +1k1 to your Battle Skill rolls when rolling to determine who is winning a battle, and a bonus of +1k0 when rolling to determine your status on the Mass Battle Table.
-##### Rank Three:
+#### Rank Three:
  
 <em>Aikumo’s Perfection</em>
 
@@ -114,23 +114,23 @@ The second leader of the Disciples perfected their teachings and his Technique i
 
 The assassins of the Lotus Sect are among the deadliest killers in the Empire, swift and merciless. Much of their training is dedicated to infi ltration and deceit, allowing them to disguise themselves and replace others, but they are also taught all possible methods of murder. Few of those marked for death by the Kolat are able to escape the reach of Lotus assassins.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Agility 4, Reflexes 4
 - <strong>Skills:</strong> Acting 5, Knives 5, Stealth 5
 - <strong>Other Requirements:</strong> Must be a member of the Kolat and recruited into the Lotus Sect. Cannot be Tainted or corrupted by the Nothing.
 
-###### <strong>Techniques</strong>
-##### Rank One:
+## <strong>Techniques</strong>
+#### Rank One:
  
 <em>Kiss of the Lotus</em>
 
 The Kolat assassins are taught to slip through Rokugani society all but unnoticed. You are a master of deception and infi ltration. When you spend a Void Point on a Stealth or Acting Skill roll, you gain a +2k2 bonus instead of the normal +1k1.
-##### Rank Two:
+#### Rank Two:
  
 <em>Tiger's Claw</em>
 
 When striking on the first Round of a skirmish against an unaware opponent, or an opponent who does not realize you are a threat, you gain a +1k0 bonus to your attack rolls and may make melee attacks as Simple Action.
-##### Rank Three:
+#### Rank Three:
  
 <em>Steal the Light</em>
 
@@ -139,23 +139,23 @@ During a skirmish, once per opponent you may call 2 Raises to make a melee attac
 
 Sponsored by the Imperial house, the Legion of Two Thousand – recruited from some of the best soldiers in Toturi’s ronin army – enjoys resources and support which most ronin can only dream about. As a result, it has been able to develop extensive martial techniques, an extremely rare accomplishment for wave-men.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Fire 3, Water 3
 - <strong>Skills:</strong> Battle 3, Defense 4, Kenjutsu 3
 - <strong>Other:</strong> Must have Honor 5.0 or better and be recruited into the Legion of Two Thousand ronin band.
 
-###### <strong>Techniques</strong>
-##### Rank One:
+## <strong>Techniques</strong>
+#### Rank One:
  
 <em>Stand as Two Thousand</em>
 
 The Legion earned fame in its early years for protecting remote corners of the Empire and for helping defend the Kaiu Wall. You gain a +1k0 bonus to your Defense Skill rolls. When you are fighting in defense of the innocent or of the common people, this bonus is +1k1 instead.
-##### Rank Two:
+#### Rank Two:
  
 <em>Kuronada’s Honor</em>
 
 The son of the tyrant Karatsu embraced honorable ways despite his father’s legacy and became one of the most famous commanders in the Legion. So long as you have an Honor of 5.0 or better, you gain a bonus of +2k1 whenever you spend a Void Point on a roll with a School Skill, rather than the normal +1k1. This ability cannot be used in the Center Stance.
-##### Rank Three:
+#### Rank Three:
  
 <em>Tamago’s Expertise</em>
 

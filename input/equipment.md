@@ -2,40 +2,40 @@ Title: Equipment
 ---
 ## <span>Armor</span> {#toc0}
 
-###### Bogu
+### Bogu
 - Bonus to Armor TN: +0
 - Damage reduction: 1
 - Price: 1 koku
 
-###### Ashigaru armor
+### Ashigaru armor
 - Bonus to Armor TN: 3
 - Damage reduction: 1
 - Cost: 5 koku
 
-###### Tatami armor
+### Tatami armor
 - Bonus to Armor TN: 4
 - Damage reduction: 1
 - Price: 10 koku
 
-###### Light armor
+### Light armor
 - Bonus to Armor TN: 5
 - Damage reduction: 3
 - Special rules: Wearing light armor increases the TN of all Athletic and Stealth rolls by 5.
 - Cost: 25 koku
 
-###### Heavy armor
+### Heavy armor
 - Bonus to Armor TN: 10
 - Damage reduction: 5
 - Special rules: Wearing heavy armor increases the TN of all skill rolls using Agility and Reflexes by 5.
 - Cost: 40 koku
 
-###### Tetsu-do
+### Tetsu-do
 - Bonus to Armor TN: +13
 - Damage reduction: 8
 - Special Rules: Iron armor is considered heavy armor for the purposes of mechanical effects that specify armor type, including Techniques, Advantages, etc. Wearing iron armor increases the TN of all Skill Rolls using Agility or Reflexes by +10; if the wearer has a Strength of 5 or higher, the penalty is only +5 instead.
 - Price: 100 koku
 
-###### Riding armor
+### Riding armor
 - Bonus to Armor TN: 12 on horseback, 4 otherwise.
 - Damage reduction: 4
 - Special rules: Wearing riding armor increases the TN of all skill rolls using Agility and Reflexes by 5, except on horseback.
@@ -45,47 +45,47 @@ Title: Equipment
 
 ### <span>Arrows</span> {#toc2}
 
-###### Armor-piercing
+### Armor-piercing
 - Damage rating: 1k1
 - Special rules: Ignores Bonus to Armor TN from armor.
 - Cost: 2 bu.
 
-###### Flesh cutter
+### Flesh cutter
 - Damage rating: 2k3
 - Special rules: Doubles Bonus to Armor TN from armor; half range.
 - Cost: 5 bu.
 
-###### Humming bulb
+### Humming bulb
 - Damage rating: 0k1
 - Cost: 5 bu.
 - Special rules: Makes a whistle sound.
 
-###### Rope-cutter
+### Rope-cutter
 - Damage rating: 1k1
 - Special rules: Grants two Raises on call shots towards inanimate objects; half range.
 - Cost: 3 bu.
 
-###### Willow leaf
+### Willow leaf
 - Damage rating: 2k2
 - Cost: 1 bu.
 
 ### <span>Bows</span> {#toc3}
 
-###### Dai-kyu
+### Dai-kyu
 - Keywords : Small
 - Strength: 4 (minimum strength of 3 to wield)
 - Range: 500'
 - Special rules: Increases TN of all attack rolls by 10 on foot.
 - Cost: 25 koku.
 
-###### Han-kyu
+### Han-kyu
 - Keywords : Small
 - Strength: 1 (minimum strength of 3 to wield)
 - Range: 100'
 - Special rules: Increases TN of all attack rolls by 10 on horseback.
 - Cost: 6 koku.
 
-###### Yumi
+### Yumi
 - Keywords : Large
 - Strength: 3
 - Range: 250'
@@ -94,77 +94,77 @@ Title: Equipment
 
 ### <span>Chain weapons</span> {#toc4}
 
-###### Kusarigama
+### Kusarigama
 - Keywords : Large
 - Damage rating: 0k2 (kama end), 0k1 (weighted end)
 - Cost: 5 koku.
 
-###### Kyoketsu-shogi
+### Kyoketsu-shogi
 - Keywords : Large
 - Damage rating: 0k1
 - Special rules: Doubles Bonus to Armor TN from armor.
 - Cost: 9 bu.
 
-###### Manrikikusari
+### Manrikikusari
 - Keywords : Large
 - Damage rating: 1k1
 - Cost: 3 koku.
 
 ### <span>Heavy Weapons</span> {#toc5}
 
-###### Dai-tsuchi
+### Dai-tsuchi
 - Keywords : Large
 - Damage rating: 5k2
 - Cost: 15 koku.
 
-###### Masakiri
+### Masakiri
 - Keywords : Medium
 - Damage rating: 2k3
 - Cost: 8 koku.
 
-###### Ono
+### Ono
 - Keywords : Large
 - Damage rating: 0k4
 - Cost: 20 koku.
 
-###### Tetsubo
+### Tetsubo
 - Keywords : Large
 - Damage rating: 3k3
 - Cost: 20 koku.
 
 ### <span>Knives</span> {#toc6}
 
-###### Aiguchi &amp; Tanto
+### Aiguchi &amp; Tanto
 - Keywords : Small
 - Damage rating: 1k1
 - Cost: 1 koku.
 
-###### Jitte &amp; Sai
+### Jitte &amp; Sai
 - Keywords : Small
 - Damage rating: 1k1
 - Cost: 5 bu.
 
-###### Kama
+### Kama
 - Keywords : Small
 - Damage rating: 0k2
 - Cost: 5 bu.
 
 ### <span>Ninja weapons</span> {#toc7}
 
-###### Blowgun
+### Blowgun
 - Keywords : Medium, Ninja
 - Damage rating: 1
 - Range: 50'
 - Special rules: Triples Bonus to Armor TN from armor. Damages increase to 1k1 then 2k1 at Ninjutsu 3/7.
 - Cost: 8 zeni.
 
-###### Shuriken
+### Shuriken
 - Keywords : Small, Ninja
 - Damage rating: 1k1
 - Special rules: Can be thrown up to 25' as a ranged weapon.
 - Cost: 2 bu.
 
-###### Tsubute
+### Tsubute
 - Keywords : Small, Ninja
 - Damage rating: 1k1
 - Special rules: Can be thrown up to 30' as a ranged weapon.
@@ -172,28 +172,28 @@ Title: Equipment
 
 ### <span>Polearms</span> {#toc8}
 
-###### Bisento
+### Bisento
 - Keywords : Large
 - Damage rating: 3k3
 - Cost: 12 koku
 
-###### Nagamaki
+### Nagamaki
 - Keywords : Large
 - Damage rating: 2k3
 - Cost: 8 koku
 
-###### Naginata
+### Naginata
 - Keywords : Large, Samurai
 - Damage rating: 3k2
 - Cost: 10 koku
 
-###### Sasumata
+### Sasumata
 - Keywords : Large
 - Damage rating: 0k2
 - Special rules: Can be used to initiate a grapple.
 - Cost: 6 koku
 
-###### Sadegarami
+### Sadegarami
 - Keywords : Large
 - Damage rating: 1k1
 - Special rules: Can be used to initiate a grapple.
@@ -201,31 +201,31 @@ Title: Equipment
 
 ### <span>Spears</span> {#toc9}
 
-###### Kumade
+### Kumade
 - Keywords : Large, Peasant
 - Damage rating: 1k1
 - Special rules: Breaks if inflicts 25 or more damage.
 - Cost: 3 bu
 
-###### Mai chong
+### Mai chong
 - Keywords : Large
 - Damage rating: 0k3
 - Special rules: Can be thrown up to 25' as a ranged weapon.
 - Cost: 20 koku
 
-###### Lance
+### Lance
 - Keywords : Large
 - Damage rating: 3k4
 - Special rules: Damage reduced to 1k2 when not charging on horseback. Using without charging imposes a penality of 5 on horseback and 10 on foot. Breaks if inflicts 30 or more damage.
 - Cost: 20 koku
 
-###### Nage-yari
+### Nage-yari
 - Keywords : Large
 - Damage rating: 1k2
 - Special rules: Can be thrown up to 50' as a ranged weapon.
 - Cost: 3 koku
 
-###### Yari
+### Yari
 - Keywords : Large
 - Damage rating: 2k2
 - Special rules: Can be thrown up to 50' as a ranged weapon. Damage rating when thrown is 1k2.
@@ -233,77 +233,77 @@ Title: Equipment
 
 ### <span>Staves</span> {#toc10}
 
-###### Bo
+### Bo
 - Keywords : Large
 - Damage rating: 1k2
 - Cost: 2 bu
 
-###### Jo
+### Jo
 - Keywords : Medium
 - Damage rating: 0k2
 - Cost: 1 bu
 
-###### Machi-kanshisha
+### Machi-kanshisha
 - Keywords : Medium
 - Damage rating: 0k2
 - Cost: 20 koku
 
-###### Nunchaku
+### Nunchaku
 - Keywords : Small, Peasant
 - Damage rating: 1k2
 - Cost: 3 bu
 
-###### Sang kauw
+### Sang kauw
 - Keywords : Medium
 - Damage rating: 1k2 (crescent blade), 2k1 (shield sang kaw)
 - Cost: 10 koku
 
-###### Tonfa
+### Tonfa
 - Keywords : Medium, Peasant
 - Damage rating: 0k3
 - Cost: 5 bu
 
 ### <span>Swords</span> {#toc11}
 
-###### Bokken
+### Bokken
 - Keyword: Samurai
 - Damage rating: 0k2
 - Special: Reduction from armor is doubled against a bokken.
 
-###### Katana
+### Katana
 - Keywords : Medium, Samurai
 - Damage rating: 3k2
 - Special rules: Can spend a void point to increase damage by 1k1.
 - Cost: cannot be bought. (Effective value : 25 koku)
 
-###### Ninja-to
+### Ninja-to
 - Keywords : Medium, Ninja
 - Damage rating: 3k2
 - Special rules: Counts as small for concealment. Breaks if inflicts 40 or more damage.
 - Cost: cannot be bought.
 
-###### No-dachi
+### No-dachi
 - Keywords : Large
 - Damage rating: 3k3
 - Cost: 30 koku
 
-###### Parangu
+### Parangu
 - Keywords : Medium, Peasant
 - Damage rating: 2k2
 - Special rules: Breaks if inflicts 30 or more damage.
 - Cost: 10 bu.
 
-###### Scimitar
+### Scimitar
 - Keywords : Medium
 - Damage rating: 2k3
 - Cost: 20 koku
 
-###### Shinai
+### Shinai
 - Keyword: Samurai
 - Damage rating: 0k1
 - Special: A shinai’s damage dice cannot explode.
 
-###### Wakizashi
+### Wakizashi
 - Keywords : Medium, Samurai
 - Damage rating: 2k2
 - Special rules: Can be thrown up to 20' as a ranged weapon.
@@ -311,7 +311,7 @@ Title: Equipment
 
 ### <span>War fans</span> {#toc12}
 
-###### War fan
+### War fan
 - Keywords : Small
 - Damage rating: 0k1
 - Cost: 5 koku.
@@ -347,51 +347,51 @@ GMs who wish to incorporate firearms into a non-Iron Rokugan setting can do so v
 
 ### <span>Teppoudo (Intelligence)</span> {#toc16}
 
-##### Sub-type:
+#### Sub-type:
  Weapon Skill
 
 
-###### Emphases:
+#### Emphases:
  Fire-Lance, Hand-Cannon, Bajozutsu, Teppo
 
 
-###### Description:
+#### Description:
  Teppoudo is the skill of maintaining and firing a Rokugani (non-gaijin) firearm. Taught alongside the traditional arts of Kenjutsu and Kyujutsu, the art of Teppoudo places a great emphasis on mindfulness, calm deliberate intentions, and careful breathing. It is just as much a practice of zenlike focus as it is a test of rote and memory. The samurai does not merely pull the trigger- he pushes the bullet.
 
 
-###### Mastery Abilities:
+#### Mastery Abilities:
 - Rank 3 - Gain +1k0 to all damage rolls when firing a Rokugani firearm
 - Rank 5 - Loading a Rokugani firearm requires one less Complex Action
 - Rank 7 - Gain +0k1 to all damage rolls when firing a Rokugani firearm
 
-###### Kakiyari (Fire Lance)
+### Kakiyari (Fire Lance)
 - Keywords: Large, Firearm
 - Range: 50 feet
 - DR: 3k2
 - Price: 8 Koku
 - Special: The Fire Lance can be wielded in melee as a Yari. If so, its DR is 1k1 and it cannot be thrown accurately. A normal Fire Lance such as this can only be fired once.
 
-###### Bo-Hiya (Fire Arrows)
+### Bo-Hiya (Fire Arrows)
 - Range: 100 feet (regardless of bow used)
 - DR: 3k3
 - Price: 1 Koku
 - Special: Fire Arrows explode when they land. Their damage ignores all forms of Reduction.
 
-###### Hand-Cannon
+### Hand-Cannon
 - Keywords: Large, Firearm, Heavy Weapon
 - Range: 20 feet
 - DR: 4k3
 - Price: 25 Koku
 - Special: The Hand-Cannon ignores Reduction from natural toughness. It can only be fired once. The Hand-Cannon can be wielded in melee as a Tetsubo.
 
-###### Bajozutsu
+### Bajozutsu
 - Keywords: Small, Samurai, Firearm
 - Range: 20 feet
 - DR: 3k2
 - Price: Due to the sacred nature of the Bajozutsu and the complexity of the weapon’s manufacture, they are not normally available for sale.
 - Special: The Bajozutsu can be drawn from its sheath with the Iaijutsu skill.
 
-###### Teppo
+### Teppo
 - Keywords: Large, Samurai, Firearm
 - Range: 150 feet
 - DR: 3k3

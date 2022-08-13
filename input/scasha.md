@@ -11,20 +11,20 @@ Created shortly after the Day of Wrath, the Blood-Sworn are dedicated to protect
 - <strong>Skills:</strong> Athletics, Battle (Skirmish), Defense, Swordmanship (Scimitar), Polearm (Khadja), Theology, any one Weapon skill.
 - <strong>Outfit:</strong> Scimitar, khadja, bow and 20 arrows, any two weapons, light armor, robe, boots, traveling pack, 5 copper.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Blessed by the Crystal
+## <strong>Techniques</strong>
+#### Rank 1: Blessed by the Crystal
 
 You may pass impressions and emotions to others who possess this technique within 500’ without speech. You may also sense the position of such others within 500’ if they wish to be sensed. You add your Class Rank to the total of all Rolls to resist Fear, the Intimidation Skill, the Temptation Skill and all other effects or Skill Rolls intended to prevent you from defending your people.
-##### Rank 2: Your Blood is My Blood
+#### Rank 2: Your Blood is My Blood
 
 A number of times per round equal to your Class Rank, you may absorb an amount of damage up to your Stamina + Insight Rank taken by an ally within 50’, transferring those wounds to yourself.
-##### Rank 3: Fortification in Form
+#### Rank 3: Fortification in Form
 
 You gain a special form of Reduction equal to your Earth Ring. This Reduction stacks with the Reduction gained from armor or spells, but also applies (without stacking with other sources of Reduction) to wounds taken from non-physical sources, such as magic or the Rank 2 Technique of this Class.
-##### Rank 4: To Fight for the Future
+#### Rank 4: To Fight for the Future
 
 Making an attack is a Simple Action for you.
-##### Rank 5: One is Never Truly Alone
+#### Rank 5: One is Never Truly Alone
 
 If you are surrounded on three or more sides by enemies, or if you are fighting with no allies within 300’ of you, your Strength increases by 5 and you also gain an additional Wound Rank at the Nicked Wound Penalty level. These benefits disappear during the Reactions Stage of the round after which these conditions no longer apply. Any wounds suffered remain however, which may result in greater wound penalties or even death.
 ### <span>Children of Midnight (Sahir)</span> {#toc2}
@@ -46,20 +46,20 @@ Heart-Seekers have dedicated their lives to fighting the khadi and those swayed 
 - <strong>Skills:</strong> Battle (Khadi), Defense, Investigation, Lore: Khadi 1, Spellcraft, Stealth, any one weapon Skill
 - <strong>Outfit:</strong> Scimitar, khadja, bow and 100 arrow (any type), light armor, robe, boots, traveling pack, 3 copper.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Truth is My Ally
+## <strong>Techniques</strong>
+#### Rank 1: Truth is My Ally
 
 You gain a +2k0 bonus to all rolls involving finding something hidden or concealed, and against effects (mundane or magical) which would alter or mislead your perceptions.
-##### Rank 2: Diligence is the Best Teacher
+#### Rank 2: Diligence is the Best Teacher
 
 You gain a Free Raise to all Perception or Awareness based rolls.
-##### Rank 3: One Mind, One Action
+#### Rank 3: One Mind, One Action
 
 You gain a bonus equal to 2 x your Rank in this Class to your Armor TN. When targeted by a spell, you may make an Intelligence / Spellcraft Roll vs. a TN equal to the Spellcasting Roll to avoid the spells’ effects. If sufficient cover is available, you may instead make the roll using Agility / Stealth (Sneaking) to hide from the effect.
-##### Rank 4: Bane of the Heartless
+#### Rank 4: Bane of the Heartless
 
 Making an attack with an Ashalan Weapon is a Simple Action for you. You may make a special attack requiring 3 Raises; in addition to the normal damage from this attack, your opponent must succeed at a Void Roll vs. a TN of 5 x your Insight Rank or suffer a +30&#160;TN penalty to all Skill or Spellcasting Rolls and have their Water Ring reduced by your Rank in this Class (to a minimum of 1) for a number of rounds equal to your Rank in this Class.
-##### Rank 5: My Will is My Fortress
+#### Rank 5: My Will is My Fortress
 
 All Spells, Skills or other effect (such as Fear) that would affect your mind have their TN increased by 5 x your Insight Rank, or you gain a bonus of the same size to resist the effect as the GM determines is appropriate. If you ever find a Khadi’s heart, you are utterly unaffected by that Khadi’s magic while you hold it.
 ### <span>Sun-Riders (Diplomat)</span> {#toc4}
@@ -71,20 +71,20 @@ The Sun-Riders are the explorers and wanderers of the Ashalan, as well as the be
 - <strong>Skills:</strong> Athletics, Defense, Horsemanship, Hunting (Survival), Stealth (Sneaking), Swordmanship (Scimitar), Craft: Traps
 - <strong>Outfit:</strong> Scimitar, riding horse or camel, bow and 20 arrow (any type), tent, robe, boots, traveling pack, 8 copper.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Show the Lady no Fear
+## <strong>Techniques</strong>
+#### Rank 1: Show the Lady no Fear
 
 Your TN penalty for being in bright sunlight is reduced by your Sun-Rider School Rank, but you also lose your Shadow Cloak ability.
-##### Rank 2: The Sun has No Mercy
+#### Rank 2: The Sun has No Mercy
 
 You gain the ability to spend Void Points, but only on Sun-Rider related abilities. You may spend a Void Point to force all opponents within 15' to spend an additional Void Point to use any Technique, Spell, Kio or Kata. Additionally, you gain +1k0 to your attack and Iaijutsu rolls.
-##### Rank 3: Dawn does not Come Twice
+#### Rank 3: Dawn does not Come Twice
 
 You add your Athletics to your Armor TN. You may spend a Void Point to add +2k0 to your attack and damage rolls against a single target with lower Initiative for one round.
-##### Rank 4: The Ever-Shifting Sands
+#### Rank 4: The Ever-Shifting Sands
 
 You gain +1k0 to all Athletics and Stealth skill rolls. You may make melee attacks as a Simple Action.
-##### Rank 5: Sirocco of Steel
+#### Rank 5: Sirocco of Steel
 
 When attacking an opponent, you may make an Agility/Athletics SKill Roll against your opponent's Armor TN. If you succeed, you may make the Extra Attack manoeuver for only two Raises.
 ## <span>Alternate Paths</span> {#toc5}

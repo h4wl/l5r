@@ -11,20 +11,20 @@ The most enduring institution of the Jewel, the City Guard has served the Caliph
 - <strong>Skills:</strong> Athletics, Defense, Lore: Law, Investigation, Spears, Swordmanship, any one Skill.
 - <strong>Outfit:</strong> Longsword, shortsword, composite bow, 20 arrows, light armor, clothes, traveling pack, boots, 3 copper.
 
-###### <span style="text-decoration: underline;">Techniques</span>
-##### Rank 1: Trained For War
+### <span style="text-decoration: underline;">Techniques</span>
+#### Rank 1: Trained For War
 
 Add your Class Rank to rolls that attempt to sway your mind from your duties (this includes Fear Rolls and many Contested Social Rolls such as Intimidation or Temptation). Subtract your Class Rank from your Wound penalties. When attacking using a Class Skill, if you spend a Void Point to enhance the roll, you gain a +2k1 bonus instead of the usual +1k1 bonus.
-##### Rank 2: Strike With Fury
+#### Rank 2: Strike With Fury
 
 You receive a +1k0 bonus to Initiative Rolls. You receive a +1k0 bonus to Attack Rolls while in the Full Attack Stance.
-##### Rank 3: Implacable Foe
+#### Rank 3: Implacable Foe
 
 Choose any one weapon skill you possess: you receive a free Emphasis of your choice in that skill. When attacking with a melee weapon for which you possess the relevant emphasis you may make attacks as a Simple Action.
-##### Rank 4: Instrument of the Caliph
+#### Rank 4: Instrument of the Caliph
 
 Add twice your Class Rank to rolls that attempt to sway your mind from your duties (this includes Fear Rolls and many Contested Social Rolls such as Intimidation or Temptation). When spending Void to reduce damage any remaining wounds incurred from that strike are not applied until the Reactions Stage of the current round.
-##### Rank 5: The Sublime Warrior
+#### Rank 5: The Sublime Warrior
 
 You may spend a Void Point to negate all TN penalties for one round, including Wound penalties. When spending a Void Point to increase your Armor TN or to add to your Initiative score (see the book of Earth) the benefit is increased by 5.
 ### <span>Free Sahir (Sahir)</span> {#toc2}
@@ -72,15 +72,15 @@ Though in theory the transformation from mortal to Khadi can be performed on any
 
 Whenever you gain a level in this class, your previous School Rank increases by one for the purposes of casting Sahir spells; if you did not have attended a Sahir School, you instead gain spells as if you were a Qabal summoner with a School level to your School Rank.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Earth 5, Intelligence 5
 - <strong>Skills:</strong> Lore: Theology (Senpet) 5, Spellcraft (Black magic) 4
 - <strong>Special:</strong> Must endure the Ceremony of the Hidden Heart.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Heartless Moon
+## <strong>Techniques</strong>
+#### Rank 1: Heartless Moon
 
 You gain the Khadi Advantage. You receive a Free Raise for bargaining with Djinn. You gain the Interrogation Emphasis for Investigation; if you already had these, you are refunded their experience cost. You add +1k0 to your Investigation Skill Rolls.
-##### Rank 3: Judge of the Jewel
+#### Rank 3: Judge of the Jewel
 
 You gain a level of the Magic Resistance Advantage, even if this would take you above the normal limit.

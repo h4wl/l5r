@@ -13,22 +13,22 @@ Although their primary role is as the court representatives of the Dragon, the K
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Traditional Clothing, Wakizashi, Knife, Calligraphy Set, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Kitsuki's Method
+## <strong>Techniques</strong>
+#### Rank 1: Kitsuki's Method
 
 The Kitsuki are masters of investigation and perception, noticing the most minute and telling details with merely a glance. You gain a Free Raise on all your Investigation Skill Rolls. However, while the Kitsuki are trained for investigation and diplomacy, unlike other courtiers they do not wholly neglect the ways of the warrior. In a skirmish, you add your Perception Trait Rank to your Armor TN.
-##### Rank 2: Wisdom the Wind Brings
+#### Rank 2: Wisdom the Wind Brings
 
 The Kitsuki skill at noticing small details makes it very difficult to deceive them. Anyone making a Social Skill Roll for the purpose of lying to you or otherwise deceiving you, or making a Feint or Disarm Maneuver against you in a skirmish, must add +5 to their TN for each of your Kitsuki Investigator School Ranks.
-##### Rank 3: Know the Rhythm of the Heart
+#### Rank 3: Know the Rhythm of the Heart
 
 The Kitsuki study a secret methodology known as Ichi Miru, or &quot;first look,&quot; which allows them to size up another person in almost a single glance. After speaking with someone for a few moments, you can roll Investigation (Notice) / Perception against a TN of their Intelligence x 5. A success grants you a true and accurate, if simple, picture of their personality and motivations. For example, you might perceive that a boisterous ronin is actually a calculating man who is trying to put on the picture of being a rude, simple fellow.
-##### Rank 4: Finding the Path
+#### Rank 4: Finding the Path
 
 The Kitsuki has learned the art of uncovering and tracking others' social connections and networks of alliances. By conversing with someone for a few minutes, you can make a Contested Roll of your Investigation (Interrogation) / Intelligence against their Etiquette (Courtesy) / Intelligence to identify one of their allies or enemies. Each successful Raise you make on this roll will identify another of their allies or enemies (you choose whether you learn an ally or an enemy - the GM chooses which specific person is revealed).
 
 This technique can be used against each specific person once per day.
-##### Rank 5: The Eyes Betray the Heart
+#### Rank 5: The Eyes Betray the Heart
 
 Kitsuki's method allows its master practitioners to see through even the most practiced falsehoods and tricks. At this rank, any knowing attempt to lie to you (as opposed to unwittingly passing on false information) will almost certainly fail. You automatically make a Contested Roll of your Investigation (Interrogation) / Perception against the liar's Sincerity (Deceit) / Willpower, whether or not you suspect them of lying. Further, if you already known someone is lying to you, you gain a bonus of +5k0 on this Contested Roll, and my call Raises on the roll in an attempt to make them inadvertently give away more information than they intended (GM's choice what information they reveal).
 ### <span>Mirumoto Bushi [CR]</span> {#toc2}
@@ -42,20 +42,20 @@ The Mirumoto Bushi School focuses on the mechanical benefits of wielding two wea
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Way of the Dragon
+## <strong>Techniques</strong>
+#### Rank 1: Way of the Dragon
 
 Initiates of the Mirumoto Bushi School must master the basic principles of Niten, the two-sword technique founded by Mirumoto himself. When wielding a katana in your main hand and a wakizashi in your off hand, you suffer no penalties of any kind for dual wielding, and you gain a bonus of your School Rank to your Armor TN (This is cumulative with the normal bonus for wielding two weapons). Additionally, when you are targeted with a spell, you may raise or lower the TN of that spell's Spellcasting Roll by 5.
-##### Rank 2: The Calm in Midst of Thunder
+#### Rank 2: The Calm in Midst of Thunder
 
 In addition to their focus on the art of kenjutsu, the Mirumoto study the art of the duel as well in order to properly face their traditional opponents among the Kakita. While you assume the Center Stance, you gain a bonus to the total of your Iaijutsu rolls equal to your Kenjutsu Skill Rank.
-##### Rank 3: Strong and Swift
+#### Rank 3: Strong and Swift
 
 As the exploration of Niten continues, the student learns to overwhelm opponents with a flurry of blows while maintaining a superior defense. Attacking is a Simple Action for you while you use weapons with the Samurai keyword.
-##### Rank 4: Furious Retaliation
+#### Rank 4: Furious Retaliation
 
 Once an opponent presents himself as a threat, the Mirumoto will stop at nothing to defeat him to defend the honor of the family's teachings. During the Reactions Stage of Combat, you may choose one opponent who made or attempted an attack against you this Round. During your next Turn, you gain a bonus of +3k0 to all attack rolls against that target.
-##### Rank 5: Heart of the Dragon
+#### Rank 5: Heart of the Dragon
 
 Masters of the Mirumoto Bushi School seem to strike from everywhere at once. If you attack twice in the same Turn while you are wielding a katana in your main hand and a wakizashi in your off hand, you may make one additional attack with your off hand as a Free Action.
 ### <span>Mirumoto Taoist Swordsman [Bushi] [EE]</span> {#toc3}
@@ -68,20 +68,20 @@ Although the Mirumoto family are best known for following the twin-sword fightin
 - <strong>Outfit:</strong> Sturdy Clothing, Katana, Wakizashi, Tanto, Traveling Pack, 1 Koku
 - <strong>Special:</strong> All members of this school are considered to be Ascetic, but do not gain Experience Points for it. It does not count against their 10-point limit of Disadvantages.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Aligned With the Elements
+## <strong>Techniques</strong>
+#### Rank 1: Aligned With the Elements
 
 Students of the Taoist Swordsman school spend their days in the rugged mountains of the Dragon lands, enduring the harsh elements with little clothing and no armor, learning the ways of the sword in complete selflessness. When wielding a sword and wearing no armor, you gain Reduction equal to your School Rank +2. Additionally, you add +1k0 to your damage with any sword.
-##### Rank 2: Fist and Blade
+#### Rank 2: Fist and Blade
 
 The Taoist Swordsmen train alongside the Togashi tattooed men, studying their unconventional methods of combat and learning to apply those methods to swordsmanship. When fighting with a sword, you may perform the Knockdown maneuver for 1 less Raise, and if you control a Grapple while holding a sword you may inflict damage with the sword instead of unarmed damage.
-##### Rank 3: Strike of Harmony
+#### Rank 3: Strike of Harmony
 
 The Taoist swordsman is now so skilled with his sword that it functions like an extension of his body. While wielding a sword, you may spend a Void Point on your damage roll. If the sword is a katana, this ability stacks with the natural ability to spend a Void Point on damage with a katana.
-##### Rank 4: Master of Steel
+#### Rank 4: Master of Steel
 
 The Taoist swordsman is now completely at one with his weapon, striking with the speed of thought itself. You may attack as a Simple Action while wielding a sword.
-##### Rank 5: Balance of Nothingness
+#### Rank 5: Balance of Nothingness
 
 The final lesson of the Taoist Swordsman teaches the school's student to pour their entire soul into a single deadly strike. While wielding a sword, once per skirmish you may spend as many Void Points on damage as you wish.
 ### <span>Tamori Shugenja [CR]</span> {#toc4}
@@ -108,24 +108,24 @@ Togashi monks specialize in unarmed combat and supernatural feats of athleticism
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Robes, Bo, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: Blood of the Kami
+## <strong>Techniques</strong>
+#### Rank 1: Blood of the Kami
 
 The blood of the Kami is barely diluted in the ruling line of the Togashi order, and the brothers chosen to serve the Dragon as Togashi vassals receive the mystical blood of a god in the form of unique tattoos. You gain two 
 <a href="/tattoos">Tattoos</a>
  at this rank.
-##### Rank 2: Body of Stone
+#### Rank 2: Body of Stone
 
 Master of the body is the first essential step of a monk's journey toward enlightenment, and martial arts are the perfect tool to bring the body and spirit into harmony. You gain a bonus of +1k1 to the total of all unarmed attack and damage rolls.
-##### Rank 3: Blessing of the Kami
+#### Rank 3: Blessing of the Kami
 
 As an ise zumi continues his journey of self-discovery, accumulating new experiences along the way, he will eventually be judged worth of additional insight in the form of new tattoos. You gain two additional 
 <a href="/tattoos">Tattoos</a>
 .
-##### Rank 4: Will of Stone
+#### Rank 4: Will of Stone
 
 Perfect mastery of the flesh is an indication that a soul's journey is nearing its end. You may make unarmed attacks as a Simple Action rather than a Complex Action.
-##### Rank 5: Touch of the Kami
+#### Rank 5: Touch of the Kami
 
 Insight into the true nature of the universe is the reward for a soul that seeks true mastery of the spirit. You gain two additional 
 <a href="/tattoos">Tattoos</a>
@@ -149,38 +149,38 @@ Where the monks of the Hoshi family embrace the tsurui path of mystical power an
 
 It should be noted that while the kikage zumi order dominates the Hitomi family, it is not exclusive to it. Violent and martial tattooed men appear from time to time for centuries before the reign of Lady Hitomi. Thus, much as with the tsurui zumi, the kikage zumi school may potentially be used in almost any era of play if the GM permits it.
 
-##### Benefit:
+#### Benefit:
  +1 Reflexes
 
 
-###### Skills:
+#### Skills:
  Athletics, Defense, Jiujutsu, Lore (choose one), Meditation, any 2 Non-Low Skills
 
 
-###### Honor:
+#### Honor:
  4.5
 
 
-###### Outfit:
+#### Outfit:
  Sturdy Clothing, Traveling Pack, 4 koku
-###### <strong>Techniques</strong>
-##### Rank 1: The Gift of the Lady
+## <strong>Techniques</strong>
+#### Rank 1: The Gift of the Lady
 
 The tattooed men all receive the mystical blood of a good in their unique tattoos, but the warriors of the kikage zumi often manifest their tattoos spontaneously through the gifts of their divine patron. They spend less time in the house of the tattoo masters and more time in their dojo practicing the martial arts. The art of Kaze-do teaches the Kikage Zumi to move as swiftly and unpredicatably as the wind, confounding their opponents. You gain 1 
 <a href="/tattoos">tattoo</a>
  at this rank. You may add your Reflexes to your Armor TN, and when rolling to control a Grapple you may choose to use your Reflexes instead of your Strength.
-##### Rank 2: Strike the Base
+#### Rank 2: Strike the Base
 
 As the Kaze-do student grows more proficient, he is able to focus the power of his mind, soul, and body into punishing strikes of the hands and feet. You may spend a Void Point on damage rolls for unarmed attacks, including damage inflicted in a Grapple.
-##### Rank 3: Moving the Wind
+#### Rank 3: Moving the Wind
 
 The Kikage Zumi now strikes with the swiftness of Air itself, the true path of Kaze-do. You may attack as a Simple Action when making unarmed attacks. You gain one additional 
 <a href="/tattoos">tattoo</a>
 .
-##### Rank 4: Strike the Center
+#### Rank 4: Strike the Center
 
 The Kikage Zumi learn to strike with speed and terrible force, while also using the swiftness of the wind to hurl their opponents to the ground. When fighting unarmed, you may perform the Knockdown maneuver for 1 less Raise, and gain a bonus of +1k1 to the total of all unarmed damage rolls (including damage inflicted with a Grapple).
-##### Rank 5: Strike the Summit
+#### Rank 5: Strike the Summit
 
 Final mastery of the ways of Kaze-do allows the tattooed man to deliver strikes and throws that deprive his enemies of Air itself. Any time you perform a Knockdown maneuver, you may call 2 additional Raises; if the Knockdown succeeds, your opponent is automatically Stunned. If you elect to throw an opponent during a Grapple you control, he must roll Earth at TN 20 or he is also Stunned. You gain 1 additional 
 <a href="/tattoos">tattoo</a>
@@ -193,37 +193,37 @@ High atop the mountains of the Dragon lands, in remote dojo and obscure strongho
 
 The Master Sensei are isolated even by Dragon standards, and rare indeed is it for one of them to leave their remote dojo and visit the rest of the Dragon Lands, let alone the Empire as a whole. However, on the few occasions they do emerge to influence the world outside, their impact is always profound.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Air 5, Earth 4, Void 5
 - <strong>Skills:</strong> Kenjutsu 5, Mediation 6
 - <strong>Restrictions:</strong> Must be chosen and taught by other Master Sensei, and cannot be Brash or Proud.
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Sword and the Soul
+## <strong>Techniques</strong>
+#### Rank 1: The Sword and the Soul
 
 The Master Sensei has learned that the sword ban bring moments of perfect harmony, just like art or meditation. When fighting with a sword, any time you reduce an opponent to Down, Out, or Dead, you regain 1 Void Point. This can temporarily increase your total Void Points above your Void Ring, although any such &quot;extra&quot; points disappear at the end of the current skirmish.
-##### Rank 2: The Body is Illusion
+#### Rank 2: The Body is Illusion
 
 The Master Sensei has studied mediation and enlightenment to such an extent that he can transcend the limitations of the flesh. You may take a Simple Action to spend a Void Point to ignore Would Penalties (including Down, but not Out) for the remainder of this skirmish, or for ten minutes when outside of a skirmish.
-##### Rank 3: Sword of the Sensei
+#### Rank 3: Sword of the Sensei
 
 The Master Sensei knows that a true teacher can share his greatest power with his students. Once per day, you may take a Simple Action to roll Meditation / Awareness at a TN of 25 plus 5 for each ally fighting alongside you. If you succeed, your allies gain the benefits of your Rank One technique for the remainder of this skirmish.
 ### <span>Swordmasters [Bushi] [CR]</span> {#toc10}
 
 The two-sword style of Niten was founded within the Dragon Clan's borders and the evolution of that martial art remains the heart of the Dragon Swordmaster school. The Swordmasters attempt to learn every aspect of this fighting style so they may adapt to any situation they can face on the battlefield. While the Crane Clan's Kenshinzen focus on the art of the iaijutsu duel, the Swordmasters focus on the pragmatic use of the swords in the thick of combat.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Fire 4, Void 4
 - <strong>Skills:</strong> Iaijutsu 5, Kenjutsu 5, Lore: Theology 4
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Silence of Two Strikes
+## <strong>Techniques</strong>
+#### Rank 1: The Silence of Two Strikes
 
 The Swordmaster's connection to his blades is nearly supernatural, allowing him to tune out the rest of the world. While wielding a katana in your main hand and a wakizashi in your offhand, you may spend Void Points twice per Turn.
-##### Rank 2: Mirumoto's Strength
+#### Rank 2: Mirumoto's Strength
 
 The Swordmaster feels the calm of the world when he stands before his opponent. In an iaijutsu duel, you always gain a +1k1 bonus to your Focus roll as though you had beaten your opponent with the Assessment roll, regardless of the roll's actual result. (Your opponent can still gain the +1k1 bonus for having a higher Assessment roll, but this does not impact your bonus.)
-##### Rank 3: Harmony and Precision
+#### Rank 3: Harmony and Precision
 
 The Swordmaster fells an opponent with each swing of the blade, striking exactly where he needs to devastate his enemies. While wielding a katana in your main hand and a wakizashi in your off hand, you may ignore your opponents Reduction (if any).
 ### <span>Tamori Master of the Mountain [Shugenja]</span> {#toc11}
@@ -232,20 +232,20 @@ The Great Wall of the North is a treacherous mountain range that kills those who
 
 The Master of the Mountain is a loose organization with few sensei and fewer regulations. The Masters induct shugenja into their ranks when they spot one with the proper potential. The elders tend to choose impetuous and brash shugenja who trust only their own strength, a preference those outside of the school often question (albeit usually under their breaths). They worry the Masters of the Mountains will be influenced by the impatient natures of their young recruits. However, usually the opposite is true, as the wild students are taught proper methods of venting their anger through their powers, making them wiser as well as more powerful.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> One chosen Ring at 4, two other Rings at 3
 - <strong>Skills:</strong> Spellcraft 5
 
-###### <strong>Techniques</strong>
-##### Rank 1: Integration of the Gods
+## <strong>Techniques</strong>
+#### Rank 1: Integration of the Gods
 
 The Master of the Mountain knows flexibility is the only way to survive in the harsh wilderness of the mountains. When casting a spell, you may choose to spend 2 spell slots of another Ring rather than a single spell slot of the appropriate Ring. (This cannot be the Ring of the opposing Element from the spell's Element, e.g. Air/Earth, Fire/Water.) For example, this means that you may spend 2 Earth spell slots to cast a Fire spell instead of a single Fire spell slot.
-##### Rank 2: Inner Fortitude
+#### Rank 2: Inner Fortitude
 
 The Master of the Mountain draws power from within his own body as well as teh Elements outside. Your Shugenja School Rank increases by one. Additionally, you may spend a spell slot as a Free Action to gain Reduction 2 and +10 to your Armor TN. This effect lasts for a number of Rounds equal to your Earth Ring, ending during the Reactions Stage of the final Round. You may choose to end the effect early as a Free Action. For the purposes of casting spells, your School Rank is increased by 1.
 While this effect is active, you find it more difficult to tap into the Elements around you. You must call one Raise to no effect every time you cast a spell.
 
-##### Rank 3: Power in Need
+#### Rank 3: Power in Need
 
 The Master of the Mountain can coax power out of the most contrary kami by confronting them with his own strength and willpower. As a Simple Action you may spend a Void Point and a spell slot from any Ring. Choose a spell keyword. You gain a bonus of +4k1 to the total of all Spell Casting Rolls while casting spells with that keyword. This effect lasts until the end of the encounter (in combat) or for an hour (outside of combat).
 ## <span>Alternate Paths</span> {#toc12}

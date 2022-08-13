@@ -87,7 +87,7 @@ The Tiger are descended from the Yotsu, a ronin family created during the eleven
 In the Heroes of Rokugan timeline, the Spider Clan is eventually cleared from the ruins of Otosan Uchi and the Yotsu fight in the vanguard of that effort, hunting Lost and Shadowlands monsters through the streets of the wrecked city. Afterward they are proclaimed the Tiger Clan and given permanent responsibility for protecting the city and ensuring the power of Jigoku can never again be unleashed within its boundaries. Sadly, the process of cleansing the city of Taint also makes it unable to support crops or animal life, so in order to live and fulfill their duties the Yotsu are forced to hire themselves out as mercenaries across the Empire. This allows them to earn enough koku to scrape by, especially since their skills at hunting foes through cities make them quite popular as yoriki to magistrates.<br>
 The clan colors of the Tiger Clan are yellow and black. Their mon shows a stylized image of a tiger springing from ambush.
 
-###### The Yotsu Family: +1 Intelligence
+## The Yotsu Family: +1 Intelligence
 ## <span>The Tortoise Clan</span> {#toc13}
 
 Founded after the Empire's first violent encounter with gaijin, the Tortoise Clan is nearly an Imperial family, yet remains distinctly separate from the rest of the families. The Kasuga family has performed crucial feats for the Emperor and is ready to commit all manner of devious acts to maintain the Emperor's power. In many ways, the samurai of the Tortoise Clan serve as the true underhand of the Emperor, with a strong tie to the criminal organizations of the land. They act as the Minor Clans' representation in the Imperial Court, giving voice to those who are too small to attend.

@@ -16,8 +16,8 @@ Perhaps the most militant shugenja family in the Empire, the Tamori embrace uniq
 
 A monastic order rather than a true family, the Togashi accept all who wish to join their ranks, provided they are able to embrace the order's teachings and endure its trials, which many are not. Over the centuries, the monks of this order have used the divine blood of the Dragon Kami to create mystical tattoos that grant them incredible, supernatural abilities.
 
-###### The Hitomi Order: +1 Strength
-###### The Hoshi Order: +1 Void
+## The Hitomi Order: +1 Strength
+## The Hoshi Order: +1 Void
 ## <span><span style="text-decoration: underline;">The Agasha Family: +1 Perception</span></span> {#toc4}
 
 Once a family of the Dragon Clan, the Agasha abandoned their Togashi masters when they felt the Dragon abandoned their duties to the Empire. The Phoenix have proven much more amenable to their unique brand of magic. The Agasha are highly experimental and curious, always pushing the boundaries of what is known and what can be safely attempted when dealing with magic.

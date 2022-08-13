@@ -11,20 +11,20 @@ The Templars are the basic soldiers of the Order of the Ebon Hand. The order is 
 - <strong>Skills:</strong> Defense, Investigation, Lore: Law, Lore: Theology, Swordmanship, any one Lore Skill, any one Skill.
 - <strong>Outfit:</strong> Sturdy clothing, traveling pack, ebonite armor, ebonite longsword, knife, 10 copper.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Tapping the Inner Strength
+## <strong>Techniques</strong>
+#### Rank 1: Tapping the Inner Strength
 
 When facing an opponent with lower Integrity you roll an additional +1k0 on all Attack, Damage and Social Skill Rolls.
-##### Rank 2: By Thy Will
+#### Rank 2: By Thy Will
 
 During the Reactions Stage at the end of the round you may spend a Void Point to increase your Initiative score as if it was the beginning of the round. This increase lasts until the end of the skirmish.
-##### Rank 3: The Ebon Hand
+#### Rank 3: The Ebon Hand
 
 You may make attacks as a Simple Action when using weapons with the Warrior or Ebonite Keywords.
-##### Rank 4: By Word Or By Sword
+#### Rank 4: By Word Or By Sword
 
 You may spend a Void Point to gain additional rolled dice equal to your half your Integrity (round down) on a single Social Skill Roll.
-##### Rank 5: Will of the Stone
+#### Rank 5: Will of the Stone
 
 You may spend a Void Point to ignore all wound penalties (including Down and Out) for the remainder of the skirmish.
 ## <span>Alternate Paths</span> {#toc2}

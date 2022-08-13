@@ -10,20 +10,20 @@ As stated, the Kenku are extremely discerning in regards to their techniques. A 
 - <strong>Skills:</strong> Defense, Hunting, Kenjutsu (Katana), Meditation, Tea Ceremony, any one Lore skill, any one Bugei Skill
 - <strong>Starting Outfit:</strong> Light or Heavy Armor, Daisho, Traveling Pack, 3 koku.
 
-###### <strong>Techniques</strong>
-###### Rank 1: Wing of Thunder
+## <strong>Techniques</strong>
+### Rank 1: Wing of Thunder
 The kenku bushi has learned to harness the speed of the wind itself, and can draw that element into himself. You may add the total of your Reflexes and School Rank to your Armor TN against any enemy with lower Initiative.
 
-##### Rank 2 : Heaven's Claw
+#### Rank 2 : Heaven's Claw
 
 The bushi has tapped the power of the thunderbolt, striking hard at his enemy’s weaknesses. Any time you inflict more than 10 points of damage with a single attack, your opponent loses one Void Point. Against opponents with no Void Points remaining (or no Void), you may instead re-roll a single damage die and take the better of the two results.
-##### Rank 3 : Lightning Kiss
+#### Rank 3 : Lightning Kiss
 
 The kenku bushi has captured the swift fury of lightning. You may attack as a Simple Action while using any melee weapon in which you possess a Skill Emphasis.
-##### Rank 4 : Churning Skies
+#### Rank 4 : Churning Skies
 
 The kenku bushi has learned to patiently build his energies, only to strike with thunderous power. If you choose to delay your Turn during a Round until after all your opponents have acted, you may ignore the effects of all Wound Penalties (including Down and Out) and your may spend any amount of your Void Points on your damage rolls during this Round.
-##### Rank 5 : The Same Breeze
+#### Rank 5 : The Same Breeze
 
 Even two leaves carried on the same breeze may take quite different paths. This is the final lesson of the kenku school. At the beginning of your Turn, you may take a Free Action and spend a Void Point to copy one bushi Technique of any other character (human or otherwise) within 20’ for a number of Rounds equal to your Air. You must abide by whatever costs and restrictions apply to the copied Technique (Void Point cost, specifi c armor or weapons, etc). If you are not a Kenku yourself, you must have seen the Technique you are copying used at least once. Regardless of whether you are human or Kenku, you may only copy one Technique at a time.
 ### <span>Kshatriya Warrior [Bushi]</span> {#toc2}
@@ -35,20 +35,20 @@ This is the standard fighting school of the Ivory Kingdom’s kshatriya warrior 
 - <strong>Integrity:</strong> 5.0
 - <strong>Outfit:</strong> Sword, shield, spear, bow, light armor, steed, elegant clothing, 10 koku (equivalent).
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Strength of Indra
+## <strong>Techniques</strong>
+#### Rank 1: The Strength of Indra
 
 Kshatriya are taught to be fearless warriors, relying on the strength of Indra the God of War. You gain a +1k0 bonus with all your School Weapon Skills. When rolling to resist a Fear effect, your Willpower is considered one Rank higher.
-##### Rank 2: The Ward of Vishnu
+#### Rank 2: The Ward of Vishnu
 
 Vishnu the Protector teaches the kshatriya to guard themselves even as they strike down their foes. If you are carrying a shield, on your Turn you may take a Simple Action to make a Contested Roll of Defense / Agility against one opponent’s [Weapon Skill] / Agility. If you succeed, that opponent must call three extra Raises to be able to strike you. This effect lasts until the start of your next Turn.
-##### Rank 3: The Speed of the Mongoose
+#### Rank 3: The Speed of the Mongoose
 
 The kshatriya strikes with the speed of the legendary mongoose, enemy of serpents. You may make melee attacks as a Simple Action when fighting with a sword, spear, or unarmed.
-##### Rank 4: The Virtue of the Gods
+#### Rank 4: The Virtue of the Gods
 
 Your attacks are infused with the virtues of the Gods. Once per skirmish after a successful attack you may spend a Void Point to add a number of unkept dice to your DR equal to your Rank in Lore: Theology (Ivory Kingdoms).
-##### Rank 5: The Courage of Shiva
+#### Rank 5: The Courage of Shiva
 
 The final lesson of the kshatriya is to never give up, even in the face of terror or certain death. You gain an additional +1k1 to resist Fear effects. If you are reduced to Out or Dead, on your next Turn you may take one final Simple Action which suffers no Wound penalties.
 ### <span>Sainika Fighter [Guru]</span> {#toc3}
@@ -62,20 +62,20 @@ Since the fall of the Kingdoms, Sainika has been fading away as the remaining gu
 - <strong>Outfit:</strong> Simple clothing, knife, sandals
 - <strong>Special:</strong> The gurus live extremely simple lives of self-denial and religious devotion. In game terms, any student of Sainika will be expected to take up an Ascetic lifestyle.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Harmony
+## <strong>Techniques</strong>
+#### Rank 1: Harmony
 
 Through a rigorous program of physical training and intense meditation, the beginning student of Sainika learns physical flexibility, spiritual harmony, and the basics of defense, making himself more difficult to harm both physically and mentally. You may add your Void Rank to your Armor TN. You may also add your Void Rank in unkept dice to any Contested Roll you make to resist Social Skill Rolls, Social Techniques, and Fear effects.
-##### Rank 2: Vision
+#### Rank 2: Vision
 
 The sainika fighter studies his opponent, gaining insight into his strengths and weaknesses so as to exploit them in action. During a skirmish, you may spend a Void Point and take a Simple Action to assess your opponent. For the remainder of that skirmish, you gain a +Xk0 bonus to your attack rolls against that opponent, where X is the opponent’s lowest Trait.
-##### Rank 3: Understanding
+#### Rank 3: Understanding
 
 At this level, practitioners of sainika gain an all but supernatural awareness of their surroundings, rendering them impossible to surprise. You roll additional dice on all Perception-based rolls equal to your Void Rank.
-##### Rank 4: Unity
+#### Rank 4: Unity
 
 The advanced sainika fighter moves fluidly from one target to the next, as both offense and defense become a single integrated action. When fighting unarmed or with a knife, you may make attacks as a Simple Action.
-##### Rank 5: Purity
+#### Rank 5: Purity
 
 True masters of sainika can deliver blows that cripple not only the body but the spirit. When attacking an opponent with an unarmed blow or a knife, you may spend a Void Point to also strike at the opponent’s spiritual being. If your attack hits, you make a Contested Void roll against the opponent. (The GM may substitute Willpower for creatures which do not have a Void Ring.) With a success, the opponent suffers a -Xk0 penalty (where X is your Void Rank) on his Skill Rolls. This lasts until the third Reactions Stage from now.
 

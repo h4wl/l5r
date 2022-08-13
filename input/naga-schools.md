@@ -23,20 +23,20 @@ The Naga have always felt at home in the wilderness, and their greatest cities l
 - Honor: 4.5
 - Outfit: Light Armor, Sturdy Clothing, Bow and Twenty Arrows, any one weapon, Traveling Pack, 2 (nonmagical) Pearls
 
-###### <strong>Techniques:</strong>
-##### Rank 1: The Silent Stalker
+## <strong>Techniques:</strong>
+#### Rank 1: The Silent Stalker
 
 The Scout is at home within the forest, as comfortable as the animals that reside within. You add +1k0 to all School Skills while inside a forest. Additionally, you may ignore any penalties for wearing light armor.
-##### Rank 2: The Great Enemy
+#### Rank 2: The Great Enemy
 
 The Scout can sense the foul presence of the Shadowlands Taint nearby. You may make an Awareness roll at TN 20 to discern any creature of the Shadowlands or the Nothing within 50’. This TN may be higher if the creature has abilities that obfuscate attempts to fi nd it. This Technique cannot discern any creatures with less than one full Rank in their corruption.
-##### Rank 3: Eyes of an Eagle
+#### Rank 3: Eyes of an Eagle
 
 The Scout learns to spot the minutest details, able to spot even the remnants of a trail in the dead of night. You may spend an Akasha Point to add +4k1 to any Hunting (Tracking) roll.
-##### Rank 4: Blackened Sky
+#### Rank 4: Blackened Sky
 
 The Scout learns to defeat his foes before the enemy is even aware of his presence. You may make attacks as a Simple Action instead of a Complex Action when using a bow.
-##### Rank 5: Relentless Ranger
+#### Rank 5: Relentless Ranger
 
 The Naga Scout learns to push aside the stresses of his own body when on the hunt, relying on the focus of the Akasha to continue beyond his own means. You may function at full capacity without sleep, food, or water for three days. Once these days are past, you must have food and at least four hours of rest to continue functioning at the best of your abilities - otherwise you become Fatigued.
 #### <span>Naga Vedic [Courtier]</span> {#toc3}
@@ -48,20 +48,20 @@ The Naga Vedics serve many different roles within Naga civilization and hold hig
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Silk Clothing, Hunting Knife, Traveling Pack, 4 (non-magical) Pearls
 
-###### <strong>Techniques:</strong>
-##### Rank 1: Reflecting Calm
+## <strong>Techniques:</strong>
+#### Rank 1: Reflecting Calm
 
 The Vedics are often diplomats and negotiators when situations requre a calm eye and an unshakable mind. You may make a Contested Courtier / Awareness roll to impart the calm of the Akasha on any one target. You gain a bonus of +2k0 to the total of this roll, +3k1 if the target is a Naga. If the roll succeeds, you sway the target’s mood to be more amenable to your position. The target will no longer be combative; if the test occurs during a skirmish, the skirmish immediately ends and the target will attempt to talk through the situation. If anyone else attacks your target or if the talks fail, combat immediately begins once more and your target gains a free Combat Round before normal combat continues. You may not attempt to use this Technique on the same target more than once a day.
-##### Rank 2: Arbiter
+#### Rank 2: Arbiter
 
 The Naga Vedics are masters of the laws of Naga society and act as judges when the situation merits. You gain a bonus of +2k1 to the total of any Social rolls with Naga.
-##### Rank 3: Heartbeat Of the World
+#### Rank 3: Heartbeat Of the World
 
 The Naga Vedic attunes himself to the pulse of the world, becoming one with nature itself. You immediately gain one Inner Gift of your choosing (subject to GM’s discretion).
-##### Rank 4: Finding Harmony Within
+#### Rank 4: Finding Harmony Within
 
 The Vedic is calm at all times, balancing his personal desires with the will of the Akasha. While you are acting in the best interests of the Naga, you gain a bonus of +2k0 to the total of any Social Roll. This Technique stacks with your Rank 2 Technique.
-##### Rank 5: Swimming the Depths Of the Akasha
+#### Rank 5: Swimming the Depths Of the Akasha
 
 The Vedic is in tune with the desires of the Akasha, and the great consciousness of the Naga wishes to protect its children. You may take a Complex Action to touch a target and suffer Wounds equal to one full Wound Rank. If your target is a Naga, he immediately heals two full Wound Ranks; otherwise, the target heals one full Wound Rank.
 
@@ -75,20 +75,20 @@ The backbone of the Naga armies is formed by the Naga Warriors. They are fearles
 - <strong>Honor:</strong> 4.5
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Naga Spear, Bow and Twenty Arrows, any one weapon, Traveling Pack, 3 (non-magical) Pearls
 
-###### <strong>Techniques:</strong>
-##### Rank 1: the Soul Of the Naga
+## <strong>Techniques:</strong>
+#### Rank 1: the Soul Of the Naga
 
 The first lesson for the Naga Warrior is that he can rely on the Akasha to guide his hand. Once each Turn you may gain a bonus equal to your Akasha Trait to the total of any one roll (except damage rolls). This bonus doubles against enemies of the Naga (Shadowlands creatures, Nothing creatures, Ashalan).
-##### Rank 2: High Strike
+#### Rank 2: High Strike
 
 The Naga Warrior learns to rear to his full height, rising over his comrades in the front lines to strike at the enemy. As a Free Action you may rear onto your tail to tower over your enemies. While you are standing tall in this way, your Armor TN is lowered by 5 but you add +2k0 to all melee attack rolls against targets at ground height. You may drop back to your normal stance in the same Round as a Simple Action, or as a Free Action on a different Round.
-##### Rank 3: Chosen Of Qatol
+#### Rank 3: Chosen Of Qatol
 
 The Naga Warrior is the consummate fighter, never relenting in the face of his enemies. You may make attacks as a Simple Action instead of a Complex Action while using a weapon with the Naga keyword.
-##### Rank 4: The Akasha Protects
+#### Rank 4: The Akasha Protects
 
 The Naga Warrior is never alone, knowing that his connection to the rest of his race cannot be severed. Once per skirmish, you may take a Free Action at the start of any Round to activate this Technique. You gain Reduction equal to your Akasha Trait for 3 full Rounds.
-##### Rank 5: Heart of a Warrior
+#### Rank 5: Heart of a Warrior
 
 The Naga Warrior never falters or stops, as the Akasha cleanses his soul. You may spend an Akasha Point as a Free Action during your Turn to remove any one Status Effect on yourself. If you are Stunned, you may still use this Technique but it counts as a Simple Action instead.
 ### <span>Alternative Paths</span> {#toc5}

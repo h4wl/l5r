@@ -11,20 +11,20 @@ An evolution of the Qabal's need for secrecy during the rule of the Immortal Cal
 - <strong>Skills:</strong> Sincerity (Deceit), Etiquette, Forgery, Investigation, Sleight of Hand, Stealth, one Merchant Skill.
 - <strong>Outfit:</strong> Knife, clothes, cloak, sandals traveling pack, calligraphy kit, 5 copper.
 
-###### <span style="text-decoration: underline;">Techniques</span>
-##### Rank 1: No One of Import
+### <span style="text-decoration: underline;">Techniques</span>
+#### Rank 1: No One of Import
 
 You learn a Mastery level 1 Control Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. Your Qabal Agent Class Rank counts as ranks of the Sahir School for determining your ability to cast Control Spells. Opponents suffer a -1k0 penalty on all rolls to determine if you are lying.
-##### Rank 2: A Good Excuse
+#### Rank 2: A Good Excuse
 
 The TN of rolls made to determine your Integrity or identity are increased by a further 10 (this is cumulative with the effects of the Bland Advantage). You gain a +2k0 bonus to all Sincerity (Deceit) Rolls.
-##### Rank 3: Unassailable Reputation
+#### Rank 3: Unassailable Reputation
 
 You learn a Mastery level 1 or 2 Control Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. You gain a +1k0 bonus to all Contested Social Skill Rolls you do not initiate.
-##### Rank 4: The Ordered Bolthole
+#### Rank 4: The Ordered Bolthole
 
 You gain a +2k0 bonus to all Stealth Rolls. You may spend an amount of time determined by the GM (hours for a small crime scene, hours to days for a small building) to conceal evidence at a scene or to make a building more inconspicuous. Once this is done, anyone making an Investigation Roll on the scene or to identify the building or find evidence suffers a -Xk0 penalty to their Roll, where X is your Class Rank.
-##### Rank 5: Pillar of the Community
+#### Rank 5: Pillar of the Community
 
 You learn a Mastery level 1, 2 or 3 Control Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. You learn a Mastery level 1,2 or 3 Blessing or Curses Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. You may select spells for which you do not have the previous ranks. When an opponent is making an Investigation Skill Roll against you, you may spend a Void Point to prevent their dice from exploding
 ### <span>Qabal Summoner (Sahir)</span> {#toc2}

@@ -38,13 +38,13 @@ There are two important magical paths in the Burning Sands: <a href="/sahir-spel
 
 ## <span>Advantages</span> {#toc4}
 
-##### Ambidextrous [Physical] (4 Points)
+#### Ambidextrous [Physical] (4 Points)
 
 You are equally skilled with both hands. When fighting with a weapon in your off-hand, you do not receive the normal +5&#160;TN penalty. When fighting with two weapons, your TN Penalty is reduced by 5.
-##### Blood of the Hanie [Physical] (2 Points)
+#### Blood of the Hanie [Physical] (2 Points)
 
 You are descended from the original Yodotai Empire. You gain +1k1 when using Social Skills on other Yodotai.
-##### Ceremony of the Hidden Heart [Mental/Spiritual] (10 Points)
+#### Ceremony of the Hidden Heart [Mental/Spiritual] (10 Points)
 
 Though it is widely believed to be the blackest sorcery imaginable, a ritual where the slightest mistake could spell doom for all involved, the truth of the matter is that the process of creating a Khadi is actually fairly simple. The subject must be bound within a ritual space inscribed with Hakkim's Seal in the correct configuration, or the Seventeen and Nine Concentric Paeans to Anpu the Faultless Judge, depending on whether or not the ritual's performer is working with Chophren's modified version of with the original ritual from the Book of the Dead. Once the subject is rendered unconscious within the prepared space, the life slowly begins to slip from his body, exhaled through his mouth.
 
@@ -53,55 +53,55 @@ Once his breath begins carrying traces of his soul, the ritualist must carve the
 Once the heart becomes comfortable with beating in another chest, it must be removed again. At this point, the ritual is complete, and the subject is a khadi in all senses of the word, and gains the Khadi advantage. The original body becomes a ghul within an hour, as will all successive body that host the heart.
 
 Only sahir who have found a suitable teacher may purchase this Advantage and thus learn the Ceremony of the Hidden Heart. It is highly unlikely any existing khadi will teach it to sahir who have not undergone the ritual themselves.
-##### Cosmopolitan [Mental] (5 Points)
+#### Cosmopolitan [Mental] (5 Points)
 
 The Yodotai empire encompasses many different cultures from different lands. You are skilled at adapting to those quirks and making people feel comfortable with your presence. You gain a +1k0 bonus to all Social Skill Rolls.
-##### Fitfully Sleeping Blood [Spiritual] (8 Points)
+#### Fitfully Sleeping Blood [Spiritual] (8 Points)
 
 Someone amongst your ancestors was a jinn in disguise, one of the great secrets of the Qabal. While you did not inherit their soul of smokeless fire, the mingling of mortals and jinn blood has left its mark on you. You may roll once on any of the 
 <a href="/jinn">Jinn</a>
  Ability tables, and receive the result as an ability that you can invoke exactly as if you were a jinn.
-##### Gorilla Bodyguard [Material] (3 Points)
+#### Gorilla Bodyguard [Material] (3 Points)
 
 You have a trained gorilla to serve as a bodyguard. You are considered to have 5 ranks in Animal Handling (Gorilla) for the purposes of giving your bodyguard commands. If you have already more than 5 Ranks in Animal Handling, you may use that instead.
-##### Inheritance, Crysteel Weapon [Material] (5 Points)
+#### Inheritance, Crysteel Weapon [Material] (5 Points)
 
 Ashalan may chose this advantage to obtain a Crysteel weapon. A Crysteel weapons functions as normal, but has a +1k0 bonus to attack and damage rolls, and counts as Crystal for the purpose of Invulnerability.
-##### Inheritance, Khadja of the Council (5 Points) [Material]
+#### Inheritance, Khadja of the Council (5 Points) [Material]
 
 Ashalan may choose this weapon, with a DR of 1k4, used with the Polearms skill, that grants +1k0 to
 
 Attack Rolls.
-##### Khadi [Physical/Spiritual] (6/8 Points)
+#### Khadi [Physical/Spiritual] (6/8 Points)
 
 You are one of the heartless sorcerers created by the black magic that the Immortal Caliph used to escape death. You are likely a former enforcer of the late Immortal Caliph's governemnt. Regardless of your current affiliation, you are virtually immortal. You heal 1 Wound per minute in addition to the Wounds you heal normally. You heal in both manners even if your body is totally obliterated, slowly coming back together in a manner that is deeply disturbing to any who watch.
 
 You can only be permanently destroyed if someone crushes or stabs your heart. Most khadi keep their hearts in ivory boxes. For the 6-point version of this Advantage, your heart belongs to another, and you must heed his will, for he could destroy you. The 8-point version of this Advantage means your heart is in your own hands, and you are the master of your own fate. Once per month, your heart must be transplanted inside a live host body and then removed again. The host becomes a ghul within an hour.
-##### Paragon of Faith [Spiritual] (6 Points)
+#### Paragon of Faith [Spiritual] (6 Points)
 
 Your devotion to the Ten Thousand Gods is unshakable. You gain a free Void Point that can only be used for Senpet Character Class Techniques.
-##### Servant of Smokeless Fire [Spiritual] (4 Points)
+#### Servant of Smokeless Fire [Spiritual] (4 Points)
 
 You have the ability to summon 
 <a href="/jinn">Jinn</a>
  and barter with them for their services.
-##### Soul of Warriors [Spiritual] (10 Points)
+#### Soul of Warriors [Spiritual] (10 Points)
 
 You are considered a true Yodotai hero by your peers, and more importantly by your ancestors. Whenever you are in combat, you have a guardian spirit fighting by your side.
 ## <span>Disadvantages</span> {#toc5}
 
-##### Curse of the Grey Crone [Spiritual] (3 Points)
+#### Curse of the Grey Crone [Spiritual] (3 Points)
 
 Only those with the blood of Assassins may take this curse. You gain a difformity due to the Grey Crone's curse on Prince Hassan. This may be an internal or external one, with pain or constant spasms, strange growths, twisted muscles, extreme communication difficulties&#8230; Choose one Trait. This Trait is lowered to 1, and may not be increased through experience expanditure. However, the number of points needed to advance to the next Insight Rank is reduced by 5 for each Insight Rank (145 for the second, 165 for the third, etc). This Disadvantage is mandatory for male Assassins, and may be taken in conjunction with Dark Fate.
-##### Defiler of the Dead [Spiritual] (2 Points)
+#### Defiler of the Dead [Spiritual] (2 Points)
 
 Senpet are supposed to revere the Ten Thousand Gods and use human sacrifice for them, but you do not believe in this idiocy. You create ghuls for your own purpose. If anyone found out you were disgracing the priesthood like this, you would probably be executed.
 
 You gain a Free Raise on all Spellcasting Rolls involving Ghul Creation spells. However, you suffer a +5&#160;TN on all Social Skills with other Senpet.
-##### Despicable [Mental] (5 Points)
+#### Despicable [Mental] (5 Points)
 
 Perhaps you do not believe in Yodotai gods, or are not a true Yodotai warrior. You do not attract the attention of Yodotai ancestors. You gain no advantage from Magic Resistance and may not purchase thisAvantage. You suffer a -2k0 penalty to all Social Skill Rolls involving other Yodotai.
-##### Forlorn [Mental] (2 Points for State, 5 Points for Religion)
+#### Forlorn [Mental] (2 Points for State, 5 Points for Religion)
 
 Only Senpet characters may take this disdavantage. Once you believed in both Empire and Religion, but something changed that. Choose either state or religion as your source of disillusionment. Whenever you attempt to use any Skill or Technique referencing that source, you suffer a +10&#160;TN penalty to that roll. Additionally, if you choose religion, you many not use any Void Points for techniques that require faith.
 ## <span>Weapon Updates</span> {#toc6}

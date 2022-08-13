@@ -1,18 +1,18 @@
 Title: Disadvantages
 ---
-##### Anachronism [Mental/Social] (2 Points) [IH]
+#### Anachronism [Mental/Social] (2 Points) [IH]
 
 Although the society of Rokugan embraces traditionalism and for the most part eschews all change, some degree of social evolution is inevitable. For those spirits returned through Oblivion’s Gate, these changes can seem profound and extremely confusing. You are out of touch with modern conventions and styles. The Target Number of all artisan, Craft, and Social Skill Rolls you make is increased by 5. Only returned spirits may purchase this Disadvantage.
-##### Antisocial [Social] (2/4 Points) [CR]
+#### Antisocial [Social] (2/4 Points) [CR]
 
 You find the presence of others uncomfortable, so much so that is immediately obvious to those around you. Your preference for solitude causes you to behave in a manner that might best be described as rude. If you take the 2 point version of this Disadvantage, you suffer a penalty of -1k0 to all Social Skill Rolls. For 4 points, the penalty is -1k1. This Disadvantage is worth 1 additional point to Crab characters.
-##### Ascetic [Mental] (2 Points) [CR]
+#### Ascetic [Mental] (2 Points) [CR]
 
 You have no taste for or interest in material things, and this minimalist attitude has impacted how others view you. Your School Outfit includes only weapons, armor, clothing, necessary tools of the trade for your profession (such as scroll satchel for shugenja), and nothing else. Any time you would be awarded Glory as a result of your actions, you receive only half the normal amount. Coupled with the normal restriction for Monks in gaining Glory, ascetic monk characters would only gain one quarter the normal amount of Glory. This Disadvantage is worth 3 points to Dragon or Monk characters.
-##### Bad Eyesight [Physical] (3 Points) [CR]
+#### Bad Eyesight [Physical] (3 Points) [CR]
 
 Your eyesight is exceptionally poor, whether as a result of some medical condition or even from a missing eye. You suffer a penalty of -1k1 to all ranged attack rolls and to any Perception-based rolls.
-##### Bad Fortune [Spiritual] (3 Points) [CR]
+#### Bad Fortune [Spiritual] (3 Points) [CR]
 
 Kharma is a powerful force, and sometimes it is a destructive one as well. There is something unpleasant in store for you, and you may have no idea what it is until it is far too late. Bad fortunes take an almost infinite variety of forms, all worth the same number of points, and players and GMs should discuss the form of a Bad Fortune during character creation. Some of the more common versions include:
 - Secret Love: Somewhere, someone is madly in love with you, and will go to any lengths to sabotage your romantic interests, even politically arranged marriages, in order to ensure taht you remain available, for them.
@@ -24,40 +24,40 @@ Kharma is a powerful force, and sometimes it is a destructive one as well. There
 - Moto Curse: You possess a spiritual weakness that makes you extremely susceptible to the Shadowlands Taint. You suffer a penalty of -1k0 to any roll made to resist acquiring the Taint. Only members of the Unicorn Clan may take this Disadvantage, and they receive 4 points for it.
 - Yogo Curse: You are cursed to betray the one you love the most, just as the first Yogo was cursed by Fu Leng himself. Normally only members of the Scorpion Clan may take this Disadvantage, and they receive 4 points for it. (GMs may allow other characters of the Yogo bloodline to take the curse as well, if they wish.)
 
-##### Bad Health [Physical] (4 Points) [CR]
+#### Bad Health [Physical] (4 Points) [CR]
 
 You suffer from a chronic medical condition that constantly renders you weak and susceptible to both illness and injury. Your Earth Ring is considered one rank lower for the purposes of determining Wound Ranks and for resisting diseases.
-##### Bitter Betrothal [Social] (2 Points) [CR]
+#### Bitter Betrothal [Social] (2 Points) [CR]
 
 You have been promised to another, or perhaps are already married, and neither of you are at all pleased with the situation. Your spouse despises you, but he or she at least has the decorum to manage your estate properly&#8230; for the most part. Your mutual dislike, however, can result in tremendous difficulty with even simple domestic or bureaucratic tasks. This Disadvantage is worth 3 points to Imperial characters.
-##### Blackmailed [Social] (Variable) [CR]
+#### Blackmailed [Social] (Variable) [CR]
 
 Someone out there knows of some dark secret of yours, or some horrible indiscretion you committed in a moment of weakness. What's worse, they intend to make you pay for it. The cost of this Disadvantage is equal to your Status Rank. The person blackmailing you will contact you periodically and require certain things of you. You must weigh these actions against the potential disgrace if your secret is discovered, and act accordingly.
-##### Black Sheep [Social] (3 Points) [CR]
+#### Black Sheep [Social] (3 Points) [CR]
 
 For whatever reason, your family is completely disgusted with you and your actions. You have not been cast out and made ronin, but you are no longer welcome in your own household. You may only maintain proper relations with any member of your family via the Allies Advantage, and if you attend one of your own family's Schools, you may not advance in School Rank without going to great lengths to find a willing teacher.
-##### Blind [Physical] (6 Points) [CR]
+#### Blind [Physical] (6 Points) [CR]
 
 You possess no natural eyesight whatsoever save for a slight ability to determine light and dark. You suffer a penalty of -3k3 to all ranged attack rolls and -1k1 to melee attack rolls. Your base Armor TN is equal to your Reflexes Trait plus 5 (armor adds bonuses as normal). Your Water Ring is considered two ranks lower for the purposes of determining how far you may move as part of a Move Action. Any attempt at a Simple Move Action requires an Athletics / Agility Roll (TN 20) or you are knocked Prone. You may not make Perception rolls unless the GM judges that you can use senses other than sight for the roll.
-##### Bounty [Social] (2, 4, or 6 Points)
+#### Bounty [Social] (2, 4, or 6 Points)
 
 A price has been placed on your head due to your involvement (or suspected involvement) in a crime. The severity of the crime itself dictates the cost of this Disadvantage, the amount of the bounty on your head, and who will be willing to hunt for you. A minor offense (2 points) generates a bounty of 1-5 Koku, and generally only magistrates from that province, or ronin who hunt for bounties, will search for you. To identify you as a bounty target, the hunter must make a Lore: Law / Perception roll at TN 25. A serious offense (4 points) generates a bounty of 10-15 Koku. Any magistrate from the Clan which assigned the bounty will be aware of it. To identify you as a bounty target, the hunter must make a Lore: Law / Perception roll at TN 15. A violent or heinous act (6 points) generates a bounty of at least 20 Koku. Magistrates from every Great Clan are on the lookout for you, and you are likely to be executed in short order if taken into custody. The offended Clan may even send a specific request to the Tsuruchi Bounty Hunters if your crime was exceptionally awful. To identify you as a bounty target, the hunter must make a Lore: Law / Perception roll at TN 10.
-##### Brash [Mental] (3 Points) [CR]
+#### Brash [Mental] (3 Points) [CR]
 
 You have a notoriously short temper and are likely to answer anything you perceive as a threat with steel. If you are threatened or insulted, you must make a Willpower Trait roll (adding your Honor Rank to the total) at a TN of 25, or you will attack immediately. This Disadvantage is worth 4 points to Lion characters.
-##### Broken Wave Stigma [Social] (2 points)
+#### Broken Wave Stigma [Social] (2 points)
 
 Your status as a citizen of Broken Wave City is a constant reminder of the past difficulty between your clan and the Phoenix. Despite their inclination toward pacifism, many have found the War of Fire and Thunder difficult to forgive. You suffer a penalty of -1k0 to all Social Skill Rolls made targeting members of the Phoenix Clan. You gain one less point than normal when purchasing the Sworn Enemy or Nemesis Disadvantages if the other party is a Phoenix Clan samurai.
-##### Can't Lie [Mental] (2 Points) [CR]
+#### Can't Lie [Mental] (2 Points) [CR]
 
 You are psychologically incapable of telling a lie, perhaps because it has been so thoroughly drilled into your nature by your honorable family. Not only can you not tell a lie, but if someone in your presence tells a lie and you know that it is untrue, you must succeed at a Willpower Trait Roll (TN 20) or immediately correct them. This can cause untold difficulty in court settings and can lead to complete disgrace if you are not careful.
-##### Cast Out [Social] (1/3 Points) [CR]
+#### Cast Out [Social] (1/3 Points) [CR]
 
 You, or perhaps your entire line, were at some point denounced by an order of monks, an act that can bring shame to even the least pious samurai. One point in this Disadvantage indicates the disapproval of a single temple, while three points represents a major sect within the Brotherhood of Shinsei. Monks of this sect treat you as if your Glory Rank were in fact Infamy.
-##### Compulsion [Mental] (2-4 Points) [CR]
+#### Compulsion [Mental] (2-4 Points) [CR]
 
 There is some activity in which you are hopelessly compelled to partake. It is a ritual that is so ingrained in your behavior that it requires a feat of will to forsake it, even in dire circumstances. This may be something illicit and addictive, such as sake or gambling, or it may be as innocuous as visiting every major temple you pass. This basic Disadvantage requires a Willpower Trait Roll of 15 to overcome. The TN of the roll increases by 5 for every additional point gained by the Disadvantage, to a maximum of TN 25 (4 points).
-##### Consumed [Mental] (Varies) [CR]
+#### Consumed [Mental] (Varies) [CR]
 
 You have walked the path of Shourido, and it has consumed you utterly. One of the tenets has become your existence, and you live only to enact it. These Disadvantages are worth one additional point to Spider characters.
 - Control (4 points): You are determined to control and dominate others, no matter what the cost, and can never admit that you are wrong or might have made a mistake. You suffer a -1k1 penalty on all Etiquette and Sincerity rolls.
@@ -68,10 +68,10 @@ You have walked the path of Shourido, and it has consumed you utterly. One of th
 - Strength (5 points): Raw physical power is the only way to defeat your foes. Finesse and negotiation are for fools. You must call one extra Raise (for no effect) in order to use the Called Shot, Feint, or Disarm Maneuvers in combat, and you suffer a -1k0 penalty to any Etiquette roll.
 - Will (4 points): You must get your way, and others must give way to your wishes. You have no respect for the opinions or desires of others. You suffer a -1k1 penalty to all Courtier and Temptation Skill Rolls, as your refusal to compromise or respect others makes you socially intolerable.
 
-##### Contrary [Mental] (3 Points) [CR]
+#### Contrary [Mental] (3 Points) [CR]
 
 Your strong will and rigid view of the world insists not only that you develop an opinion on everything, but that you must share it at every opportunity. During any debate or dispute, or even casual discussion, you feel compelled to weigh in and attempt to persuade others to see the matter from your point of view. In any tense situation, you must succeed at a Willpower Trait Roll to avoid taking action, whether to resolve a conflict physically or simply to interject into an argument. The TN for this roll can vary widely, and should be determined by the TM (typically somewhere between 5 and 25). This Disadvantage is worth 4 points to Imperial and courtier characters.
-##### Cursed by the Realm [Spiritual] (4 Points) [CR]
+#### Cursed by the Realm [Spiritual] (4 Points) [CR]
 
 The influence of the spirit realms can be felt throughout the mortal realm of Ningen-do, and for whatever reason, the essence of one realm in particular has marked you as a foe of all that emanates from that realm. This Disadvantage is worth 5 points to shugenja characters.
 - Chikushudo: You suffer a penalty of -1k1 to all Animal Handling rolls.
@@ -85,51 +85,51 @@ The influence of the spirit realms can be felt throughout the mortal realm of Ni
 - Yomi: You may not possess any Advantage or abilities that specifically reference ancestral links (Inheritance, for example).
 - Yume-do: You are plagued with horrific nightmares, making sleep difficult. You require 10 hours of sleep to regain Void Points, rather than the normal 8.
 
-##### Dark Edge Reputation [Social] (2 points)
+#### Dark Edge Reputation [Social] (2 points)
 
 Unfortunately, being a native of a village such as Dark Edge Village, one that has a very well known reputation for a specific reason, can have a negative impact on one’s personal life. Many inattentive individuals without any real knowledge of you or your training assume that, since you are from Dark Edge Village, you are a talented duelist, and will seek to duel you to prove their own level of skill. Roughly once per two game sessions, someone will attempt to challenge you to a duel, sometimes friendly and sometimes not, regardless of whether you have any talent in that area or not. When a campaign is taking place in an inappropriate setting, such as the Shadowlands for example, the drawbacks of this Disadvantage are temporarily suspended.
-##### Dark Fate [Spiritual] (3 Points) [CR]
+#### Dark Fate [Spiritual] (3 Points) [CR]
 
 There is a destiny of tremendous significance in store for you, and sadly it is not an illustrious one. Before your death, you will usher tremendous darkness into the world in some way. Perhaps you will allow family secrets to fall into the hands of the enemy, or perhaps you will allow the Great Kaiu Wall to fall to the Shadowlands. Destiny protects those for whom it has great plans, even if they do not desire it. Once per session, when you suffer Wounds that would kill you, you are instead reduced to one Wound.
-##### Dark Secret [Social] (4 Points) [CR]
+#### Dark Secret [Social] (4 Points) [CR]
 
 You possess some horrific secret that could lead not only to your ruination, but perhaps others in your family as well. It may be something terrible you have learned about your family that you alone know (if a venerated ancestor was secretly a dishonorable buffoon), or something you personally have done (you may be a member of the Kolat or Gozoku). If your secret is exposed, you may be required to commit seppuku or possibly even be executed. This Disadvantage is worth 5 points to ninja characters.
-##### Debt [Material, Social] (2/4/8 points)
+#### Debt [Material, Social] (2/4/8 points)
 
 Whether through bad luck or simple imprudence, at some point you found yourself short of money and &quot;solved&quot; this problem by taking out a loan, either from a wealthy commoner or a fellow samurai. You are expected to repay this loan, and until you do, the shame of your indebted state hangs over you. For 2 points, your debt is equivalent to one quarter of your yearly stipend - a small amount, but you will have to save carefully to repay it. For 4 points, you owe your entire yearly stipend, and for 8 points, you owe substantially more than that. If others learn about your debt, you will at a minimum lose Glory (probably at least a Rank, more if your debt is large) and your fellow samurai may come to look down on you; your lord may also disapprove of your irresponsibility. In the long term, a persistently indebted samurai may be publicly shamed, losing Status or worse. Moreover, even if you keep the debt secret, your creditor may decide to use it to pressure you into doing things on his behalf (this should be handled by the GM through role-play). This Disadvantage is worth one additional point for courtiers.
-##### Dependent [Social] (Varies) [CR]
+#### Dependent [Social] (Varies) [CR]
 
 Someone who is largely incapable of defending himself or herself requires you to look after them. This may be an elderly relative, a naive spouse, or a small child. The point value of this Disadvantage varies depending upon how helpless the individual is and how frequently they appear in the campaign. A small child completely dependent upon you for everything might cost 5 or 6 points, while a spouse who is independent but whom you must consider before all major decisions might be worth 2 or 3.
-##### Dishonored [Social] (5 Points) [CR]
+#### Dishonored [Social] (5 Points) [CR]
 
 You have been dishonored so spectacularly that your name has been removed from your family's records, and most within the family act as if you were dead. However, the Clan has granted you the opportunity to was away your dishonor if you perish in battle. This custom, which started with the Lion Clan, is known as the Deathseeker tradition. You possess Status Rank 1 and may not gain Status so long as you possess this Disadvantage.
-##### Disbeliever [Mental] (3 Points) [CR]
+#### Disbeliever [Mental] (3 Points) [CR]
 
 You have experienced a dramatic revelation that has shattered your faith in Rokugani theology. Perhaps you believe that the Fortunes have no interest in mankind, or perhaps you have come to believe that the Tao of Shinsei holds nothing but empty promises. If your disbelief were made public knowledge, you would be shunned by all properly pious individuals everywhere, and any membership yo possess in temples or monastic orders would be instantly revoked. Your lack of piety makes you uncomfortable around shugenja and monks, and any Social Skill Rolls made with them have their TN increased by +5.
-##### Disturbing Countenance [Physical] (3 Points) [CR]
+#### Disturbing Countenance [Physical] (3 Points) [CR]
 
 Something about your appearance causes others to respond to you with concern and caution. You are not necessarily unattractive, merely disturbing in some way. The TN of all your Social Skill Rolls is increased by +5. This Disadvantage is worth 4 points to Spider characters.
-##### Doubt [Mental] (4 Points) [CR]
+#### Doubt [Mental] (4 Points) [CR]
 
 Something has happened to cause you to question your training, so much so that it interferes with your ability to perform properly. Select one of your School Skills. Every time you use this Skill, you must declare one Raise that confers no benefit.
-##### Driven [Mental] (2 Points) [CR]
+#### Driven [Mental] (2 Points) [CR]
 
 You are possessed by some goal, and will sacrifice almost anything to accomplish it, even your honor. Family, friends, material possessions, and even Bushido mean nothing compared to the potential completion of this goal, whatever it may be.
-##### Elemental Imbalance [Spiritual] (2 Points/Rank) [CR]
+#### Elemental Imbalance [Spiritual] (2 Points/Rank) [CR]
 
 The kami of one element favor you, but so much so that their voices sometimes overpower your will and cause your invocations to achieve results other than what you intended. Only shugenja may take this Disadvantage. Choose an element in which you do not possess a Deficiency. Whenever you cast a spell of this element, you must make a Willpower Trait Roll at TN 15 + 5 per rank of this Disadvantage. If you fail the roll, something disastrous happens. The spell may fail outright, it may target someone altogether different from who you intended, or other effects as determined by the GM.
-##### Enlightened Madness [Spiritual] (4/6 Points) [CR]
+#### Enlightened Madness [Spiritual] (4/6 Points) [CR]
 
 The touch of divine insight has twisted your mind and soul, driving you to strange and violent acts. Choose either a Ring or a Skill. If you are of the tattooed orders you may also choose one of your tattoos. Any time you use the Skill/tattoo or make a Ring roll or Spell Casting Roll using the Ring, you must roll Willpower or be temporarily consumed by madness, passing into the control of the GM for the next eight hours.
 
 The TN of the Willpower roll is 20 for the 4-point version of this Disadvantage, 30 for the 6-point version.
-##### Epilepsy [Physical] (4 Points) [CR]
+#### Epilepsy [Physical] (4 Points) [CR]
 
 You possess a rare and poorly understood condition that causes you to experience seizures from time to time, consisting of a trance-like state, rigid muscle spasms, and frothing at the mouth. These are brought on by high stress or flashing lights, such as fireworks displays. Under such circumstances, you must succeed at a Willpower Trait Roll at TN 15 to avoid the seizure. If you fail, you experience a seizure and may roll a second Willpower Trait Roll (TN 10) for each minute to end it. This Disadvantage is worth 5 points to Crane characters.
-##### Fascination [Mental] (1 Point) [CR]
+#### Fascination [Mental] (1 Point) [CR]
 
 You are completely fascinated by some subject, and will go to great lengths to learn more about it or to experience it in new ways. Typical subjects of a samurai's fascination include music, horses, poetry, and history. This fascination badly impedes your judgement, and you will take even dishonorable actions to learn more, which could end in absolute disgrace if your actions are discovered.
-##### Failure of Bushido [Mental] (Varies) [CR]
+#### Failure of Bushido [Mental] (Varies) [CR]
 
 Try though you might adhere to the code of bushido, one tenet in particular is imply foreign to you, and you have no concept of how to exemplify it through your actions. This Disadvantage is worth 1 additional point to ninja characters.
 - Compassion (3 points): You must spend a Void Point before you are able to act on behalf of someone of lower Status or social caste.
@@ -140,93 +140,93 @@ Try though you might adhere to the code of bushido, one tenet in particular is i
 - Honor (3 points): You cannot add your Honor Rank to any roll to resist Intimidation or Temptation.
 - Sincerity (4 points): Any time you are rolling the Sincerity Skill to convince someone of what you are saying, you must call an extra Raise for no effect, or the roll automatically fails.
 
-##### Forced Retirement [Social] (4 Points) [CR]
+#### Forced Retirement [Social] (4 Points) [CR]
 
 You have been forced into early retirement by entering a monastery, perhaps due to political reasons or because of some public disgrace. You may not advance any further in your School. When you gain a new Insight Rank, you must instead begin taking ranks of an unaligned Monk School. You need not purchase the Multiple Schools Advantage for this. This Disadvantage is worth 5 points to monk characters.
-##### Frail Mind [Mental] (3 Points) [CR]
+#### Frail Mind [Mental] (3 Points) [CR]
 
 You have difficulty concentrating, even when focusing your attention on an opponent. Whenever you make a Contested Roll using Willpower, your opponent gains a bonus of +2k0.
-##### Gaijin Name [Social] (1 Point) [CR]
+#### Gaijin Name [Social] (1 Point) [CR]
 
 Either due to your lineage or your parents' fascination with another culture, you possess a name that is clearly not of Rokugani origin. Although there is no honor loss for such a thing, others regard you questionably as a result. Your individual dice may only explode once on a Social Skill Roll (that is, each die has a maximum possible result of 20). This Disadvantage is worth 2 points to Unicorn characters.
-##### Greedy [Mental] (3 Points) [CR]
+#### Greedy [Mental] (3 Points) [CR]
 
 Material wealth is more important to you than anything else, even though samurai are not meant to be sullied by commercial interests. Opponents attempting to use Temptation (Bribery) rolls against you gain a bonus of +1k1 to the total of the roll. This Disadvantage is worth 4 points to Mantis characters.
-##### Gullible [Mental] (4 Points) [CR]
+#### Gullible [Mental] (4 Points) [CR]
 
 Your trust is given easily and you place tremendous faith in those whom you trust, unfortunately making it very simple for others to take advantage of your naive nature. Opponents attempting to use Sincerity (Deceit) against you gain a bonus of +1k1 to the total of their rolls.
-##### Haunted [Spiritual] (3 Points) [CR]
+#### Haunted [Spiritual] (3 Points) [CR]
 
 One of your ancestors has chosen to bestow personal attention on you, constantly offering you advice and making demands. Perhaps the ancestor merely wishes you to live up to the ideals of your Clan and family, or perhaps he has some unfinished task or duty which he wishes you to complete. You must show all due deference and respect to your ancestor, and do your best to live up to his (or her) expectations. If you fail to do so, your ancestor's disapproval will bring bad fortune upon you: so long as your ancestor remains angry, once per session one of your die rolls (chosen by the GM) will suffer a -1k1 penalty.
-##### Hostage [Social] (3 Points) [CR]
+#### Hostage [Social] (3 Points) [CR]
 
 In the resolution of a dispute between Clans, it is not uncommon for hostages to be exchanged as &quot;guests&quot; of one another's Clan's for a specified amount of time. This ensures that the treaty in question is not broken. Although you are treated respectfully and as a guest in the lands of another Clan, you are not permitted to leave without escort and, should war break out between your Clan and your hosts, your life will be forfeit.
-##### Idealistic [Mental] (2 Points) [CR]
+#### Idealistic [Mental] (2 Points) [CR]
 
 You adhere closely to the code of Bushido, perhaps too closely, and you have a hopelessly naive view of the world and hos things work. You have impossible standards that not even the most heroic individual could hope to meet, much less you. Whenever you lose Honor, the loss is increased by 1 point. This Disadvantage is worth 3 points to Lion characters.
-##### Imperial City Stigma [Social] (Varies)
+#### Imperial City Stigma [Social] (Varies)
 
 The unfortunate aspect of being stationed within the Imperial City is that it places one in situations where it is a very simple matter to earn the enmity of others, even if only for short periods of time. This Disadvantage functions exactly as the Sworn Enemy Disadvantage, save that it provides 1 additional point and that the identity of your enemy changes periodically. The identity of your current enemy is always determined by the GM, and one enemy may last as short as a month or as long as a year before someone else takes their place.
-##### Infamous [Social] (2 Points) [CR]
+#### Infamous [Social] (2 Points) [CR]
 
 You are well known among some circles, but not in the manner you might wish. Rather than being known for your valor and your courage, you are known for being ruthless, cruel, and dangerous. This reputation may not be deserved, but it is widespread enough that it no longer matters if it is true. Your starting Glory Rank is replaced with an Infamy Rank, which serves in exactly the same capacity, save for the reaction of those who recognize you.
-##### Insensitive [Mental] (2 Points) [CR]
+#### Insensitive [Mental] (2 Points) [CR]
 
 Your primary interest is in yourself and things that you care about. The plight of others simply does not interest you, and you find it difficult to pretend otherwise. With the exception of those who contribute directly to your well being, such as your lord, you must spend a Void Point to place yourself at risk for the welfare of any other person unless there is an immediate benefit for you personally. This Disadvantage is worth 3 points to Scorpion characters.
-##### Jealousy [Mental] (3 Points) [CR]
+#### Jealousy [Mental] (3 Points) [CR]
 
 You are obsessed with outperforming another individual in order to prove that you deserve all the things he has, things you perceive as superior to your own. Choose one other PC or a major NPC in your campaign. You are obsessed with overcoming them at all costs, and will go to any lengths to do so. Once you have bested the target of your jealousy, your nature will cause you to become jealous of someone else.
-##### Lame [Physical] (4 Points) [CR]
+#### Lame [Physical] (4 Points) [CR]
 
 One of your legs is withered or perhaps even near-useless, either due to a birth defect, a crippling injury, or a ravaging disease. Your Water Ring is considered 1 for the purposes of determining Move Actions, and any Agility Trait Rolls or Agility-based Skill Rolls that require any sort of activity in your lower limbs suffer a penalty of +10 to the TN.
-##### Lechery [Social] (2 Points) [CR]
+#### Lechery [Social] (2 Points) [CR]
 
 Physical pleasure is a weakness of yours, and you spend considerable time pursuing it. When an opponent makes a Temptation (Seduction) roll against you, he gains a bonus of +1k1 to the total of his roll.
-##### Lord Moon's Curse [Spiritual] (3/5/7 Points) [CR]
+#### Lord Moon's Curse [Spiritual] (3/5/7 Points) [CR]
 
 The madness of Lord Moon, Onnotangu, lingers in your soul, driving you to fits of madness despite your increased understanding of the universe. You gain an additional Void Point at sunset on any night of the full moon. If you do not use this Void Point, it is lost with the sunrise. However, when the full moon rises, you must make a Willpower Trait Roll against a TN 15 + 5 for each level in the Disadvantage after the first. If you fail the roll, you lose control of your character for the evening. You awaken the next morning with no idea of what atrocious acts you might have committed&#8230;
-##### Lost Love [Mental] (3 Points) [CR]
+#### Lost Love [Mental] (3 Points) [CR]
 
 You shared a bond of true love with someone once, and have since lost it. This need not be romantic love, as familial or brotherly love lost is equally tragic. You tend to suffer bouts of melancholy when reminded of your lost love. When you are reminded of your loss, all your TNs are increased by 5 until you spend a Void Point to regain your focus. This disruption of your concentration cannot happen more than twice per day, and at least one hour must pass between instances.
-##### Low Pain Threshhold [Physical] (4 Points) [CR]
+#### Low Pain Threshhold [Physical] (4 Points) [CR]
 
 You ability to focus in the face of pain is less than that of others. The TN penalties you suffer due to Wound Ranks are increased by +5 each rank.
-##### Member of the Chrysanthemum Court [Social] (5 Points)
+#### Member of the Chrysanthemum Court [Social] (5 Points)
 
 You are a regular attendee at the Emperor’s court, the vaunted Imperial Court of Rokugan. Under the reign of any other Emperor, this would be an incredible privilege and an opportunity for your family and clan to earn glory and make political alliances. Under the reign of the Steel Chrysanthemum, however, it is a constant danger to your life; one misspoken word and you and all those you hold dear could pay the ultimate price. Whenever you fail a Social Skill Roll in the Imperial Court, if you fail by an amount greater than 10 you permanently lose five Points of Status, plus one additional Point for every Raise you declared on the failed roll. If your Status ever drops to 0, the Emperor capriciously kills you for some imagined slight.
 
 This Disadvantage may be used in other eras of play to depict the &quot;privilege&quot; of being assigned to a court ruled by a cruel, capricious, or corrupt lord. In this case the &quot;die at 0 Status&quot; aspect should be dropped, and the Experience Point value of the Disadvantage should be reduced to 3.
-##### Missing Limb [Physical] (6 Points) [CR]
+#### Missing Limb [Physical] (6 Points) [CR]
 
 One of your limbs is missing, either through catastrophic injury or due to an unfortunate defect of your birth. You suffer a penalty of +10 to all TNs involving the use of the limb missing. For example, wielding a two-handed weapon with only one arm would have a +10 to all TNs, but an Athletics (Running) Skill Roll would not.
-##### Momoku [Spiritual] (8 Points) [CR]
+#### Momoku [Spiritual] (8 Points) [CR]
 
 There is a fundamental spiritual imbalance present in your soul that no one can explain or rectify, but it has a dramatic impact on your place within the universe, and harmony is a state virtually unknown to you. You possess Void Points, but may not spend them on anything except School Techniques which specifically require Void Points. The basic uses of Void Points are unavailable to you.
-##### Nikesake Stigma [Social] (4 points)
+#### Nikesake Stigma [Social] (4 points)
 
 The emphasis placed upon peace and serenity that is so omnipresent within Nikesake has had a dramatic effect on your training. Even bushi are not immune to the effects of this atmosphere, as the bushi dojo within the city place a great emphasis on diplomacy and fighting defensively rather than offensive warfare. You suffer a penalty of -1k0 on all Weapon Skill Rolls that are not also School Skill Rolls.
-##### Obligation [Social] *3/6 Points) [CR]
+#### Obligation [Social] *3/6 Points) [CR]
 
 There is someone to whom you are indebted or for whom you must fulfill some significant duty. The nature of this debt can vary considerably, but when it comes due, nothing else matters. You must honor it, even if leads to your ruination. The first level of this Disadvantage is relatively minor matter that nevertheless demands your full attention. The second level presents a major, significant obligation that could potentially damage your family's standing if you do not devote considerable time and resources to fulfilling it.
-##### Obtuse [Mental] (3 Points) [CR]
+#### Obtuse [Mental] (3 Points) [CR]
 
 The point of many fine things simply escapes you. Poetry, art, music&#8230; it all seems meaningless to you. The Experience Point cost for increasing any High Skill other than Investigation or Medicine is doubled. This Disadvantage is worth 4 points to Crab and bushi characters.
-##### Overconfident [Mental] (3 Points) [CR]
+#### Overconfident [Mental] (3 Points) [CR]
 
 You possess a grossly inflated view of your own prowess, and are often incapable of recognizing when a situation is beyond your ability to handle. When outnumbered or facing a clearly superior enemy (whether in court or in battle) you must succeed at a Perception Trait Roll (TN 20) in order to recognize the situation for what it is and leave instead of engaging. This Disadvantage is worth 4 points to Lion and Mantis characters.
-##### Permanent Wound [Physical] (4 Points) [CR]
+#### Permanent Wound [Physical] (4 Points) [CR]
 
 Some wounds will not heal, no matter how often they are treated or by what means. You first Wound Rank is always considered full. This Disadvantage is worth 5 points to bushi characters.
-##### Phobia [Mental] (1 - 3 Points) [CR]
+#### Phobia [Mental] (1 - 3 Points) [CR]
 
 You possess an irrational fear that you cannot overcome, no matter how much you struggle to convince yourself that there is no reason behind it. When confronted with the subject of your phobia, all of your TNs are increased by +5 for every point you possess in this Disadvantage.
-##### Ruined City Survivor [Material] (4 points)
+#### Ruined City Survivor [Material] (4 points)
 
 A duty posting within the Ruined City is a difficult one at best. The city is dangerous and short of resources, save what can be taken from the ruins, refurbished, and turned into an asset. Still, many stationed within the city must make the best of sub-standard equipment as a result of availability. You receive no koku as part of your starting Outfit, and two items from your Outfit are missing as well (you choose which ones are missing).
-##### Rumormonger [Social] (4 Points) [CR]
+#### Rumormonger [Social] (4 Points) [CR]
 
 You cannot resist the temptation to spread rumors and gossip, no matter how ridiculous or outlandish they might seem. When presented with an opportunity to spread rumors, to resist doing so you must succeed at a Willpower Trait Roll with a TN equal to 5 x the Glory Rank of the highest-Glory individual involved in the rumor. This Disadvantage is worth 5 points to courtier characters.
-##### Seven Fortunes' Curse [Spiritual] (3 Points) [CR]
+#### Seven Fortunes' Curse [Spiritual] (3 Points) [CR]
 
 One of the Seven Fortunes has found your behavior unacceptable, and visited his or her wrath upon you. This curse manifests itself in a very real way, and few are ever able to placate beings as powerful and as fickle as the Seven Fortunes.
 - Benten's Curse: The Fortune of Romantic Love has forsaken you utterly, and others find your company unpleasant as a result. The TN of any Etiquette roll you make is increased by +10.
@@ -237,48 +237,48 @@ One of the Seven Fortunes has found your behavior unacceptable, and visited his 
 - Hotei's Curse (6 points): The Fortune of Happiness has denied you his blessings, and you are poorer for it. Any Technique or Advantage that requires you to spend a Void Point to activate instead requires two Void Points.
 - Jurojin's Curse: The Fortune of Longevity has turned his back on you. You suffer a penalty of -2k0 to resist all poisons and diseases.
 
-##### Shadowlands Taint [Spiritual] (4 Points) [CR]
+#### Shadowlands Taint [Spiritual] (4 Points) [CR]
 
 You have felt the touch of darkness, and it has not left you unscathed. You possess the Shadowlands Taint, a condition that makes you hopelessly spiritually lost in the eyes of virtually the entire Empire, and which essentially is incurable. You have 0.5 ranks of Shadowlands Taint. It is up to you whether you are actually aware of your Taint, since it is not detectable at this level.
-##### Sleeper Agent [Mental] (5 Points)
+#### Sleeper Agent [Mental] (5 Points)
 
 Unknown to you, the Kolat have previously kidnapped you and programmed you to be one of their sleeper agents. A trigger word or phrase is implanted in your mind. Anyone who knows it may speak it aloud, followed by a simple command of fi ve words or less. You will be compelled to carry out the command regardless of personal wishes. Sleeper agents are generally considered one-time-only assets, so their survival is not a factor in the tasks they are assigned. Some sleepers are given a fail-safe that causes them to kill themselves should the mission fail – if this is the case for you, this Disadvantage is worth 8 points.
-##### Small [Physical] (3 Points) [CR]
+#### Small [Physical] (3 Points) [CR]
 
 You are noticeably smaller than average for a denizen of the Emerald Empire. As a result, your Water Ring is considered one rank lower for determining the distance of your Move Actions, and you suffer a penalty of -1k0 on the Damage Rolls of all melee attacks. You may not take the Large Advantage.
-##### Social Disadvantage [Social] (3 Points) [CR]
+#### Social Disadvantage [Social] (3 Points) [CR]
 
 You have slipped from your position within the Celestial Order, and your place in society reflects that. You begin with Status Rank 0.
-##### Soft-Hearted [Mental] (2 Points) [CR]
+#### Soft-Hearted [Mental] (2 Points) [CR]
 
 Human life is precious to you, so much so that you have difficulty executing the basic duty of the samurai caste: to kill. When faced with the opportunity to kill another human being, you must succeed at a Willpower Trait Roll (TN 20), or you are unable to do so. If you do kill another, the TNs of all your rolls are increased by +10 for one day as you are wracked with guilt. The penalty is not cumulative with multiple deaths. This Disadvantage could potentially also apply to killing nonhuman creatures or even Shadowlands monsters, although the Experience Point value should be increased in such cases. This Disadvantage is worth 3 points to Phoenix characters.
-##### Sworn Enemy [Social] (3 Points) [CR]
+#### Sworn Enemy [Social] (3 Points) [CR]
 
 You have earned an enemy, one who will stop at nothing to see you defeated or even killed. The basic version of this Disadvantage assumes that your enemy is of equal Insight Rank. For each Insight Rank above yours your enemy posssesses, increase the value of this Disadvantage by 1. For 2 additional points, the enemy becomes your kharmic nemesis, and you may not spend Void Points when opposing him or her in any situation.
-##### Touch of the Void [Spiritual] (3 Points) [CR]
+#### Touch of the Void [Spiritual] (3 Points) [CR]
 
 You have been touched by the essence of the Void, and it has forever damaged your mind. Whenever you draw upon the Void, the effect is powerful, but can overwhelm you. When you spend a Void Point to augment a roll, you gain a bonus of +2k1 instead of +1k1. Every time you spend a Void Point, however, you must succeed at a Willpower Trait Roll (TN 30) or be Dazed for one Round. This disadvantage is worth 4 points to Phoenix characters.
-##### True Love [Mental] (3 Points) [CR]
+#### True Love [Mental] (3 Points) [CR]
 
 True love in Rokugan can be a wonderful experience, but more often than not it is a disaster, for it is rare for samurai to be allowed to marry for love. Whenever you are in a position where you must choose between love and duty, you must spend a Void Point before you can choose your duty over your lover.
-##### Uncentered [Spiritual] (Monk only, 2 points for Clan Monks, 4 points for Brotherhood Monks)
+#### Uncentered [Spiritual] (Monk only, 2 points for Clan Monks, 4 points for Brotherhood Monks)
 
 Whether it is due to poor teaching, a lack of understanding on your part, or simply an absence of true harmony within your soul, you are incapable of mastering the deepest mysteries of the Void. You may not learn any Void Kiho and you cannot take the Ishiken-do or the Void Versatility Advantages.
-##### Unlucky [Spiritual] (2 Points per Rank) [CR]
+#### Unlucky [Spiritual] (2 Points per Rank) [CR]
 
 Fortune favors the mortal man&#8230; just not in your case. A number of times per session equal to your rank in this Disadvantage, the GM may force you to immediately re-roll one roll, keeping the second roll in all cases.
-##### Wanderer (2 Points)
+#### Wanderer (2 Points)
 
 You get lost easily. Even with written directions in hand you never seem to be able to find the place you’re looking for. You practically can’t get anywhere - even in a city you know well - without a guide. You suffer a -15 penalty when using the Navigation emphasis.
-##### Water Hammer Stigma [Social] (2 points)
+#### Water Hammer Stigma [Social] (2 points)
 
 Being raised within a city devoted to the pursuit of perfection above all else has left you a little desensitized to the social niceties that are so important elsewhere in the Empire. Artisans and smiths from Water Hammer City tend to be somewhat brusque, after all, and completely absorbed in their work. As a result, you suffer a penalty of -1k0 on Social Skill Rolls made with members of any clan other than the Dragon Clan.
-##### Weakness [Physical] (6 Points) [CR]
+#### Weakness [Physical] (6 Points) [CR]
 
 You have a significant weakness of some sort, either physical or mental, that is difficult to overcome under ideal circumstances. Select one Trait. That Trait is treated as if were one rank lower for purposes of all rolls and Trait-based mechanical effects.
-##### Wrath of the Kami [Spiritual] (3 Points) [CR]
+#### Wrath of the Kami [Spiritual] (3 Points) [CR]
 
 The spirits of a particular element have a vehement dislike of you, and when invoked to smite you, they gleefully and enthusiastically comply. This may be the result of a shugenja's curse, an offense you offered to the Fortunes, or a variety of other spiritual causes. Select one element when you purchase this Disadvantage. Spells of this element cast against you confer one Free Raise on the Spell Casting Roll. This Disadvantage is worth 4 points to shugenja characters.
-##### Zakyo Toshi Stigma [Social] (3 points)
+#### Zakyo Toshi Stigma [Social] (3 points)
 
 The stench of gambling reached you while you were still a child, and you have not yet purified yourself of its embrace. You suffer an almost overwhelming compulsion to engage in games of chance. Any pastime with an element of randomness can be turned into an opportunity to gamble. When gambling or games on which the outcome could be wagered are taking place, you must succeed at a Willpower Roll (TN 20) or be compelled to forsake whatever else is going on to participate. You may make an additional Willpower Roll every ten minutes you are involved with the game in an attempt to break free.

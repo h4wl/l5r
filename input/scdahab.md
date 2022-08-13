@@ -12,20 +12,20 @@ The Dahabi Enforcers come from all of the Jewel's social strata, from scions of 
 - <strong>Skills:</strong> Athletics, Defense, Lore: Law, Investigation, Spears, Swordmanship, any one Skill.
 - <strong>Outfit:</strong> Longsword, knife, 20 arrows, light armor, clothes, traveling pack, boots, 5 copper.
 
-###### <strong>Techniques</strong>
-##### Rank One: Moonless Night
+## <strong>Techniques</strong>
+#### Rank One: Moonless Night
 
 You gain a +1k0 bonus to Attack and Damage Rolls while in the Full Attack Stance. Your penalties for fighting in poor visibility conditions and in areas of difficult terrain are halved, round down.
-##### Rank Two: Dangerous Maneuvers
+#### Rank Two: Dangerous Maneuvers
 
 You gain +1k1 bonus to all Contested Strength Rolls and +1k0 to all Damage Rolls during a grapple. Opponents suffer a -1k0 penalty to all of their Skill rolls for each ally of theirs which you have reduced to the Down or Out Wound ranks in the current skirmish. Opponents only suffer the highest dice penalty when facing multiple Dahabi Enforcers, the effect of penalties from several enforcers using this technique is not cumulative. Mindless enemies or those immune to Fear ignore this effect.
-##### Rank Three: Show of Force
+#### Rank Three: Show of Force
 
 When attacking unarmed or using weapons with the Warrior keyword, you may make attacks as Simple Actions.
-##### Rank Four: Bitter Shadows
+#### Rank Four: Bitter Shadows
 
 You now gain +2k2 to all Contested Strength Rolls and +2k0 to all Damage Rolls during a grapple replacing the benefit gained at Rank 2.
-##### Rank Five: Final Strike
+#### Rank Five: Final Strike
 
 Once per skirmish you may spend a Void Point in order to take a Complex Action or Simple Actions as normal while in the Center Stance. You gain the benefits of Center Stance during this round in addition to the round following the adoption Center Stance, in addition you gain +0k2 to all Damage Rolls while in the Center Stance and the round following the adoption of Center Stance.
 ### <span>Dahabi Bargainer (Sahir)</span> {#toc2}
@@ -48,19 +48,19 @@ Though originally a collection of desperate merchants and conspirators, the Hous
 - <strong>Skills:</strong> Commece, Courtier, Sincerity (Deceit), Etiquette, Lore: Underworld, any two Skills.
 - <strong>Outfit:</strong> Longsword, knife, 20 arrows, light armor, clothes, traveling pack, boots, 5 copper.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Master of the Subtle Flow
+## <strong>Techniques</strong>
+#### Rank 1: Master of the Subtle Flow
 
 You receive a +2k0 bonus to all Commerce Skill Rolls. You receive a +1k0 bonus to Contested Sincerity and Temptation Skill Rolls. You may purchase the Wealthy Advantage for one point less (minimum 1). You may purchase this advantage with Experience Points during play as normal.
-##### Rank 2: Upstanding Citizen
+#### Rank 2: Upstanding Citizen
 
 If an opponent declares any Raises on a Contested Commerce, Sincerity or Temptation Skill Roll initiated against you, you gain +2k0 to your roll.
-##### Rank 3: An Eye for a Deal
+#### Rank 3: An Eye for a Deal
 
 When spending Void Points on non-Weapon Skill Rolls, you add your Class Rank the total of the roll. Anyone with the Greedy Disadvantage can not explode or re-roll any of their dice in Contested Social Rolls against you.
-##### Rank 4: Silver Tongued Devil
+#### Rank 4: Silver Tongued Devil
 
 A number of times per session equal to your Class Rank, if you have failed a Sincerity Social Skill Roll, you may re-roll it as a Commerce Social Skill Roll instead. You must take the results of the Commerce Roll. You may negate the benefit of an opponent’s Irreproachable or Clear Thinker Advantages when making a Contested Social Roll against them. When purchasing new ranks in the Wealthy advantage during play, the gain in Copper is doubled. This is cumulative with the rank 1 technique of this class.
-##### Rank 5: Merchant King
+#### Rank 5: Merchant King
 
 When making an uncontested Social Skill Roll for which you call no Raises, you gain +5k0 to the roll.

@@ -13,20 +13,20 @@ The Akodo Techniques focus on precision and success, transforming marginal succe
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Lion
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Lion
 
 Bushi of the Akodo School hone their fury until it is as precise as a blade. You may either ignore the portion of an opponent's Armor TN derived from Armor, or gain a Free Raise when attacking. (You do not ignore Reduction from the Armor when choosing the first option.) Also, you gain a bonus of +1k0 to the total of all attack rolls on your first melee attack against an opponent in a skirmish, or against any opponent who has declared a Raise on an attack against you since your last turn. You add only a total of 1k0 for an enemy who Raises against you, no matter how many times they actually Raised.
-##### Rank 2: Strength of Purity
+#### Rank 2: Strength of Purity
 
 Akodo-trained warriors are known for their dedication to bushido, and take a fierce satisfaction in defeating dishonorable foes. During a skirmish you may add your Honor Rank to the total of any single roll during your Turn. You may not increase damage rolls in this fashion, nor can you do this while assuming the Center Stance.
-##### Rank 3: Strength of My Ancestors
+#### Rank 3: Strength of My Ancestors
 
 The Akodo bushi attacks twice, once for himself and once for his ancestor. You may make attacks as a Simple Action instead of a Complex Action while using weapons with the Samurai keyword.
-##### Rank 4: Triumph Before Battle
+#### Rank 4: Triumph Before Battle
 
 No foe is beyond the reach of the devoted Lion warrior. Once per skirmish, you may designate an opponent during the Reactions Stage. You may ignore any Armor TN bonuses your target receives from his Stance during the next Round.
-##### Rank 5: Akodo's Final Lesson
+#### Rank 5: Akodo's Final Lesson
 
 Mastery of the Akodo Bushi School imparts an unshakable faith in victory. When you make Raises on any Bugei Skill Roll, if you meet or exceed the original TN (before Raises) but fail to meet the Raised TN, you still succeed without the benefits of Raises.
 ### <span>Ikoma Bard [Courtier] [CR]</span> {#toc2}
@@ -40,20 +40,20 @@ The Ikoma Techniques allow a courtier to inspire others as well as to resist man
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Traditional Clothing, Wakizashi, Knife, Calligraphy Set, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Herald of Glory
+## <strong>Techniques</strong>
+#### Rank 1: The Herald of Glory
 
 The Ikoma are historians and storytellers, tasked with recording the glorious deeds of others for posterity, ensuring that courageous and honorable accomplishments are never forgotten. You gain the Precise Memory Advantage for no cost in Experience Points (if you already have Precise Memory, you are refunded that many Experience Points). You may use the Perform: Storytelling skill to engage in public bragging on behalf of another person. If you can cite heroic or noble actions by that person and successfully roll Perform: Storytelling / Awareness at TN 20, that person will gain a number of points of Glory equal to your School Rank. This may be done a number of times per person per month equal to your School Rank.
-##### Rank 2: The Heart of the Lion
+#### Rank 2: The Heart of the Lion
 
 The Ikoma are tasked with conveying the emotions which the rest of the Clan keeps bottled away in stoic rectitude. You do not lose Honor or Glory for displaying emotion in public, so long as you do so on behalf of another Lion or for an honorable cause greater than yourself (such as your clan, the Empire, or the Code of Bushido). At the same time, your understanding of both honor and emotion strengthens your own soul against temptation. Anyone attempting to sway your emotions through the use of the Intimidation or Temptation skills must add +5 to their TN for each of your School Ranks.
-##### Rank 3: The Voice of the Ancestors
+#### Rank 3: The Voice of the Ancestors
 
 The Ikoma act as Battle-Criers for the Lion, inspiring their soldiers on the battlefield with tales of the heroic deeds of their ancestors. Prior to a battle or skirmish, you may inspire your allies by speaking for a few minutes and rolling Perform: Oratory / Awareness at a TN equal to 15 + 5 per person you are inspiring. Targets who are not members of the Lion Clan increase the TN by 5 for each such person. With a successful roll, each person you inspired may add their Honor Rank to the total of any one Skill Roll during that battle or skirmish. (If this benefit is not used by the end of the battle, it is lost.)
-##### Rank 4: The Strength of Tradition
+#### Rank 4: The Strength of Tradition
 
 The Ikoma's steadfast encouragement call on the examples of noble ancestors to infuse their allies with a strength they did not know they had. A number of times per session equal to your School Rank, as a Simple Action, you may verbally encourage an ally with a tale of great deeds from the past, rolling Perform: Storytelling / Awareness at TN 25. With a success, the next time during the same day that the chosen ally fails a roll, he may re-roll it, adding your Honor Rank in unkept dice to his roll. However, if he fails this second roll, you lose 2 points of Honor.
-##### Rank 5: Every Lion is Your Brother
+#### Rank 5: Every Lion is Your Brother
 
 The Ikoma's understanding of Bushido, history, emotion, and human nature empowers them in court, filling their arguments with the ringing power of generations of noble Lion, and calling on the precedents of a thousand years and more to support their cause. Five times per session, when you are making a Contested Social Roll against an opponent, you may cite historical precedent to support your views and roll additional unkept dice equal to your Rank in Perform: Storytelling. (In situations where citing history seems inappropriate or strange, the GM has the final say on whether this Technique may be used.)
 ### <span>Ikoma Lion's Shadow [Bushi] [EE]</span> {#toc3}
@@ -67,20 +67,20 @@ The Ikoma Lion's Shadow are a small and extremely secretive group within the Iko
 - <strong>Honor:</strong> 3.5
 - <strong>Outfit:</strong> Traditional Clothing, Daisho, any 1 weapon, Calligraphy Set, Traveling Pack, 5 Koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: No Boundaries
+## <strong>Techniques</strong>
+#### Rank 1: No Boundaries
 
 Those who walk the path of Ikoma choose a life of self-sacrifice and questionable actions in order to serve the clan as their founder did. You do not lose Honor for using Low Skills if they are used directly for the goals or glory of the Lion Clan (subject to GM judgement). As a Free Action you may target a number of opponents equal to your School Rank; you gain a bonus of +1k0 to the total of all attack rolls and Contested Rolls made against these opponents. This bonus may be activated a number of times per day equal to your School Rank, and lasts until the end of the day.
-##### Rank 2: The Lion Cannot Fail
+#### Rank 2: The Lion Cannot Fail
 
 The first true lesson of the great Ikoma is that surrender is never an option, and failure can be overcome regardless of circumstances. You gain a bonus of +1k0 to all Skill Rolls using School Skills.
-##### Rank 3: The Spirit of Ikoma
+#### Rank 3: The Spirit of Ikoma
 
 Although many among the Lion remember him differently, the followers of the Lion's Shadow know that Ikoma was a warrior who cared for victory first, and the means of attaining that victory second. Once per Round, you may lose three points of Honor as a Free Action to add +2k1 to your attack, damage, and Contested Social Skill Rolls until the end of the Round.
-##### Rank 4: The Quiet Lion's Claws
+#### Rank 4: The Quiet Lion's Claws
 
 Although their principle battleground is that of the court, those who bear the name Lion's Shadow are sons of Ikoma first and foremost, and carry the ferocity of their ancestor within their veins. You may make melee weapon attacks as Simple Action instead of a Complex Action.
-##### Rank 5: Ferocious Determination
+#### Rank 5: Ferocious Determination
 
 The wrath of a disciple of Ikoma is terrible to behold. You may spend a Void Point to take a Free Action to make a Contested Roll of your Courtier / Awareness versus against an opponent's Etiquette (Courtesy) / Awareness. If you win the roll, you have shaken his resolve by reminding him of his past failings. The opponent subtracts a penalty equal to your Awareness plus the opponent's own Honor Rank from the total of his attack and Contested Social Skill Rolls against you for a number of hours equal to your School Rank. This technique does not work against those who possess no Honor Rank (animals, oni, etc).
 ### <span>Kitsu Shugenja [CR]</span> {#toc4}
@@ -108,20 +108,20 @@ In modern times, the Lion Clan’s spearman units are relatively few in number a
 - <strong>Skills:</strong> Battle, Defense, Kenjutsu, Lore: History, Polearms, Spears (Magari-Yari), any one Bugei or High Skill
 - <strong>Outfit:</strong> Normal clothing, daisho, bundle of ten nage-yari, spear (magari-yari), any one other spear or polearm, light or ashigaru armor, traveling pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of Magari-Yaritjutsu
+## <strong>Techniques</strong>
+#### Rank 1: The Way of Magari-Yaritjutsu
 
 The basic lesson of the Elite Spearman School is to rely on one’s spears for both offense and defense, eschewing heavy armor in favor of the more flexible options provided by a longer weapon. You gain a +1k0 bonus to Skill rolls with Spears and Polearms. When wielding a spear or polearm in the Center, Defense, or Full Defense stance, your skillful deflection of blows awards you Reduction equal to half of your Rank in the Skill.
-##### Rank 2: Strike Like The Lion
+#### Rank 2: Strike Like The Lion
 
 The trained Elite Spearman infuses his honor and self discipline into every blow he delivers. When wielding a spear or polearm (in melee or with ranged attacks), you may ignore an amount of enemy Reduction equal to half of your current Honor Rank (rounded up).
-##### Rank 3: Strike Through the Eagle
+#### Rank 3: Strike Through the Eagle
 
 The Elite Spearmen are trained to advance on the foe while hurling barrages of nage-yari to disrupt their defenses and open holes in their lines. You may ready/draw a nageyari as a Free Action any number of times per Round, and your ranged (hand-hurled) attacks with nage-yari are considered Simple Actions.
-##### Rank 4: Strike Like the Wind
+#### Rank 4: Strike Like the Wind
 
 At this rank, the Elite Spearman learns to attack faster than a snake’s flickering tongue. You may make melee attacks as a Simple Action when wielding a spear or a polearm.
-##### Rank 5: Strike With the Soul
+#### Rank 5: Strike With the Soul
 
 The final lesson of the Elite Spearman School is to fight in complete harmony with one’s spear, striking more swiftly than thought, bringing down the foe with a relentless barrage of attacks. When fighting in melee with a spear or polearm, you may perform the Extra Attack Maneuver for only three Raises. When hurling spears as missile weapons, you may make one attack as a Free Action.
 ### <span>Matsu Beastmaster [Bushi]</span> {#toc6}
@@ -135,20 +135,20 @@ The communication between Beastmaster and warcat borders on the mystical. Once a
 - <strong>Honor:</strong> 5.5
 - <strong>Outfit:</strong> Light Armor, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 4 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: One with the Pride
+## <strong>Techniques</strong>
+#### Rank 1: One with the Pride
 
 You have trained in the highly secretive dojo of the Matsu Beastmasters and have forged a bond with one of the legendary Lion warcats. The lion will accompany you wherever you go and follow basic commands without question. No lion will ever attack you without being compelled to do so in some way. You may direct one of your warcats to Attack as a Complex Action. Any one warcat who is not attacking will use the Guard Action to protect you.
-##### Rank 2: Heart of the Beast
+#### Rank 2: Heart of the Beast
 
 Your training with the warcats has increased your physical abilities as well as your mental bond with your lions. An additional lion joins your pride. You and your companion lions gain the creature trait of Swift 2, and all of your lions gain an additional Wound Rank that changes the end of the progression from a normal lion's to: 36: +15, 60: Dead.
-##### Rank 3: The Ferocity Within
+#### Rank 3: The Ferocity Within
 
 You strike as fiercely as the lions you have trained. When wielding a katana, wakizashi, magari-yari, nage-yari, or any knife, or when fighting unarmed, you may make melee attacks as a Simple Action. Additionally, you may direct one of your warcats to Attack as a Simple Action.
-##### Rank 4: All as One
+#### Rank 4: All as One
 
 The fury of the beastmaster and his pride is whispered legend among your clan's enemies, and for good reason. Members of your pride may make two claw attacks per Round instead of the normal one. You and all members of your pride gain a bonus of +2k1 on all damage rolls made when fighting alongside one another. Finally, when you direct a warcat to Attack (a Complex Action for lions), the warcat may also make a Simple Move Action during the same Round.
-##### Rank 5: With the Soul of a Lion
+#### Rank 5: With the Soul of a Lion
 
 United by your leadership and companionship, your pride has become fearsome indeed. An additional lion joins your pride. All of your warcats gain +10 Armor TN, +2 Reduction, and +2 Fear.
 ### <span>Matsu Berserker [Bushi] [CR]</span> {#toc7}
@@ -162,22 +162,22 @@ The Matsu Techniques focus heavily upon the Full Attack Stance, which makes them
 - <strong>Honor:</strong> 6.5
 - <strong>Outfit:</strong> Light or Heavy Armor, Sturdy Clothing, Daisho, Heavy Weapon or Polearm, Traveling Pack, 5 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Lion's Roar
+## <strong>Techniques</strong>
+#### Rank 1: The Lion's Roar
 
 Warriors of the Matsu School respect their Akodo cousins' leadership skills, but they know that a furious attack often simply overwhelms an enemy. You add your Honor Rank to all damage rolls. Whenever you assume the Full Attack Stance, you may move an additional 5 feet per Turn in addition to the bonus your receive from the Stance. (This does not allow you to move farther than your maximum move per Turn.)
-##### Rank 2: Matsu's Fury
+#### Rank 2: Matsu's Fury
 
 The target of a Matsu's fury has little hope of victory. When you assume the Full Attack Stance, choose an opponent within 30'. If you successfully hit him this Turn, the target is frozen with fear and cannot take Move Actions to move from his current position. During the Reactions Stage, an affected opponent may attempt a Willpower roll against a TN equal to the amount of damage dealt from your latest attack to negate the effects of this Technique (the opponent does not suffer penalties from his Wound Rank for this roll). If he fails, the effects of this Technique end during the next Reactions Stage (the second after he was struck).
 
 Enemies who are immune to Fear cannot be affected by this Technique.
-##### Rank 3: The Lion's Charge
+#### Rank 3: The Lion's Charge
 
 When a Lion strikes, he grants the gift of final rest to all who stand against him. You may make melee attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Matsu's Courage
+#### Rank 4: Matsu's Courage
 
 Death means nothing in the face of the loss of honor, and no Matsu will yield while he yet draws breath. You ignore TN penalties from Wounded Levels equal to your Honor Rank, or twice your Honor Rank while in the Full Attack Stance.
-##### Rank 5: The Lion's Victory
+#### Rank 5: The Lion's Victory
 
 The death of an opponent is the only measure of victory for a Matsu. Once per encounter after you roll damage for an attack, you may spend a Void Point as a Free Action to activate this Technique. You rend the opponent, ripping open his wounds and dealing grievous injury to him. All of the dice you choose to keep explode, re-rolling and adding the result to your damage total.
 ## <span>Advanced Schools</span> {#toc8}
@@ -190,18 +190,18 @@ So it is often said in the courts across the Emerald Empire and even in the batt
 
 The Akodo Tactical Master studies every notable battle in Rokugani history. He examines how the Lion have handled every situation - and just as importantly, how the enemy attempted to find weakness in the Lion Clan's traditional plans. He learns to adapt, react, and change his battle plans to meet every eventuality. Even knowledge from outside Rokugan's borders is not wholly anathema to him, since he can use such intelligence to plan against future incursions from the hateful foreigner.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Water 4, Intelligence 5
 - <strong>Skills:</strong> Battle (Mass Combat) 5, Games: Shogi 4 or Games: Go 4
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Eyes of the General
+## <strong>Techniques</strong>
+#### Rank 1: The Eyes of the General
 
 The Akodo Tactical Master spends his entire life studying the teachings of Lion generals from centuries past. He benefits from the wisdom of all of his ancestors and hones himself into the perfect general. You may reroll any one of your dice in each Battle Turn of Mass Combat. You may also reroll any one of your dice during an attack roll in which you called at least one Raise.
-##### Rank 2: Malleable as the Sea
+#### Rank 2: Malleable as the Sea
 
 The Tactical master can navigate the sudden changes in the battlefield, adapting and reacting so his army can benefit. You may spend a Void Point to choose any one Heroic Opportunity from the corebook to perform during a Mass Battle Turn. (This choice is subject to GM approval, since not all options will be suitable for the situation and the characters involved.)
-##### Rank 3: The Soul of the Army
+#### Rank 3: The Soul of the Army
 
 The Tactical Master knows he is responsible for his army, and directs its strength where it may do the most damage. You may spend a Void Point to gain a +5k2 bonus on any Battle Skill Roll (rather than the usual +1k1), or to gain a +2k2 bonus to any Bugei Skill Roll (rather than the usual +1k1).
 ### <span>Kitsu Sodan-Senzo [Shugenja] [IH]</span> {#toc10}
@@ -210,38 +210,38 @@ All members of the Lion Clan's Kitsu family have some degree of ancestral connec
 
 The true-blooded Kitsu are known as sodan-senzo, and the family's sensei teach them secret techniques that evoke their hidden powers. They can not only sense ancestral connections but can actually project their souls into the spirit realms in order to interact with the souls of the dead. The Kitsu regard this as the most sacred of tasks and never undertake such a thing lightly. Some are also able to manifest a pale shadow of the original kitsu's physical abilities as well, something that has proven a fatal surprise for many of the Lion's enemies over the centuries.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Water 4, Awareness 3
 - <strong>Skills:</strong> Lore: Spirit Realms 4, Meditation 5
 - <strong>Other:</strong> Must be a true blooded Kitsu with the ability to caster Water spells of Mastery Level 4 or higher
 
-###### <strong>Techniques</strong>
-##### Rank 1: Senses of the Kitsu
+## <strong>Techniques</strong>
+#### Rank 1: Senses of the Kitsu
 
 The first gift of a true son of the kitsu is the ability to detect portals between the realms. Any time a spirit portal exists within a radius equal to your School Rank x 10 miles, the GM may opt to secretly make a Spellcraft / Perception (TN 25) roll to determine if you detect it. If the portal is within a number of miles equal to your School Rank or less, you pass this test automatically. Your previous School Rank increases by one for the purposes of casting spells.
-##### Rank 2: Hand of the Kitsu
+#### Rank 2: Hand of the Kitsu
 
 Although peaceful, the kitsu were powerful warriors, and their descendants carry that potential within them. Your unarmed damage increases by an additional +0k1, representing the spiritual talons of the kitsu. You may make a Meditation Skill Roll (TN 30) to project your soul into the realms of Meido or Yomi, where you may interact with ancestral spirits (using Social Skill Rolls as normal if required).
-##### Rank 3: Soul of the Kitsu
+#### Rank 3: Soul of the Kitsu
 
 For the true kitsu there are no boundaries. When you project your soul into the spirit realms (as described above in the Rank 2 Technique) you may take another person with you if they also succeed at the Meditation Skill Roll. This passenger may see and hear everything you experience, but may not speak. Ancestral spirits with whom you interact can sense this passenger. Additionally, you gain one additional rank in the previous School for the purpose of casting spells.
 ### <span>The Lion's Pride [Bushi] [CR]</span> {#toc11}
 
 The Lion's Pride is one of the most respected military units in the empire, feared for its prowess on the battlefield and its long list of successes. Only female Matsu samurai-ko can join the Lion's Pride to uphold their high standards. They live, train, and fight together as a unit at all times. On the battlefield, the Lion's Pride tries to seek out the enemy generals and kill them, destroying the enemy's battlefield efficiency.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Agility 5, Strength 5
 - <strong>Skills:</strong> Battle 5, 4 Weapon Skills at Rank 3
 - <strong>Other:</strong> Honor Rank 6, Additionally, you must be a female from the Matsu Family.
 
-###### <strong>Techniques:</strong>
-##### Rank 1: The Fury of Matsu
+## <strong>Techniques:</strong>
+#### Rank 1: The Fury of Matsu
 
 The Lion's Pride bushi's attacks leave no room for counterattack, serving as the perfect defense. You may add +10 to your Armor TN while in the Full Attack Stance.
-##### Rank 2: Paragon of Honor
+#### Rank 2: Paragon of Honor
 
 The Lion's Pride warrior knows that her devotion to her personal honor is its own reward. Opponents with lower Honor Rank within 30' may not reroll 10's. Opponents may ignore this effect for the encounter by spending 2 Void Points during the Reactions Stage of any Combat Round.
-##### Rank 3: Matsu's Technique
+#### Rank 3: Matsu's Technique
 
 Even in the middle of her attacks, the Lion's Pride bushi is ready to counter any feeble attempts to strike her. When an opponent declares a melee attack against you, if you have not taken your Turn this Round, you may immediately spend a Void Point to take a Simple Action to make an attack against that Opponent. This attack resolves before your opponent's attack. If you use this Technique, you may only perform one Simple Action during your Turn this Round. (You may take Free Actions as normal.) You may use this Technique while in the Full Attack Stance
 ## <span>Alternative Paths</span> {#toc12}

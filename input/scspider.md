@@ -27,20 +27,20 @@ The techniques of the Daigotsu bushi clearly indicate the favor in which they ar
 - <strong>Honor:</strong> 1.5
 - <strong>Outfit:</strong> Light Armour, Sturdy Clothing, Daisho, any 1 weapon, Traveling Pack, 3 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Way of the Spider
+## <strong>Techniques</strong>
+#### Rank 1: The Way of the Spider
 
 The Daigotsu Bushi must walk the fine line between using the Taint to power his body, and hiding its effects in public. At the beginning of each Round, you may choose to either reduce your TN penalties from Wound Ranks by your Strength Trait Rank plus your Taint Rank until the end of the Round, or increase your damage rolls by the same amount. Additionally, the TN on any roll to detect the presence or effects of the Shadowlands Taint on you is increased by 10.
-##### Rank 2: Aura of Blood
+#### Rank 2: Aura of Blood
 
 The presence of the Daigotsu Bushi can be unsettling to those who are unprepared to face it. You may spend a Void Point as a Simple Action to activate this Technique. While this Technique is active, you and all of your allies within 30' add +2k0 to the total of all damage rolls. This lasts for a number of Rounds equal to your Taint Rank plus your Strength Trait Rank. This bonus is not cumulative with any other applications of Aura of Blood. Using this technique while under its effects refreshes its duration.
-##### Rank 3: Ashura's Wing
+#### Rank 3: Ashura's Wing
 
 The Daigotsu Bushi moves and strikes as swiftly as ash borne away by the wind. You may make melee attacks as a Simple Action instead of a Complex Action.
-##### Rank 4: Devouring Wrath
+#### Rank 4: Devouring Wrath
 
 By the power of Fu Leng, the Legionnaire feeds on the strength of his enemies. Any time you hit an opponent in melee, you immediately regain 5 Wounds. This can potentially grant additional Wounds beyond your normal maximum, but this bonus will not increase over 20 wounds. Excess Wounds are lost at the end of the skirmish.
-##### Rank 5: Inhuman Assault
+#### Rank 5: Inhuman Assault
 
 The wrath of a Daigotsu bushi is like that of a rampaging beast. Once per skirmish, you may launch into a series of bone-shattering blows by making a melee attack as a complex action. This attack ignores the bonuses and effects of armor, including Reduction from armor, and any Stance the target assumes. If the strike hits, the target cannot gain the bonuses of armor or Stance to his Armour TN for a number of rounds equal to your Taint Rank plus your Strength Trait. If your opponent is in the Full Attack Stance Posture, he still retains the -10 to Armour TN penalty.
 ### <span>Daigotsu Courtier [CR]</span> {#toc3}
@@ -54,20 +54,20 @@ The greatest strength of the Daigotsu courtiers is not their techniques, which a
 - <strong>Honor:</strong> 1.0
 - <strong>Outfit:</strong> Sensible Clothing, Wakizashi, Calligraphy Set, Travelling Pack, 3 koku.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Insidious Whispers
+## <strong>Techniques</strong>
+#### Rank 1: Insidious Whispers
 
 Every student of the Daigotsu Courtiers is accomplished at the art of masking his nature, preventing his true intentions from being discovered by others. You are skilled at hiding your intentions and the symptoms of Taint. You gain a Free Raise when using Sincerity (Deceit). Any rolls made to detect your Taint (such as the techniques of the Kuni) have their TN increased by an amount equal to 5 x your School Rank. You add your School Rank to your Honor Rank whenever another is attempting to discern your Honor Rank.
-##### Rank 2: Cracks in the Wall
+#### Rank 2: Cracks in the Wall
 
 The Daigotsu courtier is taught to drop subtle, seemingly innocuous conversational hints that disrupt the focus and attention of those around him. Any time you are engaged in conversation, you may spend a Void point and make a Courtier (Manipulation) / Awareness roll (as a Simple Action) at TN 25 to force everyone within 20 feet of you to suffer a penalty of -1k1 to all their Etiquette and Perform Skill rolls for the next hour. They are not aware of the source for their lack of focus. This effect cannot be stacked.
-##### Rank 3: Darkness Cannot be Trapped
+#### Rank 3: Darkness Cannot be Trapped
 
 At this rank, the Spider courtier is taught to deflect attention and blame away from himself, spreading disharmony among his foes while avoiding the price of his own actions. Any time you are the focus of suspicion or accusation, you may spend a Void point as a Simple Action to try to shift the blame to someone else who is present at the moment of the accusation. You must make a Contested Roll of your Sincerity (Deceit) / Awareness versus the victim's Sincerity (Honesty) / Awareness in order to make the shifting of blame stick. (If your attempt seems weak or poorly justified, the GM can award bonuses to your victim's attempt to defend himself.) With a success everyone who heard you will believe your target is the real culprit, until presented with evidence to the contrary.
-##### Rank 4: The Touch of Sin
+#### Rank 4: The Touch of Sin
 
 At this level of training, the Spider's mastery of manipulation and misdirection allows his words to twist the thoughts of others, temporarily leading them into weakness, aggression and confusion. A number of times per session equal to your School Rank, you may speak with someone for a few minutes and then make a Contested Roll of your Courtier (Manipulation) / Willpower against their Etiquette (Courtesy) / Willpower. If you succeed, they acquire one of the seven Consumed by Shourido Disadvantages (your choice) for a number of hours equal to your School Rank. By calling two successful Raises on this roll, you can inflict a second Consumed by Shourido Disadvantage of your choice on the same person for the same period of time. (You cannot use this technique on the same person twice in the same day).
-##### Rank 5: The Embrace of Darkness
+#### Rank 5: The Embrace of Darkness
 
 The final lesson of the Daigotsu Courtier School teaches its students to lead their enemies into paths of aggression and violence. By speaking with someone for at least 15 minutes, you may make a Contested Roll of your Sincerity (Deceit) / Awareness against their Etiquette (Courtesy) / Perception. If your target currently has one of their Consumed by Shourido Disadvantages, you gain a 5k0 bonus to this roll. With a success, you may convince your target to treat some other person, group, institution or clan as their enemy. This cannot be used to turn someone directly against his lord or the Emperor. Subject to that limitation, the target will continue to believe in this enmity until presented with evidence to the contrary. This technique cannot be used against the same person more than once per month.
 ### <span>Dark Moto Cavalry [Bushi]</span> {#toc4}
@@ -80,20 +80,20 @@ After the Dark Moto became a new force within the Shadowlands, they began to mod
 - <strong>Outfit:</strong> Armor (light, heavy, or cavalry), katana or wakizashi, spear or polearm, bow (yumi or dai-kyu) with 20 arrows, onikage steed
 - <strong>Requirement:</strong> Must be Tainted. The Dark Moto have sometimes taught their techniques to those of their allies who not yet Lost, but never to those who have not at least been fi rmly touched by the power of Jigoku.
 
-###### <span style="text-decoration: underline;">Techniques</span>
-##### Rank 1 : Power in the Darkness
+### <span style="text-decoration: underline;">Techniques</span>
+#### Rank 1 : Power in the Darkness
 
 The embrace of the Taint grants the Dark Moto strength beyond that of mortals. Your maximum Raises are now limited by your Taint Rank or your Void, whichever is higher. You add your Taint Rank in unkept dice to all attack rolls. However, you no longer gain any benefit from the Full Defense stance.
-##### Rank 2 : Ride beyond Death
+#### Rank 2 : Ride beyond Death
 
 Not even death can break the connection between a Unicorn and his steed. The Dark Moto are bonded to onikage, the monstrous creatures created from horses that fall to the Taint. You may mentally summon an onikage as a Simple Action. The creature will appear at the start of the next Round, bursting forth from the ground.
-##### Rank 3 : Dark Lord's Fury
+#### Rank 3 : Dark Lord's Fury
 
 The rage of Jigoku courses through the Dark Moto’s body, driving him to inhuman speed and fury. You may make attacks as a Simple Action instead of a Complex Action.
-##### Rank 4 : Visage of the Damned
+#### Rank 4 : Visage of the Damned
 
 The Dark Moto radiate a powerful aura of terror and malignance, and can intensify this power to the point where it will cripple their foes. Once per skirmish as a Simple Action you may create a Fear effect equal to your Taint Rank against all those who gaze upon you. Any opponent who succumbs to the Fear is, in addition to the normal penalties, limited to one Simple Action (and no Complex Actions) on their next Turn. They may take Free Actions as normal.
-##### Rank 5 : Death is an Illusion
+#### Rank 5 : Death is an Illusion
 
 The corrupted forms of the Dark Moto are nearly impervious to injury, and they can continue to fight until they are destroyed. You no longer suffer any Wound penalties, not even at the Down or Out Ranks, and you heal Wounds equal to your Taint Rank during the Reactions Stage of each Round.
 ### <span>Free Ogre Bushi [Bushi]</span> {#toc5}
@@ -106,20 +106,20 @@ The techniques of this school emphasize the ogres’ superior strength and size,
 - <strong>Honor:</strong> 0 (Ogres have their own concept of Honor, but it is not one shared by the Rokugani.)
 - <strong>Outfit:</strong> Heavy Armor, Tattered Clothing, any 2 weapons.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Muhomono’s Strength
+## <strong>Techniques</strong>
+#### Rank 1: Muhomono’s Strength
 
 Named for the legendary king of ogres, this technique comes as a profound revelation to most free ogres as they reconnect with their race’s ancient legacy. It allows the ogre to focus its strength into more powerful blows, instead of wasting it like his savage cousins. Before rolling Initiative, you may choose to inflict a -1k1 penalty on your Initiative roll. If you do, you gain +2k0 on all damage rolls for the rest of the skirmish. Also, you gain a Free Raise on all Intimidation (Bullying) rolls.
-##### Rank 2: Muhomono’s Eyes
+#### Rank 2: Muhomono’s Eyes
 
 The great Muhomono won many fi ghts with his terrifying gaze, striking fear into his opponents before the fight even began. Your Fear rating is increased by 1, and you add +1k0 to your attack rolls against any opponent who failed to resist your Fear.
-##### Rank 3: Muhomono’s Speed
+#### Rank 3: Muhomono’s Speed
 
 The ogre warrior strikes his opponent with speed and strength, certain in his superiority over any opponent. You may make attacks as a Simple Action instead of a Complex Action while using large weapons, Heavy Weapons, or unarmed attacks.
-##### Rank 4: Muhomono’s Arm
+#### Rank 4: Muhomono’s Arm
 
 The broad and powerful arm of the ogre bushi carries over from one opponent to another, never slowing down. Once per skirmish, if you successfully hit an opponent with a melee attack, you may immediately infl ict the same damage roll on another opponent of your choice within 5 feet of the first one, without making an attack roll against the second opponent. This does not count as a separate attack.
-##### Rank 5: Muhomono’s Armor
+#### Rank 5: Muhomono’s Armor
 
 A true ogre bushi knows that physical armor is only a disguise - the true warrior needs nothing more than his skin and determination. Your natural Reduction increases to 20.
 ### <span>Free Ogre Mage [Shugenja]</span> {#toc6}
@@ -143,20 +143,20 @@ The Goju are essentially the brawn of the forces controlled by the Lying Darknes
 - <strong>Honor:</strong> 0.0
 - <strong>Outfit:</strong> Black Clothing, Ninja-to, Tanto, 6 Shuriken or Tsubute, any one weapon, 50 feet of Rope and Grapple, Traveling Pack, 1 koku
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Cloak of Night
+## <strong>Techniques</strong>
+#### Rank 1: The Cloak of Night
 
 The first lesson a Goju masters is the art of wrapping oneself in shadow, gaining concealment from enemies in exchange for making direct action more difficult. You may increase your Armor TN up to a maximum amount equal to your School Rank x 5. The TN of all your rolls other than Athletics, Defense, and Stealth Skill Rolls is increased by the same amount. Activating this Technique is a Simple Action and it lasts for the duration of the skirmish.
-##### Rank 2: Melting into Shadow
+#### Rank 2: Melting into Shadow
 
 A Goju is not merely protected by the darkness but part of it, and can blend easily within it. You gain bonus rolled dice equal to your School Rank on any Stealth Skill Roll. Any uncontested roll made by an opponent trying to detect you automatically has its TN increased by an amount equal to your School Rank x 5. You gain one Free Raise on all attack rolls made against opponents who are unaware of your presence.
-##### Rank 3: The Shadowed Blade
+#### Rank 3: The Shadowed Blade
 
 The Goju is a swift and merciless foe. You may make an attack as a Simple Action rather than a Complex Action when attacking with knives or any weapon that uses the Ninjutsu Skill. Alternatively, when wielding shuriken, you may take a Complex Action to make a number of ranged attacks equal to your School Rank.
-##### Rank 4: Step Within Shadow
+#### Rank 4: Step Within Shadow
 
 As all darkness is one with the Goju, so too can the Goju use the darkness to move between shadows without crossing the space in between. You may enter any shadow large enough to conceal an individual of your size and emerge from any other similarly-sized shadow nearby. This is considered a Simple Move Action. The range of this movement is equal to your School Rank x 100 feet.
-##### Rank 5: Shadow upon the Moon
+#### Rank 5: Shadow upon the Moon
 
 A true Goju no longer even vaguely resembles anything human. Your facial features are permanently erased, leaving only a tell-tale eggshell mask in their place. In darkness or shadows, you may dissolve your physical body into a vague cloud of inky vapor. This is a Simple Action; changing back into corporeal form is a Free Action. You may move at your full speed while in incorporeal form but may not physically interact with any object or individual and cannot be harmed by anything except crystal. You may pass through solid matter in a thickness of up to your School Rank x 5 in inches. You gain +5 to your Initiative Score during the first Round (only) each time you change back to your corporeal form.
 ### <span>Ninube Shugenja [GC]</span> {#toc8}
@@ -189,20 +189,20 @@ The Spider monks are peerless hand-to-hand combatants who, unlike most monastic 
 - <strong>Honor:</strong> 1.5
 - <strong>Outfit:</strong> Light or Heavy Armour, Sturdy Clothing, any Heavy Weapon or Polearm, Travelling Pack, 3 koku.
 
-###### <strong>Techniques</strong>
-##### Rank 1: The Dark Path
+## <strong>Techniques</strong>
+#### Rank 1: The Dark Path
 
 The Order of the Spider teaches strength and mastery of oneself, even the darkness that hides within the Soul. You gain a bonus of 1k0 to the total of all attack rolls made using unarmed strikes or with polearms. You also add twice your School Rank to your Armour TN against all melee attacks.
-##### Rank 2: Drawing in the Strike
+#### Rank 2: Drawing in the Strike
 
 Mastery of the body is a step to the path of power, and this mastery affords tremendous endurance to those who reach it. You may select any non-void ring. You gain Reduction equal to this Ring, plus your Rank in Shadowlands Taint, if you have any.
-##### Rank 3: Speed of Darkness
+#### Rank 3: Speed of Darkness
 
 The alignment of body and mind allow tremendous speed, When using a polearm or an unarmed attack, you may make melee attacks as Simple Actions rather than Complex Actions.
-##### Rank 4: Guarded by Chi
+#### Rank 4: Guarded by Chi
 
 Following mastery of the body comes mastery of the soul. When you learn this Technique, you may select any one non-Void Ring. You add twice your Rank in this Ring, plus your Shadowlands Taint Rank (if you possess any), to the TN of any spell being cast against you. You may choose to suppress this effect if you wish.
-##### Rank 5: Darkness Unleashed
+#### Rank 5: Darkness Unleashed
 
 True mastery of the self requires drawing upon the darkness within. You gain an additional number of Void Points per day equal to your Shadowlands Taint Rank, or your Earth Ring, whichever is higher. These may be spend exactly like normal Void points, except they may also be spent to add a bonus of +1k1 to the total of your damage rolls.
 ## <span>Advanced Schools</span> {#toc10}
@@ -211,56 +211,56 @@ True mastery of the self requires drawing upon the darkness within. You gain an 
 
 There are those among the Spider Clan, particularly among the ranks of the Daigotsu bushi and the Order of the Spider monks, who have embraced their own sinister variant of honor and devotion. Even the touch of Jigoku itself can be used as fuel for their power, a power that strangely resembles the oneness many Brotherhood monks have with the universe. Some believe this is an indication that the path of the Spider, while radically different from the paths of the Brotherhood, is a true path to enlightenment. Those among the Brotherhood who are aware of the existence of the Dark Paragons vehemently refute this claim, insisting they are nothing but more seductive tricks of the Realm of Evil. The Paragons themselves insist instead that their power reflects their absolute mastery of themselves, and Jigoku has no reason to leave its mark on its servants when those servants are willing, devoted, and able to enact its will far more effectively without the constraints of the Taint.
 
-###### Requirements:
+### Requirements:
 - <strong>Ring/s Traits:</strong> At least one Trait at 5
 - <strong>Skills:</strong> Lore: Theology 4+
 - <strong>Other:</strong> Dark Paragon Advantage, Honor Rank 4+, must have the ability to make melee attacks as a simple action.
 
-###### <strong>Techniques</strong>
-##### Rank 1: Ruthless Determination
+## <strong>Techniques</strong>
+#### Rank 1: Ruthless Determination
 
 A student of the dark paths learns to flow from one thing to the next, and learns the secrets hidden in between. You gain two Kiho, for which you must meet all prerequisites. If you possess the ability to make a melee attack with a weapon as a Simple Action, you also gain the ability to make an unarmed attack as a Simple Action, and vice versa.
-##### Rank 2: Rising Shadows
+#### Rank 2: Rising Shadows
 
 The strength of the pious is that surety of purpose can lead one to overcome virtually any failure if one is but strong enough in one’s beliefs. A number of times per skirmish equal to your Void Ring, you may immediately re-roll any failed Bugei Skill Roll using your Lore: Theology Skill in place of the Bugei Skill originally used.
-##### Rank 3: Absolute and Unwavering
+#### Rank 3: Absolute and Unwavering
 
 A true paragon of darkness can eschew the restrictions of honor or even the touch of another realm in order to accomplish greater things in the mortal world, simply by tapping into his true connection to the universe. You gain two Kiho, for which you must meet all prerequisites. You may sacrifice 2 Honor points or voluntarily reduce your Taint by 1 point rather than spending a Void Point in order to activate any Kiho. You do not lose any physical deformities previously gained as a result of your Taint Rank in this manner, but you can lose Shadowlands Powers. If you gain subsequent ranks of the Shadowlands Taint, you regain lost abilities rather than getting new ones.
 ### <span>Maho-Bujin [Bushi]</span> {#toc12}
 
 Throughout the history of the Empire, Lost warriors of great power have occasionally appeared who manifested fighting skills of terrifying capability. These individuals had not learned at a school, or from the words of a sensei – rather, they were instructed by Jikogu itself, whispering into their bodies and minds through the medium of the Taint. When the Lost began to form communities, they saw these warriors as receiving special blessings from Fu Leng and revered them accordingly. Although the Spider Clan later made some attempts to form organized schools around the maho-bujin techniques, they were not successful – the ways of the maho-bujin can only be learned from the Taint itself. The Spider developed simpler techniques that could be taught normally.
 
-###### Requirements
+### Requirements
 - <strong>Skills:</strong> Jiujutsu 3+, any Weapon Skill 5+
 - <strong>Other:</strong> Must be chosen by Jigoku to learn the ways of the maho-bujin.
 
-###### <strong>Techniques</strong>
-##### Rank 1 : Carve the Crimson Road
+## <strong>Techniques</strong>
+#### Rank 1 : Carve the Crimson Road
 
 The maho-bujin’s body flows freely with the Taint that inhabits it, and his blows strike with a terrible power no mortal flesh can match. Your maximum Raises are now limited by your Taint Rank or your Void, whichever is higher. You gain a bonus in unkept dice equal to your Shadowlands Taint Rank on all damage rolls. You can now make the Extra Attack maneuver with only 2 Raises instead of 5.
-##### Rank 2 : Corruption Rewards
+#### Rank 2 : Corruption Rewards
 
 The fighting instincts of a maho-bujin sense blood and leap for it, striking with preternatural skill and speed, and as his foes grow weaker the maho-bujin moves relentlessly faster and faster. During each Reactions Stage of a skirmish, you increase your Initiative by your Taint Rank. You may now make attacks as a Simple Action instead of a Complex Action.
-##### Rank 3 : Devourer of Purity
+#### Rank 3 : Devourer of Purity
 
 The warriors of Jigoku are able to heal themselves by feeding on the suffering of their enemies, even consuming their honor and strength of soul. Moreover, the maho-bujin has now transcended the Celestial Order and fully embraced the power of the Taint, making him nigh-indestructible. Any time you reduce someone to Down or Out or kill them, you instantly heal a number of Wounds equal to 2 x (their Honor Rank). This may be done any number of times per Round, but you cannot heal off the same person more than once in the same Round. In addition, you gain the creature ability of Invulnerability. (If you are already Invulnerable due to a Shadowlands power, you gain Reduction 10 instead.)
 ### <span>Obsidian Warrior [Bushi] [CR]</span> {#toc13}
 
 This terrifying school was created by a deadly Lost bushi, but has since been taught to many Spider warriors with little or no Taint, for its methods of raw power and force of will can be used by anyone ruthless and cruel enough to master its techniques. Reputedly, most of the students at this school's handful of dojo never survive their training, but the minority who make it through are among the Spider Clan's most formidable warriors, able to match or defeat the mightiest of Rokugan's bushi.
 
-###### Requirements:
+### Requirements:
 - <strong>Rings/Traits:</strong> Earth 4, Agility 5, Reflexes 5
 - <strong>Skills:</strong> Iaijutsu 5, Intimidation 5, Lore: Shourido 4
 - <strong>Other:</strong> Must survive a skirmish with an Obsidian Warrior sensei
 
-###### <strong>Techniques</strong>
-##### Rank 1: Darkness is My Light
+## <strong>Techniques</strong>
+#### Rank 1: Darkness is My Light
 
 The Obsidian Warrior's devotion to Shourido frees him from the constraints which bind and restrict lesser mortals. Your maximum Raises are no longer limited in any way.
-##### Rank 2: The Power of Impurity
+#### Rank 2: The Power of Impurity
 
 The power of the Shadowlands courses through the Obsidian Warrior, disorienting nearby foes. All your opponents within 30' are affected by this Technique. The total of their Bugei and Damage rolls are reduced by your Strength Rank plus your Taint Rank. Opponents may ignore this Technique for the Turn by spending a Void point.
-##### Rank 3: My Strength Has No Limits
+#### Rank 3: My Strength Has No Limits
 
 The Obsidian Warrior's complete devotion to the ways of Shourido allows him to shrug off anything that might deter him, and to funnel his power into devastating blows. You roll extra unkept dice equal to your Strength Rank plus your Taint Rank when resisting an Intimidation attempt or a Fear effect, you gain the same bonus in unkept dice to any Damage rolls you make with Melee weapons.
 ## <span>Alternate Paths</span> {#toc14}
