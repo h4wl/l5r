@@ -9,7 +9,7 @@ All ancestors are governed by the following restrictions:
 - <span style="text-decoration: underline;">Jealousy:</span> Only one Ancestor will ever advise a character. Further, if the favor of that Ancestor is ever lost, no other Ancestor can be purchased to replace it - the character's failing will be known in Yomi, and other Ancestors will disdain to approach him, no matter how noble his later deeds.
 - <span style="text-decoration: underline;">Demands:</span> All Ancestors place specific demands on the characters they help. In return for the Ancestor's potent aid, the character must live a life which accords with the Ancestor's beliefs and principles. If a character fails to meet these demands, the Ancestor leaves, perhaps forever. At the GM's option, a character that shows sincere repentance and devotion - typically at least a month of devotions, as under &quot;Piety&quot; above - can regain his Ancestor's favor. However, a character who fails to follow the Ancestor's demands a second time will be allowed no further chance to atone.
 
-## <span>Crab Ancestors</span> {#toc0}
+## <span>Crab Ancestors</span>
 
 #### <strong>Hida [14 Points]</strong>
 
@@ -39,7 +39,7 @@ The founder of the Crab shugenja school was a capable shugenja and a man who kne
 
 #### Demands:
  Kuni's demand to his descendents is a simple one - stay pure. If you ever gain so much as a single point of the Shadowlands Taint, Kuni will abandon you.
-## <span>Crane Ancestors</span> {#toc1}
+## <span>Crane Ancestors</span>
 
 #### <strong>Asahina [9 Points]</strong>
 
@@ -78,7 +78,7 @@ Doji's husband was both a duelist and an artisan of renown, author of
 
 #### Demands:
  Kakita was an honorable man who sought perfection in both the sword and with the artist's brush, and he expects the same of you. If you ever lose a duel or an artistic competition, Kakita forsakes you. He also abandons you if your Honor ever drops below 4.0.
-## <span>Dragon Ancestors</span> {#toc2}
+## <span>Dragon Ancestors</span>
 
 #### <strong>Agasha [6/10 Points]</strong>
 
@@ -110,7 +110,7 @@ The tattooed man who captured Iuchiban's soul during the Bloodspeaker's second r
 
 #### Demands:
  Yamatsu will abandon you if you ever gain Taint of 1.0 or higher, or if you ever willingly use maho or a Shadowlands power.
-## <span>Lion Ancestors</span> {#toc3}
+## <span>Lion Ancestors</span>
 
 #### <strong>Akodo [12 Points]</strong>
 
@@ -140,7 +140,7 @@ Hitomi was one of the greatest heroes of the Lion Clan, a woman of faultless hon
 
 #### Demands:
  Hitomi abandons you if you ever knowingly betray your daimyo or the Lion Clan, or if you Honor ever drops below 5.0.
-## <span>Mantis Ancestors</span> {#toc4}
+## <span>Mantis Ancestors</span>
 
 #### <strong>Kaimetsu-Uo [9 Points]</strong>
 
@@ -177,7 +177,7 @@ The Mantis Clan remembers Tetsuken as a great and glorious hero who had many adv
 
 #### Demands:
  Tetsuken will abandon you if you ever forsake a True Love or pass up an opportunity to gain Glory.
-## <span>Phoenix Ancestors</span> {#toc5}
+## <span>Phoenix Ancestors</span>
 
 #### <strong>Asako [5 Points]</strong>
 
@@ -209,7 +209,7 @@ Known for his wisdom, perception, and foresight, Shiba served the Isawa faithful
 
 #### Demands:
  Shiba requires that you maintain both a high honor and an absolute, unswerving dedication to fulfilling his oath to the Isawa. If your Honor Rank ever drops below 4.0, he will abandon you. He will also abandon you if you ever willingly disobey a higher-ranking Isawa, or if you ever voluntarily leave a skirmish while an Isawa ally remains behind.
-## <span>Scorpion Ancestors</span> {#toc6}
+## <span>Scorpion Ancestors</span>
 
 #### <strong>Bayushi [12 Points]</strong>
 
@@ -239,7 +239,7 @@ The former Phoenix, originally husband to Asako, who was cursed by Fu Leng to be
 
 #### Demands:
  Yogo abandons you if you ever fall in love, since this means you will succumb to his curse.
-## <span>Spider Ancestors</span> {#toc7}
+## <span>Spider Ancestors</span>
 
 #### <strong>Chuda Bikimi [3 Points]</strong>
 
@@ -273,7 +273,7 @@ Once a lord of the Scorpion, Yogo Junzo’s fury at the dissolution of his clan 
 
 #### Demands:
  Junzo demands you follow him down the path of dark knowledge and ever-greater power. If you are ever presented with an opportunity to learn new forbidden knowledge (or to gain a new instance of the Forbidden Knowledge Advantage) and do not take it, even to preserve your reputation or secrecy, Junzo abandons you.
-## <span>Unicorn Ancestors</span> {#toc8}
+## <span>Unicorn Ancestors</span>
 
 #### <strong>Iuchi [8 Points]</strong>
 
@@ -303,7 +303,7 @@ The founder of the Unicorn was known for her boundless curiosity about the world
 
 #### Demands:
  Shinjo requires you to always act with compassion, even when facing bitter enemies. If you ever fail to show mercy and compassion to a rival or enemy, Shinjo will abandon you. (This does not apply to members of the Kolat or minions of the Lying Darkness or the Shadow Dragon.)
-## <span>Imperial Families Ancestors</span> {#toc9}
+## <span>Imperial Families Ancestors</span>
 
 #### <strong>Otomo [6 Points]</strong>
 
@@ -328,7 +328,7 @@ The first Miya tirelessly and selflessly spread the word of the Empire’s victo
 
 #### Demands:
  Miya expects his descendents to show his same compassion toward those suffering from war or disaster. If you ever turn away from helping those suffering from either of these events, Miya will abandon you.
-## <span>Minor Clan Ancestors</span> {#toc10}
+## <span>Minor Clan Ancestors</span>
 
 #### <strong>Ichiro Fureheshu (Badger) [9 Points]</strong>
 
@@ -400,7 +400,7 @@ Agasha Kasuga was a man possessed of great curiosity, but also a man who placed 
 
 #### Demands:
  Kasuga expects you to share his self-sacrificing loyalty to Rokugan. If you ever place your own Honor above the needs of the Empire, he will abandon you.
-## <span>Ronin Ancestors</span> {#toc11}
+## <span>Ronin Ancestors</span>
 
 #### <strong>Sun Tao [10 points]</strong>
 
@@ -425,7 +425,7 @@ The simple peasant woman called Miyuko was the first and greatest apprentice of 
 
 #### Demands:
  Miyuko sought to share her wisdom with all who would listen, and she expects the same of you. If you ever refuse to share magical knowledge with an honorable person, Miyuko will abandon you. This means those guided by Miyuko will freely share their spells with others, in sharp contrast to most shugenja.
-## <span>Brotherhood of Shinsei Ancestors</span> {#toc12}
+## <span>Brotherhood of Shinsei Ancestors</span>
 
 #### <strong>Togashi Kaze (Fortunist/Kaimetsu-Uo) [5 points]</strong>
 

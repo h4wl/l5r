@@ -10,9 +10,9 @@ A Bushi may not know more than one Tokugi per level. However, <a href="/kenshi-s
 
 Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a Iaijutsu dueling, and only if the minimal number of Iaijutsu skill ranks is achieved. Tokugi used this way need to be declared during the Assessment part of the duel.
 
-## <span>List of Tokugi</span> {#toc0}
+## <span>List of Tokugi</span>
 
-### <span>Air Tokugi</span> {#toc1}
+### <span>Air Tokugi</span>
 
 ### Breath of the South Wind
 - Ring/Mastery: Air 3
@@ -74,7 +74,7 @@ Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a
 - Weapon Types: Kyujutsu 7, Ninjutsu 7, Spears 7
 - Effect: The ultimate gift of Air is a perfect shot, flawlessly piercing the heart. You may only use this Tokugi with a ranged attack, against an individual whom you know to possess a heart, or organ possessing a similar function. You ignore all obstacles between you and your target. If you successfully touch your opponent with this Tokugi, you ignore all Damage Reduction from the target, and all Damage Dice you choose to keep explode. The target falls Prone and is Stunned.
 
-### <span>Earth Tokugi</span> {#toc2}
+### <span>Earth Tokugi</span>
 
 ### Turn Away the Blade
 - Ring/Mastery: Earth 3
@@ -136,7 +136,7 @@ Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a
 - Weapon Types: Jiujutsu 7, Heavy Weapons 7, Polearms 7
 - Effect: One of the greatest lesson of Earth Tokujutsu is that one's flesh must become as steel for body and weapon to be one. When you perform this Tokugi, until the next Reaction Step, you gain Reduction equal to half the damage inflicted by this attack, and you become immune to fatigue, the effect of any poisons and diseases, and suffer no Wound Penalties.
 
-### <span>Fire Tokugi</span> {#toc3}
+### <span>Fire Tokugi</span>
 
 ### Spinning Blade Assault
 - Ring/Mastery: Fire 3
@@ -198,7 +198,7 @@ Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a
 - Weapon Types: Heavy Weapons 7, Kenjutsu 7, Knives 7, Ninjutsu 7
 - Effect: A forbidden and suicidal assault, this death-or-glory attack is said to destroy its user's body as it is performed. When you successfully perform this Tokugi, you immediately take damage equal to four times your Earth Ring and become Fatigued. You keep an additional number of damage dice on that attack equal to the number of full Wound Ranks you possess.
 
-### <span>Water Tokugi</span> {#toc4}
+### <span>Water Tokugi</span>
 
 ### Solemn Torrent
 - Ring/Mastery: Water 3
@@ -260,7 +260,7 @@ Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a
 - Weapon Types: Chain Weapons 7, Heavy Weapons 7, Kenjutsu 7, Knives 7, Jiujutsu 7, Staves 7
 - Effect: This sinister, forbidden technique resembles the cursed arts of the Maho-tsukai, and may in fact be inspired from the Dark Moto's endless hunger. When you perform this Tokugi, you add +2k0 to your Damage Rolls, and you immediately regain Wounds equal to half the number of Wounds inflicted by this Tokugi on your opponent, rounded down. If you kill the opponent, double the amount of recovered Wounds.
 
-### <span>Void Tokugi</span> {#toc5}
+### <span>Void Tokugi</span>
 
 ### Strike of No Mind
 - Ring/Mastery: Void 3
@@ -322,7 +322,7 @@ Only Tokugi with the Iaijutsu Skill may be used as part of the Strike phase of a
 - Weapon Types: Any 7, Iaijutsu 7
 - Effect: This strange Tokugi allows oneself to strike in the middle of Time itself. You may declare that Tokugi at any point during a Round in which you didn't act. You immediately take your Turn at that moment, stopping time; however, if this Tokugi actually misses, your turn immediately ends.
 
-### <span>Multiple Element Tokugi</span> {#toc6}
+### <span>Multiple Element Tokugi</span>
 
 ### The World in Shadows
 - Ring/Mastery&nbsp;: Air 4 and Water 4

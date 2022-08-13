@@ -1,6 +1,6 @@
 Title: Earth Spells
 ---
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Armor of Earth [CR]
 - Ring/Mastery: Earth 1 (Battle, Defense)
@@ -107,7 +107,7 @@ The spell may be cast multiple times on the same target, but the Earth spirits c
 
 You summon a tetsubo of pure earth, studded with all manner of stones. The weapon's default form is a tetsubo, but one Raise can change its form to any other heavy weapon of your choosing. The tetsubo has a DR of 2k2. When wielding this weapon, you may use your School Rank in place of your Heavy Weapon Skill if you wish. If you do have the Heavy Weapon Skill, the tetsubo grants you a Free Raise for the Knockdown maneuver (this bonus does not apply if you grant the Tetsubo to another person instead of wielding it yourself). The tetsubo disappears if it is lost from your hand. Instead of summoning for yourself, you may cause it to appear in the hands of an ally within 20 feet. He is treated as the caster for all purposes of the spell, but does not gain the Free Raise bonus.
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Be the Mountain [CR]
 - Ring/Mastery: Earth 2 (Defense)
@@ -225,7 +225,7 @@ This spell was originally developed by the Kitsune family of the Fox Clan, who u
 days. The surface – whether it be stone, earth, or wood – literally pushes up in the shape of the tracks, creating a clear and easily-followed path.<br>
 (Note that, unlike revelatory Air spells such as By the Light of the Moon, this spell does not merely reveal actively concealed tracks but also normal unconcealed tracks that are too faint or old to normally be seen. For example, By the Light of the Moon would not reveal the barefoot tracks of a servant who walked across the floor of a dojo, but Whispers of the Land will do so.)
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### Bonds of Ningen-Do [CR]
 - Ring/Mastery: Earth 3 (Wards)
@@ -366,7 +366,7 @@ The target's Earth Ring is lowered by 1 Rank, and his Wound Ranks are reduced co
 This spell entreats the Earth kami inhabiting living plants and trees, causing them to make the plants rapidly grow and twine themselves around a designated target. Within seconds the target finds himself ensnared in a dense tangle of vines, creepers, and branches. The target is automatically Entangled at the moment the spell is cast; on his subsequent Turns, the target may attempt to escape as a Simple Action by making a Contested Strength roll against the plants’ Strength of 4. (Alternatively, the target can be cut free by allies – it takes two Turns’ worth of effort to slash away enough of the plants to free the target.) If the target escapes, or the spell expires, the plants drop away and shrivel up as the Earth kami cease to stimulate them.<br>
 This spell can only function in an area where living plants are present, e.g. it will not function inside a building, in a desert, on a barren mountainside, or other such environments. It cannot target a flying creature.
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Armor of the Emperor [CR]
 - Ring/Mastery: Earth 4 (Defense)
@@ -452,7 +452,7 @@ When Tomb of Jade is cast, the target is momentarily immobilized as the Earth sp
 
 This spell coaxes the spirits of Earth into rising up and forming a thick, powerful barrier to protect the caster. The wall of rock-hard earth which this spell creates can be shaped as the caster desires, and can be curved, placed on a side of a hill, or even formed in a circle. It is extremely tough, requiring a Strength Roll against a TN of the caster's (Earth + School Rank) x 5 in order to break through. It is strong enough to hold back a raging flood, a lava flow, or hurricane winds, at least as long as the spell lasts. When the spell expires, however, the earthen barrier crumbles away in moments.
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### DraWing on the Mountain [CR]
 - Ring/Mastery: Earth 5 (Battle, Defense)
@@ -520,7 +520,7 @@ This spell allows the caster to fortify one person with the power of the Earth, 
 
 The counterpoint to the Kami's Strength, this spell infuses one person with the stubbornness and determination of Earth, greatly enhancing their willpower and making them all but immune to the effects of elemental magic. The target of this spell increases his Willpower by an amount equal to the caster's Earth Ring, and any spells (friendly or hostile, but not including Maho spells) which target him suffer a penalty of -XkX to their Spell Casting Roll, where X is the caster's Earth Ring. In return, however, the target is so stubborn and willful that he cannot function properly in a social environment,and suffers a penalty to all Social Skill rolls of -Xk0, where X is the Earth Ring of the caster.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### Essence of Jade [CR]
 - Ring/Mastery: Earth 6 (Defense, Jade)

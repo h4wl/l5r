@@ -1,6 +1,6 @@
 Title: Low Skills
 ---
-## <span>Forgery (Agility)</span> {#toc0}
+## <span>Forgery (Agility)</span>
 
 #### Sub-types:
  Forgery is considered a Craft Skill for effects that target Craft Skills.
@@ -21,7 +21,7 @@ When a forgery is created, the result of your Forgery / Agility Skill Roll shoul
 - Rank 5: The character gains a bonus of +1k0 on any roll to detect a forgery made by someone else.
 - Rank 7: The character gains a bonus of +0k1 (for a total of +1k1) to his Forgery Skill Roll result for the purposes of establishing the TN of an Investigation / Perception Skill Roll to detect it.
 
-## <span>Intimidation (Willpower)</span> {#toc1}
+## <span>Intimidation (Willpower)</span>
 
 #### Sub-types:
  Social Skill
@@ -42,7 +42,7 @@ Intimidation is usually a Contested Roll, resisted with Etiquette (Courtesy) / W
 #### Mastery Abilities:
 - Rank 5: The character gains a bonus of +5 to the total of any Contested Roll made using Intimidation.
 
-## <span>Sleight of Hand (Agility)</span> {#toc2}
+## <span>Sleight of Hand (Agility)</span>
 
 #### Sub-types:
  None
@@ -61,7 +61,7 @@ The Conceal Emphasis allows you to hide small objects (something that can fit in
 #### Mastery Abilities:
 - Rank 5: The character may use the Conceal Emphasis to conceal small weapons.
 
-## <span>Stealth (Agility)</span> {#toc3}
+## <span>Stealth (Agility)</span>
 
 #### Sub-type:
  None
@@ -82,7 +82,7 @@ While concealed via Stealth, you may take Move Actions. When taking a Move Actio
 - Rank 5: A character's Simple Move Actions while using Stealth allow him to move a distance equal to his Water x 10.
 - Rank 7: A character using Stealth may make Free Move Actions as normal.
 
-## <span>Temptation (Awareness)</span> {#toc4}
+## <span>Temptation (Awareness)</span>
 
 #### Sub-type:
  Social Skill

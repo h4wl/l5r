@@ -13,7 +13,7 @@ A character can always &quot;embrace the taint&quot; and add +1k1 to any physica
 - <span style="text-decoration: underline;"><strong><a href="/major-shadowlands-powers">Major Shadowlands Powers</a></strong></span> are powers usable by the most powerful Tainted individuals. Using them forces the user to make an Earth Taint roll (TN 20) or gain an additional point of Taint.
 - <span style="text-decoration: underline;"><strong><a href="/akutenshi-powers">Akutenshi Powers</a></strong></span> are powers usable only by Akutenshi, and by exceedingly rare other individuals. They are otherwise treated as Major Shadowlands Powers.
 
-## <span>Taint ranks</span> {#toc0}
+## <span>Taint ranks</span>
 
 <span style="text-decoration: underline;"><strong>Level 0 : Seeds of Darkness</strong></span><br>
 A character with less than a full rank of taint is not treated as actually tainted. Spells that target tainted individuals do not register against them. At worst, they may have a few nightmares.

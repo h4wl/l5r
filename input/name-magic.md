@@ -3,11 +3,11 @@ Title: Name Magic
 Nezumi do not use magic in any way recognized by humans. They have no shugenja, they do not importune the kami or read prayers from scrolls, and they do not revere the Fortunes or Kami (though the Transcendent are god-like in their estimation). Instead they use their own magical tradition known as Name Magic.<br>
 While in some ways it is more powerful than Rokugani magic, in other ways it is extremely limited. Players and GMs alike should try not to present Nezumi Shamans as just “ratling shugenja.” Name Magic has a unique ﬂavor and style all its own. Shamans have such a powerful sense of identity, such a powerful Name, that they are able to consciously alter reality by focusing their will. While this means a Nezumi can use magic without relying on scrolls or kami, it also means a shaman must practice rigid mental discipline. If a Shaman’s Name weakens, his magic weakens – and since Name is dependent on Niche, a Shaman who behaves in ways that violate Nezumi ethics will soon ﬁ nd his effective Name (and thus his magic) diminishing. Worse yet, some shamans fall into a prison of self-deception (“N-kich”), becoming twisted and evil.
 
-### <span>Learning Name Magic Spells</span> {#toc0}
+### <span>Learning Name Magic Spells</span>
 
 Nezumi Shamans start play knowing three spells, and when they increase in School Rank they immediately learn two new spells of any Mastery Level which they can cast. Shamans can learn additional spells by training with other Nezumi shamans or by communing with Transcendent spirits in Yume-do – however, each time a Shaman learns an extra spell in this way, he must spend Experience Points equal to its Mastery Level. Shamans can never know more total spells than 4x their current School Rank. (Spells gained with the Namebound Advantage do not count against this limit.) If a Shaman has an opportunity to learn a new spell but has already reached the maximum number of spells he can know at his current School Rank, he may elect to permanently forget one of his previously known spells in order to learn the new one.
 
-### <span>Casting Name Magic Spells</span> {#toc1}
+### <span>Casting Name Magic Spells</span>
 
 Name Magic spells operate with many of the same basic constraints as elemental magic. Casting a Name Magic spell requires a Spell Casting Roll of School Rank / Name (keeping Name) at a TN of 5 + (5x Mastery Level). Note that if the Shaman’s effective Name Rank has been reduced by a low Niche Rank, his Spell Casting Roll will use the lower effective Name Rank rather than his actual Name Rank. Unless otherwise noted, casting Name Magic spells requires a number of Complex Actions equal to the spell’s Mastery Level, and Shamans may take Raises to reduce this casting time by one Complex Action per Raise, to a minimum of one Complex Action. Shamans have a number of spell slots per day equal to their Name Rank x3. So long as a Shaman has spell slots available, he may cast any spell he knows. Nezumi do not have an Afﬁnity or Deﬁciency. Casting Name Magic usually involves an elaborate array of gestures and words, occasionally accompanied by dance – thus, Shamans may not cast spells if they are restrained or silenced in any way. Nezumi do not use scrolls – in game terms, all of their spells are considered to be memorized.
 
@@ -17,7 +17,7 @@ Name Magic spells operate with many of the same basic constraints as elemental m
 - Dancing: Some spells can be enhanced by dances performed by the Shaman, and some require dancing in order to be cast at all. The Shaman must dance for a number of hours equal to the spell’s Mastery Level before casting it. If the dance is interrupted, the spell fails. If a bonus is listed in the spell’s description, the Nezumi gains that bonus on the Spell Casting Roll.
 - True Name: Some spells require the Shaman to know the target’s True Name (see sidebar). If the spell does not require this but the Shaman does know the target’s True Name, he gains +2k2 on the Spell Casting Roll against that person (unless the target is himself).
 
-### <span>Mastery Level 1</span> {#toc2}
+### <span>Mastery Level 1</span>
 
 ### Beast Speech
 - Mastery: Name 1
@@ -129,7 +129,7 @@ By casting this spell, the shaman places a bit of his Name in a weapon, increasi
 
 This spell summons the purity of the Shaman’s spirit and sends it forth as a beam of crystalline energy. The beam inﬂ icts 3k3 Wounds to all creatures corrupted by the Shadowlands Taint or the Nothing. If it is used on a target not corrupted by either of these forces, the beam rebounds on the caster and damages him instead.
 
-### <span>Mastery Level 2</span> {#toc3}
+### <span>Mastery Level 2</span>
 
 ### Burn Name
 - Mastery: Name 2
@@ -224,7 +224,7 @@ The Shaman selects one Skill possessed by himself. For the duration of the spell
 
 By casting this spell and engaging in the required dance, the Shaman shares the target’s Name. For the duration of the spell, the caster knows the target’s True Name as well as he knows his own, and can change it as he can change his own. All spells that affect one affect the other, for good or ill. (This happens whether the spells are Name Magic or other forms of magic.) The caster and the target always know the other’s location and direction in regard to themselves. A shaman’s Name may only be shared with one creature at a time. If either the Shaman or the target die while this spell is in effect, their counterpart suffers Wounds equal to the Shaman’s effective Name in rolled and kept dice, and falls unconscious for 24 hours.
 
-### <span>Mastery Level 3</span> {#toc4}
+### <span>Mastery Level 3</span>
 
 ### Bonds of Blood
 - Mastery: Name 3
@@ -312,7 +312,7 @@ To cast this spell, the caster must have a Named Weapon. This dance and magic al
 
 This spell can only be cast if the caster knows the True Names of both targets. This magic allows the caster to twist reality, causing two living creatures (one of whom may be the Shaman himself) within range to instantly switch places. Both targets are disoriented on their next Turn and can take only Free Actions on that Turn.
 
-### <span>Mastery Level 4</span> {#toc5}
+### <span>Mastery Level 4</span>
 
 ### Bind Name
 - Mastery: Touch
@@ -380,7 +380,7 @@ The caster temporarily borrows a bit of the target’s Name. Select one Skill kn
 
 This potent curse allows the shaman to greatly alter the target’s identity. It is among the most feared of all Name Magics. For the duration of the spell, the target gains a Social or Spiritual Disadvantage of the Shaman’s choice. Anyone who meets the spell’s target will react as if the target has always had the Disadvantage. When the spell ends, all effects of the Disadvantage vanish and those who were affected are left wondering what happened. No Disadvantage bestowed may have a point cost greater than twice the caster’s effective Name Rank. Dependant is a Disadvantage worthy of special note. In the case of this Disadvantage, a trickster spirit actually takes the form of a Dependant. For the duration, the target even has memories of this Dependant’s existence, though inconsistencies are possible. (How did I win the Battle of Beiden Pass while carrying my aging grandfather everywhere?) If the truth is exposed, or the spell ends, the spirit immediately vanishes amid cackling laughter, but the memories remain. Shadowlands Taint cannot be inﬂ icted by this spell.
 
-### <span>Mastery Level 5</span> {#toc6}
+### <span>Mastery Level 5</span>
 
 ### Conjure Chitatchikkan’s Fury
 - Mastery: Name 5 c Range: 50’
@@ -427,7 +427,7 @@ This spell allows the Shaman to send a mental summons (up to twenty words long) 
 
 This is the most feared of all Nezumi spells. The target’s Name is taken away forever. The target still physically exists and retains his memory, but no one else remembers him except for the Shaman. The target’s family is now someone else’s family. The deeds he accomplished are remembered – but as if someone else had done them. The Shaman has no direct control over exactly how this new reality forms itself. The effect, however, is not entirely perfect. Those who were extremely close to the target may potentially notice discrepancies. (“You say you saved my life at the Battle of Beiden Pass? No you didn’t. Matsu Gohei did&#8230; But I didn’t meet Matsu Gohei until three months after that battle. What’s going on?”) Characters bound to the target with Kharmic Tie, Blissful Betrothal, or True Love (or Allies with 4 points of Devotion) will still feel compelled to help and care for the target, even though they no longer remember why. Likewise, Sworn Enemies will hate the target on sight without knowing why. Fortunes, Celestial Dragons, and other such powerful spirits will remember both versions of reality, and these entities may become interested in the target, wondering how such a peculiar thing could come to pass. Each time this spell is cast, the Shaman’s Name Rank is reduced by one. Shamans do not make use of this spell lightly due to its unpredictable affects on reality. Those who use it are likely to be visited by other Shamans (who know the signs of its use) who wish to know why such extreme magic was used. The only known way for this spell to be undone is for the Shaman to willingly return the target’s Name. To do so is considered the same as failing to cast the spell – that is, the Shaman will immediately die.
 
-### <span>Mastery Level 6</span> {#toc7}
+### <span>Mastery Level 6</span>
 
 ### Dream Forever
 - Mastery: Name 6

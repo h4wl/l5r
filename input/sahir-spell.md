@@ -4,9 +4,9 @@ There are five Disciplines, which are groupings of similar powers. If any other 
 
 Each Discipline has three types of spells, and each of those types have three levels of power. You may only choose to learn a higher level of power if you have mastered the previous levels of that spell.
 
-## <span>Discipline of Summoning (Air)</span> {#toc0}
+## <span>Discipline of Summoning (Air)</span>
 
-### <span>Jinn</span> {#toc1}
+### <span>Jinn</span>
 
 These spells permit a sahir to summon and bind a jinn to his will. While all a sahir needs to summon a jinn to bargain with him is the Advantage Servant of the Smokeless Fire, these spells allow a Qabal-trained sahir to ensure that he gets the better of a deal.
 
@@ -37,7 +37,7 @@ At this level, the sahir no longer needs the Advantage Servant of the Smokeless 
 
 At this level, the sahir learns the secret of manipulating the bonds between sahir and jinn. You may cast this spell to sever a jinn's anchor to this world, effectively banishing it form this plane of existence instantly. This spell may be cast on any jinn, including your own. The Jinn may roll its Void against a TN equal the result of your Spellcasting Roll to avoid being banished.
 
-### <span>Primal Elements</span> {#toc2}
+### <span>Primal Elements</span>
 
 The spells of this type allow the sahir to affect the four most basic Elements: Earth, Air, Fire and Water. These spells were the first worked out by Hakhim, and countless stories of heroic sahir recall timely and wise use of these spells.
 
@@ -68,7 +68,7 @@ The sahir may summon one of the four elements to himself, or destroy some in his
 
 Without a doubt the strangest of the Primal Elements, the third renders a sahir or a touched target immune to an element. If Air is chosen, the target need no longer breathe and is immune to weather effects. If Earth is chosen, the target may pass through solid barriers as though they were thick fog, and suffers no damage from hitting stone, sand or wood. If Fire is chosen, the target takes no damage from burning, and cannot suffer penalties from smoke or bright light. If Water is chosen, the target need not breathe underwater, suffers no damage from intense water pressure, and cannot be moved by water currents.
 
-### <span>Implements</span> {#toc3}
+### <span>Implements</span>
 
 The sahir's possessions fall under the Implements purview. These spells ensure that a sahir is never unarmed, and that his foes sometimes are. Implements cover any nonliving thing not covered by the Primal Elements.
 
@@ -99,9 +99,9 @@ The sahir can now call objects to him, or send them elsewhere with a gesture. Yo
 
 The sahir's control over inanimate objects now permits him to move them with nothing more than his will, using his Air instead of his Strength or Agility. You may manipulate any object you can perceive as though you were holding it, as long as you maintain concentration. Unlike lower level spells in this purview, this spell can affect living creatures, too.
 
-## <span>Discipline of Celestials (Void)</span> {#toc4}
+## <span>Discipline of Celestials (Void)</span>
 
-### <span>Farsight</span> {#toc5}
+### <span>Farsight</span>
 
 Distance is no obstacle to the diligent sahir. With the spells of Farsight, this is true with regards to his vision. A great deal of knowledge can be garnered with careful use of these spells, and they can protect the secrets of a cautious sahir.
 
@@ -132,7 +132,7 @@ With the aid of a placid pool of water or a mirror, the sahir can remotely view 
 
 If the sahir is suspecting he is being watched via either one of the two previous spells or another form of magic, he may end the other sahir's observation abruptly with this spell. The observer is rendered temprorarily blind for a full minute, and suffers Wounds equal to the caster's Void Ring.
 
-### <span>Astrology</span> {#toc6}
+### <span>Astrology</span>
 
 The Qabal has had the advantage of observing the astrological techniques of dozens of cultures, and has lifted from each of them the most worthy elements to create a melange of spell that are quite effective. These spells allow a sahir to find answers he could not find elsewhere.
 
@@ -163,9 +163,9 @@ Not a new spell but rather a refinement of the previous, this level improves the
 
 The sahir is powerful enough in Celestials magic that he can obscure his fate from others. If you cast this spell at dusk, you are no longer a valid target for the Mastery Level 1 spell.
 
-## <span>Discipline of Black Magic (Earth)</span> {#toc7}
+## <span>Discipline of Black Magic (Earth)</span>
 
-### <span>Ghul Creation</span> {#toc8}
+### <span>Ghul Creation</span>
 
 Though rarely used by any other than the Jackal-corrupted Qabal sahir, it is possible to create the shambling, hungry undead which haunt the Jewel's sewers. Sahir wishing to make use of these spells are advised to take precautions against being eaten by the target of their spells.
 
@@ -196,7 +196,7 @@ This spell is a distillation of the effects which create ghouls. You can create 
 
 Now a master of the restless dead, the sahir may destroy ghuls with little effort. When you cast a spell, you may instantly destroy a ghul in your line of sight. Treat this as a Contested Roll of the Sahir’s Earth / Sahir Rank vs. the Ghul’s Insight Rank/Earth. It should be noted that Ghul Lords and intelligent ghul possess insight ranks.
 
-### <span>Life</span> {#toc9}
+### <span>Life</span>
 
 The more appreciated (and learned) purview of the Black Magic, the ability to heal or harm others, is regarded as one of the noblest powers of the sahir. Most people of the Burning Sands assume that all sahir know this group of spells since they are so useful and well-regarded.
 
@@ -227,7 +227,7 @@ Diseases are all too common in the Jewel, with so many people living in close pr
 
 The third Life spell is very strange. It does nothing if cast by itself, but if you cast it directly before either the two preceding spells (by 3 rounds or less), it instead heals a number of persons or creature equal to twice your Insight Rank within arm's reach (no more than 5').
 
-### <span>Death</span> {#toc10}
+### <span>Death</span>
 
 Almost as sinister as the magic of Ghul Creation, Death magic inflicts wounds and disease directly upon those people the sahir wishes. These spells are rightly feared in the Jewel, for not only can they strike a man dead, they may potentially kill everyone standing near him.
 
@@ -258,9 +258,9 @@ The sahir inflicts a disease upon a single target. The effect is temporary, last
 
 The third Death spell is functionnally identical to the previous spells, but affects a number of target equal to up to twice the caster's Insight Rank.
 
-## <span>Discipline of Control (Water)</span> {#toc11}
+## <span>Discipline of Control (Water)</span>
 
-### <span>Influence</span> {#toc12}
+### <span>Influence</span>
 
 The most insidious of magics that the Qabal employs, influence Magic allows a sahir to alter the mind of any person or creature with whom they can communicate. Like most Control spells, the adjustments needed to the Seal are minor, and very easy to miss if the observers don't know what to look for.
 
@@ -291,7 +291,7 @@ At this level, a Sahir can plant or delete thoughts in the minds of those with w
 
 The sahir need only bark an order and adjust the Seal and whomever he desires obeys him. You may use this spell to bend to your will a number of people up to your Insight Rank. Each must make a Contested Willpower Roll against you. Those who fail must obey an order for you for the best of their abilities. Whenever they must suffer Wounds, they may make another Contested Willpower Roll.
 
-### <span>Illusion</span> {#toc13}
+### <span>Illusion</span>
 
 This form of Control Magic is not commonly known, as all manner of abilities are already ascribed to the sahir, and many of the illusions created by these spells could just as easily be mistaken for the powers of the Summoning Magic. Most sahir are content to allow others to believe that they can really bring forth all manner of wonders, even if some of them are false.
 
@@ -322,7 +322,7 @@ Any sahir who knows the preceding spell is aware that things may not always be a
 
 This spell, sometimes known as Dream Magic, permits a sahir to invade a person's sleeping mind and fill it with what the sahir desires. It requires a sympathetic-magic link to the target (lock of hair, blood, item of importance, etc.) so that it can’t be used on someone the Sahir has merely heard of. The adjustments to the Seal necessary to cast this spell are intensely elaborate and require hours of premaration, so a wise sahir will begin this spell before his target falls asleep so he will finish as they are dreaming. Casting this spell allows you to walk in the target's mind as if it were a hallway, and look upon his thought as if on display. You may alter thoughts, memories and perceptions as with Influence spells. Each alteration requires a half-hour.
 
-### <span>Transformation</span> {#toc14}
+### <span>Transformation</span>
 
 Whereas Influence alters the mind, Transformation alters the body. All of these spells are temporary in duration but they create impressive changes in the physiology of the caster.
 
@@ -353,9 +353,9 @@ At this level, the sahir can become an animal while retaining his human intellec
 
 The most potent of transformative effects, this spell permits the caster to turn himself into any creature he can imagine. Naga, Rakshasa, even jinn can be emulated with this spell. This spell confers none of the magical benefits of the emulated creatures, only the mundane ones.
 
-## <span>Discipline of Blessings and Curses (Fire)</span> {#toc15}
+## <span>Discipline of Blessings and Curses (Fire)</span>
 
-### <span>Blessings</span> {#toc16}
+### <span>Blessings</span>
 
 Sometimes, all that is required to succeed in one's endeavors is one small nudge in the right direction. Blessings tap into the potential inherant in all beings to excel, and moves them closer to their best effort. Your chances to succeed on a task climb dramatically if you are blessed. A specific task may only receive the benefit of a single blessing, but a Skill can receive any number of Blessings.
 
@@ -386,7 +386,7 @@ The second blessing is more potent. As before, you must choose a Skill and a spe
 
 The most potent blessing a sahir is capable of offers no greater benefit than the second, but is superior because it can be cast in the space of speaking a single word. You may cast it as a Simple Action.
 
-### <span>Curses</span> {#toc17}
+### <span>Curses</span>
 
 The opposite of Blessings, Curses draws forth the potential any being carries within it to fail, stumble or lose its stride. Typically cast upon one's enemies, Curses are the most common offensive magic used in the Jewel. A specific task may only receive the benefit of a single Curse, but a Skill can receive any number of Curse.
 

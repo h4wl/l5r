@@ -6,7 +6,7 @@ At the beginning of the character creation process, characters begin with all Ri
 
 Rings are never increased directly. Instead, a Ring is equal to the lower of the two Traits that comprise it. Thus, if a Ring is made up of a Trait of 2 and a Trait of 4, then the Ring’s Rank is 2. If the lower of the Traits increases to 3, the Ring will increase to Rank 3 as well. Thus, by increasing both Traits, a player increases the character’s Ring, which in turn grants them greater access to other abilities.
 
-## <span>Air</span> {#toc0}
+## <span>Air</span>
 
 <strong>Air</strong> is enigmatic and mercurial in all things, and represents an individual’s capacity for empathy and intuition. The spirits of Air can be capricious and mischievous, but their wrath is as that of the storm. Those who are aligned with the element of Air possess superior instincts and speed of reaction. Those who are at odds with Air are physically sluggish and oblivious to the nuanced behavior of those around them.
 
@@ -14,7 +14,7 @@ Rings are never increased directly. Instead, a Ring is equal to the lower of the
 
 <strong>Reflexes</strong> is a Physical Trait that represents a character’s ability to instantly react to events taking place around him. A character with high Refl exes is fl eet of foot and possesses a lightning fast response time that aids him in many aspects of combat. Refl exes is important in the determination of a character’s Initiative and Armor TN.
 
-## <span>Earth</span> {#toc1}
+## <span>Earth</span>
 
 <strong>Earth</strong> is eternal, unchanging, and unmoving. It is the element of endurance and resistance, and represents an individual’s ability to withstand whatever trials arise. The spirits of Earth are quiet and impassive but can be roused into brief moments of terrible violence. Those who are aligned with Earth have tremendous fortitude and resolve, resisting the power of the Shadowlands Taint, while those who are at odds with Earth are frail and weak-minded.
 
@@ -22,7 +22,7 @@ Rings are never increased directly. Instead, a Ring is equal to the lower of the
 
 <strong>Stamina</strong> is a Physical Trait that determines a character’s ability to endure constant physical activity and recover from wounds suffered in battle. A character with a high Stamina possesses the ability to exert himself for long periods of time with no signs of fatigue or weakness, and to recover from even near-mortal wounds in a remarkably short period of time. Stamina’s primary benefi t to a character is its influence on how quickly he recovers Wounds suffered from damage.
 
-## <span>Fire</span> {#toc2}
+## <span>Fire</span>
 
 <strong>Fire</strong> is the element of dynamic change, energy, and destruction. It is the element of motion and illumination. Spirits of Fire are capable of mending what has been broken, or of destroying all in their path. Those who are strong in the element of Fire are great warriors, brilliant scholars, or possibly both. Those weak in Fire are physically uncoordinated and sluggish of thought.
 
@@ -30,7 +30,7 @@ Rings are never increased directly. Instead, a Ring is equal to the lower of the
 
 <strong>Agility</strong> is a Physical Trait that represents a character’s hand-eye coordination and general physical athleticism. Virtually any physical feat that is not dependent upon speed or strength is instead dependent upon Agility. Agility is used for almost every Weapon Skill, making it one of the most important Traits with regard to combat.
 
-## <span>Water</span> {#toc3}
+## <span>Water</span>
 
 <strong>Water</strong> is the element of rapid change and alteration. It is the inexorable force that can carve mountains over thousands of years and the capricious storm that batters a ship one instant and gently carries it to its destination the next. Spirits of water can enhance the movement abilities of those they bless, or bolster their strength in other ways. Those who are strong in the element of Water possess incredible strength and perception. Those who are weak in Water are slow to move and possess dulled senses.
 
@@ -38,7 +38,7 @@ Rings are never increased directly. Instead, a Ring is equal to the lower of the
 
 <strong>Strength</strong> is a Physical Trait that represents a character’s pure physical power. Strength is sheer force with no consideration for finesse or precision. Characters with a high Strength are warriors of devastating power, while characters with low Strength are ineffective warriors with little ability to damage their opponents. Strength has considerable effect on weapon and unarmed damage, as well as how much a character can lift, and is often used for taxing physical activities such as climbing or swimming
 
-## <span>Void</span> {#toc4}
+## <span>Void</span>
 
 The fifth and final element that comprises the universe is <strong>Void</strong>. Void is poorly understood by the mortal mind, for it is both the presence and the absence of the other four elements. It is the state of all elements existing together simultaneously, and yet it is also the emptiness that exists between them. Void is an almost uniquely human trait, a result of the divine spark that exists within them through their creation by the forces of the Celestial Heavens. Very few other creatures can even perceive the Void, let alone manipulate it.
 

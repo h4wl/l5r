@@ -11,7 +11,7 @@ The Mass Battle system allows characters to determine how involved in the fi ght
 - <strong>Stage 3: Resolution</strong> - Characters who encounter a Duel or Heroic Opportunity have a special opportunity to take a more dramatic role in the battle. A result of Duel on the Battle Table indicates the character has come across an opponent of roughly equivalent skill, and the two have engaged in a private duel. Such events are generally allowed to play out by other samurai on the battlefield, because interfering suggests the samurai being aided is incapable of dealing with the matter, a grievous insult. These duels may be traditional iaijutsu duels, or they can simply be one-on-one skirmishes with whichever weapons are available, depending upon the combatants.
 - Heroic Opportunities are somewhat more elaborate skirmish situations that arise depending upon where a character is situated in the battle. They generally involve an opportunity for greater glory on the battlefi eld, although they can easily lead to a character’s death if he oversteps his abilities. A character does not have to accept a Heroic Opportunity - he can decline, taking the better part of valor, although this will often have a negative impact on the course of the battle.
 
-## <span>Battle Table</span> {#toc0}
+## <span>Battle Table</span>
 
 
 <div class="table-responsive">
@@ -316,7 +316,7 @@ The Mass Battle system allows characters to determine how involved in the fi ght
   </table>
 </div>
 
-## <span>Heroic Opportunities</span> {#toc1}
+## <span>Heroic Opportunities</span>
 
 Each Heroic Opportunity is unique, and when a character’s<br>
 roll on the Mass Battle Table results in a Heroic Opportunity, the GM should select one appropriate to the character.<br>

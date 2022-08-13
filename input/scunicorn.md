@@ -1,8 +1,8 @@
 Title: Unicorn Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Horiuchi Shugenja</span> {#toc1}
+### <span>Horiuchi Shugenja</span>
 
 The Horiuchi family was formed late in the history of the Unicorn, but the shugenja school bears their name in modern times has an ancient history with roots from before the Great Clan's return to their ancestral home in Rokugan. During their travels outside the borders of the Emerald Empire, the Unicorn discovered many different methods and styles of magic among both their allies and enemies, incorporating them into a single method. After the Horiuchi family was formed they became some of the foremost practitioners of the meishodo method and in modern times the school bears the Horiuchi name.
 
@@ -18,7 +18,7 @@ Meishodo is a Unicorn secret, jealously guarded by all of the clan. Meishodo sac
 - Spells:** Sense, Commune, Summon, 3 Earth, 2 Water, and 1 Fire
 - <strong>Technique:</strong> <em>Mysteries of Meishodo</em> - Meishodo is a mixture of gaijin and Rokugani magic, resulting in a fast and powerful method of calling the kami. Shugenja studying these methods learn to create meishodo amulets, keyed to invoke the elements in specific ways. You may create a magical amulet by making a successful roll of Craft: Meishodo/Ring, using the Ring for the desired spell. The TN of this roll is equal to 15 plus 5 x the spell's Mastery Level. Creating a meishodo requires a number of hours equal to the spell's Mastery Level. If the roll is successful, you create a small charm imbued with the prayer to the kami that will cast the chosen spell. Each meishodo stores only one spell, and is used in place of the scroll normally required to cast the spell. Casting a spell through a meishodo requires only one Complex Action, regardless of the Mastery Level of the spell. You do not have to make a Spell Casting Roll to cast the spell, but the spell cannot gain any benefits from Raises (not even Free Raises). You expend a spell slot as normal. You may only create meishodo from spells of a Mastery Level equal or less than your Shugenja School Rank, and can never create meishodo from spells of Mastery Level 4, 5, or 6. Other shugenja may use your meishodo if they are proficient in meishodo magic (e.g. trained in this school).
 
-### <span>Ide Emissary [Courtier] [CR]</span> {#toc2}
+### <span>Ide Emissary [Courtier] [CR]</span>
 
 The Ide Techniques focus on a calm mind, serenity in all things, and meditation. They are the most pacifistic of any courtier tradition among the Great Clans, save possibly for the Asako of the Phoenix Clan. The intensity of their conviction with regard to pacifism has waxed and waned over the years, but on the whole they remain devoted to defusing conflict whenever possible. This makes them welcome allies to some Clans, and meddling outsiders to others. The Ide accept compliments and criticism with equal cheer.<br>
 The Ide Techniques are different from most courtier Techniques in that they are entirely non-offensive in nature. The Ide specialize in protecting themselves from the ramifications of their actions, and in attempting to defuse conflicts among others.
@@ -46,7 +46,7 @@ At this level of training, the Ide have become true masters of mediation, able t
 #### Rank 5: The Immovable Hand of Peace
 
 The final lesson the Ide school teaches its students is to be such perfect mediators that no honorable person can raise a hand against them in violence. You may spend a Void Point to make a Contested Roll of your Sincerity (Honesty) / Awareness against a target individual's Etiquette (Courtesy) / Awareness. If you win the roll, the target cannot take any hostile action against you (physical, social, or magical) for a number of hours equal to twice your School Rank, as long as your likewise refrain from hostility against that person. This Technique does not work agaisnt those with an Honor Rank less than 2.0 or who possess no Honor Rank (animals, oni, etc).
-### <span>Iuchi Shugenja [CR]</span> {#toc3}
+### <span>Iuchi Shugenja [CR]</span>
 
 With the possible exception of the Tamori, the Iuchi are the least conventional and conservative shugenja family in the Empire. They are wild and carefree, and as many of their sensei's lessons are taught in the open plains as in the temple. This stems from their history of teaching while the Clan was traveling through distant realms. The impact of those years is also felt in the diversity of the family's magical styles. The Iuchi embrace, among others, the style called meishodo, which involves the creation of magical talismans that shugenja can draw on in lieu of the kami.
 
@@ -60,7 +60,7 @@ In keeping with the theme of the Unicorn in general, the Iuchi Technique enhance
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Water, 2 Earth, and 1 Air
 - <strong>Technique:</strong> <em>Spirit of the Wind</em> - The Iuchi harness the power of the elements to grant the waves' speed to others. As a Complex Action, you may sacrifice one spell slot of any element to grant one target individual an additional Simple Move Action. This Simple Action is in addition to the target's normal Actions per Round. The Additional Action must be used on the target's next Turn or it is lost. You also gain a Free Raise on any spell with the Travel keyword.
 
-### <span>Moto Bushi [CR]</span> {#toc4}
+### <span>Moto Bushi [CR]</span>
 
 The Moto Bushi are the living stereotype that many hold of the Unicorn Clan. More so than any other family, they are born of a union between the Rokugani people and the gaijin who were allowed to join the Unicorn during their travels abroad. Owing to their descent from the wild, nomadic, barbarian tribes of the northern steppes, the Moto practice an unfettered fighting style that makes them awe-inspiring opponents on the battlefield, even as it earns them the enmity of all those who despise deviation from the customs and nature of Rokugani warfare.
 
@@ -87,7 +87,7 @@ The Moto fighting style is utterly relentless, allowing him to move from one foe
 #### Rank 5: Moto Cannot Yield
 
 A Moto never surrenders. While mounted or while assuming the Full Attack Stance you keep an additional number of damage dice equal to half your strength, rounded down. You only gain this bonus while wielding a two-handed weapon or a weapon with the Samurai keyword.
-### <span>Moto Death Priest [Shugenja] [IH]</span> {#toc5}
+### <span>Moto Death Priest [Shugenja] [IH]</span>
 
 The starting individuals known as the Moto Death Priests are adherents of the Shi-Tien Yen-Wang, the pantheon of wrathful gods of death and judgment who were worshiped by the Moto family prior to its allegiance to the Unicorn Clan. When the Moto were still nomads, they paid homage to these Lords of Death out of both reverence and fear. However, when the Lady Shinjo taught the Moto there gods who could show compassion and reward loyalty, they forsook their old devotion and joined the Unicorn. For centuries, the enraged Lords of Death sought their wayward worshipers, finally locating them in the Empire of Rokugan and afflicting them with ill fortune and misery, a kharmic phenomenon sometimes referred to as the Moto Curse. It was not until the days of Moto Gaheris, near the end of the War of Spirits, that the gods were contacted directly and a bargain was struck: the Lords of Death would stay their wrath and in exchange the Moto would resume their worship.
 
@@ -101,7 +101,7 @@ After the reunion of the Moto and the Lords of Death, worship of these gods spre
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Earth, 2 Fire, and 1 Water
 - <strong>Technique:</strong> <em>Blessings of the Shi-Tien Yen-Wang</em> - The Moto Death Priests carry the favor of gaijin death gods and bestow their blessings to their enemies. As a Simple Action you may sacrifice a spell slot and target one enemy (within a maximum range equal to your School Rank x 100 feet). Make a Contested Willpower Roll against that opponent. If you are successful, the target may not benefit from exploding dice or from Advantages that allow him to re-roll a roll. This effect lasts for a number of Rounds equal to your School Rank. You gain a Free Raise on any spell with the Travel keyword.
 
-### <span>Moto Vindicator [Bushi]</span> {#toc6}
+### <span>Moto Vindicator [Bushi]</span>
 
 The Moto family suffered a great blow to their morale and honor during the ninth century when their daimyo Moto Tsume, fueled by pride and arrogance, rode into the Shadowlands with the majority of his forces. He and his men fell to darkness and became some of Jigoku's greatest tools in the fight against Rokugan. These Moto who survived or remained behind were deeply shamed and swore to eradicate all those Tainted creatures who bore their name. This oath gave rise to both the elite White Guard and to the Moto Vindicator School. Although the order of the Vindicators existed before the fall of Moto Tsume, they did not have an intense personal hatred for the Shadowlands and their Techniques had not yet advanced to form a full school. The disgrace of Tsume's defeat changed everything.
 
@@ -133,7 +133,7 @@ The Vindicator's fury is provoked the most when it is directed at those creature
 #### Rank 5: Bloodied but Unbowed
 
 The Vindicator can push on past physical limits once his goal is in sight. Once per skirmish, you may choose to keep fighting despite your injuries. Activating this Technique is a Free Action. Once it is active, while making melee attacks you gain a bonus to the total of your damage rolls equal to the TN penalties you are suffering from Wound Ranks. (This uses the default Wound penalties, ignoring modifications from Advantages, spells, or other such effects.) The effects of this Technique last for two full Rounds. You may choose to extend the effects of this Technique for an additional Round by taking 10 Wounds.
-### <span>Shinjo Bushi [EE]</span> {#toc7}
+### <span>Shinjo Bushi [EE]</span>
 
 The Shinjo excel at mounted tactics, a trait common to all Unicorn bushi traditions. The family's fighting techniques incorporate a number of gaijin fighting methods encountered during the clan's centuries of travel outside the Empire, and as a result they employ a unique defensive style that depends on concepts such as the active parry, riposte, and other such oddities that most Rokugani are unfamiliar with.
 
@@ -160,7 +160,7 @@ Those who mistake the defensive style of the Shinjo as weak can find themselves 
 A Shinjo atop a horse is a sight that gives even the most seasoned among his enemies pause, and for good reason. During a skirmish, when mounted, when you wish to spend a Void Point you may make a Void Ring Roll (TN 20) as a Free Action. If the Ring Roll is successful, you gain the mechanical benefit of having spent the Void Point without actually spending it. (This does not actually create a bonus Void Point, it simply generates the mechanical effects of spending one.) If the roll fails, you spend the Void Point as normal. You may only use this Technique a number of times per skirmish equal to the number of Void Points you had at the start of the skirmish.
 
 You may utilize this Technique when on foot as well, but the TN of the Void Ring Roll increases to 30.
-### <span>Utaku Battle Maiden [Bushi] [CR]</span> {#toc8}
+### <span>Utaku Battle Maiden [Bushi] [CR]</span>
 
 The Utaku Battle Maidens, also known as the shiotome, are the finest and most respected cavalry in all the Empire, feared by reputation even more so than their kindsmen among the Moto and Shinjo families. While the remainder of the Clan trans on gaijin riding horses, a larger and sturdier breed than the simple Rokugani pony, the Utaku alone have the right to breed, raise, and ride into battle the legendary Utaku steeds, the finest horses in the world.
 
@@ -187,7 +187,7 @@ Like the wind across the battlefield, the charge of an Utaku is unstoppable. Whi
 #### Rank 5: Otaku's Blessing
 
 The Utaku carry the honor of their founder as their shield. At the beginning of your Turn, you may spend a Void Point as a Free Action to activate this Technique. You add your Honor Rank to all damage rolls and Bugei Skill Rolls this Turn. This bonus stacks with those from Riding in Harmony.
-### <span>Utaku Mounted Infantry [Bushi]</span> {#toc9}
+### <span>Utaku Mounted Infantry [Bushi]</span>
 
 Although the Unicorn Clan is known for its cavalry, the tactics of Shinjo’s children also require infantry to serve as a base of maneuver and to “fix” enemy infantry in place. The need for such tactics became clear during the clan’s years of wandering in gaijin lands, most notably during the 200 years after Shinjo disappeared in battle against the Lying Darkness. During those two centuries the clan fought a variety of opponents, many of whom could not be defeated with a simple cavalry charge. To deal with this problem, the Unicorn developed a force of mounted infantry – soldiers who rode horses while the army maneuvered, but then dismounted and fought on foot. From the beginning, this force attracted a disproportionate number of men from the Otaku family, who were forbidden by family tradition from fighting on horseback alongside the Otaku women. In fact, it was one such man, Otaku Buki, who devised the first specific Techniques for the mounted infantry, drawing inspiration from the gaijin fighting techniques he had seen.
 
@@ -213,9 +213,9 @@ You may choose either the Kenjutsu Skill, the Polearms Skill, or the Spears Skil
 
 <strong>Rank 5: Epic of My Name</strong> - The fully trained Utaku Infantryman is an unpredictable whirlwind on the battlefield, striking and dodging with equal skill. The Armor TN bonus from your Rank One technique now also applies while you are in the Attack Stance. Once per skirmish while in the Full Attack Stance you may add a +4k2 bonus to your damage roll with your chosen weapon; if your chosen weapon is Spears or Polearms, you may do this in the Attack Stance as well.
 
-## <span>Advanced Schools</span> {#toc10}
+## <span>Advanced Schools</span>
 
-### <span>The White Guard [Bushi] [CR]</span> {#toc11}
+### <span>The White Guard [Bushi] [CR]</span>
 
 The White Guard are an elite heavy cavalry force that often serves as the center of the Unicorn army. They represent the best warriors of the Moto family, upholding the causes the Moto hold close their hearts. They fight against gaijin forces that may threaten the safety of Rokugan and fight anything that might tarnish the Moto family legacy. Their extreme pious dedication to the gaijin gods known as the Lords of Death is notable, as are their merciless tactics.
 
@@ -234,9 +234,9 @@ The White Guard stays true to the teachings and abilities that are the core of h
 #### Rank 3: Fury of Heaven
 
 The White Guard attacks with vigor and intensity, repeatedly striking his enemies without abandon. Whenever you make an attack, you may spend a Void Point to add five times your Lore: Theology Skill Rank to the total of your roll.
-## <span>Alternative Paths</span> {#toc12}
+## <span>Alternative Paths</span>
 
-### <span>Calm Heart Duelist [Bushi]</span> {#toc13}
+### <span>Calm Heart Duelist [Bushi]</span>
 
 The dueling grounds of Dark Edge Village are famous throughout the Empire, and as a result many young duelists travel to the village to train and in hopes of meeting both worthy opponents and sensei looking for new students. The village is home to the only notable traditional dueling dojo within the Unicorn lands, although it is quite modest compared to those of the Crane or Dragon and is easily overlooked by visitors to the town. Ironically, most who adhere to the tradition come from the peaceful Ide family. Their purpose in creating a dueling tradition stems from their need to resolve conflicts in which their kinsmen, the representatives of the Unicorn Clan in court, become embroiled. The necessity of being able to skillfully defend the honor of the Ide and the Unicorn as a whole, and to do so without needlessly taking life, has given rise to the dojo of the Calm Heart Duelists.
 
@@ -244,7 +244,7 @@ The dueling grounds of Dark Edge Village are famous throughout the Empire, and a
 - <strong>Requirements:</strong> Iaijutsu 3, Lore: Law 1
 - <strong>Technique:</strong> <em>The Calm Heart Conquers</em> - A soul of serenity can overcome even the most stalwart opponent. You gain a bonus of +1k0 to the total of any Iaijutsu Skill Roll when you are not striking to kill your opponent, whether in a duel to first blood or a skirmish. You may make melee attacks as a Simple Action instead of a Complex Action when you are wielding a katana or wakizashi.
 
-### <span>Hand of Peace [Courtier]</span> {#toc14}
+### <span>Hand of Peace [Courtier]</span>
 
 The Hand of Peace follows Ide's peaceful dictums to their logical conclusions, becoming dedicated pacifists - often of a rather ascetic nature. Although they still carry the samurai weapons which are their legacy as members of the Unicorn Clan, they refuse to ever use them. They serve as good diplomats when dealing with the more peaceful and/or idealistic clans, such as the Crane and especially the Phoenix.
 
@@ -252,7 +252,7 @@ The Hand of Peace follows Ide's peaceful dictums to their logical conclusions, b
 - <strong>Requirements:</strong> Honor 5.0 or better
 - <strong>Technique:</strong> <em>Ide's Ideal</em> - The followers of the Hand of Peace are able to overawe their rivals by the purity of their devotion to peace. Any time you are able to propose a peaceful solution to a diplomatic problem or negotiation, you may cite the benefits of peace and roll Courtier (Rhetoric) / Awareness against your opponent's Etiquette (Courtesy) / Willpower. With a success, the opponent is forced to make a meaningful concession to your position (the exact nature of the concession is of course chosen by the GM, but it will always be significant). This technique may be used a maximum of twice per encounter. If you commit an act of violence (even in self-defense) that inflicts damage on a fellow Rokugani (even a ronin or bandit), your sense of moral serenity is shattered and you lose the benefits of this technique for one month.
 
-### <span>Ide Caravan Master [Courtier]</span> {#toc15}
+### <span>Ide Caravan Master [Courtier]</span>
 
 The Ide family of the Unicorn are not only its representatives in court, but they also serve as its most effective and numerous merchant patrons. In particular, the Ide are well known for their merchant caravans, which travel across the Empire and sell the clan’s unusual wares to all manner of interested customers. This is an incredibly profitable endeavor that brings in a great deal of revenue for the family and the clan as a whole. Those who are trained to oversee such activities occasionally suffer from some degree of stigma for their association with mercantile pursuits, but the rewards are significant enough that there is never a shortage of willing candidates.
 
@@ -260,7 +260,7 @@ The Ide family of the Unicorn are not only its representatives in court, but the
 - <strong>Requirements:</strong> Commerce 2
 - <strong>Technique:</strong> <em>The Gilded Road</em> - A true master of the caravan path can forge lasting bonds with his customers, and has reaped the rewards of his travels. You gain a bonus of +1k1 on all Commerce Skill Rolls. You also gain this bonus on all Social Skill Rolls made with your customers. You gain one level of the Wealthy Advantage and one instance of the Way of the Land Advantage for free.
 
-### <span>Ide Trader [Courtier]</span> {#toc16}
+### <span>Ide Trader [Courtier]</span>
 
 Commerce is ill regarded in samurai culture, yet it is essential to fuel the engines of war. The few Great Clans that dedicate families to the manipulation of the economy - the Yasuki of the Crab and Crane, the Daidoji of the Crane, and the Yoritomo of the Mantis - have considerable advantages over the others. The Ide Traders carve their own niche into this domain of conflict, utilizing their friendliness and eagerness to help others to facilitate their mercantile activities. Their affability is for the most part only a facade, however, for the best Ide Traders are as cunning and ruthless as the most cutthroat Yoritomo.
 
@@ -268,7 +268,7 @@ Commerce is ill regarded in samurai culture, yet it is essential to fuel the eng
 - <strong>Requirements:</strong> Commerce 3, and must pursue a career as a merchant patron
 - <strong>Technique:</strong> <em>Brisk Economy</em> - The Ide Trader is a master of the merchant class, extending his control across the land. You cannot lose Honor or Glory for using the Commerce skill in public. You may attempt to persuade someone to become a new mercantile partner for your clan by rolling Courtier (Manipulation) / Awareness with a bonus to the roll equal to double your Commerce Skill Rank. For persuading a commoner the suggested TN is 25, increased by the GM as appropriate if the target is hostile. Persuading a samurai requires a Contested Roll against the target's Etiquette (Courtesy) / Willpower, with the target gaining a bonus equal to double his Commerce Skill Rank. (Some samurai targets may gain additional bonus or even be immune to this Technique doe to unshakable loyalties - the GM has the final say in such manners.) If you succeed in the roll, the target agrees to become a part of your network of connections and commercial assets. You may immediately gain the target as a free Ally with 1 point of Devotion.
 
-### <span>Iuchi Couriers (Lord of the Plains) [Shugenja]</span> {#toc17}
+### <span>Iuchi Couriers (Lord of the Plains) [Shugenja]</span>
 
 Although they choose to refer to themselves by the humble appellation of the Iuchi Couriers, the shugenja who belong to this group are jokingly referred to by others within their clan as the Lords of the Plains due to their incredible ability to move at speeds no others can match. Shugenja trained by this group possess the ability to sooth the spirits of the Earth as they ride, creating a path of least resistance for their steed's benefit. This allows their horses to ride for much longer at a time, and with virtually no risk whatsoever of any missteps, even during the longest journeys.
 
@@ -276,7 +276,7 @@ Although they choose to refer to themselves by the humble appellation of the Iuc
 - <strong>Requirements:</strong> Horsemanship 3, Way of the Land Advantage
 - <strong>Technique:</strong> <em>Beyond the Wind</em> - You can shape the Earth as you ride, lending speed and endurance to your steed. With a five minute ritual and a successful Meditation Skill Roll (TN 15), you may bless your horse or the horse of another rider. For a number of hours equal to your Earth Ring, the horse will never suffer movement penalties based on terrain, nor will it suffer the effects of fatigue. The maximum number of horses which may benefit from this Technique at the same time is equal to your Earth Ring.
 
-### <span>Iuchi Traveler [Shugenja] [CR]</span> {#toc18}
+### <span>Iuchi Traveler [Shugenja] [CR]</span>
 
 The people of the Unicorn are the children of the Four Winds and their wanderlust is legendary. The Iuchi Traveler spends his life on the road from birth, moving from one place to the next in an attempt to see all the wonders of the Empire. The Travelers have developed secret rituals to traverse the land in mere moments, allowing them to come back from their journeys whenever the Unicorn Clan needed their powers. These rituals were later adapted for many uses, including war. Despite this change in responsibilities. the typical Traveler remains optimistic and cheerful at heart. Multiple spell slots may be expended in this manner to move across greater distances.
 
@@ -284,14 +284,14 @@ The people of the Unicorn are the children of the Four Winds and their wanderlus
 - <strong>Requirements:</strong> Athletics 2, Horsmanship 2
 - <strong>Technique:</strong> <em>Where the Wind Wills</em> - You possess knowledge of the most sacred Unicorn magic: the art of moving from one point to another without crossing the space in between. You may spend 1 Void Point and expend 1 spell slot of either Air or Water (Void may not be used) as a Simple Action to instantly teleport a maximum distance equal to your School Rank x 100 feet. This affects only you and the material you are carrying, but by expending a second Void Point you may also teleport any horse-sized mount on which you are sitting at the time of the effect.
 
-### <span>Moto Fanatic [Bushi]</span> {#toc19}
+### <span>Moto Fanatic [Bushi]</span>
 
 The Moto family prefers an extremely aggressive outlook on warfare rather than the more conservative viewpoint of the Shinjo. Moto warriors use the mobility of their horses to quickly close the gap to their enemy, and the Fanatics fully embrace that ideal of war. They charge the front lines of opposing armies with alarming frequency, often suffering surprisingly few casualties for their brash behavior. It seems these Fanatics survive the harshest battlefields through a mixture of skill and compete disregard for their own safety. They believe an all-out crazed assault disorients the enemy, forcing them to commit mistakes they would otherwise avoid, and their success would seem to prove the point.
 
 - <strong>Replaces:</strong> Any Moto Bushi School 4
 - <strong>Technique:</strong> <em>Reckless Abandon</em> - The Moto Fanatic charges into the thick of battle with no thought to his own safety. If you are in the Full Attack Stance, you may spend a Void Point as a Simple Action to activate this Technique. You gain Reduction equal to your School Rank so long as your remain in the Full Attack Stance.
 
-### <span>Rajya ke Varisa [Bushi]</span> {#toc20}
+### <span>Rajya ke Varisa [Bushi]</span>
 
 The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study the fighting techniques of the Ivory Kingdoms kshatriya and find ways to use them in conjunction with Rokugani combat techniques. The gaijin turned-Mantis known as Yoritomo Singh also contributes to the organization’s training, seeking to preserve some aspects of his former culture. So far they have managed to devise only one technique, albeit one of significant value.
 
@@ -299,7 +299,7 @@ The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study t
 - <strong>Replaces:</strong> Hida Bushi 4, Shinjo Bushi 4, Moto Bushi 4, Yoritomo Bushi 4
 - <strong>Technique:</strong> <em>Legacy of the Kshatriya</em> - The Rajya ke Varisa have learned to emulate the kshatriya technique that calls on religious devotion to strengthen their force of their blows. However, instead of calling on blasphemous gaijin gods, they call on the power of their devotion to the Fortunes. Twice per skirmish, before making an attack you may take a Free Action to spend a Void Point; if the subsequent attack succeeds, you may add unkept dice to your damage roll equal to your rank in the Lore: Theology skill.
 
-### <span>Shinjo Magistrate [Bushi]</span> {#toc21}
+### <span>Shinjo Magistrate [Bushi]</span>
 
 Even since its return to the Empire, the Unicorn Clan has established a tradition of upholding the law and protecting the common folk, a tradition which often puts it into conflict with groups like the Scorpion Clan and the Empire’s various criminal groups. The Shinjo family dominate this tradition and develop a Technique in support of it - somewhat ironic given that the Shinjo family was also heavily infiltrated by the Kolat. After the exposure and purging of the Kolat by Lady Shinjo herself, the Shinjo Magistrates remade themselves to be especially skillful at rooting out and purging the Kolat influence, later assisting the Ox Clan in establishing the order known as the Vigilant.
 
@@ -310,7 +310,7 @@ Even since its return to the Empire, the Unicorn Clan has established a traditio
 
 GM’s Option: The Unicorn Vigilant - In games set after the Hidden Emperor era, the GM can reflect the Unicorn Clan’s efforts to purge Kolat influence by increasing the Investigation bonus to +1k1 when opposing Kolat activities or agents.
 
-### <span>Shinjo Scout [Bushi] [CR]</span> {#toc22}
+### <span>Shinjo Scout [Bushi] [CR]</span>
 
 The Unicorn Clan traveled through the dangerous lands outside Rokugan's borders and uncovered threats on every horizon. It soon became apparent that the band of heroes needed an advance unit traveling before them to skirt the most dangerous enemies. The Shinjo family accepted this duty. The Shinjo Scouts soon became adept in quietly stalking through foreign lands, comfortable as if they were in their own homes. Upon the Unicorn Clan's return to Rokugan the Shinjo Scouts traded knowledge with the Hiruma Scouts of the Crab Clan and grew even more formidable.
 
@@ -318,7 +318,7 @@ The Unicorn Clan traveled through the dangerous lands outside Rokugan's borders 
 - <strong>Requirements:</strong> Stealth 3
 - <strong>Technique:</strong> <em>The Swift Soul</em> - The Shinjo Scout learns to slip by unnoticed, even deep in enemy territory. You may use the Stealth Skill while on horseback. You are considered to have the Way of the Land Advantage no matter where you are. Finally, you gain +1k0 to all attack rolls while Mounted.
 
-### <span>Unicorn Bariqu Wrestler [Bushi]</span> {#toc23}
+### <span>Unicorn Bariqu Wrestler [Bushi]</span>
 
 Bariqu wrestling is distinct from the more widespread sumai wrestling, and is largely unknown outside of the Unicorn Clan. Within the Unicorn, its traditions date back to the time of the Ujik-Hai, the gaijin nomads who joined the clan and became the Moto family. Bariqu is focused on throwing the opponent, rather than driving him out of the ring, and makes heavy use of joint-locks and paralyzing holds.
 
@@ -326,7 +326,7 @@ Bariqu wrestling is distinct from the more widespread sumai wrestling, and is la
 - <strong>Requirements:</strong> Jiujutsu (Bariqu) 3
 - <strong>Technique:</strong> <em>Way of the Ujik-Hai</em> - A bariqu wrestler relies on his use of unconventional locks, holds, and maneuvers to defeat his foes, rather than just on raw strength. If your opponent in a Grapple does not have the Bariqu Emphasis of Jiujutsu, you gain a bonus of +1k1 when rolling to control the Grapple. If you have a higher Agility Rank than your opponent in a Grapple, you gain a +2k0 bonus when rolling to control the Grapple. These bonuses stack with each other.
 
-### <span>Unicorn Doomseeker [Shugenja]</span> {#toc24}
+### <span>Unicorn Doomseeker [Shugenja]</span>
 
 The Doomseekers are a Rokugani adaptation of an ancient Burning Sands order dedicated to bringing&quot;death to the deathless&quot; by rooting out and destroying immortal supernatural evils. The original targets of their technique were the heartless sorcerers known as khadi, but over the centuries they expanded their mission to include other immortal threats such as demons and rakshasa. (Ironically, it was actually a rakshasa, Adisbah the Cruel, who introduced the Doomseeker technique to Rokugan in order to avenge himself on the Bloodspeaker Iuchiban.) Within Rokugan the technique is extraordinarily rare and is only taught personto-person; thus far, there has never been more than one Rokugani Doomseeker in the same generation.
 
@@ -337,7 +337,7 @@ The Doomseekers are a Rokugani adaptation of an ancient Burning Sands order dedi
 
 If you have become aware of the presence of such a creature (either through this Technique or in some other way), you may spend a spell slot as a Complex Action to make a Contested Willpower roll against the creature - with a success, you gain a spiritual insight into the entity’s true nature and learn one key piece of information (GM’s choice) about how it can be unmasked and/or defeated. The second part of this technique cannot be used against the same target more often than once per month.
 
-### <span>Unicorn Wardog Masters [Bushi]</span> {#toc25}
+### <span>Unicorn Wardog Masters [Bushi]</span>
 
 During their time wandering the gaijin lands, the Unicorn tame and train a breed of dog unknown within Rokugan, eventually bringing it back with them to the Empire. These fierce and loyal animals are capable of fighting alongside their human masters, and the Unicorn maintain a small dojo which specifically trains bushi in the art of commanding and mastering their war-dogs.
 
@@ -346,7 +346,7 @@ During their time wandering the gaijin lands, the Unicorn tame and train a breed
 - <strong>Special:</strong> Enrolling in this Path grants you a pack of Unicorn War-Dogs (core rulebook, page 321). The total number of war-dogs you can have in your pack is equal to your Awareness.
 - <strong>Technique:</strong> <em>Ferocity of the Ki Rin</em> - The War-Dog Masters learn how to train an entire pack of war-dogs and how to control and direct the pack in combat. As a Complex Action, you can roll Animal Handling (War Dogs) / Willpower at TN 20 to give your entire pack of War-Dogs a simple command (such as “Attack” or “Track” or “Hold Position”). You can Raise on this roll to convey more sophisticated commands, subject to the GM’s judgment and limitations. Also, when your War-Dogs carry out attacks which you have ordered them to make, they gain a +1k0 bonus to their attack and damage rolls.
 
-### <span>Unicorn Yomanri Archer [Bushi]</span> {#toc26}
+### <span>Unicorn Yomanri Archer [Bushi]</span>
 
 Although the majority of Unicorn continued to practice Rokugani archery during their travel through the gaijin lands, a significant minority learned the gaijin style of archery which the clan calls yomanri. A yomanri archer draws his arrow to his cheek and sights down the shaft, then releases it once he is confident in his aim.
 
@@ -354,7 +354,7 @@ Although the majority of Unicorn continued to practice Rokugani archery during t
 - <strong>Requirements:</strong> Agility 4, Kyujutsu 5
 - <strong>Technique:</strong> <em>The Way of Yomanri</em> - Yomanri practitioners use a distinctive form of archery which relies on careful aiming rather than swift instinctive shooting. When using a yumi or dai-kyu, you may choose to spend one or more consecutive Simple Actions aiming your shot before you fire. Each such Simple Action awards either a +1k1 bonus to your attack roll or a +1k0 bonus to your damage (your choice). The maximum number of Simple Actions spent aiming cannot exceed your Agility Rank; moreover, if you are interrupted all benefits from the aiming are lost. This technique cannot be used while you are in the Center Stance.
 
-### <span>Utaku Horse Master</span> {#toc27}
+### <span>Utaku Horse Master</span>
 
 The Utaku family maintains the greatest stables in the Empire. They breed the strongest horses in the land, and their famous Battle Maidens are the only ones allowed to ride their Utaku steeds into combat. The men of the Utaku family are charged with raising and training these horses, and many of them choose to eschew the theatre of war entirely to devote their lives to this duty. The Utaku Horse Master serves as stable master, rider, hunter, and friend to the horses under his care. A popular joke says the Horse Master marries twice in his lifetime - once to his spouse, the other to his stable.
 

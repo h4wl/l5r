@@ -1,8 +1,8 @@
 Title: Minor Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Badger Clan - Ichiro Bushi [CR]</span> {#toc1}
+### <span>Badger Clan - Ichiro Bushi [CR]</span>
 
 The founder of the Ichiro Bushi School was a Hida. It is no surprise, then, that the School remains similar to its Crab roots. The school's philosophy is simple: hit the enemy so hard that he has no time to engage in any fancy tactics.
 
@@ -29,7 +29,7 @@ Ichiro samurai are taught to strike with the speed of the deadly avalanche. Your
 #### Rank 5: Return the Strike
 
 The final lesson taught in Badger Clan dojo is that the most effective blows in combat are not the swiftest, but the hardest struck. At the start of a skirmish, before Iniative is rolled, you may choose to lower your Initiative total by 20 for the duration of the skirmish. In exchange, you add your Strength Rank in unkept dice to both your attack and your damage rolls for the first two rounds of that combat.
-### <span>Bat Clan - Komori Shugenja [CR]</span> {#toc2}
+### <span>Bat Clan - Komori Shugenja [CR]</span>
 
 When Yoritomo Komori was granted the honor of forming his own Minor Clan, he quickly gathered the brightest shugenja to his side. He decided he would honor his bat spirit heritage of swift communication and bring that resource to the rest of the Empire. The Komori recognize that one must balance the practical with the theoretical, and strive to hone their messaging abilities for use on the field.
 
@@ -43,7 +43,7 @@ The Komori Shugenja School is unique in the Empire. The koumori are benevolent b
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Air, 2 Water, and 1 Fire
 - <strong>Technique:</strong> <em>The Kami's Whispers</em> - The Komori practice the rituals of the koumori spirits from whom their founder is descended, and ferry messages from one to another via the kami. You may expend one spell slot to send a whispered message to another individual known to you. This message must be no longer in length than thirty seconds per School Rank, and may be delivered a maximum distance equal to your School Rank x 100 miles.
 
-### <span>Boar Clan - Heichi Bushi [CR]</span> {#toc3}
+### <span>Boar Clan - Heichi Bushi [CR]</span>
 
 Shadowy dangers always threatened the Boar lands, and the Heichi Bushi School formed to face them. The Boar were ready to defend themselves and developed techniques that would help them match that fervor. They learned to take the worst attacks their enemies might hold in store and simply keep going. The trained Heichi Bushi maintains a strong defense, but his furious assaults are chilling to see.
 
@@ -70,7 +70,7 @@ Much like their namesake, Boar bushi keep fighting even when critically injured.
 #### Rank Five: Beyond the Mountains
 
 At this rank the Boar has learned to control his warrior's fury and unleash it at the most unexpected times, even when he appears to be completely defensive. If you are in the Full Defense Stance, you may make one normal attack with a spear or a Samurai-keyword weapon as a Free Action, ingoring the restriction of the Full Defense Stance. This attack gains a bonus of +2k0 to the attack roll.
-### <span>Dragonfly Clan - Tonbo Shugenja [CR]</span> {#toc4}
+### <span>Dragonfly Clan - Tonbo Shugenja [CR]</span>
 
 The Tonbo are a deeply spiritual people. They have forged a strong connection to the mountains and remain in their lands even though hardship after hardship has fallen upon them. Though the Tonbo Shugenja are no less priests than their counterparts in the other Clans, they are acutely aware of the political responsibilities that rest on their shoulders. As the intermediaries between the Dragon Clan and the rest of Rokugan, the Tonbo are well equipped to survive the perilous courts of the Empire.
 
@@ -84,15 +84,15 @@ The Tonbo Shugenja School uses all the resources at its disposal to prepare its 
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Water, 2 Air, and 1 Earth
 - <strong>Technique:</strong> <em>Guided by Fate</em> - The Tonbo are adept at court as well as the ways of the shugenja, serving as they have as the Dragon Clan's intermediaries almost since their creation. The kami's whispers can be powerful tools in court. You may expend one spell slot to gain a bonus of +1k0 on one Social Skill Roll. You may never spend more spell slots than your School Rank to augment a single roll. You gain a Free Raise on any spell with the Divination keyword.
 
-### <span>Falcon Clan - Toritaka Bushi [CR]</span> {#toc5}
+### <span>Falcon Clan - Toritaka Bushi [CR]</span>
 
 see <a href="/sccrab">Crab Clan Schools</a>
 
-### <span>Fox Clan - Kitsune Shugenja [CR]</span> {#toc6}
+### <span>Fox Clan - Kitsune Shugenja [CR]</span>
 
 see <a href="/scmantis">Mantis Clan Schools</a>
 
-### <span>Hare Clan - Usagi Bushi [CR]</span> {#toc7}
+### <span>Hare Clan - Usagi Bushi [CR]</span>
 
 The Hare Clan has seen a lot of combat for a Minor Clan. Their continued war against the enemies of the Empire has raged for centuries without an end in sight. Consequently, the Usagi Bushi School is one of the better-developed Minor Clan warrior schools. It has been perfected in battle and blood, as the Hare Clan has painstakingly learned what works and what simply fails.
 
@@ -119,9 +119,9 @@ The Hare has learned not only how to strike with speed, but also how to dodge an
 #### Rank 5: Reichin's Style
 
 The final lesson of the Hare school is a whirling flurry of leaps, feints, and attacks that come at the opponent from all directions, confusing and disorienting him. You may perform the Feint Maneuver for only 1 Raise, and your damage bonus from a successful Feint is not limited to your Insight Rank x 5.
-### <span>Monkey Clan</span> {#toc8}
+### <span>Monkey Clan</span>
 
-#### <span>Toku Bushi [CR]</span> {#toc9}
+#### <span>Toku Bushi [CR]</span>
 
 The Monkey Clan has the blessing of the Imperial line and access to skilled experts in the field of war. Hundreds of ronin teachers have stepped through the dojo doors, ready to impart knowledge on an eager audience. These diverse skills were distilled into a single, cohesive fighting style that contains the best aspects of each lesson given in the Monkey dojo.
 
@@ -148,7 +148,7 @@ The Toku Bushi learns to dodge the worst of any attack. You may spend a Void Poi
 #### Rank 5: Fortune Favors the Mortal Man
 
 The Toku bushi earns his good blessings with his own sheer tenacity. Once per Round, you may spend a Void Point to reroll any roll. You add +2k1 to the new roll. You may choose to keep the new roll or your original roll.
-#### <span>Fuzake Shugenja [SE]</span> {#toc10}
+#### <span>Fuzake Shugenja [SE]</span>
 
 The Fuzake originated as a small order of ronin shugenja within Toturi’s Army, led by a young man named Yasuki Garou (later Fuzake Garou) who was a close friend to Toku. When the Monkey Clan was formed he immediately swore fealty to it. The Fuzake dedicate themselves to healing and to an intense but rather eccentric veneration of the Fortunes.
 
@@ -159,7 +159,7 @@ The Fuzake originated as a small order of ronin shugenja within Toturi’s Army,
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Earth spells, 2 Water spells (one is automatically Path to Inner Peace), 1 Air spell
 - <strong>Technique:</strong> <em>The Sideways Path</em> - The shugenja who came to be known as Fuzake Garou was originally trained by the Kuni, but spent much of his life trying to protect and heal those around him. Over time he found ways to call on his Earth magic to support his efforts, and after his disappearance and apparent death at the Battle of Oblivion’s Gate, his followers pursued and eventually perfected the crude technique he devised. When casting a spell that heals Wounds or cures poison or illness (such as Path to Inner Peace or Peace of the Kami), you may opt to also expend one or more Earth spell slots; each such slot awards a Free Raise on your Spell Casting Roll.
 
-### <span>Oriole Clan - Tsi Smith [Artisan] [CR]</span> {#toc11}
+### <span>Oriole Clan - Tsi Smith [Artisan] [CR]</span>
 
 Tsi was the name of an ancient gaijin blacksmith who impressed the second emperor, Hantei Genji, with his works. The Emperor declared the man was blessed by the Fortunes and made him a Rokugani on the spot. Centuries later a ronin apprentice took the forgotten name for himself and impressed Emperor Hantei XXX with his style.<br>
 Artisans trained in the Tsi Smith School are unique in that everything they learn is to increase their skills crafting weapons and armor. They learn martial styles to know how experts will treat the weapons they create. They have little use for social pleasantries or political maneuvering so their teachigns mostly bypass those aspects of a samurai's life.
@@ -185,7 +185,7 @@ All members of the Tsi smiths are expected to test their own creations for weigh
 #### Rank 5: Star-filled Steel
 
 Oriole-made items are rivaled only by the masterful items of the Kaiu Forge. Once per day upon the completion of crafting a weapon, you may spend all your Void Points in order to create a Sacred Weapon (as per the Advantage). this weapon is known as a Tsi Weapon (e.g., a Tsi Blade, Tsi Tetsubo, etc.), and may possess one of the following qualities: Balanced (the wielder gains a bonus of +1k0 on attack rolls made with this weapon), Swift (The wielder gains a bonus of +5 to his Initiative Score while wielding the weapon, or Unbreakable (the weapon may not be broken). At the GM's option, a truly gifted Tsi smith may also be able to make a weapon Radiant (treat the weapon as jade for purposes of harming Invulnerable creatures).
-### <span>Ox Clan - Morito Bushi [CR]</span> {#toc12}
+### <span>Ox Clan - Morito Bushi [CR]</span>
 
 The Ox Clan earned its stripes in combat against a spirit army filled with the wisdom of centuries of ancestors. After its debut, the Morito Bushi School garnered respect and a healthy reputation from bushi across the Empire. The bulk of the Ox Clan's force is heavy cavalry intended to swiftly crush the core of an infantry army.
 
@@ -214,7 +214,7 @@ You may only have one Turn per Round, even if your Initiative Score drops below 
 #### Rank 5: Fast and Furious
 
 The Morito bushi rides into battle, trampling those who cannot escape his path. while you are attacking an opponent with lower Initiative, you add +2k2 to all attacks and damage rolls.
-### <span>Snake Clan - Chuda Shugenja [CR]</span> {#toc13}
+### <span>Snake Clan - Chuda Shugenja [CR]</span>
 
 The Chuda Shugenja School was formed with some of the same techniques the Phoenix Inquisitors use to this very day. The founder Isawa Chuda was an Imperial Magistrate, sworn to destroy maho-tsukai. Unfortunately, the descendants of the Chuda have become exactly what Isawa Chuda swore to destroy.
 
@@ -228,7 +228,7 @@ The original Chuda Shugenja School was designed to do one thing: destroy the for
 - <strong>Technique:</strong> <em>To Punish the Wicked</em> – Isawa Chuda was a ruthless persecutor of the Shadowlands, and his techniques live on in those who bear his name. You may spend a Void Point as a Free Action to negate an amount of Reduction equal to your School Rank from one targeted opponent. You also add your School Rank to the total of any damage roll made by a spell you cast against a target who possesses the Shadowlands Taint.
 - Spells: Sense, Commune, Summon, 3 Earth, 2 Fire, and 1 Water
 
-### <span>Sparrow Clan - Suzume Bushi [CR]</span> {#toc14}
+### <span>Sparrow Clan - Suzume Bushi [CR]</span>
 
 The Sparrow Clan has never been a martial power, but Sparrow samurai will march into combat when the call comes. At the foundation of the clan the Suzume were Crane samurai, and their mastery with the katana remains a foundation of the school to this day. Their fighting style displays much about their philosophy on life, as they will take as much time as needed to make a perfect strike.
 
@@ -255,7 +255,7 @@ the serenity of a Sparrow is often mistaken for complacency, but that is far fro
 #### Rank 5: Slow and Deadly
 
 The Suzume strikes when his foes least expect it, even if he must weather the worst of the opponents' attacks. During the Round following your adoption of the Center Stance, you add +10 to your attack and damage rolls. You do not gain this benefit during iaijutsu duels.
-### <span>Tiger Clan - Yotsu Bushi [IH]</span> {#toc15}
+### <span>Tiger Clan - Yotsu Bushi [IH]</span>
 
 The original Yotsu technique was based on the family's self-appointed role as protectors of the common people in Otosan Uchi. The later evolution of a full-scale bushi School happened as a result of the family's experiences fighting the Spider Clan in the ruins of Otosan Uchi. The Yotsu were forced to fight with stealth and ruthless aggression in an environment where the dominant terrain feature was ruined buildings. Although the resulting school was not one which more rigidly honorable samurai would admire, it suited the Yotsu well and they have maintained its techniques ever since.
 
@@ -280,7 +280,7 @@ The Sword of Yotsu draw strength from their duty to protect others. During any R
 #### Rank 5: The Tiger's Fangs
 
 The final lesson of the Yotsu is to emulate the Tiger's pounce, striking the opponent so fiercely with one's first attack that he has no opportunity to fight back. On the first Round of a skirmish, you may declare Maneuvers for one less Raise.
-### <span>Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</span> {#toc16}
+### <span>Tortoise Clan - Kasuga Smuggler [Courtier] [CR]</span>
 
 The Kasuga are as true to the Imperial cause as any other clan, though one often wouldn't know this from watching their activities. They perform illegal acts with murderers and thieves and have established a strong connection to criminal cartels across the land. The Tortoise are in fact monitoring these conspiracies in the Emperor's name to make sure the safety of the Empire is not at stake. They also conduct extensive trade in foreign lands in order to ensure that gaijin cannot again threaten Rokugan as they did in the past.
 
@@ -307,9 +307,9 @@ The Tortoise work in close cooperation with the common folk of Rokugan, people w
 #### Rank 5: The Tortoise Smiles
 
 With his training completed, the Tortoise smuggler can transcend his own limits in the pursuit of his Clan's devious goals, serving the Emperor without constraint. When making a Skill Roll with any of your six specified School Skills, your maximum Raises are not limited by your Void. A number of times per session equal to your Void Ring, you may gain a +5k0 bonus when making a roll with any of your School Skills. This bonus can stack with the bonus from your Rank Three technique.
-## <span>Advanced Schools</span> {#toc17}
+## <span>Advanced Schools</span>
 
-### <span>Minor Clan Defender [Bushi] [EE]</span> {#toc18}
+### <span>Minor Clan Defender [Bushi] [EE]</span>
 
 The samurai of the Minor Clans begin their career in service to the Emperor at a significant disadvantage compared to their counterparts from the Great Clans. They have fewer resources, fewer allies, and vastly less prestige. Many simply accept this is their lot as servants of a lesser clan and never challenge it. There are a few, however, who refuse to accept such a fate, and commit themselves fully to championing the cause of their clans to the Empire at large. These men and women do not have any particular unifying qualities other than their passion and drive to better the lot of the Minor Clans. Such individuals occasionally come into contact with one another during the course of their activities, and over the years can form strong alliances in order to better serve their cause. Although no formal dojo exist in which students can follow the lessons of such heroes, there are secrets passed down through family lines and via apprenticeship for those who choose to follow such a path. In a show of devotion these individuals have to a greater cause, these secrets are shared among all those who share the same passion for their cause, regardless of what Minor Clan affiliations they possess.
 
@@ -328,9 +328,9 @@ A true master of destiny is versatile and fleet of action. Once per Round you ma
 #### Rank 3: The Strength of Humility
 
 A defender of the Minor Clans is a paragon of strength and certainty, skilled in the samurai arts and capable of virtually any deadly action. You may make melee attacks as a Simple Action when using weapons with the Samurai keyword. If you already possess the ability to make attacks as a Simple Action when wielding such weapons, you may choose any one other type of melee weapon (knives, heavy weapons, spears, etc.). You gain the ability to attack with these weapons as a Simple Action instead.
-## <span>Alternate Paths</span> {#toc19}
+## <span>Alternate Paths</span>
 
-### <span>Dragonfly Advisor [Courtier/Shugenja] [SE]</span> {#toc20}
+### <span>Dragonfly Advisor [Courtier/Shugenja] [SE]</span>
 
 One of the things generally agreed among the Tonbo to be a mark of Enlightenment is an understanding of something they call “dependent arising” – the nature of cause and effect; the realization that all things exist only as a result of other causes and conditions. Nothing spontaneously comes into being without a precedent giving birth to it, and an Enlightened person comprehends the consequences of every action and condition. The Tonbo Advisors use their studies on this aspect of existence to become effective diplomats and also to gain insights into the ways of divination.
 
@@ -338,7 +338,7 @@ One of the things generally agreed among the Tonbo to be a mark of Enlightenment
 - <strong>Requirements:</strong> Intelligence 3, Meditation 5
 - <strong>Technique:</strong> <em>Seeing the Pattern</em> - The Dragonfly Advisors are trained to understand all the patterns of cause and effect around them, letting them perceive the potential consequences of their actions. You gain a +2k0 bonus to all Divination and Etiquette Skill Rolls.
 
-### <span>Ichiro Pass Warden [SE]</span> {#toc21}
+### <span>Ichiro Pass Warden [SE]</span>
 
 The first duty of the Badger Clan is to protect the pass from invasion, and the clan has long trained a group of specialized warriors whose sole duty is to defend the pass with spears and hurled rocks. Their task is to inflict as much damage as possible on any invaders. The Pass Wardens spend most of their lives within the fortresses of the Badger lands, seldom visiting the rest of the Empire.
 
@@ -346,7 +346,7 @@ The first duty of the Badger Clan is to protect the pass from invasion, and the 
 - Requirements:** Strength 4, Spears 4, Athletics 4
 - <strong>Technique:</strong> <em>Hold the Passes</em> - Your range with hand-hurled missiles is doubled, and you add +1k0 to damage rolls with thrown weapons; if the weapon is a nage-yari or a rock, the bonus is +1k1 instead.
 
-### <span>Minor Clan Alliance Diplomat [Courtier]</span> {#toc22}
+### <span>Minor Clan Alliance Diplomat [Courtier]</span>
 
 Minor clan samurai who deal with members of the Great Clans are in constant danger of angering them with a misplaced word, action, or even a look. Minor Clan samurai who have survived the minefield of the courts long enough are often sent to the Minor Clan Alliance’s court in Kudo Mura. There, they can learn from the best diplomats in the Alliance, studying how to sooth the ruffled feathers of Great Clan samurai and, more importantly, how to avoid ruffling those feathers in the first place.
 
@@ -354,7 +354,7 @@ Minor clan samurai who deal with members of the Great Clans are in constant dang
 - <strong>Requirements:</strong> Character must belong to a Minor Clan
 - <strong>Technique:</strong> <em>The Courts of Kudo Mura</em> - The diplomats of Kudo Mura are masters at dealing with the needs, desires, and whims of their superiors. When conversing with a samurai from one of the Great Clans or the Imperial Families, you gain +3k0 on all Contested Rolls using the skills of Etiquette or Sincerity.
 
-### <span>Ox Clan Vigilant [SE]</span> {#toc23}
+### <span>Ox Clan Vigilant [SE]</span>
 
 After the Ox Clan is purged during the Scorpion Clan’s assault on the Kolat in the late twelfth century, the new Ox leadership seeks assistance from the Unicorn Clan’s Shinjo family in keeping itself pure of further Kolat influence. The small order known as the Vigilant is the result. Initially focused solely on hunting for Kolat, the organization soon expands into a more general role of rooting out criminals and conspirators of all types.
 
@@ -362,7 +362,7 @@ After the Ox Clan is purged during the Scorpion Clan’s assault on the Kolat in
 - <strong>Requirements:</strong> Investigation 5
 - <strong>Technique:</strong> <em>Seek the Guilty</em> - The Ox Vigilants are trained to root out lawbreakers and conspirators by seeing through their deceptions and tricks, finding their underlying moral weakness and using it against them. When investigating someone for possible lawbreaking or Kolat activity, you may make a Contested Roll of your Investigation (Interrogation) / Perception against the target’s Sincerity (Deceit) / Awareness. If you succeed (and the target is actually guilty – GM’s judgment), you gain a +1k1 bonus to all Intimidation rolls and attack rolls against that target for the next 24 hours.
 
-### <span>Soldier of the Three Man Alliance [Bushi] [IH]</span> {#toc24}
+### <span>Soldier of the Three Man Alliance [Bushi] [IH]</span>
 
 The formation of the Three Man Alliance is the first step in a process of twelfth-century consolidation among the Minor Clans, leading to (among other things) the combination of the Mantis, Wasp, and Centipede clans into the Great Clan of the Mantis and, later in the century, the creation of the Minor Clan Alliance. It is the creation of the Three Man Alliance and their military victory over the Scorpion Clan that first inspires the Minor Clans to band together for greater benefit and effect, and many successful officers from that first military alliance eventually go on to achieve military and political prestige within the Minor Clan Alliance.
 
@@ -372,7 +372,7 @@ The fighting technique of the Three Man Alliance is formed by the combined effor
 - <strong>Requirements:</strong> Battle 2
 - <strong>Technique:</strong> <em>Stand Against Oppression</em> - The scions of the Minor Clan are not intimidated by their more influential detractors among the Great Clans. Far from it, they are inspired to greatness by their hardships. When facing an opponent with a higher Glory Rank than you, you may spend a Void Point to gain bonus unkept dice on your attack roll equal to the difference in your respective Glory Ranks. You may not gain more dice than your School Rank from this Technique.
 
-### <span>Suzume Storytellers [Courtier/Artisan] [SE]</span> {#toc25}
+### <span>Suzume Storytellers [Courtier/Artisan] [SE]</span>
 
 The Storytellers are the closest thing to true artisans in that poverty-stricken clan. Their tradition originated with Doji Edakumi, a Crane artisan whose descendants form the Edakumi vassal family of the Sparrow. Edakumi was the founder of the Sparrow artistic tradition and became the most popular and welcomed samurai in the clan’s territory; the members of the Edakumi family are known as the best storytellers in the clan and perhaps in the Empire.
 
@@ -380,7 +380,7 @@ The Storytellers are the closest thing to true artisans in that poverty-stricken
 - <strong>Requirements:</strong> Perform: Storytelling 3, Precise Memory
 - <strong>Technique:</strong> <em>The Heart of the Story</em> - The Suzume Storyteller can use a skillfully crafted story to make virtually any point he wishes. When making a Courtier Skill roll, you may spend a Void Point to add your Perform: Storytelling Skill Rank to the total.
 
-### <span>Tortoise Guard [Bushi] [IH]</span> {#toc26}
+### <span>Tortoise Guard [Bushi] [IH]</span>
 
 Although the Tortoise Clan is too small to have a true bushi school, the clan has always recognized the value of defense, especially given the frequency with which its members must enter foreign ports, smugglers' dens, and other such unsavory locations. The original membership of the Tortoise included a number of gaijin, and over the years they adapted their own strange fighting style to the weapons of their new home; with time it evolves into the technique which the Tortoise teach in modern times. The Tortoise Guards are tasked to protect their fellow smugglers from all manner of dangers, and typically fight without any particular limitation or scruple.
 
@@ -388,7 +388,7 @@ Although the Tortoise Clan is too small to have a true bushi school, the clan ha
 - <strong>Requirements:</strong> Strength 3, any 1 Weapon Skill 4
 - <strong>Technique:</strong> <em>The Path of One</em> - From their gaijin ancestors and their commoner allies, the Tortoise Guards have learned that samurai Honor can be a hindrance to victory; practicality is more useful. You may attack as a Simple Action with any non-Samurai melee weapon, and gain a +1k0 bonus to damage with any Peasant Weapon.
 
-### <span>Tortoise Killers [Bushi] [SE]</span> {#toc27}
+### <span>Tortoise Killers [Bushi] [SE]</span>
 
 The Tortoise Clan’s limited military capabilities consist primarily of those trained in the Tortoise Guard technique (published in the L5R 4th Edition supplement Imperial Histories). However, due to the unique nature and duties of the Tortoise Clan, the clan has long found it useful to train certain men and women in the arts of murder and assassination. Some of these killers go on to serve in the Guard, disguising their true nature beneath conventional martial duties, while others remain within the ranks of the Tortoise merchants and sailors.
 
@@ -396,7 +396,7 @@ The Tortoise Clan’s limited military capabilities consist primarily of those t
 - <strong>Requirements:</strong> Agility 3, Stealth 4, any two Weapon Skills at 4
 - <strong>Technique:</strong> <em>The Poisoned Frog</em> - The Tortoise Killers are trained to dispose of their targets with whatever weapon comes to hand, while maintaining the outward appearance of an ordinary sailor or soldier. Once per opponent per skirmish, when making an attack roll you may spend a Void Point to cause your Raises for damage on that roll to award +1k1 rather than +1k0 to damage. You may never take more Raises than your Void Rank when using this Technique.
 
-### <span>Ujina Skirmishers [Bushi]</span> {#toc28}
+### <span>Ujina Skirmishers [Bushi]</span>
 
 The Hare Clan traditionally focuses on a highly athletic and unpredictable school of kenjutsu, but the Hare’s Ujina family prefers to fight with knives. After joining the clan, the founder of the Ujina established his own dojo to teach his two-knife fighting style; although the Ujina Skirmishers have never advanced their style enough for it to become a school of its own, they are a significant asset to their clan nonetheless.
 

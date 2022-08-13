@@ -6,7 +6,7 @@ D10 roll result
 - 5-7 Illustrious Past: Roll on Table 2
 - 8-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Mantis Past</span> {#toc0}
+## <span>Table 1: Shameful Mantis Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your family was on the losing side of a commercial dispute and has never recovered. You gain the Disadvantage Seven Fortune’s Curse: Daikoku.
 - 0 One of your ancestors committed seppuku to atone for the Gusai family’s treachery. You gain Social Disadvantage: Gusai Ancestor.
 
-## <span>Table 2: Illustrious Mantis Past</span> {#toc1}
+## <span>Table 2: Illustrious Mantis Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor was a mercenary in the early days of the Mantis Clan. He made contacts across the Empire, but became especially good friends while serving in the army of one particular clan. You gain a free 3-point Ally in another clan of your choice.
 - 0 Your ancestor won the blessing of the Thunder Dragon during a great storm. You may take a Rank of the Magic Resistance Advantage for 1 less Experience Point.
 
-## <span>Table 3: Mantis Mixed Blessings</span> {#toc2}
+## <span>Table 3: Mantis Mixed Blessings</span>
 
 D10 Roll result
 

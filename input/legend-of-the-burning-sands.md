@@ -2,7 +2,7 @@ Title: Legend Of The Burning Sands
 ---
 The Burning Sands are a setting close to Rokugan, which follows rules quite closely resembling those of the main setting. A quick listing of those rules can be found here.
 
-## <span>Skill Updates</span> {#toc0}
+## <span>Skill Updates</span>
 
 Skill rules apply identical to their L5R counterpart aside from the following.
 
@@ -13,11 +13,11 @@ Skill rules apply identical to their L5R counterpart aside from the following.
 - Tahaddi dueling uses the rules for Iaijutsu dueling given in 4th edition, but with knives. Replace the Tahaddi mastery abilities with the mastery abilities given for Iaijutsu. The rank 3 mastery ability applies to readying two tahaddi knives.
 - Assassin Ranged Weapons functions as the Ninjitsu skills replacing mastery abilities as appropriate.
 
-## <span>Families</span> {#toc1}
+## <span>Families</span>
 
 Characters in the Burning Sands belong generally in one of these <a href="/bsfamily">Factions and Families</a>.
 
-## <span>Schools</span> {#toc2}
+## <span>Schools</span>
 
 Schools (or alternatively Classes) exist as follows.
 
@@ -32,11 +32,11 @@ Schools (or alternatively Classes) exist as follows.
 - <a href="/scebon">Ebonite Schools</a>
 - <a href="/scjackal">Jackal Schools</a>
 
-## <span>Magic</span> {#toc3}
+## <span>Magic</span>
 
 There are two important magical paths in the Burning Sands: <a href="/sahir-spell">Sahir Spells</a> and <a href="/cokaloi">Cokaloi</a>.
 
-## <span>Advantages</span> {#toc4}
+## <span>Advantages</span>
 
 #### Ambidextrous [Physical] (4 Points)
 
@@ -88,7 +88,7 @@ You have the ability to summon
 #### Soul of Warriors [Spiritual] (10 Points)
 
 You are considered a true Yodotai hero by your peers, and more importantly by your ancestors. Whenever you are in combat, you have a guardian spirit fighting by your side.
-## <span>Disadvantages</span> {#toc5}
+## <span>Disadvantages</span>
 
 #### Curse of the Grey Crone [Spiritual] (3 Points)
 
@@ -104,7 +104,7 @@ Perhaps you do not believe in Yodotai gods, or are not a true Yodotai warrior. Y
 #### Forlorn [Mental] (2 Points for State, 5 Points for Religion)
 
 Only Senpet characters may take this disdavantage. Once you believed in both Empire and Religion, but something changed that. Choose either state or religion as your source of disillusionment. Whenever you attempt to use any Skill or Technique referencing that source, you suffer a +10&#160;TN penalty to that roll. Additionally, if you choose religion, you many not use any Void Points for techniques that require faith.
-## <span>Weapon Updates</span> {#toc6}
+## <span>Weapon Updates</span>
 
 Medinaat al’ Salaam
 
@@ -155,7 +155,7 @@ Ebonites
 - Ebonite Armor - As per Light Armor
 - Ebonite Longsword - As per Longsword
 
-### <span>Shields</span> {#toc7}
+### <span>Shields</span>
 
 Using shields is a normal part of the warfare of many nations of the Burning Sands. However keeping a hold of a shield and trying to attack an opponent whilst staying in an orderly formation is tricky at best.<br>
 Wielding any sort of shield confers the TN and Reduction listen in the shield entry, however, shields also use the Wielding Two Weapons rules in L5R 4th Edition to determine the penalty that the holder of the shield suffers to all attack rolls. In addition (unlike wielding two weapons) the wielder of a shield also suffers the same penalty to all athletics skill rolls. Unlike wielding two weapons there is little measure of skill in hiding behind a shield, so wielding a shield does not confer the standard benefits of wielding two weapons.

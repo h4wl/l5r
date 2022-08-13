@@ -1,8 +1,8 @@
 Title: Qabal Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Qabal Agent (Diplomat)</span> {#toc1}
+### <span>Qabal Agent (Diplomat)</span>
 
 An evolution of the Qabal's need for secrecy during the rule of the Immortal Caliph, the Qabal's Agents are the unsung heroes of three centuries of magical persecution. The Agents train right alongside the sahir in the Stronghold, though agents are only successful if the sahir fail to realize who they are.
 
@@ -27,7 +27,7 @@ You gain a +2k0 bonus to all Stealth Rolls. You may spend an amount of time dete
 #### Rank 5: Pillar of the Community
 
 You learn a Mastery level 1, 2 or 3 Control Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. You learn a Mastery level 1,2 or 3 Blessing or Curses Spell, which you may cast with subtlety without making the usual Awareness / Stealth Roll. You may select spells for which you do not have the previous ranks. When an opponent is making an Investigation Skill Roll against you, you may spend a Void Point to prevent their dice from exploding
-### <span>Qabal Summoner (Sahir)</span> {#toc2}
+### <span>Qabal Summoner (Sahir)</span>
 
 So named because the discipline of Summoning magic is the most impressive and easily identified magic that the Qabal practices, the summoner is potentially the most powerful of sahir in the Burning Sands, the result of centuries of refinements in magical technique followed by centuries of persecutent heaped on the sloppy or incompetent. The tradition of the Qabal sahir stretches almost all the way back to the Ashalan and the Day of Wrath, and the impressive body of knowledge the Qabal has collected shows it. Dozens of other magical methodologies are based on Qabal techniques, including the Dahabi Bargainers and the latter initiates of the Khadi.
 

@@ -6,7 +6,7 @@ D10 roll result
 - 4-8 Illustrious Past: Roll on Table 2
 - 9-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Crane Past</span> {#toc0}
+## <span>Table 1: Shameful Crane Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor lost an important duel and his failure still hangs over your line. You start with 1.0 less Honor and 0.5 less Status than normal.
 - 0 Your ancestor claimed a rival’s art as his own, winning praise from the Imperial Court. If the deceit is ever discovered, your family will be ruined. You gain the Dark Secret Disadvantage.
 
-## <span>Table 2: Illustrious Crane Past</span> {#toc1}
+## <span>Table 2: Illustrious Crane Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor nearly single-handedly averted a political catastrophe and turned it into a victory for the Crane. His brilliance is reflected in your own skills. You may take the Clear Thinker Advantage for 1 less Experience Point.
 - 0 Your ancestor saved an Asahina Fetish Master from a serious social mishap. In thanks she gave your family a fetish (chosen by the GM) which has since been passed down to you.
 
-## <span>Table 3: Crane Mixed Blessings</span> {#toc2}
+## <span>Table 3: Crane Mixed Blessings</span>
 
 D10 Roll result
 

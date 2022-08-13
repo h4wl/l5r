@@ -1,8 +1,8 @@
 Title: Ra'Shari Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Ra'Shari Knife-Fighter (Warrior)</span> {#toc1}
+### <span>Ra'Shari Knife-Fighter (Warrior)</span>
 
 Despite the best efforts of the more diplomatic members of the Great Caravan, the Ra'Shari are not welcome everywhere they go. It became clear early in their wanderings that the Ra'Shari would need to be able to protect themselves. A brilliant nomad named Stevo discovered that the same economy of motion practiced by dancing could be employed by agile warriors seeking to avoid their opponent's weapons.
 
@@ -27,7 +27,7 @@ Making attacks with a knife or an unarmed strike is a Simple Action for you.
 #### Rank 5: Strike to Slay
 
 When attacking with a knife or unarmed strike, you may spend a Void Point to add +1K1 to the Damage Roll. You gain a further +1k0 bonus to Initiative Rolls (+3k0 in total).
-### <span>Ra'Shari Trader (Diplomat)</span> {#toc2}
+### <span>Ra'Shari Trader (Diplomat)</span>
 
 Commerce is life to the Ra'Shari, since their nomadic lifestyle makes trading a good way to make money in the burning sands. The Great Caravan of Commerce has mastered the art of the traveling salesman, bringing to people what they need and what they want. While the techniques of the Ra'Shari Trader existed long before the splitting of the Great Caravans, they have been perfected since.
 
@@ -52,7 +52,7 @@ You gain a further +1k0 bonus to all Courtier Etiquette, and Lore Underworld Rol
 #### Rank 5: The Perfect Supplier
 
 You receive a further +1k0 bonus to Sincerity, Temptation and Commerce Rolls (+3k0 in total). If you spend 20 minutes in conversation with someone and succeed at a Contested Temptation (Seduction) Roll vs. the Target’s Awareness / Courtier, you may learn all of the Target’s material desires. If you know a target’s material desires you can make a Contested Commerce/Awareness Roll against their Etiquette/Willpower to convince them that you can satisfy their material wants at a reasonable price and promise to deliver those goods at a specified time. If you do so you may gain them as an Ally at no cost until the promised goods arrive at the specified time (assuming the goods arrive at all). The GM is the arbiter of what constitutes a reasonable delivery time. Misuse of this technique has given the Rashari the reputation that they have today, wise traders would do well to leave friends behind rather than disappointed enemies.
-### <span>Ra'Shari Diviner (Sahir)</span> {#toc3}
+### <span>Ra'Shari Diviner (Sahir)</span>
 
 A long time ago, the Ra'Shari were the chosen people of Vishnu, and called upon the tripartite blessings of Provider, Preserver and Pervader. Today however this connection is long gone. Ra'Shari magic still comes in three parts, but their new aspects reflect their long duty in the Burning Sands.
 

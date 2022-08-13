@@ -2,13 +2,13 @@ Title: Lost Clans Schools
 ---
 While these minor clans are not part of Rokugan's canonical Clans, they have been a part of Rokugan's history and have been designed by the team responsible for the fourth edition of Legend of the Five Rings. Their status as canon and use are left up to the GM.
 
-## <span>The Bee Clan</span> {#toc0}
+## <span>The Bee Clan</span>
 
-### <span>The Hachi Family: + 1 Awareness</span> {#toc1}
+### <span>The Hachi Family: + 1 Awareness</span>
 
 The Hachi were a small family of sharp witted samurai, led by the five matriarchs descended from the founders of the Clan. Most dedicated their lives to the arts, and to their deeper meanings. They were in their natural element in the highest courts of Rokugan.
 
-### <span>Hachi Courtier School</span> {#toc2}
+### <span>Hachi Courtier School</span>
 
 Although it was difficult to realize at times, the Hachi were truly passionate about the arts. They saw the ability to create deeper meaning out of mundane means as the greatest skill of mankind, akin to magic and a gift from the Fortunes. But this also meant they hated to see mediocrity, considering it an offense to the Kami and a stain on one’s honor. As such, the Hachi became merciless courtiers, travelling the courts of Rokugan to dispense their judgments, like magistrates of the fine arts. This gave them significant political clout which, true to their Crane heritage, they never hesitated to use to solidify their position in the Empire.
 
@@ -33,14 +33,14 @@ At this rank, the Hachi courtier learns how to completely destroy the confidence
 #### Rank 5: Beyond the Veil
 
 The most senior members of the Bee Clan look for those rare displays of artistic skill which can be considered perfect. For those so attuned to the deeper meaning of the arts, such a sight can be akin to a temporary moment of enlightenment, allowing them to see everything around them more clearly. Upon witnessing a work of art or performance accomplished with at least 5 raises, the Hachi Courtier can roll the appropriate artisan or performance skill/Void, at a TN of 25. If successful the Courtier recovers all spent Void points, and gains three extra Void points on top of his maximum.Those three Void points disappear if not used by the end of the day, and this technique cannot be used more than once a day.
-## <span>The Raven Clan</span> {#toc3}
+## <span>The Raven Clan</span>
 
-### <span>The Karasu Family: +1 Stamina</span> {#toc4}
+### <span>The Karasu Family: +1 Stamina</span>
 
 Shaped by a tough existence as warriors and rugged, inhospitable homelands, the Karasu were a hardy people. Taciturn and hard -working warriors, they would frequently travel across the length of the Empire to find honorable employment as mercenaries, usually in service to one of the Great Clans. They reversed most of their profits to the Brotherhood of Shinsei, content to live a life of frugality and service. Karasu Bushi School The Raven Clan thought that as samurai, war was their duty and if war wouldn’t find them, then would find war. Not that they were chasing honor or glory, but they simply saw it as their role in the world.<br>
 This didn’t mean they couldn’t positively impact the Empire though, and by contributing to the Brotherhood of Shinsei, they sought to create a more harmonious empire, both in this world and the next. Trained in a wide variety of weapons, the Raven were dangerous foes, for what they lacked in refinement was made up by years of continued fighting experience.
 
-### <span>Karasu Bushi School</span> {#toc5}
+### <span>Karasu Bushi School</span>
 
 - <strong>Benefit:</strong> +1 Agility
 - <strong>Skills:</strong> Battle, Hunting, Jiujutsu, Kenjutsu (katana), Kyujutsu, Lore: Theology, any one weapon skill
@@ -65,13 +65,13 @@ While mercenaries, the Raven believe they are doing their duty by waging wars fo
 This dangerous and cruel technique has been said to have been told to Karasu himself by a monk, who had abandoned the blade after using it only once. It allows a Raven samurai to slice at his opponent’s eyes, causing blindness and excruciating pain. To activate it, the Karasu bushi must first spend a Void point, and then succeed on an attack roll with three raises. If successful, the target is blinded for the reminder of the combat.
 
 Additionally, unless the target succeeds at a TN 20 Willpower they are unable to fight, and are considered to be at the Down wound rank until they receive some help. With five raises, instead of three, the target permanently acquires the Blind disadvantage, and the TN of the Willpower to remain standing is now TN30. At the GM’s discretion, usage of this technique can cause an honor loss if inappropriate, such as in a first blood duel or against an unarmed target. It can only be attempted once per day, whether successful or not.
-## <span>The Shark Clan</span> {#toc6}
+## <span>The Shark Clan</span>
 
-### <span>The Jirozame Family: +1 Agility</span> {#toc7}
+### <span>The Jirozame Family: +1 Agility</span>
 
 When the mysterious man only known as Jirozame recruited followers for his Clan, there didn’t seem to be much those samurai had in common. But soon it became apparent that the Shark samurai were all brilliant killers, if totally devoid of any empathy. Thus the Jirozame quickly gathered a dangerous reputation, which often prevented retribution for their debauched habits.
 
-### <span>Jirozame Bushi School</span> {#toc8}
+### <span>Jirozame Bushi School</span>
 
 While his origins remained a mystery for all, Jirozame seemed to have received extensive training in both Kenjutsu and Iaijutsu, and passed those talents on to his followers. The original Jirozame samurai were often talented warriors themselves, and honed their skills by &quot;raiding&quot; villages outside their own territory, somewhat like legitimized bandits. Those samurai brave enough to face them found the Shark to be obsessed with the demise of their opponents, with no concerns for their own safety. While skilled with the katana and in duels, the Jirozame particularly enjoyed using the nodachi, for sheer power and intimidation potential.
 
@@ -98,13 +98,13 @@ Once a shark holds its prey in its jaws, the fight is almost over, for it will n
 The Jirozame’s disdain for life extends both to themselves and their enemies. Those who fully embrace their philosophy are capable of launching near suicidal assaults, almost always resulting in death - of one fighter or the other. You can activate this technique before initiative is rolled for a fight, and before using your rank 2 technique. You must spend a Void point and adopt the Full Attack Stance to do so.
 
 Once activated, the technique grants you +10 on your initiative roll, the regular +2k1 bonus to Attack Rolls from the Full Attack Stance, and a +2k1 bonus on all damage rolls for the first round. However, your armor TN is reduced to 5 for the entire first round of the fight. This technique cannot be used in an iaijutsu duel.
-## <span>The Salamander Clan</span> {#toc9}
+## <span>The Salamander Clan</span>
 
-### <span>The Hitokage Family: +1 Intelligence</span> {#toc10}
+### <span>The Hitokage Family: +1 Intelligence</span>
 
 Born out of a talented shugenja’s naïve mistake and idealistic quest for knowledge, the Hitokage was an eclectic Family. Its members shared a natural curiosity and talent for magic, but often pursued different avenues of knowledge along the course of their travels through the Empire.
 
-### <span>Hitokage Shugenja School</span> {#toc11}
+### <span>Hitokage Shugenja School</span>
 
 When he started to organize his Clan, Hitokage refused to adopt the traditional model which other shugenja school employ. Instead of focusing on one area of magic or a specific element, Hitokage encourage his students to diversify themselves, and to learn the basics of all elements. Without the resources of the Phoenix Clan, this proved difficult, but Hitokage eventually found a balanced approach.<br>
 With great effort, this allowed the Salamander to emulate some of the powers of the Void shugenja, although it still wasn’t true Void magic.
@@ -117,13 +117,13 @@ With great effort, this allowed the Salamander to emulate some of the powers of 
 - <strong>Technique:</strong> <em>One Way Through Many Paths</em> - The Hitokage embraces all forms of magic, giving him an unparalleled variety of abilities. You gain one Void spell with each rank, but you cannot cast it as a Void spell. To cast it, you need to spend one spell slot from each one of two opposed elements (one Fire slot and one Water slot, one Earth slot and one Air slot, or two Void slots) and roll your lowest Ring/Rank. You cannot learn any other Void spells than the ones learned through this technique (unless you possess the Ishiken-do advantage) and they are not considered Void magic, but simple elemental spells of your lowest Ring (you can pick in case you have more than one Ring at the same, lowest level).
 - <strong>Spells:</strong> Sense, Commune, Summon, any six non-Void spells (and at least one from each non- Void element) and
 
-## <span>The Firefly Clan</span> {#toc12}
+## <span>The Firefly Clan</span>
 
-### <span>The Hotaru Family: +1 Perception</span> {#toc13}
+### <span>The Hotaru Family: +1 Perception</span>
 
 The Hotaru Family was always a small one, even for a Minor Clan, as the Clan Champions were always careful not to overtax the resources of their small Province. However, this was more than enough for them to keep vigil over the coast, and for a few individuals to lend their services as magistrates, scouts or guards in the Empire.
 
-### <span>Hotaru Bushi School</span> {#toc14}
+### <span>Hotaru Bushi School</span>
 
 The techniques of the Hotaru bushi school were in large part shaped by Hotaru Oshio, Hotaru Jainu’s first yoriki. A ronin who had studied the blade for his whole life, Oshio relished the opportunity to formalize his style and teach it to a new generation as part of a Minor Clan. Oshio had a similar temper to the Clan founder’s, and preferred observation to rushed attacks. His techniques focused on studying the enemy’s style, and adapting to it, only striking when the time was right. Although not as aggressive as other Schools, the Firefly style of fighting served the Clan well in their various duties. Jainu also contributed to the School whenever he could, and it shows some influence from the Shinjo bushi school, including horseback combat.
 
@@ -157,13 +157,13 @@ Assured of his place in the Empire, the Firefly bushi’s strikes show no hesita
 #### Rank 5: Twilight Strike
 
 Having perfecting the art of studying his opponent, the Firefly bushi is able to defend and strike in a single move. Immediately after an enemy fails to hit you while you are on the Full Defense Stance, you can spend a Void point to activate this technique. You can immediately attack this opponent, ignoring the restrictions of the Full Defense stance, with a +2k0 bonus on both the attack and the damage roll.
-## <span>The Tanuki Clan</span> {#toc15}
+## <span>The Tanuki Clan</span>
 
-### <span>The Tanuki Family: +1 Stamina</span> {#toc16}
+### <span>The Tanuki Family: +1 Stamina</span>
 
 The Tanuki was a small Family of simple samurai, who mostly came from other Minor Clans and as such were used to a lack of luxuries. Used to the toughening forester lifestyle and avid consumers of sake and all kinds of food, many Tanuki were quite rotund, but it would have been foolish for anyone to interpret it as a sign of softness.
 
-### <span>Tanuki Bushi School</span> {#toc17}
+### <span>Tanuki Bushi School</span>
 
 The majority of samurai thought the Tanuki were somewhere between lunatics and buffoons, pointing to their large consumption of alcohol and odd superstitions, such as never going outside without wearing a broad straw hat, or bowing to the tanuki effigies at the entrance of their home when coming in. A small minority thought their explorations were bearing fruit though, and found the Shinomen Forest to be a somewhat safer place in their presence. The Tanuki never seemed to care much for any opinion, preferring their forest expeditions to discover more about the spirits hiding there, and the parties they held after such trips. To protect themselves, they developed an odd fighting style, which didn’t attract much praise from other bushi Family. Still, the Clan thrived in a dangerous environment, so they must have done at least one thing correctly&#8230; or been extremely lucky.
 
@@ -188,7 +188,7 @@ The Tanuki laugh when they see samurai practicing rigid kata, or speaking of spe
 #### Rank 5: Part of Both Worlds
 
 At this rank, the Tanuki Bushi is fully aware that the mortal world is only part of reality, and even a simple human may slip out of it, if only for a moment. Once per day, after a successful attack against you but before damage is rolled, you may spend a Void point to activate this technique. You lose all your remaining Void points, but the attack is now considered to have missed, and you suffer no damage or effects from it. To outsiders, this looks like a last moment fluke, but the Tanuki believe they momentarily pass into the spirit world when this happens - up to the GM to decide whether this is true or not.
-### <span>Tanuki Sake Master [Bushi/Monk]</span> {#toc18}
+### <span>Tanuki Sake Master [Bushi/Monk]</span>
 
 - <strong>Benefit:</strong> +1 Void
 - <strong>Skills:</strong> Athletics, Defense, Jiujutsu, Meditation (Void Recovery), Staves (Bo), Tea Ceremony (Sake), any one High or Merchant Skill
@@ -197,7 +197,7 @@ At this rank, the Tanuki Bushi is fully aware that the mortal world is only part
 - <strong>Special:</strong> Mechanically this School is treated as a Brotherhood Monk School
 - <strong>Technique:</strong> <em>Just One More Drink</em> - Whenever your character becomes intoxicated by sake, you may double the mechanical effects of spending a Void Point (if applicable). This ability can be used a number of times per session equal to your School Rank. Also, your character can perform the Tea Ceremony with sake. If your character is intoxicated while performing the tea ceremony, participants regain an extra Void Point. You also begin the game knowing two Kiho. You must meet all prerequisites in order to use these Kiho. You may purchase additional Kiho normally as per the rules for a Brotherhood of Shinsei monk. You may also perform Martial Kiho (including Atemi), while using a Bo Staff.
 
-### <span>Blue Tanuki's Brand Ambassador [Courtier]</span> {#toc19}
+### <span>Blue Tanuki's Brand Ambassador [Courtier]</span>
 
 - <strong>Technique Rank:</strong> 2 - 4
 - <strong>Replaces:</strong> Any Tanuki school rank from 2 to 4 of your choice. (Ronin Sake lovers have been known to swear fealty into the Tanuki clan. Those may access this Technique provided that they find a suitable teacher who is sober enough to teach them.)
@@ -206,7 +206,7 @@ At this rank, the Tanuki Bushi is fully aware that the mortal world is only part
 
 Needless to say that if this happens in your establishment, the victims need to pay for their drinks (business is business). Failing to do so may incur an Obligation to you, at the GM's discretion.
 
-### <span>Kiho</span> {#toc20}
+### <span>Kiho</span>
 
 ## The Guru's Thousand Fires
 - Ring/Mastery: Fire 5
@@ -214,18 +214,18 @@ Needless to say that if this happens in your establishment, the victims need to 
 
 Taught to the Tanuki Clan since their transportation to the colonies by 'Yogi Gurus', this kiho allows a Tanuki samurai to turn his most reliable companion, sake, into a most potent weapon. To activate this kiho, you must spend a Void Point and then drink some sake as Simple Action. For a number of rounds equal to your Stamina Rank, you are considered to be mechanically benefiting from the Breath of the Fire Dragon spell.
 
-### <span>Advantages</span> {#toc21}
+### <span>Advantages</span>
 
 #### Able Drinker [Physical] (1 Points)
 
 You can really put the liquor away. This could be due to naturally high constitution, or maybe just a lot of experience. Add 2k1 to the total of Earth Rolls to resist inebriation. Tanuki, Crab and Mantis characters add a 3k1 to the total of Earth Rolls to resist inebriation.
-## <span>The Peacock</span> {#toc22}
+## <span>The Peacock</span>
 
-### <span>The Kujaku Family: +1 Reflexes</span> {#toc23}
+### <span>The Kujaku Family: +1 Reflexes</span>
 
 The glamorous Kujaku family are the heads of the Peacock Clan. Their founder, Doji Kujaku was the most beautiful samurai in all the land and son to the Crane Clan Champion during the reign of Hantei XIX. He was a master of the sword and master of wit and left a long string of devastated opponents in his wake. He was also known to be quite the lothario and was rumored to have fathered several children throughout the Empire. In a drunken celebration during a very momentous winter court, Kujaku &quot;accidentally&quot; slept with and subsequently impregnated the Emperor's niece, whom was betrothed to the son of the Phoenix Champion at the time. To save face of both the Imperial line and the Crane, Kujaku was &quot;promoted&quot; to guard the Emperor's prized peacocks. He took to the duty like a good son and served his post until the day he died nearly 18 years later during the Night of Five Fires when the crazed son of the new Phoenix Champion set fire to several buildings within Otosan Uchi. He died saving his wards from the deadly flames and thus maintaining the integrity of his exalted position. In his honor, Hantei XIX posthumously awarded him his own Clan, the Peacock, and named him its illustrious founder. From that day forth, the Kujaku family have served with distinction in their post and are some of the most cunning courtiers and deadly swordsman in all of Rokugan.
 
-### <span>New Basic School: Kujaku Bushi School</span> {#toc24}
+### <span>New Basic School: Kujaku Bushi School</span>
 
 - <strong>Benefit:</strong> +1 Awareness
 - <strong>Skills:</strong> Kenjutsu, Iaijutsu, Defense, Etiquette, Perform (choose one), Temptation (Seduction), Animal Handling (Peafowl)
@@ -248,7 +248,7 @@ Mimicking the graceful speed and deadliness of an enraged mother peahen, you may
 #### Rank 5: Wrath of the Golden Peacock
 
 At the pinnacle of your training, you realize that the peacock is not just an animal of extraordinary beauty, but that it is also a creature of extreme wisdom and cunning. During the Focus segment of a duel, you gain a Free Raise on your Iaijutsu (Focus) roll for every rank you possess in the Animal Handling skill. In addition, if neither you nor your opponent beats the other's Iaijutsu (Focus) roll by at least 5, you may still make the first strike in the Strike segment of the duel.
-### <span>Peacock Advanced School: Peacock Provocateur [Courtier]</span> {#toc25}
+### <span>Peacock Advanced School: Peacock Provocateur [Courtier]</span>
 
 While many see being assigned as a tender of the Emperor’s favored menagerie as a sign that one has clearly displeased a superior of great influence, many of those who ‘earn’ such a promotion have taken to it with all the devotion and duty that such an important role requires. A small number of them have even managed to learn something from studying such proud and self-important animals.
 
@@ -267,14 +267,14 @@ The Peacock is known for its awesome strut and magnificent plumage which it uses
 #### Rank 3: Call of the Golden Peacock
 
 Once per session you may ‘recommend’ another samurai, with lower status than yours, for service in this most exclusive of positions, they immediately gain a number of status points equal to the difference in status ranks between you. However they also lose 1 full rank of Glory for every point of status they gain as the mere mention of their name in such circles causes others to think that they have fallen into disfavor. This cannot reduce their Glory below their Insight Rank.
-### <span>Kata</span> {#toc26}
+### <span>Kata</span>
 
 ## Sublime Peacock Style
 - Ring/Mastery: Air 4
 - Schools: Kakita Bushi, Mirumoto Bushi, Peacock Bushi, Seppun Guardsman, Firefly Bushi.
 - Effect: You have mastered a really demonstrative kata to impress your opponents. When in the defense stance and wielding a melee samurai weapon, you can make an intimidation / awareness roll as a simple action with a TN equal to a target opponent's highest ring x 5. While this kata is active, your TN is increased against this opponent by the difference as you totally impressed him.
 
-### <span>Advantages</span> {#toc27}
+### <span>Advantages</span>
 
 #### Gaze Of the Cocotte [Social] (2 Points)
 

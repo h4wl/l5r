@@ -1,8 +1,8 @@
 Title: Naga Schools
 ---
-### <span>Basic Schools</span> {#toc0}
+### <span>Basic Schools</span>
 
-#### <span>Naga Jakla [Shugenja]</span> {#toc1}
+#### <span>Naga Jakla [Shugenja]</span>
 
 The Naga jakla act as conduits of the mysteries of the universe. Jakla learn to use their connection with the Akasha and focus it into displays of powerful magical prowess. They also perform the major religious and spiritual rituals of Naga society, such as the special ritual that makes all Naga immune to the Shadowlands Taint. Only members of the Cobra bloodline can unlock the magic of the <a href="/pearls">Pearls</a> and join the jakla School. Other Bloodlines can sometimes coax magic out of the pearls, but at a greatly reduced power, and in mechanical terms they cannot take this School.
 
@@ -14,7 +14,7 @@ The Naga jakla act as conduits of the mysteries of the universe. Jakla learn to 
 - <strong>Technique:</strong> <em>Shining Heart</em> - The jakla learns to hone his focus until he can tap into the magical powers that lie within his pearls. Every day, you may cast two of your spells without expending spell slots. You gain one Free Raise on spells cast in this manner.
 - <strong>Pearls:</strong> Sense, Summon, 3 Pearls of Water Level 2, 2 Pearls of Earth Level 1, 1 Pearl of Air Level 1
 
-#### <span>Naga Scout [Bushi]</span> {#toc2}
+#### <span>Naga Scout [Bushi]</span>
 
 The Naga have always felt at home in the wilderness, and their greatest cities lie within forests and beneath the sea. Their chosen habitat often holds great mysteries and dangers that need to be dealt with before the Naga cities can be considered safe. The Naga Scouts solve these mysteries and plumb the innermost sanctuaries of forests and oceans. The Scouts are masters are moving without making noise or disturbing their surroundings.
 
@@ -39,7 +39,7 @@ The Scout learns to defeat his foes before the enemy is even aware of his presen
 #### Rank 5: Relentless Ranger
 
 The Naga Scout learns to push aside the stresses of his own body when on the hunt, relying on the focus of the Akasha to continue beyond his own means. You may function at full capacity without sleep, food, or water for three days. Once these days are past, you must have food and at least four hours of rest to continue functioning at the best of your abilities - otherwise you become Fatigued.
-#### <span>Naga Vedic [Courtier]</span> {#toc3}
+#### <span>Naga Vedic [Courtier]</span>
 
 The Naga Vedics serve many different roles within Naga civilization and hold high positions in their society. Vedics who serve the Bright Eye teach the Naga young and heal the sickly. Vedics who serve the Pale Eye are magistrates who render judgment in disputes between different Naga. No matter what role they play, all Vedics are widely known and respected for their wisdom.
 
@@ -66,7 +66,7 @@ The Vedic is calm at all times, balancing his personal desires with the will of 
 The Vedic is in tune with the desires of the Akasha, and the great consciousness of the Naga wishes to protect its children. You may take a Complex Action to touch a target and suffer Wounds equal to one full Wound Rank. If your target is a Naga, he immediately heals two full Wound Ranks; otherwise, the target heals one full Wound Rank.
 
 If the target suffers from a disease, infection, mental illness, or similar problem, you must immediately make a Stamina roll (at an appropriate TN as set by the GM) or succumb to its effects. However, if the roll is successful, you cleanse the target of the negative effect, whatever it might be. You may not be healed from any diseases or other effects gained from this Technique by any means for a minimum of one full day. The Shadowlands Taint and the Nothing are unaffected by this Technique.
-#### <span>Naga Warrior [Bushi]</span> {#toc4}
+#### <span>Naga Warrior [Bushi]</span>
 
 The backbone of the Naga armies is formed by the Naga Warriors. They are fearless in battle, striking out against impossible odds to defeat the enemies of the Foul. The Naga live in a martial society, and similar training makes the Naga Warrior ready to stand against the greatest Rokugani bushi and fiercest oni without ever backing down.
 
@@ -91,9 +91,9 @@ The Naga Warrior is never alone, knowing that his connection to the rest of his 
 #### Rank 5: Heart of a Warrior
 
 The Naga Warrior never falters or stops, as the Akasha cleanses his soul. You may spend an Akasha Point as a Free Action during your Turn to remove any one Status Effect on yourself. If you are Stunned, you may still use this Technique but it counts as a Simple Action instead.
-### <span>Alternative Paths</span> {#toc5}
+### <span>Alternative Paths</span>
 
-#### <span>Disciples Of the Dashmar [Courtier]</span> {#toc6}
+#### <span>Disciples Of the Dashmar [Courtier]</span>
 
 The Dashmar is the political leader of the Naga, and his benevolent infl uence spreads out among those who admire his abilities. His desire for peace and alliances with other races spreads to his students. The Disciples of The Dashmar are committed to their goals and work tirelessly to connect with foreigners. The Disciples travel far away from the boundaries of the Naga cities, attempting to fi nd common interests with humans. These Disciples often adopt many human customs and become intimately knowledgeable about Rokugan.
 
@@ -101,7 +101,7 @@ The Dashmar is the political leader of the Naga, and his benevolent infl uence s
 - <strong>Replaces:</strong> Naga Vedic 2
 - <strong>Technique:</strong> <em>Friend Of Man</em> - The Disciples of The Dashmar attempt to learn the ways of Rokugan in order to gain new allies against their greatest enemies. You gain a bonus of +1k1 to the total of any Social Roll when trying to convince humans of your goodwill or to soothe dangerous situations with humans.
 
-#### <span>Master Bowman [Bushi]</span> {#toc7}
+#### <span>Master Bowman [Bushi]</span>
 
 Naga are famed for their archery, even among their enemies. There are few rivals for their excellence among the Rokugani, save perhaps the Tsuruchi of the Mantis Clan. Naga Warriors serve as the front line soldiers in war, but there are plenty who choose to specialize in the art of archery. The Master Bowman is able to strike down his enemies before they ever approach the Naga. He aims his arrows with pinpoint accuracy, striking his targets without fail.
 
@@ -110,7 +110,7 @@ Naga are famed for their archery, even among their enemies. There are few rivals
 - <strong>Requires:</strong> Archery 5
 - <strong>Technique:</strong> <em>Arrows from the Ranks</em> - The Master Bowman is an artist with his bow, able to strike an opponent in the eye at a thousand paces. You may make attacks as a Simple Action instead of a Complex Action when using a bow. Additionally, you may string your bow for use as a Free Action.
 
-#### <span>Pearl Shapers [Shugenja]</span> {#toc8}
+#### <span>Pearl Shapers [Shugenja]</span>
 
 Jakla are able to contribute to a Naga war band by using their magical pearls to destroy the enemy. However, these abilities tax the jakla’s concentration and stamina, quickly rendering him unable to fight with any efficacy. The jakla have determined new methods of channeling the latent energy in pearls by focusing them into bolts of magical power.
 

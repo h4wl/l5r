@@ -1,6 +1,6 @@
 Title: Fire Spells
 ---
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Biting Steel [CR]
 - Ring/Mastery: Fire 1 (Craft)
@@ -137,7 +137,7 @@ Fire is the element of creation as well as destruction, and a skilled shugenja c
 
 Fire is the Element of wit and intellect as well as the Element of destruction. This spell excites the Fire kami within the mind, allowing the target to notice threats and react to them far more quickly than normally. For the duration of the spell, the target is immune to being surprised, adds +1k0 to any Initiative rolls he makes, and may add +3 to his Initiative total during the Reactions stage of each Round.
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Disrupt the Aura [CR]
 - Ring/Mastery: Fire 2
@@ -236,7 +236,7 @@ If overlapping Wards of Purity are present, their effects do not stack.
 
 This prayer is a simpler and less potent form of the spell Wings of the Phoenix, although it is also slightly more flexible in that it does not require a suit of armor to act as an &quot;anchor&quot; for the Fire kami. When this spell is cast, a cloud of Fire kami gather and take the form of large feathery wings sprouting from the caster’s arms and back. The caster may use these wings to fly slowly (normally moving at a speed equal to Water 1, regardless of his actual Water Ring). If the caster is able to glide (e.g. he is already at a significant height above the ground), he can move more quickly, as though he is Water 4. While the spell is in effect, the caster cannot use his arms for anything but flapping and moving his fiery wings, severely limiting his potential actions; also, he will set fire to any easily flammable objects (such as paper or spell scrolls) he touches, although the Fire kami will avoid harming his clothes. When the spell ends, the Fire kami immediately disperse, regardless of whether the caster is on the ground or in the air - unlike the friendly Air kami, the mercurial and aggressive Fire kami do not particularly care about the caster’s fate once they depart.
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### Agasha’s Shield (Tamori’s Curse)
 - Ring/Mastery: Fire 3 (Defense, Wards)
@@ -342,7 +342,7 @@ This prayer, variously credited to the Isawa, the Kitsu, or the Seppun, is the p
 
 The creation of this spell is credited to Asahina himself, who sought ways to use Fire magic peacefully after he joined the Crane Clan, but in modern times it is found in the ranks of many different families. The spell causes the Fire kami to gather and dance in a pleasing visual shape and with a soothing rhythmic light. Those who gaze upon the Fire kami see an entrancing and appealing vision that distracts them from taking violent actions. All persons within the Area of Effect find themselves entranced and are considered Dazed for the duration of the spell. However, the targets may attempt to shake off the spell’s effects during the Reactions Stage of each Round with a Willpower roll against a TN of the caster’s Fire x10. This spell’s effects are most potent against Rokugani, since the Fire kami find it more difficult to create entrancing images for those they do not understand. The GM may award gaijin and nonhuman targets a bonus to their Willpower roll to resist the spell’s effects. Animals, bestial creatures, and mindless creatures such as undead are completely immune to the spell.
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Blessing of the Sun
 - Ring/Mastery: Fire 4
@@ -427,7 +427,7 @@ You may Raise to increase on of the specifications (height, width, or length) by
 
 Osano-Wo's protection can be temporarily invoked for a suit of armor by casting this spell and inscribing the kanji for thunder on the armor. Those within 15' of the armor are under Osano-Wo's care, and are completely protected from non-magical fire and thunder for the duration of the spell. Additionally, any Fire spell cast by a shugenja other than yourself which targets something within the area of effect has its Spell Casting TN increased by 20
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### Castle of Fire
 - Ring/Mastery: Fire 5 (Battle, Defense)
@@ -502,7 +502,7 @@ This prayer invokes the power of the Sun, worshiped and venerated throughout Rok
 
 The Phoenix is one of the most powerful symbols of Fire known to the Rokugani, and this spell calls on the essence of that being to grant its casters the power of flight. When this spell is cast, you summon clouds of Fire kami who take the form of giant wings sprouting from your back. You gain the ability to fly for the duration of the spell, moving at a speed of Water x 10 for a Free Action or Water x 20 for a Simple Action. If you are airborne when the spell expires, the Fire kami will bear you down to earth before departing.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### Beam of the Inferno [CR]
 - Ring/Mastery: Fire 6

@@ -6,7 +6,7 @@ D10 roll result
 - 4-7 Illustrious Past: Roll on Table 2
 - 8-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Phoenix Past</span> {#toc0}
+## <span>Table 1: Shameful Phoenix Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor dabbled in maho. He summoned an oni and gave it his name. Ever since, that oni has been haunting your family line.
 - 0 While researching powerful new magics, your ancestor disappeared in a flash of light, taking his notes with him. The Kitsu have determined his soul never made it to Meido. No one has been able to duplicate his work or determine where he has gone. Your family is obsessed with hunting for him; you gain the Consumed by Knowledge Disadvantage.
 
-## <span>Table 2: Illustrious Phoenix Past</span> {#toc1}
+## <span>Table 2: Illustrious Phoenix Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor was a yojimbo who fought and won a glorious duel in defense of his charge. His fame endures and you look to his example for guidance. Gain 1 free Rank in the Iaijutsu Skill and 0.5 Glory.
 - 0 Your ancestor achieved one of the great breakthroughs of magic, and you have benefi tted from his work. Gain 1 free Rank in either the Lore: Shugenja Skill or the Spellcraft Skill
 
-## <span>Table 3: Phoenix Mixed Blessings</span> {#toc2}
+## <span>Table 3: Phoenix Mixed Blessings</span>
 
 D10 Roll result
 

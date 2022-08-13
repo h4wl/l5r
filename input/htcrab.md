@@ -6,7 +6,7 @@ D10 roll result
 - 4-7 Illustrious Past: Roll on Table 2
 - 8-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Crab Past</span> {#toc0}
+## <span>Table 1: Shameful Crab Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor abandoned a comrade to die in the Shadowlands. The other man’s family swore a blood feud against yours. You gain the Sworn Enemy Disadvantage.
 - 0 Your ancestor was seduced by the Shadowlands and in the generations since he has taken several of his descendants to join him there. You are next on the list.
 
-## <span>Table 2: Illustrious Crab Past</span> {#toc1}
+## <span>Table 2: Illustrious Crab Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9&#160;A visiting dignitary got caught in a Shadowlands attack while touring the Wall. Your ancestor saved his life and in thanks was granted an additional stipend. Your starting Outfit gains 2 koku.
 - 0 During a fierce battle with another clan, your ancestor saved the life of one of his enemies. Their descendants remain indebted to your line. You gain a free 3-point Obligation with their clan.
 
-## <span>Table 3: Crab Mixed Blessings</span> {#toc2}
+## <span>Table 3: Crab Mixed Blessings</span>
 
 D10 Roll result
 

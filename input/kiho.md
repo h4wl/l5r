@@ -1,6 +1,6 @@
 Title: Kiho
 ---
-## <span>Kiho</span> {#toc0}
+## <span>Kiho</span>
 
 Somewhere between the spells of shugenja and the martial techniques practiced by bushi, the strange elemental abilities known as Kiho are almost exclusively the province of Rokugan's monastic orders, and are poorly understood by virtually everyone else. While many Kiho represent what an individual is capable of doing when the body and mind exist in a state of spiritual harmony, some represent feats that can only be described as superhuman. Some among the Brotherhood of Shinsei have described Kiho as &quot;stepping stones to enlightenment,&quot; and there may be some truth to that; if they are secrets of the universe that are opened up as one approaches the state of enlightenment, then it could explain why so many seek that near-mythical state with such fervor and devotion.<br>
 Typically a member of the Brotherhood discovers several key truths about himself during the grueling physical and mental trials set before him as part of his training and education. This process serves a three-part purpose: it discourages those who are not yet ready to accept the life of a monk, it purges the mind and body of impurities through physical and mental trials, and it helps a new initiate find the first step to one of the paths to enlightenment (the Brotherhood believes there are many such paths).<br>
@@ -11,7 +11,7 @@ Kiho are similar to spells and Kata in that they are aligned with a particular E
 <span style="text-decoration: underline;"><strong>Mystical Kiho</strong></span> are the rarest and most inexplicable of all. There can be no reasonable explanation for the things accomplished by the monks who exhibit these abilities. They are, quite frankly and obviously, supernatural in nature. There can be no disguising the nature of these abilities.<br>
 Regardless of type, all Kiho possess a Mastery Level, which determines how difficult it is to master that particular sliver of enlightenment. A monk character adds his School Rank plus the relevant Ring and compares the result to the Mastery Level. If it meets or exceeds the Mastery Level, he may learn that Kiho. Non-Brotherhood characters who may be eligible to purchase Kiho use only their Ring to determine if they may purchase a Kiho.
 
-## <span>Utilizing Kiho</span> {#toc1}
+## <span>Utilizing Kiho</span>
 
 Kiho have an incredible variety of effects, some of which may seem to overlap even between the different classifications. In many ways, they are as inscrutable and mysterious as the monks who utilize them. There are some broad rules that govern Kiho use, however, and make utilizing them a bit simpler in practice.
 
@@ -20,11 +20,11 @@ Kiho have an incredible variety of effects, some of which may seem to overlap ev
 
 A number of Kiho require successful atemi attacks as part of their activation. This is referred to in the text as the &quot;activating attack.&quot; When making the atemi attack, the monk may either spend a Void Point or make a TN Meditation / Void roll as described above. For atemi attacks, however, these are all considered Free Actions.
 
-## <span>Atemi Attacks</span> {#toc2}
+## <span>Atemi Attacks</span>
 
 A number of Kiho, primarily Martial but including some of other types, require precise nerve attacks in order to be executed successfully. Because of the exacting precision necessary to execute these attacks, they do not inflict normal unarmed damge; they inflict no damage other than to allow the effects of the Kiho in question to take place. If the optional rules for monks are being used in a campaign, the GM may require atemi attacks to use the Atemi Emphasis of the Jiujutsu Skill. All atemi attacks must touch bare skin in order to be effective. Because of this, all forms of armor double the normal bonus they confer to an individual's Armor TN against these attacks. Kiho that require an atemi attack have the (Atemi) notation following their Ring/Mastery entry.
 
-## <span>Non-Brotherhood Kiho</span> {#toc3}
+## <span>Non-Brotherhood Kiho</span>
 
 Kiho are largely the province of the Brotherhood of Shinsei, and Brotherhood monks find these little steps to enlightenment easier than any other.
 
@@ -33,7 +33,7 @@ Kiho are largely the province of the Brotherhood of Shinsei, and Brotherhood mon
 - Shugenja characters may purchase Kiho at twice the normal cost, and they use only their Ring to determine if they meet the Mastery Level (rather than their Ring plus their School Rank).
 - Non-brotherhood characters may never know more Kiho than their total Monk or Shugenja School Rank.
 
-## <span>Air Kiho</span> {#toc4}
+## <span>Air Kiho</span>
 
 ## Air Fist
 - Ring/Mastery: Air 3
@@ -143,7 +143,7 @@ The wind is all around us, and by focusing his chi, a monk may see as the wind d
 
 This Kiho was developed early on by the more martial sects of the Brotherhood, but was rarely learned or used until the Wind’s Grace Order adopted it for use in its training. By focusing on the omnipresence of Air and letting go of mundane perception, you are able to fire an arrow at a target that is out of sight but may be in range. The arrow must still be able to travel in a straight line to the target—it will not suddenly pierce stone or turn corners, for example, but firing through a paper screen, amid total darkness, or through heavy smoke are all possible. You must know the target exists and its approximate location within 30 feet of its actual location.
 
-## <span>Earth Kiho</span> {#toc5}
+## <span>Earth Kiho</span>
 
 ## Bishamon’s Grasp
 - Ring/Mastery: Earth 7
@@ -251,7 +251,7 @@ The grip of a monk can be like stone, crushing those who find themselves trapped
 
 An extremely rare Kiho only taught among some of the older Orders, this remarkable ability destroys toxin, disease, and other impurities in the body of the Monk. The focus and calm required to master this Kiho is rare, and the Brotherhood knows it could lead to reckless behavior in the wrong hands. This Kiho can only be activated after two hours of uninterrupted meditation. After the time has passed, you may activate the Kiho as a Complex Action (it can only activate in this manner). You must call a Raise on the activation roll for every mundane poison, disease, or similar non-supernatural effect affecting you. If the roll is successful, your body is purged of a number of such impurities equal to the number of Void Points you have at the time (not counting the Void Point spent to activate the Kiho). All of these remaining Void Points are then spent as part of the Kiho’s effect. This Kiho does not work on most supernatural afflictions, such as the Shadowlands Taint or magical plagues, but the GM has discretion on whether unusual or semi-magical conditions may be cleansed by it.
 
-## <span>Fire Kiho</span> {#toc6}
+## <span>Fire Kiho</span>
 
 ## The Body is an Anvil
 - Ring/Mastery: Fire 4
@@ -326,7 +326,7 @@ Special Notes: This Kiho is quite popular among the more aggressive members of t
 
 A momentary disruption of the Fire chi within a target can leave them addled and confused. The target of this Kiho's activating atemi strike is Dazed.
 
-## <span>Water Kiho</span> {#toc7}
+## <span>Water Kiho</span>
 
 ## As the Breakers
 - Ring/Mastery: Water 4 (Atemi)
@@ -395,7 +395,7 @@ This Kiho focuses the monk’s Water chi offensively, channeling it through his 
 
 Water flows through all things, including the earth. You may make an unarmed attack by striking at a body of standing water or the earth. The effects of this strike are felt by one opponent who is in contact with either the water or earth (whichever one was struck) and who is within a number of feet equal to your Water Ring x 10. The effect of the strike is quite obvious, and may not be performed discreetly. If you are concealed at the time this Kiho is activated, your position is immediately revealed to the target and those in his immediate vicinity.
 
-## <span>Void Kiho</span> {#toc8}
+## <span>Void Kiho</span>
 
 ## Banish All Shadows
 - Ring/Mastery: Void 4 (Atemi)

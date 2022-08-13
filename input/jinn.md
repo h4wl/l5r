@@ -2,7 +2,7 @@ Title: Jinn
 ---
 Summoning a Jinn takes an Air roll at TN 5 after six hours of uninterrupting meditation after drawing Hakhim's seal. The TN may be increased if you need a specific type of Jinn, or a specific Jinn instead. Characters of Insight rank 1 et 2 may only summon Minor Jinn, of insight rank 3 and 4 may only summon Intermediate Jinn, and Major Jinn can only be summoned by characters with Insight Rank 5.
 
-### <span>Negotiating with Jinn</span> {#toc0}
+### <span>Negotiating with Jinn</span>
 
 In order to negotiate with the Jinn, you may make a contested Commerce / Awareness roll against him. You gain a bonus on the roll depending on whether you are needing&#8230;
 
@@ -19,7 +19,7 @@ The result of the negotiation is the following, depending on the summoner's roll
 - If you lose the roll by 15 or less, he asks a difficult task, such as allowing the jinn to take a work of art, or building a monument in his honor.
 - If you lose the roll by more than 15, he asks a monumental task, such as your firstborn son, or sacrificing all your memories.
 
-### <span>Creating a Jinn</span> {#toc1}
+### <span>Creating a Jinn</span>
 
 All Jinns possess the same basic abilities depending on whether they are minor, medium or major.
 

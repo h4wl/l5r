@@ -1,8 +1,8 @@
 Title: Senpet Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Senpet Legionnaire (Warrior)</span> {#toc1}
+### <span>Senpet Legionnaire (Warrior)</span>
 
 Before the Yodotai invasion, the Senpet Empire boasted of a highly and trained loyal army that numbered in the hundreds of thousands. Those warriors could fight in any situation, regardless of whether they were in the middle of the desert or in the mountains of the Yobanjin. The Senpet legionnaire was the paragon of skilled ruthlessness.
 
@@ -27,7 +27,7 @@ When assuming the Center Stance you may spend a Void Point to gain +20 to your A
 #### Rank 5: The Gods Guide my Hand
 
 Once per skirmish you may spend a Void Point to gain +4k1 to Attack Rolls for one round.
-### <span>Senpet Charioteer (Warrior)</span> {#toc2}
+### <span>Senpet Charioteer (Warrior)</span>
 
 The Senpet military has many advantages over its opponents that are nearly unique to this nation. Among them is the chariot, a marvelous technology that is feared by all enemies who must march against it. It is a two-wheeled cart that is drawn by one or two horses. Those who fight on a chariot are often skilled spearmen or archers.
 
@@ -52,7 +52,7 @@ While mounted on a chariot or in the Full Attack Stance you may spend a Void Poi
 #### Rank 5: Deadly Strike
 
 Once per skirmish, while mounted on a chariot or while assuming the Full Attack Stance, you may spend a Void Point as a Free Action to roll additional damage dice equal to your Lore: Theology Skill on all Damage Rolls until the Reactions Stage at the end of the round.
-### <span>Senpet Sahir (Sahir)</span> {#toc3}
+### <span>Senpet Sahir (Sahir)</span>
 
 The Senpet Sahir is one of the most impressive forces of magic in the Burning Sands. They have mastered the art of summoning jinn to their cause. They were the first to learn about ghul, khadi, and the darker aspects of magic. They have successfully integrated magic into the Senpet military. All in all, the Senpet Sahir is a person to be feared.
 
@@ -80,9 +80,9 @@ While there are other ways to create ghuls, it is the most reliable means known 
 
 The caster infuses the target with the authority of the Senpet gods, allowing him to be heard by everyone nearby. For the duration of the spell, the target's voice can be heard by everyone within a hundred feet.
 
-## <span>Advanced Schools</span> {#toc4}
+## <span>Advanced Schools</span>
 
-### <span>Avatar of the Ten Thousand (Warrior)</span> {#toc5}
+### <span>Avatar of the Ten Thousand (Warrior)</span>
 
 The Avatar of Ten Thousan dis part of a special unit inside the Senpet armies. He is not subject to the command of the senpet generals. Instead, they are a unit of the Senpet priesthood and follow the isntruction of the gods into battle. They are blessed by divine strength and divine fortune as they fight for the Ten Thousand. Soldiers that fight alongside the Avatars are cheered, knowing the gods truly stand with them.
 
@@ -100,9 +100,9 @@ You may pray to the Gods as a Complex Action. If you do, you and your allies wit
 #### Rank 3: We Carry the Gods
 
 When using the Rank 1 technique, each ally gains two Void Points instead of one, and you and your allies add your Theology Skill Rank to all damage rolls during the skirmish.
-## <span>Alternate Paths</span> {#toc6}
+## <span>Alternate Paths</span>
 
-### <span>Ghul Destroyer</span> {#toc7}
+### <span>Ghul Destroyer</span>
 
 While the Ghul hunters are capable of handling most undead invasions, there are occasions where the monster is too deadly for conventional means of destruction. The Ghul Destroyer is a sahir that can bring forth the wrath of the Gods upon the abominations.
 
@@ -110,7 +110,7 @@ While the Ghul hunters are capable of handling most undead invasions, there are 
 - <strong>Requirements:</strong> None
 - <strong>Technique:</strong> <em>Holy Devastation</em> - Whenever you cast a spell that damages, impedes or destroys an undead creature, you gain a number of Free Raises equal to your School Rank.
 
-### <span>Ghul Destroyer</span> {#toc8}
+### <span>Ghul Destroyer</span>
 
 The Senpet religion strikes everyone who does not know it intimately as bloody and cruel. Those who practice the worship of the Ten Thousand Gods do not disagree: they simply know it is necessary to maintain the strength of the Empire. One of the unfortunate side effects of those religious ceremonies is that they occasionately release undead monsters into the world. Over the course of the years the Senpet have created and refined the techniques used to destroy those creatures quickly and efficiently.
 

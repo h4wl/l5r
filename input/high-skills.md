@@ -1,6 +1,6 @@
 Title: High Skills
 ---
-## <span>Acting (Awareness)</span> {#toc0}
+## <span>Acting (Awareness)</span>
 
 #### Sub-types:
  Social Skill, Acting is considered a Perform Skill for the purposes of effects that target Perform Skills
@@ -21,7 +21,7 @@ The TN to disguise yourself is 15. This assumes that you are taking on the role 
 - Rank 5: The TN to create a disguise is reduced by 10 (total).
 - Rank 7: The TN to create a disguise is reduced by 15 (total).
 
-## <span>Artisan (Awareness)</span> {#toc1}
+## <span>Artisan (Awareness)</span>
 
 #### Sub-types:
  Macro-skill (includes Bonsai, Gardening, Ikebana (Flower arranging), Origami (paper folding), Painting, Poetry, Sculpture, and Tatooing, among others)
@@ -37,7 +37,7 @@ The TN to disguise yourself is 15. This assumes that you are taking on the role 
 
 #### Mastery Abilities:
  None
-## <span>Calligraphy (Intelligence)</span> {#toc2}
+## <span>Calligraphy (Intelligence)</span>
 
 #### Sub-types:
  Calligraphy is considered an Artisan Skill for purposes of effects that target Artisan Skills
@@ -56,7 +56,7 @@ If you possess the Cipher Emphasis, you are assumed to know one cipher commonly 
 #### Mastery Abilities:
 - Rank 5: The character gains a bonus of +10 when attempting to break a code or cipher.
 
-## <span>Courtier (Awareness)</span> {#toc3}
+## <span>Courtier (Awareness)</span>
 
 #### Sub-types:
  Social Skill
@@ -77,7 +77,7 @@ Essentially, Courtier is the &quot;social offense&quot; Skill. Socially-adept ch
 - Rank 5: The character gains a bonus of +1k0 to the total of all Contested Rolls made using Courtier.
 - Rank 7: The character gains an additional +7 Insight above the total normally indicated by his Rings and Skill Ranks (in addition to the bonus from Rank 3).
 
-## <span>Divination (Intelligence)</span> {#toc4}
+## <span>Divination (Intelligence)</span>
 
 #### Sub-types:
  None
@@ -94,7 +94,7 @@ You may attempt a divination once per day. The TN for this Skill Roll is 15, alt
 ### Mastery Abilities:
 - Rank 5: A second Divination Skill Roll may be made without the cost of spending a Void Point. All other conditions for making the second Skill Roll still apply.
 
-## <span>Etiquette (Awareness)</span> {#toc5}
+## <span>Etiquette (Awareness)</span>
 
 #### Sub-type:
  Social Skill
@@ -115,7 +115,7 @@ Etiquette is essentially the &quot;social defense&quot; Skill of honorable chara
 - Rank 5: The character gains a bonus of +1k0 to the total of all Contested Rolls made using Etiquette.
 - Rank 7: The character gains an additional +7 Insight above the total normally indicated by his Rings and Skill Ranks (in addition to the bonus from Rank 3).
 
-## <span>Games (Various)</span> {#toc6}
+## <span>Games (Various)</span>
 
 #### Sub-types:
  Macro-skill (includes: Fortunes &amp; Winds (Awareness), Go (Intelligence), Kemari (Agility), Letters (Awareness), Sadane (Awareness), Shogi (Intelligence), etc.)
@@ -131,7 +131,7 @@ Etiquette is essentially the &quot;social defense&quot; Skill of honorable chara
 
 #### Mastery Abilities:
  None
-## <span>Investigation (Perception)</span> {#toc7}
+## <span>Investigation (Perception)</span>
 
 #### Sub-type:
  None
@@ -154,7 +154,7 @@ Investigation is most frequently used to locate something (or someone) hidden or
 - Rank 5: The character gains a bonus of +5 to the total of any Contested Roll made using Investigation.
 - Rank 7: A third attempt to use the Search Emphasis may be made even if the second attempt fails.
 
-## <span>Lore (Intelligence)</span> {#toc8}
+## <span>Lore (Intelligence)</span>
 
 #### Sub-types:
  Macro-skills (including Anatomy*, Architecture, Bushido, Great Clan (choose one), Elements, Gaijin Culture (choose one), Ghosts, Heraldry, History, Maho*, Nature, Nonhuman Culture (choose one), Omens, Shadowlands*, Shugenja, Spirit Realms, Theology, Underworld*, War, and almost anything else)
@@ -172,7 +172,7 @@ Investigation is most frequently used to locate something (or someone) hidden or
 
 #### Mastery Abilities:
  None
-## <span>Medicine (Intelligence)</span> {#toc9}
+## <span>Medicine (Intelligence)</span>
 
 #### Sub-types:
  None
@@ -191,7 +191,7 @@ Medicine can be used to treat many different injuries and ailments, including so
 #### Mastery Abilities:
 - Rank 5: The amount of Wounds healed on a successful Medicine roll is increased by +1k0.
 
-## <span>Meditation (Void)</span> {#toc10}
+## <span>Meditation (Void)</span>
 
 #### Sub-types:
  None
@@ -212,7 +212,7 @@ Meditation is the simplest means other than resting that you can recover spent V
 - Rank 5: The TN for all Meditation (Fasting) Skill Rolls is reduced by 5.
 - Rank 7: A successful Meditation Skill Roll restores up to 3 Void Points.
 
-## <span>Perform (Varies)</span> {#toc11}
+## <span>Perform (Varies)</span>
 
 #### Sub-types:
  Macro-Skill (includes Biwa (Agility), Dance (Agility), Drums (Agility), Flute (Agility), Oratory (Awareness), Puppeteer (Agility), Samisen (Agility), Song (Awareness), Storytelling (Awareness), etc.), Social Skill
@@ -228,7 +228,7 @@ Meditation is the simplest means other than resting that you can recover spent V
 
 #### Master Abilities:
  None
-## <span>Sincerity (Awareness)</span> {#toc12}
+## <span>Sincerity (Awareness)</span>
 
 #### Sub-types:
  Social Skill
@@ -247,7 +247,7 @@ Honest is used when you must speak the truth in a convincing manner, while Decei
 #### Mastery Abilities:
 - Rank 5: The character gains a bonus of +5 to the total of all Contested Rolls made using Sincerity.
 
-## <span>Spellcraft (Intelligence)</span> {#toc13}
+## <span>Spellcraft (Intelligence)</span>
 
 #### Sub-types:
  Use of the Importune Emphasis when interacting with kami spirits is considered use of a Social Skill
@@ -268,7 +268,7 @@ The Importune Emphasis is used in a manner of a Social Skill when using the Comm
 #### Mastery Abilities:
 - Rank 5: The character gains a +1k0 on Spell Casting Rolls.
 
-## <span>Tea Ceremony (Void)</span> {#toc14}
+## <span>Tea Ceremony (Void)</span>
 
 #### Sub-types:
  None

@@ -1,6 +1,6 @@
 Title: Water Spells
 ---
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Bo of Water [CR]
 - Ring/Mastery: Water 1 (Craft)
@@ -121,7 +121,7 @@ You can temporarily increase the speed of your target. This spell allows the tar
 This spell evokes a sudden blast of water that strikes with the heavy, irresistible power of the tide. The water is summoned into existence, fying out from the caster in a heavy mass and striking the target with gentle but nigh-irresistible power. The target must make a Contested Roll of his Strength against the caster’s Water – failure means Knockdown (the target is knocked Prone). The spell will also extinguish any open fames the targets are carrying (torches, lanterns, candles, etc).<br>
 This spell can affect Huge creatures, although the GM may wish to award them a bonus on their Contested Roll to refect the greater diffculty of knocking down such large targets.
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Cloak of the Miya [CR]
 - Ring/Mastery: Water 2 (Defense)
@@ -241,7 +241,7 @@ By entreating the insight of the Water kami, a shugenja may dramatically increas
 
 This spell, named after the legendary spirit known as the Yuki no Onna, persuades the Water spirits in a stream, river, or lake to expel all Fire from their presence, causing the water to instantly freeze. A single natural body of water freezes solid out to a distance of 100’ from the caster. Although this has uses in combat, the most frequent employment of the spell is to allow travelers or soldiers to cross water barriers. Any persons or creatures within the water will be trapped, and if they are under the surface they will suffocate (treat as Drowning). Breaking free of the ice will require a Contested Roll of Strength against the caster’s Water. The ice will melt normally.
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### ENDLESS DELUGE
 - Ring/Mastery: Water 3
@@ -351,7 +351,7 @@ The Water kami buoy those who carry their favor and grant them passage. The targ
 
 By calling upon the clarity of water, you can receive tremendous insight into the world around you. The target of this spell receives a bonus to all his Perception based rolls, whether Trait Rolls, Skill Rolls, or anything else, consisting of additional rolled dice equal to your Water Ring.
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Dominion of Suitengu [CR]
 - Ring/Mastery: Water 4 (Divination)
@@ -471,7 +471,7 @@ No element can match the sheer versatility and adaptability of Water. Prior to c
 
 This spell was originally devised by Isawa shugenja trying to locate the legendary undersea kingdom which was supposedly the home of Shiba’s wife. Although they never succeeded in that goal, the spell they created has seen considerable use in the centuries since. Within the Waves persuades the Water kami to hold themselves away from the caster in a spherical formation, thereby forming an air bubble around him. The caster can move the bubble by concentrating, allowing him to explore freely beneath the surface of a river, lake, or even the ocean. (Such movement is at the normal speed based on the caster’s Water.) Other persons can enter and leave the bubble by swimming, and a skilled caster can carry a few passengers along within the bubble’s center. When the spell’s duration expires, the Water kami push the bubble to the surface.
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### CHI REVERSAL
 - Ring/Mastery: Water 5
@@ -551,7 +551,7 @@ This prayer is a favorite among the Yoritomo, who are credited with frst creatin
 a large body of open water – a lake or sea. The spell excites the Water kami into a tremendous rage, causing them to create a huge and powerful whirlpool that will suck down any ships or swimmers in the vicinity. Any swimmer caught within the area of effect will be in danger of being sucked under, requiring a roll of Athletics (Swimming) / Strength at TN 30 each Round to avoid this. A ship within the area of effect will likewise be in danger, and the ship’s captain must roll Navigation / Intelligence at TN 30 every minute to keep the vessel from being sucked under.<br>
 Once under water, all victims will be subject to Drowning, and can only reach the surface again by rolling Athletics (Swimming) / Strength at TN 40.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### BREATH OF MIST
 - Ring/Mastery: Water 6 (Defense)

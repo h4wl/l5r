@@ -6,7 +6,7 @@ D10 roll result
 - 3-6 Illustrious Past: Roll on Table 2
 - 7-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Unicorn Past</span> {#toc0}
+## <span>Table 1: Shameful Unicorn Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor was a Battle Maiden who betrayed her oath of chastity. Her passionate nature has passed down to you. You gain the Lechery Disadvantage.
 - 0 Your ancestors were cursed by a gaijin wizard. Your family has been unable to lift the curse despite generations of effort. You gain the Weakness Disadvantage in a Trait chosen by the GM.
 
-## <span>Table 2: Illustrious Unicorn Past</span> {#toc1}
+## <span>Table 2: Illustrious Unicorn Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor died in a successful fi ghting retreat, saving her comrades. Her skills are reborn in you. You may take the Tactician Advantage for 1 less point.
 - 0 Your ancestor was a loyal samurai rewarded by his lord for years of dutiful service. His legacy has passed to you. You may purchase the Unicorn Sacred Weapon Advantage for 2 less Experience Points.
 
-## <span>Table 3: Unicorn Mixed Blessings</span> {#toc2}
+## <span>Table 3: Unicorn Mixed Blessings</span>
 
 D10 Roll result
 

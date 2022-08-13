@@ -1,6 +1,6 @@
 Title: Playable Returned Spirits
 ---
-## <span>Playing a Spirit PC</span> {#toc0}
+## <span>Playing a Spirit PC</span>
 
 If a GM is prepared to allow returned spirits as PCs, there are several important considerations. First of all, such a PC gains some meaningful advantages from his spirit nature, something which may lead to accusations of unfairness. Secondly, while roleplaying a character misplaced in time can certainly be fun, it is also challenging to do effectively while not interfering with the overall flow of the game or claiming disproportionate attention. This can be a particular problem in clans like the Unicorn where the presence of a spirit may automatically lead to conflict and throw obstacles in front of the group. GMs and players must also be wary of “metagaming” (whether deliberate or inadvertent), since the spirit PC will have great knowledge of past events but little to no understanding of the current era. A returned spirit (whether PC or NPC) is always clearly recognizable as such, because their exposed skin glows softly but distinctly with a golden light. This makes their nature impossible to conceal and also makes it somewhat difficult for them to employ stealth—which may explain why Hantei XVI was so willing to go along with Bayushi Paneki’s declaration that the Scorpion would support both sides.
 
@@ -13,7 +13,7 @@ The exposed skin of a returned spirit glows with a soft golden light. The glow w
 - Returned spirits suffer a –2k1 penalty to Stealth rolls in any situation where their glow may give them away (GM’s discretion).
 - All returned spirits have the Cursed By the Realm Disadvantage pertaining to the Spirit Realm from which they originate. They receive no Experience Points for this Disadvantage.
 
-## <span>Blessed Guard</span> {#toc1}
+## <span>Blessed Guard</span>
 
 Samurai from every century of Rokugan’s long history reside within Yomi’s borders. The Blessed Guard, an elite unit of shiryo, chooses only the best to join its ranks. Members of the Blessed Guard are the finest heroes ever produced by the human race, and can hold their heads up proudly even amid the inhabitants of Yomi.
 

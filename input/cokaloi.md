@@ -2,7 +2,7 @@ Title: Cokaloi
 ---
 The specific techniques of the Diviners are referred to as Cokaloi, or &quot;bones&quot;, in their language, because of the deep, funtamental need for each of these types of magic. Without them, a Ra'Shari would be as a man without bones. A diviner may not learn Cokaloi with a mastery rank higher than his Insight Rank.
 
-## <span>The Cokaloi of Dawn</span> {#toc0}
+## <span>The Cokaloi of Dawn</span>
 
 Dawn magic governs fate, and how the ebb and flow of random fortune can affect a person's performance in a task. These are many : there are two for each Skill, a blessing and a curse. They are simple to perform. The Diviner need only exhort those he wishes to bless, or condemn those he needs to curse. Dawn Cokaloi need not be learned in order, a Diviner may know the First Blessing of Athletics and the Third Blessing of Medicine without knowing the First and Second Blessing of Medicine.
 
@@ -96,7 +96,7 @@ This Cokaloi is effectively the same as the third, but the target may change two
 
 This Cokaloi is effectively the same as the third, but the target must change two of their dice to a 1.
 
-## <span>The Cokaloi of Dusk</span> {#toc1}
+## <span>The Cokaloi of Dusk</span>
 
 This magic governs the whims of the mortal mind, and is capable of adjusting a mind's thought and perception easily. This magic was vital for the Ra'Shari to learn, as it has delivered them from upset buyers and angry mobs countless times. Dusk Cokaloi may only be cast upon being with which the Diviner may make vocal or eye contact.
 
@@ -217,7 +217,7 @@ This is not so much one Cokalos as eleven, all refinements of lower-level Dusk C
 
 The culmination of the Dusk Cokaloi, this power can ruin lives. You can fill the target with any emotion he has experienced before, and can direct the reason and outlet for these emotions. The target suffers the effects of a single Advantage or Disadvantage applicable to the emotion implanted. The target may avoid this effect if they succeed at a roll using their Willpower / Insight Rank (keeping willpower) vs. a TN of the Diviner’s Spellcasting Roll to create this effect.
 
-## <span>The Cokaloi of Night</span> {#toc2}
+## <span>The Cokaloi of Night</span>
 
 The most secretive of Ra'Shari magics, the Cokaloi of Night are rarely seen by outsiders, since they are almost always cast within the confines of a Ra'Shari encampment. Night Magic is the magic of life and rest, promoting healing just as if a body slumbered peacefully. Night is also the time of roosting, where all beings, not just humans, return home and prepare for the next day. These Cokaloi can only target one person at a time.
 

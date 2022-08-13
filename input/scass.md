@@ -1,8 +1,8 @@
 Title: Assassin Schools
 ---
-## <span>Basic Classes</span> {#toc0}
+## <span>Basic Classes</span>
 
-### <span>Assassin Slayer (Ninja)</span> {#toc1}
+### <span>Assassin Slayer (Ninja)</span>
 
 The Assassin Slayer are the most common Class in the Order of the Mountain, as Slayers carry out the Assassins' bloody business. Each slayer is trained from all ages to view all confrontations as single combat, be it a conversation, a formalized duel, or an assassination attempt. It teaches them to focus on a single opponent, reading their every moment and determinating their weaknesses.
 
@@ -27,7 +27,7 @@ When facing a lone opponent or the target of your Rite of Assassination, you gai
 #### Rank 5: Swifter Than Life Itself
 
 Once per day when ambushing an opponent, facing a lone opponent or facing the target of your Rite of Assassination, you may switch your Initiative Score with your opponent’s at the end of the Initiative Stage.
-### <span>Assassin Keeper (Ninja)</span> {#toc2}
+### <span>Assassin Keeper (Ninja)</span>
 
 The Assassin Keeper historically served as guardians of the Hidden Keep of the Assassins. They were told to disable their foes so that their sisters could then dispatch an intruder. This made them especially suited for protecting key figures in the sect, especially since even older or injured assassin could easily kill a crippled attacker.
 
@@ -52,9 +52,9 @@ The difficulty of resisting all Conditional Effects (including gaining control i
 #### Rank 5: By the Force of Will Alone
 
 When adopting the Full Defense Stance you may choose one opponent: they must spend two Void Points in order to declare an attack against you. When adopting the Full Attack Stance you may spend a Void Point and choose one opponent: your Attack Rolls against them ignore all bonuses to their Armor TN that they gain from Stance, Skills, Mastery Abilities, Spells, Kiho or Techniques.
-## <span>Advanced Schools</span> {#toc3}
+## <span>Advanced Schools</span>
 
-### <span>Assassin Duelist</span> {#toc4}
+### <span>Assassin Duelist</span>
 
 There are masters of single combat, and there are the Assassin Duelists. Specializing in the one-on-one fighting rituals of the Assassins and the ritual combat common in the Burning Sands, the Assassin duelists are some of the most impressive warriors in the Jewel. Every moment the Duelist makes allow her to attack with supple grace, and every blow the duelist lands is potentially lethal.
 

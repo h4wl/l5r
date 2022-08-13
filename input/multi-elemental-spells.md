@@ -10,7 +10,7 @@ Any Multi-Element spell will list which Elements it uses (typically two, althoug
 - The casting time for the spell is increased by one Complex Action over the normal casting time for a spell of that Mastery Level.
 - The shugenja does not gain any benefit from having an Affinity with any of the Elements in the spell. However, any penalty for Deficiency still applies. The spell expends a Spell Slot in each of its Elements. Thus, a spell which is Air/Fire will expend both an Air slot and a Fire slot each time it is cast.
 
-## <span>The Six Universal Multielement Spells</span> {#toc0}
+## <span>The Six Universal Multielement Spells</span>
 
 These spells were devised by the Agasha and then shared with all eight of the Great Clans. They can be found in the libraries of all the major shugenja families, although some of the clans do not see them as much more than curiosities (the Crab and Lion have seen little value in pursuing further Multi-Element magic).
 
@@ -71,7 +71,7 @@ Water kami to grant a potent form of long-distance divination. The caster must h
 
 This spell persuades the Water kami and Earth kami in the area of effect to mingle, instantly reducing the ground to sticky, nigh-impassable mud. The spell can be cast anywhere where the ground is normal earth or even stone, but cannot be cast on a finished surface such as a tiled or wooden floor. For the duration of the spell, anyone attempting to physically move through the area of effect can only move a number of feet equal to their Water Ring with a Simple Action, and cannot move at all with a Free Action. Moreover, all such persons suffer a -1k1 penalty to any Agility-based rolls due to the mud impeding their physical motions.
 
-## <span>Advanced Multi-Element Spells</span> {#toc1}
+## <span>Advanced Multi-Element Spells</span>
 
 These spells have been developed by specific shugenja families, and in general should only be available to characters from those families/clans, and only as special rewards for notable service. The GM can make exceptions if it fits the story, of course, but in general such spells should never be acquired as normal &quot;ranking up&quot; effects.
 

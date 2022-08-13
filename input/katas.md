@@ -6,7 +6,7 @@ Kata are a means to differentiate between bushi characters without mechanics tha
 
 Once a character is familiar with a Kata, he can execute it at any time. Executing a Kata is a Simple Action. Once a character has executed a Kata, he gains the listed benefit of the Kata until the effect expires (if a duration is listed) or he chooses to drop out of it (which is a Free Action). A character may only have one Kata active at a given time.
 
-## <span>Air</span> {#toc0}
+## <span>Air</span>
 
 ## Striking as Air
 - Ring/Mastery: Air 3
@@ -58,7 +58,7 @@ Once a character is familiar with a Kata, he can execute it at any time. Executi
 - Schools: Bayushi Bushi, Yoritomo Bushi
 - Effect: Your Disarm attacks deal normal damage rather than 2k1. You may not increase your damage on these attacks via Raises (including from use of the Feint Maneuver).
 
-## <span>Earth</span> {#toc1}
+## <span>Earth</span>
 
 ## Striking as Earth
 - Ring/Mastery: Earth 3
@@ -110,7 +110,7 @@ Once a character is familiar with a Kata, he can execute it at any time. Executi
 - Schools: Hida Bushi, Hiruma Bushi, Hiruma Scout, Ichiro Bushi
 - Effect: Your Water is considered two Ranks lower (to a minimum of 1) for the purpose of movement. All attack rolls made with the Heavy Weapons Skill gain the benefit of one Free Raise which may only be used for the Knockdown Maneuver.
 
-## <span>Fire</span> {#toc2}
+## <span>Fire</span>
 
 ## Striking as Fire
 - Ring/Mastery: Fire 3
@@ -142,7 +142,7 @@ Once a character is familiar with a Kata, he can execute it at any time. Executi
 - Schools: Mirumoto Bushi, Yoritomo Bushi
 - Effect: Once per turn while wielding a weapon in each hand, you may make the Extra Attack Maneuver for 3 Raises instead of 5. The second attack comes from your off-hand weapon, dealing weapon damage as appropriate. You may not increase your damage on either attack via Raises.
 
-## <span>Water</span> {#toc3}
+## <span>Water</span>
 
 ## Striking as Water
 - Ring/Mastery: Water 4
@@ -189,7 +189,7 @@ Once a character is familiar with a Kata, he can execute it at any time. Executi
 - Schools: Daigotsu Bushi, Bayushi Bushi, Daidoji Scout, Shoshuro Actor, Shoshuro Infiltrator, Goju Ninja
 - Once per Round you may calculate the distance of a Move Action as if your Water is equal to your Stealth Skill Rank. This does not change the maximum distance you can move in a Round.
 
-## <span>Void and Other</span> {#toc4}
+## <span>Void and Other</span>
 
 ## Striking as Void
 - Ring/Mastery: Void 3

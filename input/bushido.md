@@ -1,6 +1,6 @@
 Title: Bushido
 ---
-## <span>The Tenets of Bushido</span> {#toc0}
+## <span>The Tenets of Bushido</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -15,7 +15,7 @@ All samurai are supposed to live according to a strict and demanding set of ethi
 
 Bushido is comprised of seven Virtues: Courage, Compassion, Courtesy, Duty, Honesty, Honor, and Sincerity. These virtues are held to represent the proper way in which samurai should live and serve their lords. In its ideal form, Bushido values each of these virtues equally, and a samurai is expected to adhere to all of them with equal vehemence. In practice, however, few samurai can live such spotless lives. Moreover, every clan in Rokugan views Bushido in a slightly different way, according to their respective views of duty, honor, and life. The true nature of Bushido is constantly debated within the courts of Rokugan, and the true way to uphold its Virtues is seldom fully agreed upon even within the same clan. Every clan, even the Scorpion, has its idealists who try to uphold ever Virtue no matter the cost, just as every clan, even the Lion, contains a few dark souls who laugh at Bushido and flout its principles.
 
-### <span>Compassion (Jin)</span> {#toc1}
+### <span>Compassion (Jin)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -30,7 +30,7 @@ Compassion teaches samurai that, as the warrior elite of society, it is their du
 
 Some clans take Compassion more fully to heart, however, and seek to offer guidance and help to the lower castes. The Phoenix, for example, are known for educating their peasants in the ways of the Tao, seeing this spiritual support as being just as important as physical protection.
 
-### <span>Courage (Yu)</span> {#toc2}
+### <span>Courage (Yu)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -45,7 +45,7 @@ Courage is in many ways the most basic and universal of all the Bushido virtues,
 
 It should be noted that, just as Akodo pointed out in his final line, courage does not mean foolhardiness. After all, a samurai's life belongs to his lord, not to him. A samurai who throws his life away in a useless and selfish gesture is not behaving honorably, but rather is failing in his duty to lord and clan. Indeed, the Crab would be the first to point out that there are many times when retreating from a fight requires more courage than merely staying and dying.
 
-### <span>Courtesy (Rei)</span> {#toc3}
+### <span>Courtesy (Rei)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -60,7 +60,7 @@ Samurai are civilized men and women, not barbarians, and are expected to behave 
 
 As one might expect, those who serve their clans in politics and the courts tend to place a very strong emphasis on Courtesy, since it is a vital element of social and political negotiation. The most heavily political clans, such as the Crane and the Scorpion, place a special value on Courtesy, although in the case of the Scorpion this is more for the Virtue's tactical value in court than due to any moral commitment to it. Conversely, the notoriously crude and pragmatic warriors of the Crab Clan tend to discount or ignore Courtesy, although the courtiers of their clan practice it as avidly as any.
 
-### <span>Duty (Chugo)</span> {#toc4}
+### <span>Duty (Chugo)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -75,7 +75,7 @@ If there is a Virtue which competes with Courage for universal acceptance, it is
 
 The Scorpion Clan refers to Chugo as &quot;Loyalty&quot; and practically makes a fetish of it. In a clan where treachery and lying are a way of life, there has to be one thing that can be counted on, and for the Scorpion, that is Loyalty. Violations of Loyalty are punished in the most horrific way the Scorpion can manage - the terror of Traitor's Grove, where the souls of those who betray the Scorpion Clan are imprisoned for eternity.
 
-### <span>Honesty (Gi)</span> {#toc5}
+### <span>Honesty (Gi)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -90,7 +90,7 @@ Honesty is in principle the simplest of the virtues of Bushido, but also perhaps
 
 However, many other samurai, especially those who serve their clans in court, find that Honesty is often a virtue which must be danced around, or perhaps even violated, in order to fulfill their duties. Almost all samurai who serve in the arena of court and politics practice the art of deceiving or manipulating their opponents while still remaining technically truthful, and some families make almost an art form of employing such tactics while still satisfying themselves that they are behaving honorably. Most highly political schools and families, such as the Doji or the Yasuki, quietly accept that sometimes they will simply have to lie for their clan, and therefor tend to emphasize Sincerity far more than Honesty in their approach to Bushido, counting on their adherence to the other virtues to make up for their sometimes erratic observance of this one. The Scorpion, naturally, ignore Honesty altogether, and exhibit almost open contempt for samurai who strive to tell the truth or who follow the path of justice.
 
-### <span>Honor (Meyo)</span> {#toc6}
+### <span>Honor (Meyo)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -105,7 +105,7 @@ Both the subtlest and the most basic of the virtues, Honor teaches that every sa
 
 Almost all samurai in Rokugan respect Honor, for it lies at the very heart of Bushido. Only the Scorpion reject it, as they reject most aspects of Bushido - indeed, from the Scorpion perspective Honor is the most troubling virtue of all, because it can justify disloyalty. Those few Scorpion who actually believe in Bushido and try to embrace Honor within their hearts are regarded with deep suspicion and contempt by the rest of their clan, and are derisively labeled as junshin, &quot;not of the blood.&quot;
 
-### <span>Sincerity (Makoto)</span> {#toc7}
+### <span>Sincerity (Makoto)</span>
 
 <figure class="text-center">
   <blockquote class="blockquote">
@@ -120,7 +120,7 @@ Samurai are taught from childhood that they must express absolute sincerity in b
 
 Sincerity is regarded with particular admiration by political clans and families, such as the Crane and the Otomo, but most samurai respect it. The Dragon respect Sincerity's principle of unifying word and action. Even the Scorpion recognize that Sincerity is very tactically valuable, since if they say and do everything with complete conviction, their enemies will never know when they are lying or tell the truth. However, some of the more pragmatic warrior families, such as the Hida and Moto, regard overt displays of Sincerity with suspicion, seeing them as little more than deception dressed up as honorable behavior. The Crab in particular are known for delivering the sneering insult, &quot;Oh, how sincere,&quot; whenever they feel someone is trying to manipulate them.
 
-## <span>The Concept of Face (On)</span> {#toc8}
+## <span>The Concept of Face (On)</span>
 
 Face is a vitally important aspect of samurai culture. It is intrinsic to the belief that samurai are exceptional persons, chosen by birth to serve the Empire in ways that mere peasants cannot. A samurai is expected to maintain self-discipline at all times, to control himself and to never show the sort of open emotions and out-of-control behavior that characterizes &quot;lower people.&quot; A samurai who cannot control his emotions is a samurai who cannot serve his lord with honor and trust, for his emotions will override his judgement and loyalty. Thus, maintaining dignity and self-control is vital to a samurai's life.
 
@@ -128,13 +128,13 @@ The ability to maintain this self-control, never showing one's true feelings, is
 
 Face is a purely samurai concept, one that is not expected of peasants and other common folk. Maintaining face is sometimes compared to wearing a mask, a mask which must be kept on every hour of every day, concealing one's true feelings beneath on. The Scorpion Clan is fond of remarking that their own physical masks are not concealment at all, but rather an admission of the truth: no samurai ever show their true selves. &quot;All of us wear masks,&quot; the Scorpion say, &quot;the difference is, we of the Scorpion admit it.&quot;
 
-## <span>Shame and Disgrace</span> {#toc9}
+## <span>Shame and Disgrace</span>
 
 A samurai who is shamed by dishonorable actions or loss of face will be expected, at the very least, to offer deep and sincere apologies for such actions. Typically, if the disgrace was fairly modest, the samurai will be punished in an non-permanent way - assignment to less prestigious duties, for example, or expulsion from the castle, court, or city where he misbehaved. Although such punishments are not lethal, they nevertheless represent a deep and profound shame for the samurai involved, who may well spend the rest of his life trying to redeem himself for his failure.
 
 More extreme failures, such as a violent outburst, an attack or serious insult against someone of higher station, or a breach of duty or loyalty, are punished much more severely. A samurai who commits such acts is quite likely to be ordered to commit seppuku (if he does not offer seppuku himself out of shame). On other occasions, such disgraced samurai may be expelled from family and clan, and thus made ronin. A samurai may also forsake his fealty and become ronin by his own choice rather than face the prospect of punishment or seppuku, particularly if he feels he is not actually guilty.
 
-## <span>Seppuku</span> {#toc10}
+## <span>Seppuku</span>
 
 Seppuku is a form of ritual suicide which samurai perform when they have been irretrievably dishonored. By performing the ceremony and thus dying honorably, the samurai wipes away the stain of dishonor and leaves his or her family name clean and untarnished. It is important to remember that the main purpose of seppuku is to protect the family, rather than the individual. In Rokugan a family is the repository of all the collective deeds and accomplishments of its members, and it is commonly said, &quot;I have borrowed my name from my ancestors. I must return it to them untarnished.&quot; A dishonored person thus brings dishonor and shame to the entire family. By committing seppuku a samurai spares his family from the shame of his deeds.
 

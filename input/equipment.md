@@ -1,6 +1,6 @@
 Title: Equipment
 ---
-## <span>Armor</span> {#toc0}
+## <span>Armor</span>
 
 ### Bogu
 - Bonus to Armor TN: +0
@@ -41,9 +41,9 @@ Title: Equipment
 - Special rules: Wearing riding armor increases the TN of all skill rolls using Agility and Reflexes by 5, except on horseback.
 - Cost: 55 koku
 
-## <span>Weapons</span> {#toc1}
+## <span>Weapons</span>
 
-### <span>Arrows</span> {#toc2}
+### <span>Arrows</span>
 
 ### Armor-piercing
 - Damage rating: 1k1
@@ -69,7 +69,7 @@ Title: Equipment
 - Damage rating: 2k2
 - Cost: 1 bu.
 
-### <span>Bows</span> {#toc3}
+### <span>Bows</span>
 
 ### Dai-kyu
 - Keywords : Small
@@ -92,7 +92,7 @@ Title: Equipment
 - Special rules: Increases TN of all attack rolls by 10 on horseback.
 - Cost: 20 koku.
 
-### <span>Chain weapons</span> {#toc4}
+### <span>Chain weapons</span>
 
 ### Kusarigama
 - Keywords : Large
@@ -110,7 +110,7 @@ Title: Equipment
 - Damage rating: 1k1
 - Cost: 3 koku.
 
-### <span>Heavy Weapons</span> {#toc5}
+### <span>Heavy Weapons</span>
 
 ### Dai-tsuchi
 - Keywords : Large
@@ -132,7 +132,7 @@ Title: Equipment
 - Damage rating: 3k3
 - Cost: 20 koku.
 
-### <span>Knives</span> {#toc6}
+### <span>Knives</span>
 
 ### Aiguchi &amp; Tanto
 - Keywords : Small
@@ -149,7 +149,7 @@ Title: Equipment
 - Damage rating: 0k2
 - Cost: 5 bu.
 
-### <span>Ninja weapons</span> {#toc7}
+### <span>Ninja weapons</span>
 
 ### Blowgun
 - Keywords : Medium, Ninja
@@ -170,7 +170,7 @@ Title: Equipment
 - Special rules: Can be thrown up to 30' as a ranged weapon.
 - Cost: 1 bu.
 
-### <span>Polearms</span> {#toc8}
+### <span>Polearms</span>
 
 ### Bisento
 - Keywords : Large
@@ -199,7 +199,7 @@ Title: Equipment
 - Special rules: Can be used to initiate a grapple.
 - Cost: 6 koku
 
-### <span>Spears</span> {#toc9}
+### <span>Spears</span>
 
 ### Kumade
 - Keywords : Large, Peasant
@@ -231,7 +231,7 @@ Title: Equipment
 - Special rules: Can be thrown up to 50' as a ranged weapon. Damage rating when thrown is 1k2.
 - Cost: 5 koku
 
-### <span>Staves</span> {#toc10}
+### <span>Staves</span>
 
 ### Bo
 - Keywords : Large
@@ -263,7 +263,7 @@ Title: Equipment
 - Damage rating: 0k3
 - Cost: 5 bu
 
-### <span>Swords</span> {#toc11}
+### <span>Swords</span>
 
 ### Bokken
 - Keyword: Samurai
@@ -309,14 +309,14 @@ Title: Equipment
 - Special rules: Can be thrown up to 20' as a ranged weapon.
 - Cost: 15 koku
 
-### <span>War fans</span> {#toc12}
+### <span>War fans</span>
 
 ### War fan
 - Keywords : Small
 - Damage rating: 0k1
 - Cost: 5 koku.
 
-## <span>Crafting Extraordinary Weapons</span> {#toc13}
+## <span>Crafting Extraordinary Weapons</span>
 
 Skilled weaponsmiths are capable of creating unusual and high-quality items… assuming they have the proper materials, equipment, and time. Weapons crafted by the basic rules in the L5R 4th Edition Core Rulebook conform to the normal weapon stats in the L5R rules and are considered to be of “Average” quality. Weapons of higher quality are said to be “Excellent”; such weapons possess special properties that set them apart.<br>
 To create an “Excellent” weapon, the regular Crafting rules are used. However, the cost of materials and the koku value of the weapon are both tripled. This means an Excellent Wakizashi will have a value of 45 Koku, an excellent Naginata will have a value of 30 Koku, and so forth. (Use this value when determining the base TN for Crafting the weapon.)<br>
@@ -333,19 +333,19 @@ Weapon Special Qualities:
 - True: This weapon decreases the target’s Reduction by the wielder’s Strength. Raises: 6
 - Unbreakable: This weapon cannot be broken. Raises: 5
 
-### <span>Crafting Sacred Weapons</span> {#toc14}
+### <span>Crafting Sacred Weapons</span>
 
 A smith of a clan that possesses a Sacred Weapon (as per the Advantages in the L5R 4th Edition Core Rulebook, page 152-153) may attempt to make one using a Craft: Weaponsmithing roll. The smith must create the appropriate Excellent Quality weapon with 7 Raises (6 Raises for a Kaiu smith).
 
 A samurai may only attempt to create a Sacred Weapon of his own clan. A Crane can only attempt to make Kakita Blades, a Crab may only attempt to make Kaiu Blades, and so forth.
 
-## <span>Rokugani Firearms</span> {#toc15}
+## <span>Rokugani Firearms</span>
 
 Rokugani firearms can be incorporated into many different campaigns, whether or not the GM wants to take things as far as they are presented in Iron Rokugan. In feudal Japan, simple firearms were imported from the Chinese as early as the 1200s, and matchlock guns were common during the Sengoku period of 1467 to 1604. Even Miyamoto Musashi mentions firearms in his text on Japanese warfare and philosophy, &quot;The Book of Five Rings&quot;, saying that the gun was unrivaled on the battlefield until swords were drawn. Even though they were relatively common and helped decide many battles, Japanese firearms did not hold a predominant role in warfare, and were often considered a secondary weapon to the Yumi due to their limited range, slow reload time, and poor accuracy. Skilled archers and swordsmen were far more common than skilled gunners; techniques had to be developed to get the most out of firearms, and they were usually placed in the hands of lower class troops. On the other hand, at the battle of Nagashino the Japanese warlord Oda Nobunaga all but annihilated the cavalry forces of the Takeda Clan with a strategy that relied on volley fire with muskets.
 
 GMs who wish to incorporate firearms into a non-Iron Rokugan setting can do so via an Imperial Edict calling upon the Great Clans to reproduce the firearms of foreign powers while still maintaining the ban on trade and communication with gaijin nations. To better re-create the climate of early Japanese firearms, it is suggested that only the Kakiyari, Teppo, and Bajozutsu be incorporated, and that only the Bajozutsu should have the Samurai keyword. Rokugani firearms require three Complex Actions to load (or reload). When fired, they ignore the effects of armor on Armor TN and Reduction. Although unspecified, GMs might rule that the user's Perception is added to the gun's damage roll, much like Strength for most weapons.
 
-### <span>Teppoudo (Intelligence)</span> {#toc16}
+### <span>Teppoudo (Intelligence)</span>
 
 #### Sub-type:
  Weapon Skill

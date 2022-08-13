@@ -6,7 +6,7 @@ D10 Roll Result
 - 3-5 Illustrious Past: Roll on Table 2
 - 6-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Ronin Shameful Past</span> {#toc0}
+## <span>Table 1: Ronin Shameful Past</span>
 
 D10 Roll Result
 
@@ -17,7 +17,7 @@ D10 Roll Result
 - 8-9 Your difficult life has given you a hot temper, and you find it hard to restrain yourself even when you know you should. You gain the Brash Disadvantage for no points.
 - 0 Your family has rejected Bushido in favor of a more selfish path. You gain the Consumed Disadvantage for no points.
 
-## <span>Table 2: Ronin Illustrious Past</span> {#toc1}
+## <span>Table 2: Ronin Illustrious Past</span>
 
 D10 Roll Result
 
@@ -28,7 +28,7 @@ D10 Roll Result
 - 8-9 You are known as a compassionate ronin who helps the common people. Whether or not this reputation is actually deserved, you gain the Hero of the People Advantage.
 - 0 Your family is descended from a Great Clan samurai and has carefully preserved the weapon he once carried. You may purchase the Sacred Weapon Advantage for your ancestor’s Great Clan.
 
-## <span>Table 3: Ronin Mixed Blessings</span> {#toc2}
+## <span>Table 3: Ronin Mixed Blessings</span>
 
 D10 Roll Result
 

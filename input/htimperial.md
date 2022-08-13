@@ -6,7 +6,7 @@ D10 Roll Result
 - 3-7 Illustrious Past: Roll on Table 2
 - 8-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Imperial Families Shameful Past</span> {#toc0}
+## <span>Table 1: Imperial Families Shameful Past</span>
 
 D10 Roll Result
 
@@ -16,7 +16,7 @@ D10 Roll Result
 - 7-8 Your bloodline has long been associated with minor and obscure aspects of service, and your family seldom even visits the Imperial Court. You may not purchase Social Advantages at character creation.
 - 9-0 Your ancestor failed in his duty to the ruling Dynasty, and the shame of that failure remains with your bloodline. Gain the Black Sheep Disadvantage.
 
-## <span>Table 2: Imperial Families Illustrious Past</span> {#toc1}
+## <span>Table 2: Imperial Families Illustrious Past</span>
 
 D10 Roll Result
 
@@ -26,7 +26,7 @@ D10 Roll Result
 - 7-8 Your ancestor was a loyal and skilled miharu who protected the Emperor from an assassination attempt. You gain +1.0 Glory and +1 rank in the Defense Skill.
 - 9-0 Your ancestors used their connections and Imperial power to gain wealth and influence. You gain the Gentry Advantage and you may purchase the Ally Advantage for one less Experience Point.
 
-## <span>Table 3: Imperial Families Mixed Blessings</span> {#toc2}
+## <span>Table 3: Imperial Families Mixed Blessings</span>
 
 D10 Roll Result
 

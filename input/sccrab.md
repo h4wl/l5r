@@ -1,8 +1,8 @@
 Title: Crab Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Hida Bushi [CR]</span> {#toc1}
+### <span>Hida Bushi [CR]</span>
 
 The Hida fighting style is one of the oldest and most respected bushi schools in the Empire, and one with a very basic premise: endure the enemy's attacks until you have the opportunity to crush him with sheer brute force. The style was shaped by the Clan's early years combating oni and other Shadowlands enemies, when only the strongest and most resilient among Hida's followers survived. The Hida Bushi School encompasses two broad themes: damage mitigation and heavy weapon use. Hida bushi may not be the most accurate samurai in the Empire, but when they do connect, they inflict tremendous damage. And fortunately for them, they are able to withstand incredible amounts of punishment while they wait to cripple their enemies.
 
@@ -27,7 +27,7 @@ A Hida stops at nothing to destroy his enemies once his anger is roused. Once pe
 #### Rank 5: The Mountain Does Not Fall
 
 Nothing can stop a Hida warrior from fulfilling his duty, not even the threat of death. You may spend a Void Point during the Reaction Stage. During your next Turn, you may take actions as if you were in the Healthy Wound Rank. You ignore the Dazed, Fatigued, and Stunned Conditional Effects. The benefits of this Technique last until the next Reactions Stage.
-### <span>Hida Pragmatist [Bushi] [EE]</span> {#toc2}
+### <span>Hida Pragmatist [Bushi] [EE]</span>
 
 The practitioners of Kobo Ichi-Kai, whose primary dojo is located in Clear Water Village, focus on unarmed combat above all other forms of martial conflict. Although sometimes considered a touch bizarre by other Crab warriors, they are nonetheless respected because of their sheer physical power and ability to devastate virtually any opponent in hand-to-hand combat. Pragmatists make fine yojimbo, since they can leave their weapons at the door and suffer only minimal loss of effectiveness when doing so. Even creatures of the Shadowlands can be overcome by a skilled Pragmatist, and indeed the school was originally developed out of the need to adapt jiujitsu to fighting inhuman opponents.
 
@@ -54,7 +54,7 @@ This technique cannot be used during an iaijutsu duel.
 #### Rank 5: Fight to the End
 
 The final less of the Pragmatist teaches him to prevail no matter what the odds, killing his enemies no matter how severe his own injuries. At the start of your Turn you may spend a Void Point to allow you to make an attack as a Complex Action that ignores your Wound penalties (including Down and Out) and any restrictions or penalties from Status effects or physical Disadvantages you are currently suffering. You gain a +3k1 bonus to your damage roll with this attack.
-### <span>Hiruma Bushi [CR]</span> {#toc3}
+### <span>Hiruma Bushi [CR]</span>
 
 Where the Hida Bushi School teaches endurance and strength, their Hiruma cousins teach avoidance and targeting weak points in an enemy's defenses with lightning fast strikes. The lessons taught by their sensei are essential to fulfilling their duties as warriors inside the Shadowlands. Those who do not heed their teachers well do not survive to perpetuate their mistakes. Those who excel at their lessons become a scourge upon the Shadowlands, moving through that dark realm with speed and grace, leaving death in their wake.
 
@@ -81,7 +81,7 @@ Against a weakened opponent, a Hiruma is a terrible foe indeed. You may make att
 #### Rank 5: Daylight Wastes No Movement
 
 The Hiruma learns to use no more energy than is precisely needed to kill his opponent. If you deliver more Wounds than necessary to kill your target, you may apply the excess Wounds to the next target you hit. This Technique does not activate two attacks in a row. The carry-over effect does not last beyond the end of the current skirmish.
-### <span>Hiruma Scout [Bushi] [IH]</span> {#toc4}
+### <span>Hiruma Scout [Bushi] [IH]</span>
 
 After the fall of Hiruma Castle, the Hiruma family had no sensei and was unable to preserve the knowledge of its ancient bushi school (the school listed in the L5R 4th Edition Core rulebook as “Hiruma Bushi”). Most of the samurai who actually knew its advanced techniques had perished in battle with the Maw, and those who knew its more basic methods were too focused on fighting and surviving to pass on their wisdom. By the time the family realized their school was in danger of perishing, it was too late.
 
@@ -108,7 +108,7 @@ The Hiruma has now learned to strike as swiftly as he runs. You may make attacks
 #### Rank 5: Strike of the Stalker
 
 The Hiruma Scouts strike their opponents from hiding, delivering vicious blows that get past all defenses. If you are striking a surprised or unaware foe, your Raises are not limited by your Void, and you can ignore 10 points of Reduction (from any source).
-### <span>Kaiu Engineer [Artisan/Bushi] [GC]</span> {#toc5}
+### <span>Kaiu Engineer [Artisan/Bushi] [GC]</span>
 
 The Kaiu Engineers are the most formidable crafters in the Empire, and their skills are turned almost entirely to the Crab Clan's duty of defending Rokugan against the Shadowlands. Masters of construction and siegecraft, they are also formidably talented at the manufacture of arms and armor. Many Kaiu also serve as battlefield commanders, turning their talents at siege to the service of war.
 
@@ -133,7 +133,7 @@ Every Kaiu is a student of battle, as are all Crab. When you roll on the Mass Ba
 #### Rank 5: The Path of Steel
 
 The greatest and most sacred duty of the Kaiu is crafting the sacred weapons of the Crab Clan. When crafting any weapon, you may choose to confer either a +1k0 bonus to all attack rolls made with that weapon, or a +0k1 bonus to all damage rolls made with that weapon. If the weapon is a katana, you may expend all your Void Points (a minimum of one point must be spent) to make the blade unbreakable (as per the Sacred Weapon: Kaiu Blade Advantage). Doing so renders you unable to recover Void Points for one week.
-### <span>Kuni Shugenja [CR]</span> {#toc6}
+### <span>Kuni Shugenja [CR]</span>
 
 Once misunderstood, the Kuni Shugenja School has frequently been painted as a collection of obsessive madmen who delve too deeply into secrets no one should explore. Most Kuni would object to the label of madman, but beyond that they would admit the stereotype fits fairly closely with reality. The Kuni understand they must sacrifice certain inhibitions and reservations in order to serve their Clan and Empire to the best of their ability, and they do so without protest.
 
@@ -147,7 +147,7 @@ The Kuni Shugenja School emphasizes the Crab Clan's specialization in fighting c
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Earth, 2 Fire, and 1 Water
 - <strong>Technique:</strong> <em>Gaze Into Shadow</em> - The Kuni have carefully studied many of the most sinister opponents imaginable, and have learned how to combat them. You gain a bonus of +1k0 to the total of all Spell Casting Rolls when the target is any non-human creature, and any spell that inflicts damage inflicts an additional +1k1 damage when used against a target who possesses the Shadowlands Taint. You also gain a Free Raise on any spell with the Jade keyword.
 
-### <span>Kuni Witch-Hunter [Monk] [GC]</span> {#toc7}
+### <span>Kuni Witch-Hunter [Monk] [GC]</span>
 
 The Kuni Witch-Hunters are a small but highly skilled group of mystical warriors who serve the Crab Clan by hunting for maho-tsukai and Shadowlands infiltration within the Empire. They travel freely through Rokugan, often disregarding clan borders and jurisdictions&#8230; much to the displeasure of local authorities. Samurai from other clans tend to regard Witch-Hunters as superstitious and ill-mannered louts, but common folk throughout the Empire respect them and seek their aid whenever supernatural threats arise. Within the Crab Clan they are treated with respect and not a little fear, since their appearance often betokens the presence of the Taint.
 
@@ -174,7 +174,7 @@ The Witch-hunter's intense study and spiritual training now gives him access to 
 #### Rank 5: To Shatter the Darkness
 
 The Witch-hunter is now the true nemesis of Jigoku's forces, able to strike down his enemies with unmatched power. You gain +4k1 bonus to your attack and damage rolls against Shadowlands creatures and against foes you know to be Tainted. This stacks with the attack bonus from your Rank One Technique.
-### <span>Toritaka Bushi [CR]</span> {#toc8}
+### <span>Toritaka Bushi [CR]</span>
 
 The Toritaka Bushi School excels at destruction of creatures that come from the other Spirit Realms. Their style is fluid in order to adapt to any surprises that new monsters might spring upon them. Unfortunately this focus on otherworldly foes makes the Toritaka bushi a very specialized warrior, with few techniques that work against human opponents.
 
@@ -204,7 +204,7 @@ effect lasts until the Reactions Phase two Rounds later.
 #### Rank 5: Claws of the Falcon
 
 Nothing will stop the Toritaka’s attack from hitting its target. Your attacks ignore up to 5 points of your opponent’s Reduction (if he has any). Against creatures from other Spirit Realms, you may spend a Void Point as a Free Action to reduce the creature’s Reduction by 10 for one Round.
-### <span>Yasuki Courtier [CR]</span> {#toc9}
+### <span>Yasuki Courtier [CR]</span>
 
 Once a Crane family, the Yasuki defected to join the Crab after their Doji masters refused to accept the questionable manner in which the Yasuki performed essential tasks necessary for the Crane to function. The Crab were far more practical masters, and under their leadership the Yasuki have become the most prosperous merchant patrons in the Empire. Their sensei emphasize the ability to find that thing one's opponents in court must have, and provide it for them at a low cost, ensuring both profit and gratitude.
 
@@ -231,9 +231,9 @@ As ruthless merchants, the Yasuki are also skilled at seeing through the decepti
 #### Rank 5: What is Yours is Mine
 
 The ultimate skill of the Yasuki is to influence others by offering them what they want the most. If you known of a material item someone needs, and arrange for them to get it, you gain a bonus of +5k0 to any Contested Social Rolls you make against that person for the next 24 hours.
-## <span>Advanced Schools</span> {#toc10}
+## <span>Advanced Schools</span>
 
-### <span>Defender of the Wall [Bushi] [CR]</span> {#toc11}
+### <span>Defender of the Wall [Bushi] [CR]</span>
 
 The Crab Clan is the first line of defense against the ravenous creatures of the Shadowlands, so that protective nature has seeped into many of their martial styles. The Defender of the Wall stands firm against the enemies he may face and weathers all the assaults focused in his direction. The Defender of the Wall is the perfect guardian, as he will let the world end before he lets an attacker pass him.
 
@@ -251,9 +251,9 @@ The Defender of the Wall is an impregnable fortress, even without wearing his ar
 #### Rank 3: The Crab are the Wall
 
 The Defender of the Wall will let nothing stop him short of death. Once per round, you may immediately negate one Condition on yourself (other than Mounted or Grappled).
-## <span>Alternate Paths</span> {#toc12}
+## <span>Alternate Paths</span>
 
-### <span>Crab Berserker [Bushi] [CR]</span> {#toc13}
+### <span>Crab Berserker [Bushi] [CR]</span>
 
 When faced with insurmountable odds, a warrior often retreats to fight again another day. To the Crab Berserker, this is not an option. The Berserker will fight wherever his lord directs him, and focuses his entire being into that fight. The Berserker fights with no limits and continues to ferociously attack until either he or his enemies is bloodied and dead on the ground. The Berserkers often fight against the ravaging Shadowlands Horde and are said to match those beasts in rage and viciousness.
 
@@ -261,7 +261,7 @@ When faced with insurmountable odds, a warrior often retreats to fight again ano
 - <strong>Requirements:</strong> Earth 4
 - <strong>Technique:</strong> <em>Berserker's Rage</em> - The Crab berserkers manifest their unique and dangerous gifts after spending some time - often months, sometimes even years - on the Kaiu Wall. Some berserkers call on maniacal fury to power their rages, while others enter the notorious &quot;dead eye&quot; trance, but the result is the same: superhuman strength and a near-immunity to pain. Once per skirmish, you may enter your rage during the Reactions Stage. Once begun, the rage lasts for a number of Combat Rounds equal to double your Earth Ring. (You may end it during an earlier round by spending a Void Point during the Reactions Stage.) While in your rage, you cannot take the Center, Defense, or Full Defense stances, and cannot use any non-Bugei skills. While in the raging state, you ignore all penalties and effects of Wound Ranks. You also gain a +2k1 bonus to all attack and damage rolls. If you are killed while raging, you remain alive and can continue to attack until the rage ends, but you cannot be healed (unless you are first targeted with the Force of Will spell) - you are dead, your body simply does not know it yet. The rage ends if you sustain Wounds equal to twice the amount that would normally kill you.
 
-### <span>Crab Defender [Bushi] [BoA]</span> {#toc14}
+### <span>Crab Defender [Bushi] [BoA]</span>
 
 The limited Crab dueling tradition is maintained in the Unbreakable Blade Dojo. It emphasizes endurance rather than speed, teaching its students to endure their opponents' first blow in order to survive to deliver their own. Due to the Crab Clan's martial and pragmatic nature, the sensei of the Unbreakable Blade focus their training on lethal duels (both on the battlefield and in court) rather than on the duels to first blood that are more common in other clans.
 
@@ -269,7 +269,7 @@ The limited Crab dueling tradition is maintained in the Unbreakable Blade Dojo. 
 - <strong>Requirements:</strong> Awareness 3, Agility 3, Iaijutsu 4
 - <strong>Technique:</strong> <em>Warrior of Earth</em> - The Defenders are taught there is more than one way to win a duel. Rather than try to strike faster than their opponents, Defenders learn to call on their own Earth to endure the foe's first strike, allowing them to defeat their enemy in a longer fight. During the Strike step of an iaijutsu duel, you are considered to have additional Reduction equal to your Earth x 3.
 
-### <span>Crab Knife-Fighter [Bushi] [BoF]</span> {#toc15}
+### <span>Crab Knife-Fighter [Bushi] [BoF]</span>
 
 A few Crab have specialized in knife-fighting over the years, enough for the clan to maintain a few sensei who teach advanced knife techniques. Many of these are sailors, especially Yasuki, who prefer a fighting style which uses small, cheap weapons in an environment where speed and mobility are more important than reach and power.
 
@@ -277,7 +277,7 @@ A few Crab have specialized in knife-fighting over the years, enough for the cla
 - <strong>Requirements:</strong> Knives 3
 - <strong>Technique:</strong> <em>One Blade, Both Hands</em> - The Crab knife-fighting technique emphasizes using the empty hand to grasp, control, and distract the opponent, setting him up for the knife-hand to deliver the lethal blow. When fighting with one open hand and a tanto, you add +3k1 to your damage with tanto and may ignore all effects of your opponent's armor. (If your opponent is a creature with inherent Reduction, you may ignore 5 points of that Reduction.)
 
-### <span>Crab Sumai Wrestler [Bushi] [BoE]</span> {#toc16}
+### <span>Crab Sumai Wrestler [Bushi] [BoE]</span>
 
 The Crab have a long and storied tradition of excellence in sumai, whose social respectability can grant skilled Crab wrestlers access to courts where they might otherwise never be invited. Promising students are taught at the Grip of Earth Dojo, the principle home to the Crab Clan's sumai fighting technique. When another samurai encounters a Crab bushi utilizing sumai techniques, it is almost always a graduate of the Grip of the Earth Dojo. Those students who show a knack for the ritual and pageantry of sumai as well as its more physical aspects are sent to Stone Tower Dojo in the Imperial Capital.
 
@@ -286,7 +286,7 @@ The Crab have a long and storied tradition of excellence in sumai, whose social 
 - <strong>Special:</strong> Enrolling in this Path automatically allows your character to get rid of the Small Disadvantage at no point cost. If you are not Small, you automatically gain Large at no Point cost. If you are already Large, you are refunded the point cost of the Advantage.
 - <strong>Technique:</strong> <em>The Way of Sumai</em> - While most Rokugani treat Sumai wrestling as a sport, the Crab have never forgotten that it originated as a combat art. When rolling to control a Grapple, you gain a +1k0 bonus (+2k0 if you are Large). If you choose to inflict damage in a Grapple (e.g. the &quot;hit&quot; option), you gain a +1k1 bonus to the Damage Roll.
 
-### <span>Falcon's Strike [Bushi] [BoA]</span> {#toc17}
+### <span>Falcon's Strike [Bushi] [BoA]</span>
 
 A tiny off-shoot of the Falcon Clan's bushi traditions, the Falcon's Strike Dojo becomes much larger and more influential after the Falcon are absorbed into the Crab Clan in the early twelfth century. The dojo selects its students for keen vision and sharp senses, and they learn to reply on focused senses rather than the mechanics of drawing and firing to hit their targets.
 
@@ -294,7 +294,7 @@ A tiny off-shoot of the Falcon Clan's bushi traditions, the Falcon's Strike Dojo
 - <strong>Requirements:</strong> Kyujutsu (Yumi) 3
 - <strong>Technique:</strong> <em>Spotting the Prey</em> - The Falcon's Strike is taught to use the bushi's deep awareness of their surroundings to strike the target regardless of concealment. When making a range attack with a bow, you may use your Perception in place of your Reflexes for attack rolls. When using a yumi, you may also use your Perception in place of the bow's Strength for damage rolls.
 
-### <span>Hiruma Slayer [Bushi] [BoE]</span> {#toc18}
+### <span>Hiruma Slayer [Bushi] [BoE]</span>
 
 While most samurai despise the masakari as little more than a peasant axe, the Hiruma found value in its combination of relatively small size and the ability to deliver powerful cutting blows against Shadowlands beasts. The Slayers specialize in hunting down dangerous Shadowlands creatures, often operating deep within Fu Leng's realm with little to no support. During wars with other clans, however, the Slayers' skills can also come in handy for raiding behind enemy lines.
 
@@ -302,7 +302,7 @@ While most samurai despise the masakari as little more than a peasant axe, the H
 - <strong>Requirements:</strong> Heavy Weapons (Masakari) 5
 - <strong>Technique:</strong> <em>Deny the Horde</em> - The Slayer technique utilizes the masakari to deliver a terrifying barrage of precise and lethal blows on the foe, using it equally well in either hand. You suffer no penalties for using a masakari in your off-hand (although you still suffer normal penalties for wielding two weapons). You may attack as a Simple Action with a masakari. When using a masakari in the Full Attack Stance against any foe, or in the Attack Stance against a Shadowlands creature or a foe you know to be tainted, you gain an additional +3k0 bonus to your damage rolls.
 
-### <span>Hiruma Sniper [Bushi] [BoA]</span> {#toc19}
+### <span>Hiruma Sniper [Bushi] [BoA]</span>
 
 The Snipers are an outgrowth of the fall of Hiruma lands in the eighth century, and the Path does not exist prior to that era. they are trained to stay calm and shoot accurately even when assailed by terrifying monsters, targeting their foes' weak points.
 
@@ -310,7 +310,7 @@ The Snipers are an outgrowth of the fall of Hiruma lands in the eighth century, 
 - <strong>Requirements:</strong> Kyujutsu 5, Reflexes 4
 - <strong>Technique:</strong> <em>The Crab's Eyes</em> - The Hiruma Snipers are trained to strike at specific weak points in their targets, getting their arrows past both mortal armor and monstrous shells and carapaces. You may attack with a yumi as a simple action. When making a ranged attack with a yumi, you may ignore all of the target's natural Reduction (e.g. Reduction from armor or natural protection) and half that much Reduction from magical effects.
 
-### <span>Hiruma Yojimbo [Bushi] [StE]</span> {#toc20}
+### <span>Hiruma Yojimbo [Bushi] [StE]</span>
 
 Since the first days of the Crab Clan, the athletic and attentive Hiruma have often served as yojimbo for the Crab Champion and his most important vassals. This is not because the Hida lack for physical or martial power, of course, but rather because the Hiruma excel at perceiving threats that other Crab might easily miss. They are also considerably faster than the average member of most other Crab families, and speed is an essential component of any successful yojimbo’s repertoire of talents.
 
@@ -318,7 +318,7 @@ Since the first days of the Crab Clan, the athletic and attentive Hiruma have of
 - <strong>Requirements:</strong> Defense 3
 - <strong>Technique:</strong> <em>The Crab’s Shell</em> - Those Hiruma tasked with protecting the lives of important Crab personages understand that the best and most effective means of defending them is to destroy their enemies as quickly as possible. After making a successful melee attack, you may immediately perform the Guard Action as a Free Action (if your charge is close enough for you to Guard). If you do so, you may add the amount by which your attack roll exceeded your opponent’s Armor TN to the Armor TN of your charge until your next Turn.
 
-### <span>Kaiu Shipmasters [Artisan/Bushi]</span> {#toc21}
+### <span>Kaiu Shipmasters [Artisan/Bushi]</span>
 
 The Crab Clan has maintained a fleet of iron-armored &quot;Turtle Ships&quot; for centuries, but during the age of the Shattered Empire the threat of Mantis raids and the lack of any support from the rest of Rokugan forces them to expand the fleet and to arm and reinforce all of their wooden vessels as well. Hida O-Ushi commands that Earthquake Fish Bay be made impregnable against any naval attack, whether mundane or Shadowlands in origin. This task is given to Kaiu Utsu, the family daimyo and a famed Siegemaster. Utsu went to work with classic Crab practicality, adapting his methods to naval warfare. After he dies of heart failure in 1139, the task is taken up by his heir Kaiu Umasu, who regularized the Technique which Utsu had devised and made sure it was taught to later generations.
 
@@ -327,7 +327,7 @@ The Crab Clan has maintained a fleet of iron-armored &quot;Turtle Ships&quot; fo
 - <strong>Requirements:</strong> Battle 4, Sailing 5
 - <strong>Technique:</strong> <em>Umasu’s Steel</em> - The Kaiu Shipmasters learn how to reinforce their clan’s ships against any sort of threat, whether it be from the Shadowlands or from the fleets of other clans, using a mixture of physical improvements and defensive tactics. At the beginning of any naval battle in which you are in command of a warship, you may make a Battle / Intelligence Skill Roll at TN 25 to grant your ship a bonus Reduction value equal to your Sailing Skill Rank x2. If the ship is a &quot;Turtle Ship&quot;, the bonus is equal to your Skill Rank x4 instead.
 
-### <span>Kaiu Siegemaster [Bushi] [BoE]</span> {#toc22}
+### <span>Kaiu Siegemaster [Bushi] [BoE]</span>
 
 <em>&quot;We sometimes play a game amongst each other. One Kaiu devises the strongest fortification possible, and the others must figure out its weakness.&quot; - Kaiu Watsuki</em><br>
 <br>
@@ -337,7 +337,7 @@ The Kaiu are acknowledged throughout the Empire as the foremost practitioners of
 - <strong>Requirements:</strong> Battle (Mass Battle) 5, Engineering (Siege) 5
 - <strong>Technique:</strong> <em>The Hammer of Kaiu</em> - During a siege, you may add or subtract your entire School Rank to the total of your rolls on the Mass Battle Table (this replaces the Kaiu Engineering Rank 4 ability to add or subtract half your School Rank). If you are on the defending side in a siege, you gain +2k0 bonus to any Engineering (Siege) rolls you make to operate siege weaponry, and the Reduction of any structures on your side of the siege is increased by 50%.
 
-### <span>Kuni Crystal Master [Shugenja] [BoE]</span> {#toc23}
+### <span>Kuni Crystal Master [Shugenja] [BoE]</span>
 
 In the twelfth century, the Kuni begin focusing more intensely on the power and nature of crystal, partially influenced by the struggle against the Lying Darkness and partly by their interactions with other races who used crystal, such as the Naga and even the Nezumi. The Crystal Masters emerged from this research. They are the creators of the Sapphire Strike spell, and specialize in awakening the spiritual powers of crystal and using those powers to enhance their other magic.
 
@@ -346,7 +346,7 @@ In the twelfth century, the Kuni begin focusing more intensely on the power and 
 - <strong>Special:</strong> Must possess a piece of pure crystal. Player must have approval from GM to become a Crystal Master.
 - <strong>Technique:</strong> <em>Strike of Purity</em> - The Crystal Masters learn how to awaken the spiritual power of crystal and use it to strengthen their spells. When you learn this technique, one piece of crystal which you possess becomes awakened and is then used to empower your spells with the essence of Crystal. (If this piece of crystal is lost or destroyed, you cannot use this Technique until you acquire another one - it is the GM's discretion how much time and effort this will require.) When casting a Fire or Earth spell that inflicts damage (e.g. Jade Strike, Fury of Osano-Wo, etc) you may spend a Void Point to channel the spell through your awakened crystal and infuse it with the essence of crystal. This adds one additional Complex Action to the casting time of the spell. The spell does an additional +1k1 damage is is now considered to be Crystal for the purpose of what foes can be damaged by it, whether it can penetrate Invulnerability or Creature Reduction, and so forth.
 
-### <span>Oni Slayer [Shugenja] [CR]</span> {#toc24}
+### <span>Oni Slayer [Shugenja] [CR]</span>
 
 Kuni shugenja dedicate their lives to eradicating the Shadowlands threat from the world. The Oni Slayers are an elite sect of the Kuni family that focuses strictly on dealing with the monsters that are too strong to fight on an equal footing. Their rituals and wards are essential in sapping the strength of these unnatural beasts. Oni slayers see things no man ever should, yet their dedication to their duties remains unshaken.
 
@@ -354,7 +354,7 @@ Kuni shugenja dedicate their lives to eradicating the Shadowlands threat from th
 - <strong>Requirements:</strong> Lore: Shadowlands 3
 - <strong>Technique:</strong> <em>Bound by the World</em> - The Kuni study the poorly understood art of binding, of using ritual circles and symbols to trap demons so they can be destroyed forever. You may expend an Earth spell slot and make a Spell Casting Roll (without TN, see below) in order to ritually prepare a binding circle, a process which takes an hour. This circle may encompass a maximum area equal to your School Rank x 5 in square feet, although you may combine efforts with other Kuni to encompass larger areas by adding your School Ranks together (only one of you make the Spell Casting Roll). Once an oni enters the circle, it becomes active. The oni may not leave the circle without first succeeding at a Willpower Trait Roll against a TN equal to the total of your Spell Casting roll. While the circle is active, you gain one less Earth spell slot per day.
 
-### <span>Rajya ke Varisa [Bushi]</span> {#toc25}
+### <span>Rajya ke Varisa [Bushi]</span>
 
 The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study the fighting techniques of the Ivory Kingdoms kshatriya and find ways to use them in conjunction with Rokugani combat techniques. The gaijin turned-Mantis known as Yoritomo Singh also contributes to the organization’s training, seeking to preserve some aspects of his former culture. So far they have managed to devise only one technique, albeit one of significant value.
 
@@ -362,7 +362,7 @@ The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study t
 - <strong>Replaces:</strong> Hida Bushi 4, Shinjo Bushi 4, Moto Bushi 4, Yoritomo Bushi 4
 - <strong>Technique:</strong> <em>Legacy of the Kshatriya</em> - The Rajya ke Varisa have learned to emulate the kshatriya technique that calls on religious devotion to strengthen their force of their blows. However, instead of calling on blasphemous gaijin gods, they call on the power of their devotion to the Fortunes. Twice per skirmish, before making an attack you may take a Free Action to spend a Void Point; if the subsequent attack succeeds, you may add unkept dice to your damage roll equal to your rank in the Lore: Theology skill.
 
-### <span>Severed Hand [Courtier] [BoE]</span> {#toc26}
+### <span>Severed Hand [Courtier] [BoE]</span>
 
 The Severed Hand is the term adopted by those Crab warriors who are forced into the courts due to injuries or other physical problems that render them incapable of further military service. Such men and women, usually grizzled veterans, tend to view the courts as a mixture of deadly traps, pointless and puerile ritual, and stultifying boredom; nonetheless, they do their best to represent their clan. Over centuries of trail and error they have developed a Technique to aid them in their duties, and share it with their fellows through personal instruction.
 
@@ -370,7 +370,7 @@ The Severed Hand is the term adopted by those Crab warriors who are forced into 
 - <strong>Special:</strong> Your character must be reassigned to the courts due to a physical inability to continue serving the clan in war, e.g. a debilitating injury (GM's discretion, but obvious examples include Missing Limb and Lame).
 - <strong>Technique:</strong> <em>Strength of Bamboo</em> - The former warriors of the Severed Hand have learned to rely on the indomitable strength of Earth to resist the tricks, temptations, and blandishments of enemy courtiers. When rolling to resist an opponent's Social Skill or Courtier Technique, you may use Willpower as your Trait instead of the Trait normally used. In cases where this Technique clashes with another (such as the Bayushi Rank 4 Technique), the GM has discretion as to which Technique trumps the other.
 
-### <span>Toritaka Exorcist [Shugenja] [GC]</span> {#toc27}
+### <span>Toritaka Exorcist [Shugenja] [GC]</span>
 
 From the days of their founding as the Falcon Clan, the Toritaka have studied the ways of the spirits, especially ghosts and gaki. Those of the Toritaka who had a gift of the kami undertook special studies in these topics, learning the ways of yorei and goryo, of gaki and kitsune-tsuki, and the ways to purge their influence from the natural world. The near-destruction of the Toritaka by a malevolent Shuten Doji spirit only furthered their determination to learn the ways of all such dangerous creatures. Toritaka Exorcists are skilled at both detecting dangerous spirits and purging their influence.
 
@@ -378,7 +378,7 @@ From the days of their founding as the Falcon Clan, the Toritaka have studied th
 - <strong>Requirements:</strong> Willpower 3, Perception 3, Calligraphy 3
 - <strong>Technique:</strong> <em>Purge the Darkness</em> - You can sense the presence of dangerous spirits (ghosts, gaki, yokai, creatures from the spirit realms, etc) by making an Investigation (Notice) / Perception roll. The base TN for this roll is 20, but may be increased by the GM for spirits who are exceptionally difficult to notice. You may make 2 Raises on the roll to learn the specific nature of the spirit you detect (e.g. a yorei, a gaki, etc). You may take a Complex Action to attempt an exorcism on someone who is possessed by a ghost, gaki, oni, kitsune-tsuki, or similar entity. You expend one spell slot and make a Contested Willpower roll against the spirit; if you first place an exorcism ward on the target, you gain +2k2 on the roll. With a success, you force the spirit to leave the body it is possessing; it cannot attempt to re-possess that same person for at least 24 hours.
 
-### <span>Tsuru's Legion [Bushi] [S&amp;F]</span> {#toc28}
+### <span>Tsuru's Legion [Bushi] [S&amp;F]</span>
 
 Created a few years prior to the Clan War, this unit was founded by Hida Tsuru, younger brother of Clan Champion Hida Kisada. He created a legion of cavalry trained to combine speed and power, delivering overpowering strikes to enemy lines. Over time this force became known as Tsuru’s Legion, a name it retained after the death of its founder. In modern times the Legion is a semi-independent strike force used by the Clan Champion, and stands outside the normal structure of the Crab armies.
 
@@ -387,7 +387,7 @@ Created a few years prior to the Clan War, this unit was founded by Hida Tsuru, 
 - <strong>Special:</strong> Admission to Tsuru’s Legion adds a steed (Rokugani pony) to your outfit if you do not already possess one.
 - <strong>Technique:</strong> <em>Overrun</em> - The cavalry of Tsuru’s Legion are trained to deliver decisive attacks at the critical moment of a battle. When you are mounted, you may perform the Knockdown maneuver for one less Raise and you may spend a Void Point to add +Xk0 to an attack roll with a weapon, where X is your mount’s Strength.
 
-### <span>Yasuki Enforcer [Bushi] [StE]</span> {#toc29}
+### <span>Yasuki Enforcer [Bushi] [StE]</span>
 
 The Yasuki merchants specialize in all manner of questionable forms of commerce and negotiation, and some few among them are discovered to have an exquisite talent for intimidation. Rather than see such gifts go to waste, the Yasuki lords at Clear Water Village prefer to teach them the methods they need to make their threats a reality. After all, a threat that cannot be followed through on is just poor business.
 
@@ -395,7 +395,7 @@ The Yasuki merchants specialize in all manner of questionable forms of commerce 
 - <strong>Requirements:</strong> Intimidation 3
 - <strong>Technique:</strong> <em>Gentle Encouragement</em> - The enforcers of the Yasuki family know how to threaten in such a way that thoroughly cows any potential opponent. You may make a Contested Roll against any individual, using your Willpower / Intimidation against their Willpower / Etiquette. If you are successful, you gain a bonus of +1k0 on all attack rolls made against that individual during the first Round of combat against them during your next skirmish. Each successful Raise made on this Contested Roll increases your bonus by an additional +1k0. If this Technique is activated during a skirmish, the initial Contested Roll is a Complex Action.
 
-### <span>Yasuki Extortionist [Courtier] [BoE]</span> {#toc30}
+### <span>Yasuki Extortionist [Courtier] [BoE]</span>
 
 Some among the Yasuki, mainly in the Crab but also sometimes in the Crane, eschew their family's more conventional mercantile pursuits in favor of the practice of moneylending. Although this is considered especially disreputable activity for a samurai, it can also be hugely profitable - there are always both commoners and samurai who need additional funds, and the concept of paying interest is so strange to them that they usually do not realize how badly the Yasuki are taking advantage of them.
 
@@ -403,7 +403,7 @@ Some among the Yasuki, mainly in the Crab but also sometimes in the Crane, esche
 - <strong>Requirements:</strong> Willpower 4, Commerce 4, Intimidation 5
 - <strong>Technique:</strong> <em>Do Me a Favor</em> - The Extortionists specialize in rooting out the financial weaknesses of potential customers and then pressuring them into calling on Yasuki assistance. If you have supplied something your target needs, whether money or material goods (this coudl be achieved through role-play and/or by using the Yasuki Rank 1 and Rank 3 Techniques), you may make a Contested Social Roll of your Intimidation (Control) / Willpower against their Etiquette (Courtesy) / Willpower. With a success, they find the arrangement has left them deeply in debt to you. You may either inflict an Obligation on that person (if the GM judges they have the ability to pay you back) or a Blackmail on them (if the GM judges they cannot pay you back). The default point value of the Disadvantage in either case is 3, but the GM may modify this if circumstances make it appropriate.
 
-### <span>Yasuki Taskmaster [Bushi] [S&amp;F]</span> {#toc31}
+### <span>Yasuki Taskmaster [Bushi] [S&amp;F]</span>
 
 Although the Yasuki family as a whole is known for its mercantile and political role, many individual Yasuki serve in the Crab armies, with such members of the family often gravitating toward logistical and organization duties. As a result of this role, Yasuki bushi often found themselves in charge of organizing, training, and leading the Crab army's limited ashigaru forces. Eventually, this led to the establishment of a specific organization dedicated to that role: the Taskmasters. The dojo of the Taskmasters, located in Sunda Mizu Mura, admits students from any family but still tends to attract a disproportionate number of Yasuki, and the sensei is usually a Yasuki as well.
 

@@ -8,7 +8,7 @@ The cost, on the surface, is a small one: a single Shadow Rank. But no debt owed
 
 Acquiring the first Shadow Rank gives a character some useful abilities along with an apparently minor drawback, as shown on the tables below. This is important; the Nothing wants to attract people to itself, and extracting a horrific price too soon is counter-productive to that goal. Accordingly, it is entirely possible for a character to carry on indefinitely with a single Shadow Rank, representing a small degree of contamination by the Nothing. However, the Nothing will always be aware of that character’s actions and, more importantly, the motivations behind them. It will seek opportunities to increase its hold on the character, again by exploiting his actions (or inaction) or Disadvantages, or by making offers at times the character is least likely to refuse them. For example, in a combat that is going badly, the Nothing may whisper to the character that it will cloak him in shadow so he can escape to summon reinforcements or make it more difficult for the enemy to strike him. If he accepts the offer, the GM should have the character make a Void Roll against an appropriate TN (taking into account the increase in TN resulting from his having a Shadow Rank) to resist acquiring another Shadow Rank. If the situation is sufficiently dire, the GM may even decide it is appropriate to give the character another Shadow Rank without the opportunity to resist through a Void Roll. Each Shadow Rank acquired after the fi rst gives a character more powers but also more drawbacks, as the Nothing gets a deeper hold on his body and soul. Moreover, as a character acquires Shadow Ranks, it becomes more difficult to avoid acquiring more. Almost inevitably, the number of Shadow Ranks possessed by a character will eventually exceed his Void Ring. When this happens, he is immediately and irrevocably lost, absorbed into the Shadow, his identity consumed and destroyed. In game terms, he becomes an NPC controlled by the GM. Such is the peril of opening oneself to an entity as dangerous and powerful as the Nothing.
 
-## <span>Scorpion Shadow Brands</span> {#toc0}
+## <span>Scorpion Shadow Brands</span>
 
 When Shosuro became Soshi, she set the Scorpion Clan (and particularly the new Soshi family) on a path of unknowing collaboration with the Lying Darkness for many centuries. During that time, the Soshi came to understand and refine a form of magic called tejina, the magic of shadows, also sometimes called kage-do, or the Way of Shadow. Tejina differs from virtually all other Rokugani magic in that it is wholly unrelated to the five elements of Earth, Air, Fire, Water, and Void. Instead, Tejina draws upon the essence of the Nothing itself, a power entirely apart and distinct from Elemental magic. It is most commonly manifested in the form of kage yakiin, or Shadow Brands. These are actual physical brands, subtly embodying the power of Nothing, which are permanently imprinted on the recipient’s body. Shadow Brands have no specific form and typically appear as shifting intertwined tendrils of darkness; their appearance is always deeply disturbing to those who see them. The Shadow-Branded gain potent abilities that make them useful agents for the Scorpion Clan, employing the powers of the Nothing to further the Clan’s interests&#8230; at least, until they are lost to the Lying Darkness.
 
@@ -17,12 +17,12 @@ The process of Shadow Branding involved a complex, lengthy, and excruciating rit
 Accumulating Shadow Brands result in the acquisition of Shadow Ranks (with associated powers and drawbacks) by the recipient, but at a slightly slower pace than if the Nothing was touched directly. A person with two Shadow Brands gains Shadow Rank 1, and each Brand thereafter results in an additional Shadow Rank. Note that while a single Brand does not result in the actual acquisition of a Shadow Rank, it does make the recipient more susceptible to contamination by the Lying Darkness, so he does receive the drawback associated with Shadow Rank 1 (an increase of 5 to the TN of any Roll made to resist the effects of the Lying Darkness or its minions).<br>
 Mechanically, in addition to any the specific powers acquired through the acquisition of Shadow Ranks, a Shadow Brand also awards a bonus of its own: for each Shadow Brand which a character possesses, he gains a +1k1 bonus to all Stealth rolls.
 
-## <span>The Powers of Shadow</span> {#toc1}
+## <span>The Powers of Shadow</span>
 
 The following table gives the effects and penalties of Shadow Ranks. For each Rank, the corresponding Shadow Powers and Drawbacks are described. Note that each Shadow Power becomes more potent at higher Shadow Ranks, so the effect of increasing Shadow Rank is synergistic. The obvious intent is to tempt players into risking the acquisition of more Shadow Ranks so they can gain new and better Powers. Of course there is a serious downside to this; as Shadow Ranks increase, the use of Shadow Powers makes it more likely that even more Shadow Ranks will be accrued. The result is a character that becomes progressively stronger but also progressively closer to his irrevocable fate - being completely subsumed by the Nothing, which happens whenever a character’s Shadow Ranks exceed his Void Ring.<br>
 It may be noted that the chart does not list Shadow Ranks above 5. In point of fact, Shadow Ranks do continue to increase above 5, but no further powers or mechanical effects are applied. Thus characters with a higher Void Ring will be able to withstand the Shadow and enjoy its powers considerably longer before their fi nal corruption. Those exceedingly rare mortals with a Void Ring of 10 will never be fully absorbed by the Lying Darkness; of course, it would be unusual in the extreme for such a gifted individual to have such intimate dealings with the Nothing in the first place !
 
-### <span>Shadow Rank 1</span> {#toc2}
+### <span>Shadow Rank 1</span>
 
 <strong>Shadowsight:</strong> The character is able to see into shadows and darkness almost as easily as into normal light. As a Simple Action the character can scan the shadows around him for anyone attempting to use Stealth to conceal themselves. When making the appropriate skill roll to locate a concealed target (usually a Contested Roll of Investigation / Perception against the target’s Stealth / Agility) he gains two Free Raises. Moreover:
 
@@ -30,7 +30,7 @@ It may be noted that the chart does not list Shadow Ranks above 5. In point of f
 
 <strong>Drawbacks:</strong> Any Contested Roll made to resist skills, effects, or combat maneuvers by the Lying Darkness or its minions has its TN increased by 5.
 
-### <span>Shadow Rank 2</span> {#toc3}
+### <span>Shadow Rank 2</span>
 
 <strong>Shadowblend:</strong> The character is able to blend himself into the shadows with unnatural ease, as though the darkness actively cooperates in hiding him. He gains two Free Raises on all Stealth rolls to conceal himself. Additionally:
 
@@ -39,7 +39,7 @@ It may be noted that the chart does not list Shadow Ranks above 5. In point of f
 
 <strong>Drawbacks:</strong> Any time a Shadow Power is used, the character must make a Void Roll at TN 15 or gain a Shadow Rank. Additionally, direct skin-contact with crystal will cause the character noticeable discomfort (roll Willpower at TN 10 to avoid wincing, drawing back, or otherwise showing discomfort).
 
-### <span>Shadow Rank 3</span> {#toc4}
+### <span>Shadow Rank 3</span>
 
 <strong>Shadow Walk:</strong> The character may disappear into a shadow and reappear somewhere else, instantly transitioning from one pool of darkness to another, so long as doing so does not require moving through a solid object. Both shadows must be large enough to fully encompass the character’s body. Subject to these limitations, the character may take a Simple Action to move from any one place of darkness to any other such place within 100’. The character must be at least casually aware of the destination to which he is Shadow Walking. Additionally:
 
@@ -49,7 +49,7 @@ It may be noted that the chart does not list Shadow Ranks above 5. In point of f
 
 <strong>Drawbacks:</strong> Any time a Shadow Power is used, the character must make a Void Roll versus a TN of 20 or gain a Shadow Rank. Additionally, direct skin-contact with crystal will cause the character considerable discomfort which cannot be concealed. The character also begins to show signs of fading identity and an increasing generalization of facial features, causing him to gain the Bland Advantage if he does not already have it. While this does not cost any Experience Points, the effects of this Advantage are automatic and cannot be turned off voluntarily.
 
-### <span>Shadow Rank 4</span> {#toc5}
+### <span>Shadow Rank 4</span>
 
 <strong>Shadowshape:</strong> The character’s form is now largely mutable, since much of his true identity is gone. As a Complex Action he may assume the shape of any other person he knows well (anyone with whom he has spent time totaling at least a full day in close proximity). This mimicry is good but not perfect, and can be discovered by a deliberate observer. Anyone who knows the original person may take a Complex Action to make a Perception Roll against the character’s Intelligence x 3 to detect the deception. In addition:
 
@@ -60,7 +60,7 @@ It may be noted that the chart does not list Shadow Ranks above 5. In point of f
 
 <strong>Drawbacks:</strong> Any time a Shadow Power is used, the character must make a Void Roll versus a TN of 25 or gain a Shadow Rank. Direct skin-contact with crystal will cause the character severe discomfort (which cannot be concealed) and infl ict 1 Wound (damage from crystal weapons will be increased by 1 Wound). Once per day, the Lying Darkness can attempt to take control of the character for up to one hour of in-game time; the character must make a successful Void Roll versus a TN of 20 to resist. During this time, the character becomes an NPC under control of the GM.
 
-### <span>Shadow Rank 5</span> {#toc6}
+### <span>Shadow Rank 5</span>
 
 <strong>Shadowgate:</strong> The character’s body is now formless and malleable enough to pass through solid objects and even living creatures. Moving through anything more substantial than wood requires a Stamina Roll against a TN of 15 (stone) or 20 (metal or fl esh). Failure means the attempt to Shadowgate has failed entirely. Note that crystal or a magical effect specifi cally intended to block the Lying Darkness and its minions will prevent passage by means of Shadow Gate. Each use of this ability (even one that fails) drains a Void Point from the character; this ability may not be used if it would reduce a character to 0 Void. In addition:
 

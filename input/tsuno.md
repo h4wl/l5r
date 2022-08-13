@@ -7,7 +7,7 @@ All Tsuno have the creature qualities of Fear 2, Spirit, and Swift 3, reflecting
 
 The preferred Tsuno weapon is a large, heavy sword with a jagged and hooked appearance. Known simply as &quot;Tsuno Blades&quot;, these cruel and vicious weapons use the Heavy Weapons skill and have a base Damage Rating of 3k3. A Tsuno Blade gains a +1k0 attack bonus against any opponent who has at least one Rank of Taint, who has the Spirit quality, or who has the Touched by the Realms Advantage
 
-### <span>Tsuno Ravager [Bushi]</span> {#toc0}
+### <span>Tsuno Ravager [Bushi]</span>
 
 Tsuno Ravagers are the undisputed leaders of the Tsuno military. They are battle-hardened veterans who learn their School Techniques by performing dangerous quests into different Spirit Realms. They return changed: stronger, wiser, faster, and meaner. Ravagers lead from the front, their howls driving their troops into a disciplined but savage battle-frenzy. Tsuno Honor demands obedience in all things and the Ravagers enforce this discipline savagely, killing all who disobey.
 
@@ -32,7 +32,7 @@ Gaining the ire of a Tsuno Ravager is usually the last mistake its enemies ever 
 #### Rank 5: Slaughter is in the Blood
 
 Centuries of battle within Toshigoku have imbued the Tsuno Ravagers with a thirst for slaughter. If a Ravager kills an opponent, he immediately gains a number of individual +1k1 bonuses equal to his School Rank. These bonuses may be used on attack rolls, damage rolls, or any Skill or Trait roll, and must be used before the end of the next Round or they are lost. This Technique can be triggered a number of times each skirmish equal to the Ravager’s School Rank.
-### <span>Tsuno Soultwister [Shugenja]</span> {#toc1}
+### <span>Tsuno Soultwister [Shugenja]</span>
 
 Tsuno Soultwisters are peculiar beings - a combination of sage, thief, and warrior. They do not gain their magical abilities by calling on the kami to perform spells for them. Instead they steal the power of the spirits and use it to accomplish what they desire. Soultwisters are some of the toughest Tsuno in existence, for to gain their power they must venture into the wilds of the Spirit Realms and do battle with powerful spirits, stealing their power and claiming it for themselves. These battles leave Soultwisters scarred physically, mentally, and spiritually. Many Soultwisters bear these scars as badges of honor and some go so far as to perform ritual scarification to commemorate important victories.
 
@@ -43,7 +43,7 @@ Tsuno Soultwisters are peculiar beings - a combination of sage, thief, and warri
 - <strong>Affinity/Deficiency:</strong> Soultwisters have an affinity for spells related to any Spirit Realm for which they possess the Touch of the Spirit Realms Advantage. If the Soultwister has the Cursed by the Realm Disadvantage, he has a deficiency with spells related to the Realm associated with the Disadvantage.
 - <strong>Technique:</strong> <em>The Power of the Spirits</em> - Soultwisters travel across the Spirit Realms, learning tricks and stealing power, then imbuing their allies and enemies with the traits and powers of the spirits. No Soultwister can master the magic of all of the spirit realms; each Tsuno must choose three Spirit Realms when he becomes a Soultwister. He may only use spells related to those realms. He begins by knowing one spell from each of these three spirit realms. Every time the Soultwister increases in School Rank he may choose to either gain three new spells from his chosen Spirit Realms, or learn magic from a new Spirit Realm and gain one new spell (which may be from that Realm or one of the others he already knows).
 
-### <span>Soultwister Magic</span> {#toc2}
+### <span>Soultwister Magic</span>
 
 Soultwisters do not cast spells in the Rokugani sense. Instead, they use the powers of the spirit realms to twist their enemies’ and allies’ souls to match those of the Spirit Realms they have visited. Mechanically, however, this functions in the same manner as casting Rokugani spells. Each Spirit Realm is associated with a Ring, and a Soultwister who is casting a spell rolls School Rank/Ring just like a Rokugani shugenja, at a TN of 5 + 5 times the spell’s Mastery Level. A Soultwister has spell slots just like a shugenja and conforms to the same rules regarding casting time, Raises, and so forth.<br>
 For purposes of Tsuno spell casting, the Rings which are associated with the various Spirit Realms are as follows:
@@ -58,7 +58,7 @@ There are no known Tsuno spells related to Ningen-do. The rules which follow pre
 The Soultwisters have not developed any spells related to Jigoku, perhaps because of their ancient origins as a group fighting against Jigoku’s power. However, on those occasions when Tsuno become Tainted (such as those who allied with Daigotsu during the twelfth century), their Soultwisters can cast Maho Spells as though they are Soultwister spells, and without the need to spill blood when casting the spells. (They still gain Taint as normal, however, so most Soultwisters are hesitant to use Maho too freely.)<br>
 Maigo no Musha (the Realm of Thwarted Destiny) is a fairly modern addition to the Rokugani cosmology, and as of the late twelfth century the Soultwisters have not determined what powers, if any, they can steal from its denizens. It is possible that in future timelines the Tsuno may discover spells related to the Realm of Thwarted Destiny.
 
-#### <span>Mastery Level 1</span> {#toc3}
+#### <span>Mastery Level 1</span>
 
 ### Benevolence of Tengoku
 - Realm/Ring: Tengoku/Fire
@@ -128,7 +128,7 @@ The spirits of Sakkaku are mischievous and the Soultwister has learned to turn t
 
 The Soultwister’s knowledge of the spirits of Yomi allows him to lessen the connection between the target and his ancestors. The target of this spell suffers a diminishment of his connection to his ancestors, and while this will not actually negate an Ancestor’s guidance, the feeling of loss distracts the target from everything he is doing. All Skill and Trait rolls have their TN increased by 5 for the duration of the spell.
 
-#### <span>Mastery Level 2</span> {#toc4}
+#### <span>Mastery Level 2</span>
 
 ### Agony of Toshigoku
 - Realm/Ring: Toshigoku/Water
@@ -200,7 +200,7 @@ The Soultwister calls on the power of the spirits of the Celestial Heavens to pr
 The Soultwister has learned how to utilize the darker side of the Realm of Dreams to inflict terrible nightmare. The target of this spell suffers severe nightmares every time he sleeps, and cannot rest peacefully. For the duration of this spell the target cannot recover Void Points, Wounds, or Spell Slots by resting. Each morning the target must make a Meditation/Stamina Roll (TN 15 + 5 per day affected) to avoid becoming Fatigued.<br>
 If the creature affected by this spell has the Phobia Disadvantage, its phobia is extremely prominent during these nightmares and it will begin to see signs of it in the waking world. While the spell lasts, any time the creature is in a stressful situation he will hallucinate something related to his Phobia, activating the effects of his Disadvantage for the remainder of the encounter.
 
-#### <span>Mastery Level 3</span> {#toc5}
+#### <span>Mastery Level 3</span>
 
 ### Banished from Yomi
 - Realm/Ring: Yomi/Air

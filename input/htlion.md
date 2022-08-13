@@ -6,7 +6,7 @@ D10 roll result
 - 3-7 Illustrious Past: Roll on Table 2
 - 8-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Lion Past</span> {#toc0}
+## <span>Table 1: Shameful Lion Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor served in an army destined for inglorious defeat. The Lion tend not to talk about this particular battle, but they do give you funny looks. You lose 0.5 Glory and gain the Disadvantage Driven: Prove Self.
 - 0 Your ancestor found true love in the arms of a Crane. They were forbidden to see each other again, and being a dutiful Lion your ancestor obeyed- but you have inherited his/her passionate nature. You gain either the True Love or Lost Love Disadvantage (your choice).
 
-## <span>Table 2: Illustrious Lion Past</span> {#toc1}
+## <span>Table 2: Illustrious Lion Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor rose to be a Rikugunshokan, commanding one of the four Lion armies in a great battle of his age. He led well, and his legacy is in your blood. You may take the Advantage Leadership for 2 less Experience Points.
 - 0 Your ancestor died defending the Emperor from an assassination attempt. The Emperor proclaimed his line - of which you are the scion - to be Sacrosanct.
 
-## <span>Table 3: Lion Mixed Blessings</span> {#toc2}
+## <span>Table 3: Lion Mixed Blessings</span>
 
 D10 Roll result
 

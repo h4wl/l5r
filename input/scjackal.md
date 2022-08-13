@@ -1,8 +1,8 @@
 Title: Jackal Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Jani (Warrior)</span> {#toc1}
+### <span>Jani (Warrior)</span>
 
 Jani are the Jackals' rank-and-fileoperatives, and the stealthy toughs who know how to wield a blade and cut a purse, and move unnoticed through the streets. They also learn a bit of acting and something of the art of disguise. The Jani spend a great deal of time above ground and in the streets, serving as the Jackal's eys and ears.
 
@@ -27,7 +27,7 @@ Making Attacks with the Knives, Staves or Assassin Ranged Weapons Skills is a Si
 #### Rank 5: Blinding Speed
 
 When attacking with the Knives, Staves or Assassin Ranged Weapons Skills you may make the Extra Attack Maneuver for only 3 Raises.
-### <span>Necromancer (Sahir)</span> {#toc2}
+### <span>Necromancer (Sahir)</span>
 
 The practice of magic has never been a strong suite of the Jackals. However, they do possess dark and powerful knowledge of how to manipulate life and death that is unmatched by anyone except the Qabal. Only a few Jackals possess the will and the talent to become Necromancers. However, they are so focused that their spell mastery may as well be described as School Techniques rather than a list of spells available.
 
@@ -52,7 +52,7 @@ When using Ghul Creation 1, you may make Raises to target additional Undead with
 #### Rank 5: Agent of Death
 
 All Undead created by the Necromancer will do your bidding until dismissed or another Necromancer steals control. Non-necromancers may not take control of your Undead.
-### <span>Kabir (Diplomat)</span> {#toc3}
+### <span>Kabir (Diplomat)</span>
 
 It is easy to think the jackals' activities amount to more than blades flashing in dark alleys and obscene meddling with ghuls. BUt in fact someone has to represent the cult in situations where diplomacy is the order of the day, rather than terror and mayhem. The Kabir are the Jackals' masters of subtlety and finess. When the cult needs to represent itself to other factions, or even to the lesser criminal gangs of Medinaat al-Salaam, the Kabir take on that duty.
 

@@ -2,7 +2,7 @@ Title: Maho
 ---
 Maho can be learned by bushi and courtiers alike (although the act of doing so is largely forbidden), and can be used regardless of one's Insight rank. However, they require for blood to be spilled by the caster or a willing or helpless being. The amount of blood spilled is equal to twice the spell's Mastery level. Conversely, the caster may spill additional blood in order to gain Raises : one Raise per increment of double the spell's Mastery level in spilt blood. As an additional drawback, the caster gains points of <a href="/shadowlands-taint">Shadowlands Taint</a> equal to one less than the spell's Mastery Level (with a minimum of 1).
 
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Bleeding [CR]
 - Ring/Mastery: Fire 1
@@ -131,7 +131,7 @@ This spell is favored by Bloodspeaker cell leaders, who use it to maintain psych
 Maho-tsukai use this spell to leave hidden messages, either to communicate with each other or to intimidate others. The message is written in blood onto any fl at surface, and may be up to ten words long (Raises can be taken to lengthen the message). When the message is completed, the blood will sink into the surface and disappear, reappearing later when a condition set by the caster is fulfi lled. Conditions for the message’s reappearance can be as simple or as complex as the caster might desire, so long as they are conditions the kansen can reasonably perceive (GM’s judgment). Until the message reappears, it is physically undetectable, although spells such as Sense or By the Light of the Moon will detect something magically concealed in the surface. If the spell’s duration expires without the trigger-event taking place, the hidden blood will reappear without forming the<br>
 message.
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Caress of Fu Leng [CR]
 - Ring/Mastery: Earth 2
@@ -241,7 +241,7 @@ This spell allows a maho-tsukai to exert his will against any undead creatures i
 
 This sinister curse is employed by maho-tsukai both to control their own Taint and to spread the gift of Jigoku to others. The spell targets two people, at least one of which must have the Shadowlands Taint. The spell causes some of this Taint to leave that creature and transfer to the other, the kansen gleefully carrying the gift of Jigoku from one creature to the other. The maximum number of Taint points which can be moved in this manner is equal to the caster’s Earth + Insight Rank ; however, it can never remove the last point of Taint from the target. (Once the Taint has its grip on someone, it is supremely unwilling to let go.) If the person receiving the Taint is an unwilling target, the caster must succeed in a Contested Willpower roll against the target, or the spell fails.
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### Armor of Obsidian [CR]
 - Ring/Mastery: Fire 3
@@ -319,7 +319,7 @@ If the oni ever wins this roll it steals the victim’s name and becomes an Oni 
 
 The Bloodspeaker Cult uses this spell to protect their meeting places against unwanted intrusion. The symbol must be inscribed into a fl at surface (wall, fl oor, etc) when it is cast. The moment anyone who is not a loyal member of the Bloodspeaker Cult enters the symbol’s radius, the symbol glows a bright sickly green and the intruder is bathed in eerie green fl ames, infl icting 4k3 damage. The symbol can discharge any number of times against different targets, but each target can only be affected once within the duration of the spell.
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Burning Blood [EoE]
 - Ring/Mastery: Fire 4
@@ -378,7 +378,7 @@ This spell is a perverse inversion of the elemental spell Tomb of Jade. Instead 
 
 One of the more subtle and psychologically destructive spells in the maho-tsukai’s arsenal, this spell causes a kansen to distort the target’s thoughts, making it impossible for him to lie. Regardless of what he might intend to say, the target of this spell will fi nd himself telling the truth, no matter how damaging that truth might be to himself, his family and lord, or his Clan. In fact, he will fi nd himself blurting out any dangerous or damaging secrets he possesses. In order to conceal the truth while under the effects of this spell, the target must make a Willpower roll at TN 30.
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### Blood Armor [EoE]
 - Ring/Mastery: Earth 5 (Defense)
@@ -426,7 +426,7 @@ This spell infuses the body of the target with the power of the Taint, unnatural
 The most dreaded of all maho spells, the Touch of Death ages, blackens, and blights the target. Skin and flesh shrivel and<br>
 blacken, hair turns gray and falls out, and shattering pains wrack the body. The victim physically ages by 10 years, and suffers 7k7 Wounds. The wounds can be healed normally, but the aging cannot be reversed. A character unfortunate enough to be hit by this spell multiple times (and survive) will be left elderly and decrepit.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### Take the Body [EoE]
 - Ring/Mastery: Air 6

@@ -6,7 +6,7 @@ D10 roll result
 - 3-5 Illustrious Past: Roll on Table 2
 - 6-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Dragon Past</span> {#toc0}
+## <span>Table 1: Shameful Dragon Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor successfully pursued a love match within another clan, disrupting others’ marriage plans and earning their eternal hatred. You gain a Nemesis within that clan.
 - 0 Your ancestor lost focus during an alchemy experiment, causing it to fail horribly. Ever since then your family has been cursed with Epilepsy, and you are no exception.
 
-## <span>Table 2: Illustrious Dragon Past</span> {#toc1}
+## <span>Table 2: Illustrious Dragon Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor died while carrying the clan banner in battle. His superiors found him still holding it upright the next morning. Your family still reveres his name and his glory redounds to your benefit. You gain 1.0 Glory and 0.5 Honor.
 - 0 Your ancestor was a tattooed man famous for his unusual nature - including the fact that he married and had children. You gain 1 free Rank in any one Skill which is not a School Skill for you.
 
-## <span>Table 3: Dragon Mixed Blessings</span> {#toc2}
+## <span>Table 3: Dragon Mixed Blessings</span>
 
 D10 Roll result
 

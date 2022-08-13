@@ -5,7 +5,7 @@ To understand Nezumi history one must ﬁ rst understand how a Nezumi thinks, as
 <a href="/nezumi-tribes">Nezumi Tribes</a><br>
 <a href="/nezumi-schools">Nezumi Schools</a>
 
-### <span>Nezumi Physical Abilities</span> {#toc0}
+### <span>Nezumi Physical Abilities</span>
 
 These abilities are automatically available to all Nezumi at character creation, without any cost in Experience Points.
 
@@ -18,7 +18,7 @@ These abilities are automatically available to all Nezumi at character creation,
 - Swift: All Nezumi have Swift 2 (as per the creature ability from the Book of Void, L5R 4th Edition Core rulebook).
 - Taint Immunity: All Nezumi are completely immune to the Shadowlands Taint and, consequently, cannot cast maho spells.
 
-### <span>Nezumi-only Advantages</span> {#toc1}
+### <span>Nezumi-only Advantages</span>
 
 #### Clever Tail [Physical] (4 Points)
 
@@ -47,7 +47,7 @@ All Nezumi have extremely sharp and powerful frontal incisors, but some are trul
 #### Tribal Wanderer [Social] (3 Points)
 
 When a Nezumi tribe is too small to properly train all its youth, some of them will travel to larger tribes to seek learning – especially if they have gifts that their own tribe cannot properly evoke. You have trained with Nezumi from another tribe, and may learn a school from them that would be unavailable in your own tribe. You also have friendly contacts in the tribe where you train, which may come in handy if your own tribe faces danger.
-### <span>Nezumi-only Disadvantages</span> {#toc2}
+### <span>Nezumi-only Disadvantages</span>
 
 #### Kwa’thch [Physical] (2 Points)
 

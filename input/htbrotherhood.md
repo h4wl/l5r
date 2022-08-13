@@ -6,7 +6,7 @@ D10 Roll Result
 - 4-8 Illustrious Past: Roll on Table 2
 - 9-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Brotherhood of Shinsei Shameful Past</span> {#toc0}
+## <span>Table 1: Brotherhood of Shinsei Shameful Past</span>
 
 D10 Roll Result
 
@@ -17,7 +17,7 @@ D10 Roll Result
 - 8-9 The temple where you were trained teaches obsessive self-reliance above all else. You gain the Overconfident Disadvantage for no points.
 - 0 Something within the temple where you were raised is tainted by darkness. Gain either 1 Rank of the Shadowlands Taint or one Shadow Rank, as chosen by the GM.
 
-## <span>Table 2: Brotherhood of Shinsei Illustrious Past</span> {#toc1}
+## <span>Table 2: Brotherhood of Shinsei Illustrious Past</span>
 
 D10 Roll Result
 
@@ -28,7 +28,7 @@ D10 Roll Result
 - 8-9 You and your temple have protected a group of villages from harm for generations. Word of the deeds of your temple has spread among the commoners. You gain the Hero of the People Advantage.
 - 0 You were taught by an exceptional sensei, perhaps even a descendant of Shinsei himself, and gained deep insight into the world and yourself. You may take the Enlightened Advantage for only 3 points.
 
-## <span>Table 3: Brotherhood of Shinsei Mixed Blessings</span> {#toc2}
+## <span>Table 3: Brotherhood of Shinsei Mixed Blessings</span>
 
 D10 Roll Result
 

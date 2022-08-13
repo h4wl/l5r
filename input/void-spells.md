@@ -1,6 +1,6 @@
 Title: Void Spells
 ---
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Boundless Sight [CR]
 - Ring/Mastery: Void 1
@@ -74,7 +74,7 @@ Although beginning students of ishiken-do cannot affect the pattern of the Void,
 
 It is possible to gain fleeting glimpses of things that have not yet happened by peering through the Void. If you are delaying your action, you may interrupt the target of this spell after he has declared his action but before he has taken his action when his Turn comes up. This may be done during each Round for the duration of the spell. (Normally someone delaying their Action cannot interrupt the Action of another participant.)
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Altering the Course [CR]
 - Ring/Mastery: Void 2
@@ -166,7 +166,7 @@ All things, both living and unliving, exist within the Void, and can be touched 
 
 Talented ishiken can rob others of their ability to tap into the Void, if only temporarily. If this spell is successful, the target must succeed at a Contested Void Roll against you before they are able to spend any Void Points. This roll does not count as an action for the target, and they must succeed at only one Contested Roll per turn, even if they are spending multiple Void Points per turn as a result of a Technique or other ability.
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### BANISH THE VOID [BoV]
 - Ring/Mastery: Void 3
@@ -224,7 +224,7 @@ Even objects have resonance, and retain some memory of those who hold them, and 
 
 Most are ignorant of the Void coursing within them, and do not realize that it can be stolen away. You must make a Contested Void Roll against the target of this spell. If successful, the target loses one Void Point, and you gain one Void Point. An additional points is exchanged for every increment of 5 by which you exceed the target's roll. These temporary Void Points may take you above your maximum number of Void Points you may have, but they expire within one hour if not used. This spell cannot be used on a creature who does not have Void Points or which has some other mechanical effect that substitutes for Void (such as Naga Akasha or Ratling Name).
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Balance of Elements [CR]
 - Ring/Mastery: Void 4
@@ -282,7 +282,7 @@ Strengthening an individual's connection to the Void can replenish their reserve
 
 The mortal shell can endure only so much direct contact with the Void; too much, and the flesh can be destroyed by the exposure. This spell inflicts damage with a DR equal to your Void Ring.
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### Divide the Soul [CR]
 - Ring/Mastery: Void 5
@@ -311,7 +311,7 @@ All is one and one is all. You may take any single object and transform it into 
 
 Tampering with the pattern of another being's Void can result in catastrophic changes to their abilities. The target's Rings are reordered at random, along with their Traits. For instance, a target might exchange his Air Ring for his Fire Ring, and his Water Ring for his Earth Ring for the duration of the spell. Mental and Physical Traits exchange their values if those values are greater than the Ring. In the above example, if your target has Air 3 and Reflexes 4, he would instead have Fire 3 and Agility 4, with his values for those Traits reassigned to his Air and Reflexes.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### Ring of the Void [CR]
 - Ring/Mastery: Void 6

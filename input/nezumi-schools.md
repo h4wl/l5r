@@ -1,8 +1,8 @@
 Title: Nezumi Schools
 ---
-### <span>Basic Schools</span> {#toc0}
+### <span>Basic Schools</span>
 
-#### <span>Nezumi Warriors (“Ch”) [Bushi]</span> {#toc1}
+#### <span>Nezumi Warriors (“Ch”) [Bushi]</span>
 
 Nezumi warriors are a cunning, hardy lot that make the most of their physical abilities. They are adept at utilizing guerilla tactics and ﬁ ghting as a team. They serve as the hunters and protectors of the tribe.
 
@@ -27,7 +27,7 @@ Accustomed to ﬁ ghting larger, stronger opponents, the warrior has learned to 
 #### Rank 5: Tail Sweep
 
 The tail is an often-overlooked advantage of the Nezumi warrior, and at this rank the Ratling has learned to make full use of it. During any round in which the Nezumi makes a successful melee attack, he may immediately take a Free Action to make another attack against the same target with his tail. This is normally considered an unarmed attack, although a Nezumi with the Clever Tail Advantage may use Small weapons instead.
-#### <span>Nezumi Scrounger (“Ithith”)</span> {#toc2}
+#### <span>Nezumi Scrounger (“Ithith”)</span>
 
 The term Scroungers is a catch-all for Nezumi who serve their tribe in many roles: scouts, spies, and thieves. They are extremely cunning and have a knack for using minimal resources to maximum efﬁciency. They are also masters of defensive combat, able to confound and confuse enemies while they make their escape.
 
@@ -52,7 +52,7 @@ The Scrounger who has reached this level of skill is now so lightning fast that 
 #### Rank 5: Hide From Tomorrow
 
 At this rank, a Scrounger becomes so swift and cunning that he can literally hide in his enemy’s shadow. You may attempt to hide behind your opponent as a Complex Action, making a Contested Roll of Stealth (Sneaking) / Agility against your opponent’s Investigation (Notice) / Perception. If you beat your opponent by at least 15, you successfully hide behind him. Your opponent may suspect where you are, but you move too quickly for him to catch a glimpse of you. You may not hide behind more than one opponent at a time. On each subsequent Round you must take a Free Action to make the Contested Roll again, thereby remaining concealed from your opponent. So long as you continue to succeed, you may take any other actions you desire (including attacking other enemies or using other Techniques). However, if you successfully attack your opponent, you are discovered and this technique cannot be used against that opponent again for the rest of this skirmish.
-#### <span>Nezumi Shaman (Nameseeker/”Kir”) [Shugenja]</span> {#toc3}
+#### <span>Nezumi Shaman (Nameseeker/”Kir”) [Shugenja]</span>
 
 The powers of Nezumi Shamans are both strange and formidable, and are discussed in depth later.
 
@@ -62,7 +62,7 @@ The powers of Nezumi Shamans are both strange and formidable, and are discussed 
 - <strong>Starting Outﬁt:</strong> Any Small or Peasant weapon, poor quality robes, leather pouch, two Koku worth of scavenged items.
 - <strong>Technique:</strong> <em>Name Magic</em> - A Nezumi shaman is capable of casting Nezumi <a href="/name-magic">Name Magic</a> spells. See the section later in this chapter for details. All Shamans begin play knowing three Name Magic spells of appropriate Mastery Level of their choice.
 
-#### <span>Nezumi Rememberer (“Tch’tch”)</span> {#toc4}
+#### <span>Nezumi Rememberer (“Tch’tch”)</span>
 
 Nezumi Rememberers are the keepers of the history, culture, and ethics of the Nezumi race. They are responsible for making certain the deeds of the Nezumi people are not lost to Yesterday. The Rememberers aid their memories with special items called <a href="/memory-sticks">Memory Sticks</a>.
 
@@ -72,9 +72,9 @@ Nezumi Rememberers are the keepers of the history, culture, and ethics of the Ne
 - <strong>Starting Outﬁt:</strong> Any Small or Peasant weapon, leather pouch, two Koku worth of scavenged items, four wooden sticks (suitable to be made into memory sticks)
 - <strong>Technique:</strong> <em>Remembering</em> - Rememberers are taught from earliest youth how to create Memory Sticks, tangible reminders of the past. A Rememberer may normally create any Memory Sticks with a Mastery Level equal to his Rank in this School, but may also create one type of Memory Stick that is one Mastery Level above his current School Rank. (Thus a Rank Two Rememberer can create all Mastery Level One and Two Memory Sticks, and one type of Mastery Level Three Memory Stick). See the rules for Memory Sticks for more details on how these items are created and used. All Rememberers begin with the Precise Memory Advantage at no Experience Point cost.
 
-### <span>Advanced Schools</span> {#toc5}
+### <span>Advanced Schools</span>
 
-#### <span>Berserkers (“Chitatachikkan”)</span> {#toc6}
+#### <span>Berserkers (“Chitatachikkan”)</span>
 
 - <strong>Requirements:</strong> Agility 4, Strength 5, Earth 4, any Weapon skill (or Jiujutsu) at Rank 5.
 - <strong>Special Requirement:</strong> The “brave-bold-sunlit-warriors-with-great-skill” are trained from those of their race born without fear, a rare trait indeed. You must have the Fearless Advantage.

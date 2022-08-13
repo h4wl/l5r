@@ -1,8 +1,8 @@
 Title: Imperial Family Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Hantei Bushi (Owl) [Bushi]</span> {#toc1}
+### <span>Hantei Bushi (Owl) [Bushi]</span>
 
 (This School derives from an alternate timeline where Togashi defeated Hantei and became the first emperor, with Hantei creating the Owl Clan, specialized with dealing with nonhuman creatures. As a result, it does not exist in the main timeline, although GMs can, as usual, adapt it if needed)
 
@@ -31,7 +31,7 @@ Those who serve the Celestial Heavens care not who their opponent may be, for th
 The final lesson of the Hantei School is that the divine strike of Celestial Favor may defeat any foe, even one so powerful as Lord Moon himself. Once per skirmish, after hitting your opponent, you may spend four Void Points to automatically inflict enough damage to reduce that opponent to Down/Out/Dead (whichever applies first). If your opponent is &quot;nonhuman&quot; you may activate this Technique for three Void Points instead.
 
 It is GM’s discretion whether this Technique can defeat exceptionally powerful or transcendent entities such as Fortunes or similar. As an option, the GM may allow the Technique to work on such foes if you voluntarily choose to die in order to activate it.
-### <span>Miya Herald [Courtier] [CR]</span> {#toc2}
+### <span>Miya Herald [Courtier] [CR]</span>
 
 The Miya are Imperial messengers, charged with spreading the words of the Emperor and the Imperial Court to even the most remote regions of Rokugan. While they are protected in most areas by the Imperial status, the Miya must often travel to places of great conflict and danger. Occasionally bandits and criminals become unreasonable or desperate and attack the herald. Thankfully, the Miya is well trained for that eventuality.
 
@@ -58,7 +58,7 @@ At this rank, the Miya have developed a personality strong enough to impose thei
 #### Rank 5: Glory of the Emperor
 
 The Herald is now a true master of non-aggression and diplomacy. When rolling with the Courtier or Etiquette skills against a target with at least Honor 1.0, you may add a +5k0 bonus to the roll.
-### <span>Otomo Courtier [CR]</span> {#toc3}
+### <span>Otomo Courtier [CR]</span>
 
 Like the Seppun, the Otomo are dedicated to the safety of the Emperor. The Otomo simply choose more underhanded methods to prove that devotion. The power of the Emperor must remain strong and unchallenged. This can only happen if no one can gather enough strength to topple the pillars of the Emperor's authority. The Otomo sow suspicion and distrust amongst the Great Clans to prevent any malicious schemes from taking root among them.
 
@@ -85,7 +85,7 @@ As a favored servant of Imperial power, the Otomo is under special protection , 
 #### Rank 5: The Virtues of Command
 
 The Otomo is now able to bring the full power of Imperial authority to bear on those who displease him. When making an Contested Social Roll against someone who reveres Imperial authority, you may gain a +5k0 bonus on your roll.
-### <span>Otomo Diplomat (Owl) [Courtier]</span> {#toc4}
+### <span>Otomo Diplomat (Owl) [Courtier]</span>
 
 (This School derives from an alternate timeline where Togashi defeated Hantei and became the first emperor, with Hantei creating the Owl Clan, specialized with dealing with nonhuman creatures. As a result, it does not exist in the main timeline, although GMs can, as usual, adapt it if needed)
 
@@ -112,7 +112,7 @@ This Technique cannot work against Shadowlands creatures or denizens of Jigoku o
 #### Rank 5: Hantei’s Mandate
 
 The Otomo may now bring the full weight of Hantei’s Celestial favor to bear against those who trouble Ningen-do. You gain an additional +3k0 bonus to your Intimidation rolls with your Rank Four Technique (this stacks with the +3k0 bonus against &quot;nonhumans&quot; in that Technique).
-### <span>Seppun Guardsman [Bushi] [CR]</span> {#toc5}
+### <span>Seppun Guardsman [Bushi] [CR]</span>
 
 A Seppun knows from birth that he is born to protect the Emperor from anything that may threaten him. A safe Emperor means a united Rokugan, and Seppun ensure the bright future of the Empire by fulfilling their duty. When chosen for this prestigious service, the Seppun Guardsman, also known as a Miharu, sacrifices everything in his life for the job. After all, nothing else is significant when set against the task of protecting the Imperial House.
 
@@ -139,7 +139,7 @@ The power of Heaven infuses the Seppun's arm, allowing him to strike with greate
 #### Rank 5: Heaven Never Falls
 
 The true Seppun bodyguard is never caught off-guard, and can protect his charge even when surprised or disabled. Any time you are within 20' of a person you are guarding, you may spend a Void Point to leap in front of a blow or spell which is targeting your charge. The damage is automatically applied to you instead of your charge. If you are still standing (not Down or Out) after this damage, you may immediately take an extra Simple Action, which may be used for any purpose including an attack. This Technique can be used even if your character is Blinded, Prone, Stunned, Dazed, Entangled, or at the Down Wound Rank (but not Grappled or at the Out Wound Rank).
-### <span>Seppun Shugenja [CR]</span> {#toc6}
+### <span>Seppun Shugenja [CR]</span>
 
 The best bushi of Rokugan are granted the privilege of guarding the Emperor. There are threats steel cannot answer, however, and against these the Seppun Shugenja stand ready. As members of the Hidden Guard, the Seppun Shugenja wait and stand vigil at all times of the day for signs of an attack. Their wards are among the best in Rokugan, and the Seppun constantly practice their prayers to the kami in preparation for an assault on their territory. They are the last line of defense for the Emperor and they will not be broken.
 
@@ -153,7 +153,7 @@ The Seppun Shugenja School focuses on defense of the Emperor and his retinue. Wh
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Fire, 2 Water, and 1 Air
 - <strong>Technique:</strong> <em>In Defense of the Throne</em> - The Hidden Guard exist only to defend their Emperor, and are terrible opponents for any who might pose a danger to the sanctity of the Son of Heaven. You gain a Free Raise on any spell cast to protect the life, personal belongings, family, or reputation of the Emperor, as long as the action taken would not cause you to lose Honor. This includes members of the Imperial families (though not yourself). You also gain a Free Raise on any spells known only to the Imperial families.
 
-### <span>Seppun Shugenja (Owl) [Shugenja]</span> {#toc7}
+### <span>Seppun Shugenja (Owl) [Shugenja]</span>
 
 (This School derives from an alternate timeline where Togashi defeated Hantei and became the first emperor, with Hantei creating the Owl Clan, specialized with dealing with nonhuman creatures. As a result, it does not exist in the main timeline, although GMs can, as usual, adapt it if needed)
 
@@ -165,9 +165,9 @@ The Seppun Shugenja School focuses on defense of the Emperor and his retinue. Wh
 - <strong>Technique:</strong> <em>In Defense of Ningen-Do</em> - The Seppun shugenja exist both to communicate with nonhumans and spirits and to protect the Empire from their depredations when they act improperly. You gain a Free Raise on any spell which targets a &quot;nonhuman&quot;. When casting a spell which inflicts damage on others, you may expend an additional spell slot (of the same Element or of Void) to have the spell ignore Reduction on the target(s) equal to twice your Void Rank. If the target is &quot;nonhuman&quot;, this Technique also ignores all damage mitigation effects from creature abilities (other than Invulnerability).
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Fire, 2 Air, 1 Earth
 
-## <span>Advanced Schools</span> {#toc8}
+## <span>Advanced Schools</span>
 
-### <span>Imperial Scion [Courtier] [EE]</span> {#toc9}
+### <span>Imperial Scion [Courtier] [EE]</span>
 
 The Imperial families are not generally given a great deal of consideration by the average citizen of Rokugan. Even most members of the samurai caste go their entire lives while glimpsing only one or two true Imperials, and many of the more remote family branches never encounter one for generations at a time. The Imperial families are simply smaller than most of those who serve the clans, and their spheres of influence are relatively limited in comparison to their clan counterparts. Even the well-traveled Imperial heralds of the Miya family tend to stick to clearly defined travel routes, avoiding the Empire’s more remote districts for decades or even centuries at a time. In some cases this can lead to a misperception of the Imperials as dangerous or hostile individuals who desire only the obedience and submission of other samurai. While this is untrue in the main, there are a few individuals who prove it correct.
 
@@ -194,7 +194,7 @@ As a champion of the Imperial line, you can ensure that those who oppose you suf
 <em>The Terror of the Throne</em>
 
 There is virtually no one who is immune to the power of an Imperial scion. While conversing with an opponent of equal or lower Status Rank, you may force a Contested Void Roll. If you are successful, you can permanently give the opponent any one Social Disadvantage. Alternatively, you can force the opponent to become ronin, but the technique can only be used in this manner once every six months. Forcing a samurai to become ronin in this way costs you 5 points each of Glory, Honor, and Status.
-### <span>Tsudao’s Legion</span> {#toc10}
+### <span>Tsudao’s Legion</span>
 
 Under the reign of the Emperor Toturi II, known to many by her youthful nickname of the Sword, the greatest force for enforcing the laws of the Empire is the Imperial Legions which serve the Throne directly. Reorganized by the Empress during the early years of her reign, these Legions operate under the direct command of the Emerald Champion, the Shogun, the Jade Champion, and most notably the Empress herself.<br>
 The Empress oversees the reorganization of these military forces personally, continuing her father’s tradition of military innovation throughout her reign. In particular, she institutes a rigid set of requirements that restricts membership in the Legions, with the most stringent requirements for the Legion she personally commands. She also devises a set of new Techniques which she teaches to the best warriors of that Legion, making it one of the most formidable military forces in the Empire’s history.
@@ -214,9 +214,9 @@ The dojo of Tsudao’s Legion teaches both tactical versatility and the joy of b
 #### Rank Three: Empowered By Her Name
 
 Those who devote themselves utterly to the cause of the Empress are nigh unstoppable in their fervor. If your Honor Rank exceeds your opponent’s Honor Rank, you may make a single additional melee attack (as a Free Action) once per Round against that opponent.
-## <span>Alternate Paths</span> {#toc11}
+## <span>Alternate Paths</span>
 
-### <span>Imperial Influencer [Courtier]</span> {#toc12}
+### <span>Imperial Influencer [Courtier]</span>
 
 The Imperial families exert control over the Empire in many ways both obvious and subtle. Although the Otomo family is best known for its ability to overawe and crush rivals through the sheer weight of Imperial favor, some of the family’s greatest masters follow a subtler path, shaping entire courts through things as deceptively simple as hosting dinner parties. The Influencer Technique is sometimes credited to Otomo Madoka, the author of The Subtlety of the Court, but whether it was devised by her or by some more ancient Otomo master courtier, its subtle but relentless power cannot be denied.
 
@@ -228,7 +228,7 @@ The Imperial families exert control over the Empire in many ways both obvious an
 
 If you are not the host of the event, you may still attempt to set the tone, but your Courtier (Manipulation) rolls is now a Contested Roll against the host. Also, whether you are the host or not, other guests at the event may opt to oppose your setting of tone by making Contested Rolls of Courtier (Manipulation) against you. For all such Contested Rolls, the character with the higher Status Rank gains a +1k0 bonus for every such Rank of Status. If you lose the Contested Roll, you are unable to set the tone for this event. However, if lower Status characters fail such a Contested Roll against you, they have committed a Minor Breach of Etiquette. Likewise, if you fail to overcome the host with this Technique, you have committed a Minor Breach of Etiquette.
 
-### <span>Imperial Observer [Courtier]</span> {#toc13}
+### <span>Imperial Observer [Courtier]</span>
 
 Observers are assigned by the Imperial Bureaucracy to oversee the honorable conduct of war. It is an Observer’s duty to monitor the strategies of each side, reporting both honorable and shameful activity back to the Imperial Court. (The Great Clans assign their own battlefield observers, of course, but only those with Imperial authority are empowered to deliver unquestioned reports to the Throne.) The Technique of the Observers is an Imperial secret and is taught in the Ruby Dojo (best known for training the Emerald Magistrates).
 
@@ -239,7 +239,7 @@ Observers are assigned by the Imperial Bureaucracy to oversee the honorable cond
 
 Special Note: At the GM’s option, this Path may be made available to courtiers from the clans, provided they gain the sponsorship of the Imperial families.
 
-### <span>Otomo Bureaucrat</span> {#toc14}
+### <span>Otomo Bureaucrat</span>
 
 The methods of the Imperial bureaucracy began in the time of Hantei Genji, but came to full flower in the years after the Reign of the Gozuku, when the Otomo family was tasked with obstructing and dividing the Great Clans, ensuring they would never again be able to subordinate the Emperor. Otomo bureaucrats specialize in delay, obfuscation, and subtle but persistent obstruction, using such indirect and seemingly passive methods to block and foil the goals of the Great Clans.
 
@@ -247,7 +247,7 @@ The methods of the Imperial bureaucracy began in the time of Hantei Genji, but c
 - <strong>Requirements:</strong> Etiquette (Bureaucracy) 5
 - <strong>Technique:</strong> <em>Imperial Scrutiny</em> - Where a normal Otomo relies on the awesome power of Imperial authority to overawe his rivals, a Bureaucrat relies on the intricate and obscure complexities of the Imperial government to stymie and obstruct his opponents. Any time another samurai is trying to accomplish something in the courts (building an alliance, negotiating a treaty, making a trade deal, requesting a favor from the Throne, etc), you may employ the intricacies of the Imperial bureaucracy to delay him. This may take up to several hours to carry out, and is represented mechanically by a Contested Roll of Etiquette (Bureaucracy) / Willpower; if you spend a Void Point on this roll, you gain +2k2 instead of the usual +1k1. If you win the Contested Roll, the samurai cannot make any progress toward his goal for the next two weeks, no matter what he does.
 
-### <span>The Rising Sun [Bushi]</span> {#toc15}
+### <span>The Rising Sun [Bushi]</span>
 
 After the Unicorn Clan’s return, the Seppun family began aggressively training cavalry forces of its own. Only the most elite members of the already legendary Imperial military are allowed to seek admission to the unit known as the Rising Sun. These men and women receive endless training from the finest mounted combatants to be found in the rest of the Empire - making them masters of tactics the Great Clans do not share with one another. While the Unicorn are the undisputed masters of cavalry warfare, even they hold the Rising Sun legion in extremely high regard.
 
@@ -257,7 +257,7 @@ After the Unicorn Clan’s return, the Seppun family began aggressively training
 - <strong>Note:</strong> Joining this Path adds a steed (Rokugani pony or Unicorn riding horse, GM’s choice) to your outfit if you do not already possess one.
 - <strong>Technique:</strong> <em>The Storm of Heaven’s Wrath</em> - The bushi of the Rising Sun are trained in the true mastery of cavalry tactics and call on their devotion to their Imperial duty to make them a terrifying force on the battlefield. While you are mounted and in the Attack Stance, you may add your Honor Rank to your Armor TN and may spend a Void Point to add half your Honor Rank (rounded up) in kept dice to your attack roll.
 
-### <span>Satoshi's Legacy [Bushi] [SE]</span> {#toc16}
+### <span>Satoshi's Legacy [Bushi] [SE]</span>
 
 Miya Satoshi died in disgrace, but his effort to militarize the Miya family left a legacy of trained warriors who wished to continue serving their family and to cleanse the dishonor which Satoshi had brought on himself. Their warrior tradition is carried on by the Satoshi vassal family. Of course, GM’s may also use this Technique to represent the legacy of any Miya leader who tried to militarize his family.
 
@@ -265,7 +265,7 @@ Miya Satoshi died in disgrace, but his effort to militarize the Miya family left
 - <strong>Requirements:</strong> Kenjutsu 5
 - <strong>Technique:</strong> <em>Fire and Ice</em> - The Satoshi vassal family teaches an aggressive fighting style derived from their founder’s training with the Matsu family. You may make attacks as Simple Actions when you are in the Full Attack stance.
 
-### <span>Seppun Astrologers [Shugenja]</span> {#toc17}
+### <span>Seppun Astrologers [Shugenja]</span>
 
 Astrology is very important to all of the Imperial families, with the Otomo employing it in court while the Seppun study it for its spiritual and divinatory purposes. The Seppun Astrologers watch the night skies constantly, seeking portents to better protect the Emperor and the Empire. Like the Kawaru Sages, the Seppun supplement their astrological knowledge whenever possible with divination magic (although they would be greatly insulted to be compared to the practitioners of kawaru).
 
@@ -274,7 +274,7 @@ Astrology is very important to all of the Imperial families, with the Otomo empl
 - <strong>Requirements:</strong> Divination (Astrology) 4, Lore : Omens 5
 - <strong>Technique:</strong> <em>Wisdom of the Heavens</em> - The sage-priests of the Seppun Astrologers are capable of finding great wisdom in the alignments of the Celestial Heavens, and their recognition of previously unnoticed patterns can bring joy - or doom - to the mortal world. Once per month, you may clarify a person’s place in the great tapestry of fate and thereby confer one Spiritual Advantage or Spiritual Disadvantage on that person. (This is a ritual effect and cannot be performed during a skirmish.) This effect lasts for one month or until you use this Technique on a different person, whichever comes first. If you are attempting to confer a Disadvantage, you must also succeed at a Contested Void Roll against the target.
 
-### <span>Seppun Hidden Guard [Shugenja] [SE]</span> {#toc18}
+### <span>Seppun Hidden Guard [Shugenja] [SE]</span>
 
 Although all Seppun shugenja are tasked to help protect the Emperor and the Imperial City against magical and supernatural threats, but the elite order of the Hidden Guard receives special training for this purpose. The Hidden Guard are in charge of the direct magical and spiritual protection of the Emperor, his family, and the Imperial Palace. Many of them spend their entire lives doing nothing but endlessly watching, reinforcing, and maintaining the wards and other magical protections over their charges.
 

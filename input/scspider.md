@@ -1,8 +1,8 @@
 Title: Spider Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Chuda Shugenja [CR]</span> {#toc1}
+### <span>Chuda Shugenja [CR]</span>
 
 The Chuda possess an ancient tradition of maho, passed down from one to another in secret for centuries, ever since their family was eradicated by the Phoenix Clan hundreds of years ago. Within the Spider Clan, the heirs of the Snake have found a new home as the reinvigorated Chuda, and they serve their masters well. The Chuda are among the most powerful and progressive maho-tsukai that have ever existed, always pushing the envelope of what is possible with blood magic, never content to simply accept the power available to them. The atrocities committed in the name of increasing their School's knowledge and power are without limit.
 
@@ -16,7 +16,7 @@ Maho is unquestionably the strength of the Chuda family, but the costs associate
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Maho spells of one element, 2 Maho spells of a second non-Deficient element, and any 1 spell of any non-Deficient element.
 - <strong>Technique:</strong> <em>Blood Like Water</em> - The Chuda have existed for centuries, hidden among the people of Rokugan and concealing the true nature of their dark arts. When casting a maho spell, you may declare one Raise to conceal the corrupted nature of the magic. The spell functions exactly as normal, but there will be no outward sign that it is anything other than traditional elemental magic. You may declare a second Raise to reduce all Shadowlands Taint normally acquired by a maho spell to only one Point, regardless of the spells Mastery level. Alternatively you may sacrifice one point of Honor to reduce all Taint normally acquired by the spell to one Point.
 
-### <span>Daigotsu Bushi [CR]</span> {#toc2}
+### <span>Daigotsu Bushi [CR]</span>
 
 The legions of warriors loyal to Daigotsu employ a fighting style cobbled together from the various techniques they possessed in their former lives. As a result, the Daigotsu Techniques are mildly eclectic, but can be brutally effective when used in conjunction with one another. Skilled bushi can use these secrets to devastate their foes and then harness their dying life essence to replenish themselves, an act that forever marks them as traitors and blasphemers in the eyes of the Empire.
 
@@ -43,7 +43,7 @@ By the power of Fu Leng, the Legionnaire feeds on the strength of his enemies. A
 #### Rank 5: Inhuman Assault
 
 The wrath of a Daigotsu bushi is like that of a rampaging beast. Once per skirmish, you may launch into a series of bone-shattering blows by making a melee attack as a complex action. This attack ignores the bonuses and effects of armor, including Reduction from armor, and any Stance the target assumes. If the strike hits, the target cannot gain the bonuses of armor or Stance to his Armour TN for a number of rounds equal to your Taint Rank plus your Strength Trait. If your opponent is in the Full Attack Stance Posture, he still retains the -10 to Armour TN penalty.
-### <span>Daigotsu Courtier [CR]</span> {#toc3}
+### <span>Daigotsu Courtier [CR]</span>
 
 Perhaps the greatest success of the Spider Clan has been the slow and subtle infiltration of many courts of the Great Clans. Disguised as ronin and emissaries of minor branches of other families, the Daigotsu courtiers have used the Spider Clan's network of contacts, blackmail victims and willing subordinates to assume positions of power in the courts of numerous clans, even one of the Imperial Families. From this position of power, they attempt to subtly manipulate others into conflicts that best serve their true clan, keeping their enemies away from them and gradually undermining the notions of honor possessed by many weak-willed samurai.
 
@@ -70,7 +70,7 @@ At this level of training, the Spider's mastery of manipulation and misdirection
 #### Rank 5: The Embrace of Darkness
 
 The final lesson of the Daigotsu Courtier School teaches its students to lead their enemies into paths of aggression and violence. By speaking with someone for at least 15 minutes, you may make a Contested Roll of your Sincerity (Deceit) / Awareness against their Etiquette (Courtesy) / Perception. If your target currently has one of their Consumed by Shourido Disadvantages, you gain a 5k0 bonus to this roll. With a success, you may convince your target to treat some other person, group, institution or clan as their enemy. This cannot be used to turn someone directly against his lord or the Emperor. Subject to that limitation, the target will continue to believe in this enmity until presented with evidence to the contrary. This technique cannot be used against the same person more than once per month.
-### <span>Dark Moto Cavalry [Bushi]</span> {#toc4}
+### <span>Dark Moto Cavalry [Bushi]</span>
 
 After the Dark Moto became a new force within the Shadowlands, they began to modify their traditional Moto fi ghting techniques to their new nature as creatures of the Shadowlands. Over time, a new school evolved, one known at first only to the Dark Moto themselves but later taught to other Lost who served alongside Tsume’s fearsome legions. After the destruction of the Dark Moto in the twelfth century, their school survived among a handful of Lost and eventually was passed down to Daigotsu’s forces. The later Spider Clan also employed some of the techniques of the Dark Moto.
 
@@ -96,7 +96,7 @@ The Dark Moto radiate a powerful aura of terror and malignance, and can intensif
 #### Rank 5 : Death is an Illusion
 
 The corrupted forms of the Dark Moto are nearly impervious to injury, and they can continue to fight until they are destroyed. You no longer suffer any Wound penalties, not even at the Down or Out Ranks, and you heal Wounds equal to your Taint Rank during the Reactions Stage of each Round.
-### <span>Free Ogre Bushi [Bushi]</span> {#toc5}
+### <span>Free Ogre Bushi [Bushi]</span>
 
 The so-called free ogres, once they begin to slip free of Jigoku’s direct control, quickly discover they remember an ancient set of techniques that can be put to tremendous use in a fight. While an average ogre is already a respectable opponent, those who know the techniques of their bushi school are much more dangerous. Muhomono, the legendary king of ogres and supposedly perfect ogre warrior, epitomized these techniques, so mastering them is a source of pride and glory for free ogres. They revel in the rediscovery of their culture and try to approach the excellence of their long-dead king.<br>
 The techniques of this school emphasize the ogres’ superior strength and size, focusing these natural advantages into deadly weapons. While the school’s techniques outwardly barely look different from a savage ogre’s normal assault, this is deceptive; the free ogre school is actually quite sophisticated in its methods. The fact it is not recognized as such by humans is only one more advantage for the ogres. This school can only be taken by an ogre. No other race would ever be allowed to learn Muhomono’s sacred techniques.
@@ -122,7 +122,7 @@ The broad and powerful arm of the ogre bushi carries over from one opponent to a
 #### Rank 5: Muhomono’s Armor
 
 A true ogre bushi knows that physical armor is only a disguise - the true warrior needs nothing more than his skin and determination. Your natural Reduction increases to 20.
-### <span>Free Ogre Mage [Shugenja]</span> {#toc6}
+### <span>Free Ogre Mage [Shugenja]</span>
 
 Some very rare free ogres discover that they have the ability to influence the elements by sheer force of will. Called mages by their peers, these ogres slowly remember how to carve sigils in their skin to summon forth magical powers. Ogres can cast spells of all four elements, although they tend to favor Fire due to its destructive nature. Their flexibility with the kami has greatly disturbed the few Rokugani shugenja who have noticed.<br>
 This school can only be taken by an ogre. Humans are incapable of manipulating the kami in this manner even if an ogre was willing to teach them - which none are.
@@ -134,7 +134,7 @@ This school can only be taken by an ogre. Humans are incapable of manipulating t
 - <strong>Technique:</strong> <em>Strength of the Mind</em> - The ogre mages do not use the same techniques as the Rokugani shugenja, but instead coerce the kami into submission through mystical sigils and sheer strength of will. You can never learn or use the spells Sense, Commune, or Summon. You do not need spell scrolls; instead you call on the power of sigils carved into your own skin (in mechanical terms, all of your spells are considered to be memorized). You have no Affinity or Deficiency.
 - <strong>Spells:</strong> 3 Fire, 2 Earth, and 1 Air.
 
-### <span>Goju Ninja [GC]</span> {#toc7}
+### <span>Goju Ninja [GC]</span>
 
 The Goju are essentially the brawn of the forces controlled by the Lying Darkness and its successor, the Shadow Dragon. They are certainly the most numerous of its minions (although still relatively few in number compared to any real samurai family) and consist of men and women from all backgrounds and families who have been absorbed into the Lying Darkness and lost their identity, becoming faceless creatures of darkness. All members of the Goju have had their identities at least partially consumed (in most cases almost completely so) by the Nothing. All are able to draw upon the power of the Nothing to varying degrees, using it to generate supernatural capabilities that invariably center around infiltration, deception, and murder
 
@@ -159,7 +159,7 @@ As all darkness is one with the Goju, so too can the Goju use the darkness to mo
 #### Rank 5: Shadow upon the Moon
 
 A true Goju no longer even vaguely resembles anything human. Your facial features are permanently erased, leaving only a tell-tale eggshell mask in their place. In darkness or shadows, you may dissolve your physical body into a vague cloud of inky vapor. This is a Simple Action; changing back into corporeal form is a Free Action. You may move at your full speed while in incorporeal form but may not physically interact with any object or individual and cannot be harmed by anything except crystal. You may pass through solid matter in a thickness of up to your School Rank x 5 in inches. You gain +5 to your Initiative Score during the first Round (only) each time you change back to your corporeal form.
-### <span>Ninube Shugenja [GC]</span> {#toc8}
+### <span>Ninube Shugenja [GC]</span>
 
 The individuals who call themselves the Ninube are not truly shugenja in the conventional sense of the word, but then they are not truly individuals either, so the terminology here is largely a matter of convenience. The Ninube are minions of the Lying Darkness who seem to retain a portion of their individuality (whether they truly do is impossible to say). After the Darkness was defeated but before the Shadow Dragon usurped its place as the avatar of Nothing, the Ninube chose to go their own way, forsaking loyalty to this new master. (Or so they believe… in truth, they remain every bit as much a part of the Shadow Dragon’s machinations as their more willing former comrades among the Goju.)
 
@@ -178,7 +178,7 @@ The individuals who call themselves the Ninube are not truly shugenja in the con
 </ul>
 
 
-### <span>The Order of the Spider Monks [CR]</span> {#toc9}
+### <span>The Order of the Spider Monks [CR]</span>
 
 The origins of the enigmatic Order of the Spider are a mystery to many even within the clan that holds their loyalty. The Order began with the teachings of the fallen monk Roshungi, but not until his greatest student Michio began spreading the gospel of finding one's own path, regardless of the consequences to others, did the Order begin to grow in earnest. Brothers of the Spider are merciless opponents with a well deserved reputation for brutality. Their training includes devastating hand-to-hand styles and many heavy weapons techniques as well. Although some succumb to the Shadowlands Taint, many have remained pure simply because it has not suited their needs to draw upon the power of darkness.
 
@@ -205,9 +205,9 @@ Following mastery of the body comes mastery of the soul. When you learn this Tec
 #### Rank 5: Darkness Unleashed
 
 True mastery of the self requires drawing upon the darkness within. You gain an additional number of Void Points per day equal to your Shadowlands Taint Rank, or your Earth Ring, whichever is higher. These may be spend exactly like normal Void points, except they may also be spent to add a bonus of +1k1 to the total of your damage rolls.
-## <span>Advanced Schools</span> {#toc10}
+## <span>Advanced Schools</span>
 
-### <span>Dark Paragon [Monk] [EE]</span> {#toc11}
+### <span>Dark Paragon [Monk] [EE]</span>
 
 There are those among the Spider Clan, particularly among the ranks of the Daigotsu bushi and the Order of the Spider monks, who have embraced their own sinister variant of honor and devotion. Even the touch of Jigoku itself can be used as fuel for their power, a power that strangely resembles the oneness many Brotherhood monks have with the universe. Some believe this is an indication that the path of the Spider, while radically different from the paths of the Brotherhood, is a true path to enlightenment. Those among the Brotherhood who are aware of the existence of the Dark Paragons vehemently refute this claim, insisting they are nothing but more seductive tricks of the Realm of Evil. The Paragons themselves insist instead that their power reflects their absolute mastery of themselves, and Jigoku has no reason to leave its mark on its servants when those servants are willing, devoted, and able to enact its will far more effectively without the constraints of the Taint.
 
@@ -226,7 +226,7 @@ The strength of the pious is that surety of purpose can lead one to overcome vir
 #### Rank 3: Absolute and Unwavering
 
 A true paragon of darkness can eschew the restrictions of honor or even the touch of another realm in order to accomplish greater things in the mortal world, simply by tapping into his true connection to the universe. You gain two Kiho, for which you must meet all prerequisites. You may sacrifice 2 Honor points or voluntarily reduce your Taint by 1 point rather than spending a Void Point in order to activate any Kiho. You do not lose any physical deformities previously gained as a result of your Taint Rank in this manner, but you can lose Shadowlands Powers. If you gain subsequent ranks of the Shadowlands Taint, you regain lost abilities rather than getting new ones.
-### <span>Maho-Bujin [Bushi]</span> {#toc12}
+### <span>Maho-Bujin [Bushi]</span>
 
 Throughout the history of the Empire, Lost warriors of great power have occasionally appeared who manifested fighting skills of terrifying capability. These individuals had not learned at a school, or from the words of a sensei – rather, they were instructed by Jikogu itself, whispering into their bodies and minds through the medium of the Taint. When the Lost began to form communities, they saw these warriors as receiving special blessings from Fu Leng and revered them accordingly. Although the Spider Clan later made some attempts to form organized schools around the maho-bujin techniques, they were not successful – the ways of the maho-bujin can only be learned from the Taint itself. The Spider developed simpler techniques that could be taught normally.
 
@@ -244,7 +244,7 @@ The fighting instincts of a maho-bujin sense blood and leap for it, striking wit
 #### Rank 3 : Devourer of Purity
 
 The warriors of Jigoku are able to heal themselves by feeding on the suffering of their enemies, even consuming their honor and strength of soul. Moreover, the maho-bujin has now transcended the Celestial Order and fully embraced the power of the Taint, making him nigh-indestructible. Any time you reduce someone to Down or Out or kill them, you instantly heal a number of Wounds equal to 2 x (their Honor Rank). This may be done any number of times per Round, but you cannot heal off the same person more than once in the same Round. In addition, you gain the creature ability of Invulnerability. (If you are already Invulnerable due to a Shadowlands power, you gain Reduction 10 instead.)
-### <span>Obsidian Warrior [Bushi] [CR]</span> {#toc13}
+### <span>Obsidian Warrior [Bushi] [CR]</span>
 
 This terrifying school was created by a deadly Lost bushi, but has since been taught to many Spider warriors with little or no Taint, for its methods of raw power and force of will can be used by anyone ruthless and cruel enough to master its techniques. Reputedly, most of the students at this school's handful of dojo never survive their training, but the minority who make it through are among the Spider Clan's most formidable warriors, able to match or defeat the mightiest of Rokugan's bushi.
 
@@ -263,16 +263,16 @@ The power of the Shadowlands courses through the Obsidian Warrior, disorienting 
 #### Rank 3: My Strength Has No Limits
 
 The Obsidian Warrior's complete devotion to the ways of Shourido allows him to shrug off anything that might deter him, and to funnel his power into devastating blows. You roll extra unkept dice equal to your Strength Rank plus your Taint Rank when resisting an Intimidation attempt or a Fear effect, you gain the same bonus in unkept dice to any Damage rolls you make with Melee weapons.
-## <span>Alternate Paths</span> {#toc14}
+## <span>Alternate Paths</span>
 
-### <span>Chuda Necromancer [Shugenja]</span> {#toc15}
+### <span>Chuda Necromancer [Shugenja]</span>
 
 - <strong>Technique Rank:</strong> 3
 - <strong>Replaces:</strong> Chuda Shugenja 3
 - <strong>Requirements:</strong> Lore: Shadowlands 3, knowledge of the maho spell Summon Undead Champion
 - <strong>Technique:</strong> <em>The Dead do not Rest</em> - The Chuda are unparalleled masters of undeath. As a Simple Action you may expend a spell slot of any element to immediately create from existing corpses a number of zombies equal to your Taint Rank. These undead will obey simple commands from you. They last for one week or until you choose to dismiss your power over them-either way, at that point the corpses disintegrate into rot and dust.
 
-### <span>Chuda Subversive [Shugenja] [CR]</span> {#toc16}
+### <span>Chuda Subversive [Shugenja] [CR]</span>
 
 The Shadowlands Taint offers great power to those who would listen to the seductive beckoning of the dark realm. This comes with certain drawbacks, often including grotesque disfigurations. Witch Hunters and Jade Magistrates learn to spot these changes and kill these blasphemers on sight. Those who use these profane rituals must find ways to lessen the consequences of their actions if they wish to live within the Empire. The Chuda Subversives are well versed in masking the effects of the Shadowlands Taint and passing as normal citizens of the Empire. Their abilities have grown so great that they may even fool the kami.
 
@@ -280,7 +280,7 @@ The Shadowlands Taint offers great power to those who would listen to the seduct
 - <strong>Requirements:</strong> Lore: Shadowlands 4
 - <strong>Technique:</strong> <em>The Dark Kami's Discretion</em> - Certain sects of the Shuda have extensively studied means by which the influence of Jigoku in the mortal realm can be concealed from others. By expending three spell slots, you may completely suppress your own Taint, or that of a willing target you touch, for a number of hours equal to your School Rank. In the case of a human who possesses the Taint, this will render them temporarily immune to damage from jade or other effects that target the Taint, but will deny them access to any Taint based powers. In the case of inherently Tainted creatures targeted by this effect, such as oni or goblins, the effect only renders them immune to Taint detection abilities. They gain no immunities and lose no abilities. This technique in no way disguises physical mutations.
 
-### <span>Colonial Conqueror [Bushi]</span> {#toc17}
+### <span>Colonial Conqueror [Bushi]</span>
 
 The dangers of a new land are ideally suited to unleashing the full power and horror of the Spider Clan. When the Divine Empress struck her bargain with the forces of darkness at the end of the Destroyer War, she knew what would become of those corrupted vassals entering her service. She would send them away, to ensure that her own people, the just and the honorable, would be spared their company and their threat. What she could not know, what she did not foresee, was the incredible joy the Spider would take in fulfilling her command: “Go forth, and conquer in my name.”
 
@@ -288,7 +288,7 @@ The dangers of a new land are ideally suited to unleashing the full power and ho
 - <strong>Requirements:</strong> Earth 3, Strength 3
 - <strong>Technique:</strong> <em>All Fall Before Me</em> - A Spider Conqueror is an unstoppable juggernaut of destruction that crushes all in its path without hesitation or remorse. Once per Round when you make a successful melee attack, you may immediately take a Free Action to make a Contested Willpower Roll with your opponent. If you win the Contested roll, your damage for that strike is doubled.
 
-### <span>Daigotsu Scout [Bushi]</span> {#toc18}
+### <span>Daigotsu Scout [Bushi]</span>
 
 In addition to serving as the lords of the Spider Clan, the Daigotsu are also the rank and file of its legions. Of the many samurai who have joined the clan since its inception, those with a talent for speaking to the kami join the Chuda, those whom the Shadow Dragon has chosen as his own become members of the Goju, and a small handful take up the path of the monk as members of the Order of the Spider. All the rest join the Daigotsu, and among those legions, the cruel and sinister sensei of the Spider dojo select those with the greatest affinity for stealth, athleticism, and sheer physical prowess to serve as the small but distinguished group known as the Daigotsu scouts. These individuals are trained extensively in the art of remaining unseen regardless of circumstances, and are allowed to travel through the Empire with impunity, observing and remembering everything they have seen to report back to their master Daigotsu. In addition to their physical talents, the scouts are chosen for mental acuity; they dare not keep records of their observations, as capture could reveal too much about the family or clan. Likewise their loyalty to the Spider is of paramount importance. In the event that one of them is captured, the Daigotsu sensei must be confident that the scout will not betray the family’s secrets even under pain of torture or death. Together, these traits result in an elite cadre of scouts who are intelligent, talented, and completely ruthless. Those few who know of their existence regard them as extremely competent and dangerous enemies.
 
@@ -297,7 +297,7 @@ In addition to serving as the lords of the Spider Clan, the Daigotsu are also th
 - <strong>Requirements:</strong> Stealth 3
 - <strong>Technique:</strong> <em>The Cloak of Shadows</em> - Although not as talented as the inhuman minions of the Shadow Dragon or the Lying Darkness, the Daigotsu scouts are still highly skilled in moving about without being detected. Stealth is now considered a School Skill for you, and you gain one additional Emphasis in the skill above any you may already possess, and in excess of the maximum normal number of Emphases you may posses. Your Move Actions are not reduced when using Stealth, and when using Stealth you may also ignore any terrain penalties that would normally reduce your Move Actions.
 
-### <span>Dark Path Sohei [Monk]</span> {#toc19}
+### <span>Dark Path Sohei [Monk]</span>
 
 The Order of the Spider is an enigmatic and sinister order, with its origins in the diseased and diabolical mind of the fallen monk Roshungi. Under his teachings, enlightenment could only be discovered by completely unlocking an individual’s greatest physical and mental power. The path to doing that, Roshungi reasoned, was completely up to the individual to discover. In his order, those who wished to embrace their full potential and thus unlock enlightenment and the secrets of the universe were encouraged to embrace whatever means were necessary to achieve power. To some, this meant embracing the Shadowlands Taint. To others, it simply meant becoming physically and mentally disciplined and powerful on a level virtually unprecedented among the Brotherhood. Roshungi’s greatest pupil and eventual successor, the monk Michio, embodied this philosophy to its utmost, but there are others among the order who believe that they have been successful in finding the first steps down the road to enlightenment. Some of these individuals call themselves the Dark Path sohei, or warrior monks. These individuals combine all the power and ruthlessness of their order with the strange, almost supernatural powers normally seen only among the Brotherhood. Together, the two are an exceptionally dangerous combination that ensures the Dark Path sohei are a deadly threat to any they choose to label as enemies.
 
@@ -306,7 +306,7 @@ The Order of the Spider is an enigmatic and sinister order, with its origins in 
 - <strong>Requirements:</strong> Theology 3
 - <strong>Technique:</strong> <em>Walk upon the Dark Path</em> - Even the most devout member of the Brotherhood of Shinsei would attest that there is no one true path to enlightenment, and certain members of the Order of the Spider seem to bear out that theory. You gain two Kiho, for which you must meet all normal prerequisites. These Kiho do not count against the normal number of Kiho you may learn as determined by your School Rank.
 
-### <span>The Dark Whisper [Courtier]</span> {#toc20}
+### <span>The Dark Whisper [Courtier]</span>
 
 Dark Whisper courtiers use the power of a bound Air kansen to dig out the secrets and sins of their foes, allowing them to subtly inflict chaos on the courts they attend. Because of the danger that their supernatural nature might be uncovered, they are deployed selectively, preferably in courts where their kansen ally is unlikely to be uncovered.
 
@@ -314,7 +314,7 @@ Dark Whisper courtiers use the power of a bound Air kansen to dig out the secret
 - <strong>Requires:</strong> You must have an Air kansen bound into your body by a special Chuda ritual. This does not directly Taint you, but the presence of the evil spirit can be sensed by those with the ability to detect spirits, and it will trigger the spell Ward of Purity.
 - <strong>Technique:</strong> <em>Voice of the Kansen.</em> - You may call on the power of your kansen to ferret out dark secrets within the minds and hearts of those around you. As a Simple Action you may attempt to sense the secrets of any one person within 100 feet, making a Contested Air Roll against them. The target will be aware of a vague sense of unease but there will be no other outward sign of your action. If the roll succeeds, you learn one meaningful secret about the target (chosen by the GM, but it will always be something useful and, if possible, will be related to sinful or dishonorable behavior). You may attempt this Technique against an individual person once per day, but once you successfully learn a secret, you cannot target that person again for one month.
 
-### <span>Obsidian Magistrate [Bushi] [CR]</span> {#toc21}
+### <span>Obsidian Magistrate [Bushi] [CR]</span>
 
 When the Spider Clan was formed out of the Lost, its founder Daigotsu decided to organize his forces as a subversion of the values Rokugan holds dear. He created an ideology and a set of laws with which to rule his own empire. The Obsidian Magistrate acts as the dark mirror of the Emerald Magistrate. He imposes the law of the Spider on everyone he meets, and his fanaticism fuels ferocious charges against his foes on the battlefield.
 
@@ -322,7 +322,7 @@ When the Spider Clan was formed out of the Lost, its founder Daigotsu decided to
 - <strong>Requirements:</strong> Investigation 2
 - <strong>Technique:</strong> <em>Strength in Terror</em> - The Obsidian Magistrate is the bastion of Shourido and enforcer of Daigotsu's will. You gain the Benefit, Skills, Honor and Outfit of a Rank 1 Daigotsu Bushi, you may add your Perception Trait plus your Taint Rank to the total of all High and Bugei Skill Rolls. This bonus does not apply to Weapon Skills. You may also add the difference between your Honor and that of your opponent to the total of all attack rolls made against that opponent.
 
-### <span>Susumu Courtier</span> {#toc22}
+### <span>Susumu Courtier</span>
 
 At the end of the twelfth century, the Susumu have existed as a family for only a single generation, and have barely begun to differentiate themselves from the earlier methods of the Daigotsu family. This is represented mechanically by giving them a Path rather than their own full School.<br>
 From a strictly &quot;historical&quot; sense, the value of the Susumu Path is limited, since it can only be used in games set in or after the Age of Exploration. However, as with other such specialized mechanics in L5R, GMs can freely modify the Susumu Path to fit other eras or storylines. For example, if Shourido emerged earlier in Rokugan’s history, any number of different groups might have developed a Technique based on embracing and exploiting the Way of Victory.

@@ -1,6 +1,6 @@
 Title: Tattoos
 ---
-## <span>Tattoos</span> {#toc0}
+## <span>Tattoos</span>
 
 Below are a few of the tattoos found upon the members of the Togashi Order. There are countless dozens or even hundreds in existence, some unique, but those listed below are those most commonly encountered. Members of the Togashi Order gain these mysical tattoos in lieu of Techniques at Ranks 1, 3, and 5. Tattoos can only be activated if they are exposed; tattoos covered by cloth or armor cannot be used. Unless otherwise specified, the following conditions apply to all tattoos: they can be activated as Free Actions, only one tattoo may be active at a time, and tattoo effects last a number of rounds equal to twice the character's School Rank.
 
@@ -30,7 +30,7 @@ Below are a few of the tattoos found upon the members of the Togashi Order. Ther
 - <strong>Wind:</strong> The wind is swift and moves without hindrance. While this tattoo is active, you gain an additional Simple Action per round, which may not be used to make an attack. Your maximum total movement is not limited to your Water Ring x 20.
 - <strong>Wolf:</strong> The wolf is the great tracker of the wilds. When you activate this tattoo, your senses become superhumanly sharp, allowing you to perceive small details and even individual scents. You gain a number of Free Raises on Hunting (Tracking) Skill Rolls equal to your School Rank. This tattoo's effect last a number of hours equal to your School Rank.
 
-## <span>Merged Tattoos</span> {#toc1}
+## <span>Merged Tattoos</span>
 
 Every once in a while, the tattoos that appear on the flesh of a member of the Ise Zumi order (or its offshoots, the Kikage Zumi and the Tsurui Zumi) undergo a strange transformation. A brother who might have expected to receive a new tattoo occasionally finds instead that two of his existing tattoos have merged together to create something altogether new. This sometimes involves existing tattoos moving from one place to another on the monk’s body, a feat that not even the Togashi family’s sacred tattoo artists can explain. These new tattoos are invariably powerful, but they do limit the versatility of the monks who possess them.
 

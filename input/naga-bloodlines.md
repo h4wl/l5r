@@ -1,6 +1,6 @@
 Title: Naga Bloodlines
 ---
-### <span>The Asp</span> {#toc0}
+### <span>The Asp</span>
 
 - Bloodline Benefit: +1 Strength
 
@@ -8,7 +8,7 @@ The Naga of the Asp are known for their sturdy bodies and strong minds. The Asp 
 Unfortunately, this dedication to the physical leaves the Asp short in certain aspects. The Asp are prone to hubris and arrogance, far more so than other Naga. The Bloodland Wars, the confl ict that raged before the formation of the Naga Empire, occurred because the Asp leaders decided to conquer their Naga brothers. The crazed leader Shahismael started the bloody quest, but he could not have accomplished his tragedies if the Asp had not followed his orders. The Asp engaged in the Bloodland Wars with relish because they believed their martial might gave them the right to lead other Naga.<br>
 Naga of the Asp often speak to others with condescension, for they believe themselves to be the greatest of all. The other bloodlines accept this as a personality quirk, for they know the Asps’ hearts are in the right place. The Asp form the majority of the Naga armies, and fi ght the creatures of the Foul with complete relish and dedication. The Naga Empire would quickly fall to outside forces were the Asp ever to fail in their duties.
 
-### <span>Chameleon</span> {#toc1}
+### <span>Chameleon</span>
 
 - Bloodline Benefit: +1 Awareness
 
@@ -16,7 +16,7 @@ The Chameleons fi nd themselves at home within the shadows more than the rest of
 The Chameleons are naturally adept at performing the role of the scout, since they are able to stalk their targets while remaining unseen. Their penchant for moving through the dark corners of the world makes them comfortable with stealth and deception. They train with the spear and bow, and their familiarity with subterfuge makes them ideal guardians for Naga temples, pearl beds, and the houses where their eggs and children are kept.<br>
 Chameleons suffer more mutations than some of the other bloodlines, though rarely enough to turn them into Abominations. In particular, the majority of Chameleons are born with the ability to breath underwater. It should be no surprise, then, that the Chameleons built a city under the sea. They happily tend to the largest banks of pearl beds, knowing the rest of the Naga Empire could not survive without the steady stream of magical pearls they provide to the jakla.
 
-### <span>Cobra</span> {#toc2}
+### <span>Cobra</span>
 
 - Bloodline Benefit: +1 Perception
 
@@ -24,7 +24,7 @@ The Cobra bloodline has a unique connection to the Akasha that gives them abilit
 least one significant physical disability.<br>
 The Cobra also tend to suffer somewhat from the arrogance of power. They are more comfortable with deceiving other Naga, for they believe their mastery of magical secrets gives them justifi cation in keeping dangerous knowledge away from their lesser brethren. Much like the Asp, the Cobras are arrogant and dismissive of those they believe weaker than themselves.
 
-### <span>Constrictor</span> {#toc3}
+### <span>Constrictor</span>
 
 - Bloodline Benefit: +1 Stamina
 
@@ -33,7 +33,7 @@ The Constrictors have the strongest connection to the Akasha of any Naga, and un
 Just as they delve the depths of the Akasha, the Constrictors have cast their eyes above to the stars to perceive the future. Astronomy is an imperfect art among the Rokugani, but the Naga consider it a precise science. Because Naga religion revolves around the sun and the moon, astronomers are greatly revered in their society. They can plot out specific events that will occur in the future by reading the state of the stars. It was a Constrictor who saw the dire future ahead of the Naga Empire and directed them to enter the Great Sleep.<br>
 There are fewer Constrictors in the modern Naga Empire than any other bloodline. No one understands why they have failed to make fertile eggs, and everyone worries one day the Constrictors will become extinct. The Constrictors themselves acknowledge their fate with stoicism, stating the will of the Akasha will always guide their nation.
 
-### <span>Greensnake</span> {#toc4}
+### <span>Greensnake</span>
 
 - Bloodline Benefit: +1 Reflexes
 
@@ -41,7 +41,7 @@ Greensnakes are the smallest of the Naga bloodlines, with adults often measuring
 The Greensnakes are quick to reach decisions and quick to act, often relying on instincts over reasoning. They are an optimistic bloodline, always choosing to believe in the good in others rather than the negative. Because of this, they often act as the diplomats of the Naga Empire. A Greensnake Scout was the fi rst Naga to make contact with Rokugan after their race woke from the Great Sleep, and it was the Greensnake diplomat the Dashmar who established a working relationship with these strange human neighbors. Above all, it was a Greensnake named the Mara who formed a romantic relationship with the human named Mirumoto Daini, giving birth to a unique human-Naga hybrid named Mirumoto Mareshi.<br>
 Among the other bloodlines, the Greensnakes have a reputation for frivolity and impatience. The Greensnakes do not mind, for they know their zest for life and their enthusiasm for the world allow them to appreciate the little details that often pass by unnoticed by the rest of their people.
 
-### <span>Abomination</span> {#toc5}
+### <span>Abomination</span>
 
 - Bloodline Benefit: +1&#160;To Any Trait
 

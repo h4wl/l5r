@@ -1,6 +1,6 @@
 Title: Bugei Skills
 ---
-## <span>Athletics (Strength)</span> {#toc0}
+## <span>Athletics (Strength)</span>
 
 #### Sub-type:
  None
@@ -23,7 +23,7 @@ Athletics Skill Rolls to climb, run, or swim use Strength, whereas the Throwing 
 - Rank 5: The character no longer suffers movement penalties regardless of terrain.
 - Rank 7: The character may add 5 feet to the total of one Move Action per Round (this does not increase his maximum possible movement per round).
 
-## <span>Battle (Perception)</span> {#toc1}
+## <span>Battle (Perception)</span>
 
 #### Sub-type:
  None
@@ -40,7 +40,7 @@ Athletics Skill Rolls to climb, run, or swim use Strength, whereas the Throwing 
 #### Mastery Abilities:
 - Rank 5: The character adds his Battle Skill Rank to his Initiative Score during Skirmishes.
 
-## <span>Defense (Reflexes)</span> {#toc2}
+## <span>Defense (Reflexes)</span>
 
 #### Sub-types:
  None
@@ -61,7 +61,7 @@ Defense is an essential Skill necessary to adopt the Defense and Full Defense st
 - Rank 5: The character's Armor TN is considered 3 higher in Defense and Full Defense Stances.
 - Rank 7: One Simple Action may be taken while in the Full Defense Stance (no attacks may be made).
 
-## <span>Horsemanship (Agility)</span> {#toc3}
+## <span>Horsemanship (Agility)</span>
 
 #### Sub-types:
  None
@@ -82,7 +82,7 @@ Individual types of horses react differently to various circumstances, and some 
 - Rank 5: Mounting a horse is a Simple Action rather than a Complex Action, and dismounting is a Free Action rather than a Simple Action.
 - Rank 7: Mountain a horse is a Free Action rather than a Simple Action.
 
-## <span>Hunting (Perception)</span> {#toc4}
+## <span>Hunting (Perception)</span>
 
 #### Sub-types:
  None
@@ -101,7 +101,7 @@ The Survival Emphasis allows you to forage for sustenance and shelter in the wil
 #### Mastery Abilities:
 - Rank 5: The character receives a bonus of +1k0 to the total of all Stealth Skill Rolls made in wilderness environments.
 
-## <span>Iaijutsu (Reflexes)</span> {#toc5}
+## <span>Iaijutsu (Reflexes)</span>
 
 #### Sub-types:
  None
@@ -120,7 +120,7 @@ The Survival Emphasis allows you to forage for sustenance and shelter in the wil
 - Rank 5: During an Iaijutsu Duel, the character gains one Free Raise on his Iaijutsu (Focus) / Void roll during the Focus Stage.
 - Rank 7: During the Assessment portion of an Iaijutsu Duel, the character gains a bonus of +2k2 to the total of all Focus Rolls if his Assessment roll exceeds his opponent's by 10 or more (instead of the normal +1k1).
 
-## <span>Jiujutsu (Agility)</span> {#toc6}
+## <span>Jiujutsu (Agility)</span>
 
 #### Sub-types:
  None
@@ -141,7 +141,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Use of Jiujutsu confers a Free Raise toward initiating a Grapple.
 - Rank 7: The damage of all unarmed attacks is increased by +0k1 (+1k1 total).
 
-## <span>Weapons (Various)</span> {#toc7}
+## <span>Weapons (Various)</span>
 
 #### Sub-types:
  Marco-Skill (Includes all the Weapons Skills listed below as well as any other weapon not covered by one of the pre-existing listed Skills, such as Weapon: Crossbow, used by some tribes of Yobanjin in the mountains north of Rokugan).
@@ -153,7 +153,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 
 #### Mastery Abilities:
  None
-### <span>Chain Weapons (Agility)</span> {#toc8}
+### <span>Chain Weapons (Agility)</span>
 
 #### Sub-types:
  Weapon Skill
@@ -172,7 +172,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Characters wielding a chain weapon gain a bonus of +1k0 on Contested Rolls against opponents who are entangled or Grappled via their weapon.
 - Rank 7: Use of a Chain weapon confers one Free Raise toward use of the Disarm or Knockdown Maneuver.
 
-### <span>Heavy Weapons (Agility)</span> {#toc9}
+### <span>Heavy Weapons (Agility)</span>
 
 #### Sub-types:
  Weapon Skill
@@ -191,7 +191,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Use of a heavy weapon confers one Free Raise toward use of the Knockdown Maneuver.
 - Rank 7: Damage dice explode on a result of 9 and 10 when using heavy weapons.
 
-### <span>Kenjutsu (Agility)</span> {#toc10}
+### <span>Kenjutsu (Agility)</span>
 
 #### Sub-type:
  Weapon Skill
@@ -210,7 +210,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: A sword may be readied as a Free Action rather than a Simple Action.
 - Rank 7: Damage dice explode on a result of a 9 and 10 when using a sword.
 
-### <span>Knives (Agility)</span> {#toc11}
+### <span>Knives (Agility)</span>
 
 #### Sub-type:
  Weapon Skill
@@ -229,7 +229,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Use of a sai or jitte confers one Free Raise toward use of the Disarm Maneuver.
 - Rank 7: Use of any knife confers a Free Raise towards use of the Extra Attack Maneuver.
 
-### <span>Kyujutsu (Reflexes)</span> {#toc12}
+### <span>Kyujutsu (Reflexes)</span>
 
 #### Sub-type:
  Weapon Skill
@@ -248,7 +248,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: The maximum range of any bow is increased by 50%.
 - Rank 7: When using any bow, the Strength of the bow is increased by 1.
 
-### <span>Ninjutsu (Agility or Reflexes)</span> {#toc13}
+### <span>Ninjutsu (Agility or Reflexes)</span>
 
 #### Sub-types:
  Weapon Skill, considered a Low Skill
@@ -267,7 +267,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Dice on damage rolls made for ninjutsu weapons explode normally (Ninjutsu weapon damage dice do not normally explode.)
 - Rank 7: The damage of all ninjutsu weapons is increased by +0k1 (+1k1 total).
 
-### <span>Polearms (Agility)</span> {#toc14}
+### <span>Polearms (Agility)</span>
 
 #### Sub-type:
  Weapon Skills
@@ -286,7 +286,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Damage rolls made with polearms against mounted or significantly larger opponents is increased by +1k0.
 - Rank 7: Polearms may be readied as a Free Action.
 
-### <span>Spears (Agility)</span> {#toc15}
+### <span>Spears (Agility)</span>
 
 #### Sub-type:
  Weapon Skill
@@ -305,7 +305,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Ranged attacks made using a spear increase their maximum possible range by 5'.
 - Rank 7: Spears may be readied as a Free Action.
 
-### <span>Staves (Agility)</span> {#toc16}
+### <span>Staves (Agility)</span>
 
 #### Sub-type:
  Weapon Skill
@@ -324,7 +324,7 @@ Jiujutsu can be used as a Weapon Skill, rolling Jiujutsu / Agility against an op
 - Rank 5: Use of a staff confers one Free Raise toward use of the Knockdown Maneuver
 - Rank 7: Staves that are large may be readied as a Free Action instead of a Simple Action. Staves that are small gain a bonus to damage rolls equal to +1k0.
 
-### <span>War Fan (Agility)</span> {#toc17}
+### <span>War Fan (Agility)</span>
 
 #### Sub-type:
  Weapon Skill

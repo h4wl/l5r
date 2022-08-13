@@ -1,8 +1,8 @@
 Title: Dahabi Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Dahabi Enforcer (Warrior)</span> {#toc1}
+### <span>Dahabi Enforcer (Warrior)</span>
 
 The houses of Dahab and the Qolat both find themselves in need of fighting men, and to this end they funded research into the most effective fighting techniques, culled from the retired veterans of the City Guard. After several years of careful testing in the field, the Houses settled on a curriculum of techniques they believe serves as an appropriate <em>thug and leg-breaker</em> for both the organization and the conspiracy.<br>
 The Dahabi Enforcers come from all of the Jewel's social strata, from scions of the Merchant Houses looking for a respectable military record with the City Guard to beggars with the will and the wit to impress a merchant enough to pay for their schooling. They are at home in virtually any setting and always calculate the likelihood that hey can make it to an exit or chokepoint quickly, sizing up potential opponents' grip strength and neck circumference, and noting the proximity of weapons. While other warriors might be more personally dangerous, no warrior is as prepared as a Dahabi Enforcer for combat at anitime, anywhere.
@@ -28,7 +28,7 @@ You now gain +2k2 to all Contested Strength Rolls and +2k0 to all Damage Rolls d
 #### Rank Five: Final Strike
 
 Once per skirmish you may spend a Void Point in order to take a Complex Action or Simple Actions as normal while in the Center Stance. You gain the benefits of Center Stance during this round in addition to the round following the adoption Center Stance, in addition you gain +0k2 to all Damage Rolls while in the Center Stance and the round following the adoption of Center Stance.
-### <span>Dahabi Bargainer (Sahir)</span> {#toc2}
+### <span>Dahabi Bargainer (Sahir)</span>
 
 The use of magic by the Qolat has been a sticky point for centuries. Some members of the conspiracy, most often traditionalists who treat the Qolat's dogma of divine noninterference as a religion all its own, oppose the use of magic, since it is widely believed that the powers of Hakkim's Seal come from the gods (or at least the Ashalan, who are little different in the Qolat's view). Other, more practical minds point out that the conspiracy has used the instruments of their enemies against thhem before, so why should they draw the line at magic?<br>
 The Houses of Dahab almost universally endorse the practice of magic, as they do almost every advantage they can possibly ley their hands upon. While it it different in the Qolat, practicing magic in the Houses carry no stigma. Most sahir in the Houses belong to House Hazaad, since that house won special dispensation from the Immortal Caliph during her moratorium on unsanctioned magic. Apart from that, no real generalization can be made about the sahir employed by the Dahab.
@@ -39,7 +39,7 @@ The Houses of Dahab almost universally endorse the practice of magic, as they do
 - <strong>Outfit:</strong> Knife, fine clothes, traveling pack, shoes, 20 copper.
 - <strong>Technique:</strong> <em>Penetrating Words</em> - When casting a Control spell you may spend a Void Point to add a number of hours to its Duration equal to your Rank in this Class. You receive a +1k1 bonus to Contested Rolls bargaining with Jinn for services.
 
-### <span>Dahabi Merchant (Diplomat)</span> {#toc3}
+### <span>Dahabi Merchant (Diplomat)</span>
 
 Though originally a collection of desperate merchants and conspirators, the Houses of Dahab have done great deal to improve their collaboration and cooperation since their genesis so many centuries ago. Though it was a long time before the Houses instituted a system of formalized training for new merchants, it became clear in the Houses' early days that standardizing the education of young entrepreneurs would help them maintain a satisfactory standard of public conduct, as well as help them run their business competently.
 

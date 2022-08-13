@@ -1,8 +1,8 @@
 Title: Mantis Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Kitsune Shugenja [CR]</span> {#toc1}
+### <span>Kitsune Shugenja [CR]</span>
 
 The Fox Clan is located next to one of the largest forests in Rokugan, a fact that has shaped the direction of their lessons. Each Kitsune shugenja gains a love for the spirits and the tranquility of the deep forest after countless hours meditating within its borders. This connection between man and beast is encouraged and strengthened with comprehensive lessons.
 
@@ -16,7 +16,7 @@ The Kitsune's love for nature is evident in the abilities taught at their school
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Earth, 2 Water, and 1 Fire
 - <strong>Technique:</strong> <em>Essence of Chikushudo</em> - None in the Empire are closer to the ways of nature than the simple Kitsune who make the wilderness their home. You may use the Sense, Commune, and summon basic spells to affect the animal spirits of Chikushudo as well as kami (using Summon results in the appearance of a single animal spirit rather than a set amount of the elemental material). Animal spirits tend to be more direct than kami, and perceive things differently, but have just as little sense of why man does what he does. You gain a Free Raise on any non-damaging spell cast on an animal.
 
-### <span>Mantis Brawler [Bushi]</span> {#toc2}
+### <span>Mantis Brawler [Bushi]</span>
 
 For most of its history the Mantis Clan has included a strong element of disreputable piracy and black-market smuggling. Although the clan has occasionally made efforts to purge these criminals from its ranks (especially after it attained Great Clan status), they have never been fully eliminated. The various efforts to purge them have, however, ensured that their fighting techniques may be found among ronin, commoner wako (pirate gangs), and numerous smuggling cartels as well as within the clan's own ranks.<br>
 The fighting techniques of the Mantis Brawlers are even more unconventional than those of the regular Yoritomo bushi. They are born out of the violence of dirty shipboard fights and drunken bar-brawls and passed down parent to child through direct instruction (often of a rather unusual kind) rather than in a formal setting of a dojo. Some tales about this fighting form have claimed it is found in the Brotherhood of Shinsei as well, or perhaps even originated among misbehaving drunken monks and spread from there to the Mantis Clan. Whatever the case may be, this unconventional fighting style continues to prosper among Mantis and criminals alike.
@@ -53,7 +53,7 @@ The erratic bobbing, squirming, and weaving of the Mantis brawler creates additi
 #### Rank 5: Drunk Pounds a Door
 
 The final lesson of the Mantis Brawler is to strike so hard his foe never gets the chance to strike back. When making a melee attack you may spend a Void Point to deliver a fierce shattering blow; this attack gains a bonus of +4k1 to both the attack roll and the damage roll. If you are Prone, the bonus is +4k2 instead.
-### <span>Moshi Shugenja [CR]</span> {#toc3}
+### <span>Moshi Shugenja [CR]</span>
 
 The practices of the Moshi shugenja were developed over the course of many years spent in unwavering devotion to the Sun Goddess. Despite the celestial upheaval that has occurred within the Celestial Order during Rokugan's history, the Moshi have managed to retain their devotion even if the nature of their magical studies has changed somewhat. Since joining the Mantis Clan, their focus has shifted from one of pure theology to more practical concerns, and they excel at invoking the kami who hold sway over the weather. As such, the Moshi, who are far more numerous than the modest Yoritomo bloodline that maintains its own shugenja tradition, are frequently stationed aboard Yoritomo vessels in order to placate the seas during the clan's all-important mercantile voyages.
 
@@ -67,7 +67,7 @@ Like their Yoritomo kinsmen, the Moshi are highly adaptable. Their ability to ga
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Air and 3 Fire spells
 - <strong>Technique:</strong> <em>Favor of the Sun</em> - No family has been more reverent of the various incarnations of the Sun throughout their history, and their piety has granted them great favor with the Heavens. During the day, you gain an additional Affinity for Fire spells. This benefit is lost at night. You also gain a Free Raise on any spell with the Thunder keyword.
 
-### <span>Tsuruchi Archer [Bushi] [CR]</span> {#toc4}
+### <span>Tsuruchi Archer [Bushi] [CR]</span>
 
 Even before joining the Mantis, when they were the Wasp Clan, there was little question that the Tsuruchi were the greatest archers in the Empire. That they have so embraced this as to virtually put aside the study of the blade, however, has often caused others to look at them with great suspicion. The Tsuruchi rarely care, however; they believe in the purity of the bow, and while their sensei teach proficiency with other weapons as well, such are purely secondary concerns. The Tsuruchi Techniques are the epitome of the Rokugani philosophy of archery, which is that the arrow knows the way, and should be fired without hesitation or aiming.
 
@@ -96,7 +96,7 @@ You may not shoot a target that is further than your bow's normal range with thi
 #### Rank 5: Tsuruchi's Eye
 
 The final lesson of Tsuruchi is that there is nothing that cannot be felled by a single arrow. You may make a ranged attack as a Complex Action to gain a bonus of +4k1 to the total of both attack and damage rolls. You may not use this Technique in conjunction with Flight of No-Mind.
-### <span>Tsuruchi Bounty Hunter [Bushi]</span> {#toc5}
+### <span>Tsuruchi Bounty Hunter [Bushi]</span>
 
 During the early days of the Tsuruchi family when they were known simply as the Wasp Clan, the vassals of Tsuruchi were well known for two things: their incredible skill at archery and their unwavering tenacity as bounty hunters. The clan was authorized by the Emerald Champion to hunt down fugitives from justice for a fee, and for many years the Wasp survived largely on the income generated by this practice. Although many samurai condemned this mercenary practice, no one could deny Tsuruchi prowess and few clan magistrates refused to employ them.
 
@@ -127,7 +127,7 @@ The justice of a Tsuruchi is swift and without mercy. You may make ranged attack
 #### Rank 5: Eyes of the Wasp
 
 The worst truth a bounty hunter learns is that anyone can be a fugitive; thus a bounty hunter makes careful assessments of everyone he meets. When you identify a samurai using a Lore: Heraldry Skill Roll, you not only learn his Glory but also his Honor Rank and all Social and Mental Disadvantages. Also, any opponent who may be targeted by your Rank 3 Technique is now automatically Dazed if you successfully hit them with an attack, regardless of whether or not you use a Disarm or Knockdown Maneuver on them.
-### <span>Yoritomo Bushi [CR]</span> {#toc6}
+### <span>Yoritomo Bushi [CR]</span>
 
 The Yoritomo are masters of the sea, and as a result of centuries spent fighting from ship to ship and on the beaches, their fighting style is highly unusual. The pitching and rolling of the waves has been incorporated into their style, which uses more movement than many major Schools. Likewise the Yoritomo have learned that protracted fighting is almost always detrimental to naval combat, and they have learned to ruthlessly exploit any weakness in their opponents' defenses. Finally, the corrosive effect of sea air on steel is well known, and as a result the Mantis have centuries of experience fighting with highly unconventional weaponry, in particular the kind of weapon most often relegated to peasants.
 
@@ -163,7 +163,7 @@ The Yoritomo Bushi reacts with the flow of combat, deftly dodging blows while re
 #### Rank 5: Hand of Osano-Wo
 
 The Yoritomo Bushi strikes with brutal force, digging his weapons deep into his target. You may choose to activate this Technique by spending a Void Point as a Free Action. You keep an additional number of damage dice equal to your Strength. If these attacks hit a Prone target, you gain a bonus of +0k2 to the total of your damage rolls against that target.
-### <span>Yoritomo Courtier [CR]</span> {#toc7}
+### <span>Yoritomo Courtier [CR]</span>
 
 Left to their own devices by an Empire that largely discounted them, the Yoritomo family refused to disappear, instead devoting their considerable resources to every possible aspect of a Clan's normal development. Understanding the impact that trained courtiers could have on their mercantile interests, the Yoritomo developed a School to serve them in that regard. Although successful in business endeavors, the Yoritomo courtiers have only rarely made strides in court, historically speaking, because of their brusque manner and dependence upon intimidation. Since their elevation to Great Clan status, however, they increased clout of Mantis possess has diminished the need for these tactics, and the Yoritomo Courtier School has begun to see more success in different political arenas.
 
@@ -190,7 +190,7 @@ An experienced Mantis has learned to shatter and demoralize his opponents in cou
 #### Rank 5: Strength in All Things
 
 At this Rank the Mantis courtier's iron willpower and threatening nature have reached perfection, allowing him to overcome all foes and to laugh in the face of threats that would make even a Hida bushi turn pale. Any time you are attempting to use the Intimidation skill against someone else, or are rolling to resist an Intimidation or Temptation Skill roll or a Fear effect, you gain a bonus of +5k0 to the roll.
-### <span>Yoritomo Shugenja</span> {#toc8}
+### <span>Yoritomo Shugenja</span>
 
 There are few families in the Empire as diverse and ambitious as the Yoritomo, so it is no surprise the family supports a small number of shugenja. The tradition stems back to the earliest day of the Mantis Clan. Kaimetsu-Uo, the clan's founder, had no capacity to speak to the kami, but one of his daughters did and she married a ronin who possessed the same ability. Thus began a branch of the Yoritomo family that possesses an unparalleled ability to commune with the spirits of the sea and storm.
 
@@ -204,9 +204,9 @@ For centuries, the small number of Yoritomo shugenja have maintained an inexplic
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Water spells, 2 Fire spells, and 1 Air spell
 - <strong>Technique:</strong> <em>Child of the Sea</em> - The family line of the Yoritomo who possess the talent for magic have a strong bond with the sea and with weather as a whole. You may expend one spell slot to alter the wind conditions in your current location by one degree. If you also spend a Void Point, you may instead shift the entire weather status one degree. You may expend a maximum combined total of spell slots and/or Void Points equal to your School Rank each Round to enact these shifts. These shifts affect an area a number of miles equal to your School Rank in all directions from your current location. You also gain a Free Raise on all spells with the Thunder keyword.
 
-## <span>Advanced Schools</span> {#toc9}
+## <span>Advanced Schools</span>
 
-### <span>Kobune Captain [Bushi] [EE]</span> {#toc10}
+### <span>Kobune Captain [Bushi] [EE]</span>
 
 The majority of the Mantis Clan's holdings are removed from the mainland by a vast expanse of sea, resting amid the Islands of Silk and Spice. The clan has lived this way for one thousand years; although the ascension of the Mantis to Great Clan status resulted in the addition of small mainland provinces held by the Tsuruchi and Moshi (and later the Kitsune), the lifeblood of the Yoritomo family still flows through the fleets of kobune that ferry materials and personnel back and forth to the mainland. The captains of thses vessels are the trusted servants of the Mantis Clan Champion, and are responsible for ensuring their clan endures and prospers in spite of the perpetual threats they face from enemies, pirates, weather, and any other number of other hazards. Young samurai look upon these masters of the wave as an inspiration, admiring them for their bravery, their reputation, and their wealth. If some are possessed by the stereotypical arrogance of the Yoritomo family, it is at least well deserved, for they are surely the true sons and daughters of the clan founder Kaimetsu-uo and the chief bearers of his legacy in the modern Empire.
 
@@ -225,7 +225,7 @@ The true measure of a captain is the quality of those who pledge their loyalty t
 #### Rank 3: Master of the Seas
 
 A true captain of the Mantis Clan excels in all areas pertaining to his duties. You may spend a Void Point on any Merchant Skill Roll (excluding Craft Skills) to replace the normal amount you would roll with 10k10. You may also add a bonus of +3k0 to all Bugei Skill Rolls made while onboard a water-borne vessel.
-### <span>Storm Riders [Shugenja] [CR]</span> {#toc11}
+### <span>Storm Riders [Shugenja] [CR]</span>
 
 The Storm Riders are the elite shugenja unit at the heart of the Mantis Clan's armadas. They devote all of their studies to the ocean and the water kami that flow around the Mantis islands. The Storm Riders are the undisputed masters of the sea, and they strive to maintain their connection to the waves at all times. The Storm Riders' value in naval combat is fearsome, a deadly threat to any who might challenge the Mantis Clan's dominance of the waters.
 
@@ -244,9 +244,9 @@ The Storm Rider's connection to the ocean allows him to extend beyond his limits
 #### Rank 3: Child of Osano-Wo
 
 The Storm Riders are the descendants of the Fortune of Fire and Thunder, and their blessings protect them from his domain. Your Shugenja School Rank is considered 1 higher for the purpose of casting Water spells. You may spend A Void Point as a Free Action to gain immunity to all spells possessing the Thunder keyword for 3 rounds. This ability only affects spells of Mastery Level 3 and lower.
-## <span>Alternative Paths</span> {#toc12}
+## <span>Alternative Paths</span>
 
-### <span>Acolyte of Thunder [Shugenja]</span> {#toc13}
+### <span>Acolyte of Thunder [Shugenja]</span>
 
 The guidance of the Oracle of Thunder allows the shugenja of the Mantis Clan to discover new ways to call on the power of Thunder.
 
@@ -254,7 +254,7 @@ The guidance of the Oracle of Thunder allows the shugenja of the Mantis Clan to 
 - Requirements: Fire 3, Void 4
 - <strong>Technique:</strong> <em>Thunder's Call</em> - The Acolytes of Thunder can call on the power of the great Thunder Dragon to smite their enemies. You may cast the spell Fury of Osano-Wo as a Simple Action by sacrificing a spell slot in any Element. Your Raises for damage on that spell award +1k1 per Raise instead of +1k0.
 
-### <span>Children of Chikushodo [Shugenja]</span> {#toc14}
+### <span>Children of Chikushodo [Shugenja]</span>
 
 Perhaps no family in the Empire is so keenly attuned to the ways of the Realm of Animals as the Kitsune family. Throughout their long history, first as the Fox Clan and later as a family of the Mantis Clan, certain individuals within their ranks appear to be able to slip free of the normal confines of Earth magic and accomplish amazing feats through their pacts with the animal spirits of Chikushudo.
 
@@ -262,7 +262,7 @@ Perhaps no family in the Empire is so keenly attuned to the ways of the Realm of
 - Requirements: Hunting 3, Lore: Spirit Realms (Chikushudo) 2
 - <strong>Technique:</strong> <em>Born of the Earth</em> - A master of earth's intricacies can project his mind into the soil and be born again in the form of an animal. If you are sitting upon the bare earth, you may sacrifice two Earth spell slots and make a Meditation Skill Roll (TN 15). After ten minutes of meditation, you fall into a deep trance and a natural animal erupts forth from the ground before your body. Your mind inhabits and controls this animal form until you choose to end the effect, your real body is harmed or disturbed, the animal form is killed - in any of those circumstances, the animal form crumbles into dirt and your consciousness returns to your real body. You must choose any one natural animal, either from the Book of the Void in the L5R RPG core rulebook or Chapter One of the sourcebook Enemies of the Empire, as the form you adopt. if the animal form has higher physical or mental Trait Ranks than you, you use the animal's form's Traits - otherwise, you use your own. You gain any and all abilities of the creature, but cannot speak (and thus cannot cast spells) while in the animal's body.
 
-### <span>Cliff’s Edge Student [Bushi]</span> {#toc15}
+### <span>Cliff’s Edge Student [Bushi]</span>
 
 The Mantis love chain weapons, especially the kusarigama ; which was wielded by none other than their clan founder, Kaimetsu-Uo. Basic Mantis chain weapon training is similar to the training in other clans, but the clan’s most advanced chain-weapon fighters train in the Cliff’s Edge Dojo, learning specialized maneuvers taught only by the most experienced sensei. Many students undertake special pilgrimages to be able to truly master the Mantis techniques.
 
@@ -271,7 +271,7 @@ The Mantis love chain weapons, especially the kusarigama ; which was wielded by 
 - <strong>Requires:</strong> Agility 4, Chain Weapons 5
 - <strong>Technique:</strong> <em>Howl of the Cliff’s Edge</em> - The Mantis who train at Cliff’s Edge Dojo are particularly fond of using the kusarigama to trip, disarm, and otherwise disable their foes. When using a kusarigama to make a Knockdown or Disarm maneuver, you gain a +2k1 bonus to your attack roll. You may call three Raises on an attack with a kusarigama to Entangle an opponent up to 15’ away (as per the Entangled condition). The condition lasts until you voluntarily release the foe (as a Free Action), or the foe succeeds in a Contested Strength Roll against you (as a Simple Action).
 
-### <span>The College of Clarity [Courtier]</span> {#toc16}
+### <span>The College of Clarity [Courtier]</span>
 
 A creation of the Moshi family, the College of Clarity is less of a formal learning institution and more of a philosophical movement that focuses on allowing one’s ascendant Fire-aligned chi to grant a pure and unadulterated view of the world. The College remained very obscure until some samurai realized its philosophies lent themselves well to the study of iaijutsu. Since that time, some duelists have traveled great distances to avail themselves of the College’s teachings.
 
@@ -281,7 +281,7 @@ A creation of the Moshi family, the College of Clarity is less of a formal learn
 - <strong>Special:</strong> A samurai who uses the Clarity of Fire to enhance his focus in iaijutsu may make the same roll, but instead of gaining the Advantage effect, he instead gains a bonus of +1k0 to any one Iaijutsu (Focus) / Void Roll made during the same time period (number of hours equal to his Fire Ring).
 - <strong>Technique:</strong> <em>The Clarity of Fire</em> - The College of Clarity teaches its students to draw on their inner Fire to promote clarity of thought and recall. By meditating for at least one half hour and making a Meditation / Fire Roll against a TN of 15, you gain the Clear Thinker and Precise Memory Advantages for a number of hours equal to your Fire Ring. If you already have either or both of these Advantages, their bonuses are increased by +1k0.
 
-### <span>Kitsune Artisan</span> {#toc17}
+### <span>Kitsune Artisan</span>
 
 For much of their history, the Kitsune people have been sequestered in their own small region of the Empire, struggling for survival and attempting to overcome the many deficits of resources that have plagued them since their creation as the Fox Clan a thousand years ago. Because of their struggle for survival, the Kitsune have rarely possessed the resources to devote any time or energy to the pursuit of the arts. Despite this, however, a unique tradition of artistry has arisen among their ranks, a testament to the notion that the soul of a samurai yearns for beauty, no matter his surroundings. Those who have spent time in the forest have learned to see the beauty of their surroundings, appreciating it for exactly what it is, and leave their mark upon it in delicate ways. The most unique aspect of the Kitsune artisan tradition, however, is that in its purest state, it is performed without damaging the materials from which it is created. Living sculptures are created from the trunks of trees that continue to grow and thrive following their creation. Others are crafted from boulders that remain in place, continuing to support whatever lay atop them with no loss of stability. With the increase in the family’s profile as part of their incorporation into the Mantis Clan, they were called upon to create more permanent, traditional works of art for the benefit of their clan’s court endeavors, but the spirit of their work remains the same. The removal of their creations has caused some degree of discomfort to many Kitsune artisans, but the strange nature of their craft is such that it has become an instant sensation in many courts, and the displays found in Broken Wave City are among the most popular in the current court season.
 
@@ -289,7 +289,7 @@ For much of their history, the Kitsune people have been sequestered in their own
 - Requirements: Any one Artisan or Craft Skill at 3
 - <strong>Technique:</strong> <em>The Beauty of the World</em> - A master of the Kitsune naturalist art style can craft incredible beauty out of any aspect of the world, be it wood, stone, or whatever can be found in nature. When working with natural materials, you may expend an Earth spell slot to gain a bonus of +1k0 on any Artisan or Craft Skill Roll. You may expend a number of spell slots in this manner equal to your School Rank, and this may be used in conjunction with Void Points.
 
-### <span>Kitsune Ranger [Bushi]</span> {#toc18}
+### <span>Kitsune Ranger [Bushi]</span>
 
 At their heart the Kitsune are a simple people who have weathered the centuries due to their unique harmony with the forest and spirits around them. Although many of the family possesses the ability to speak with the kami, there are plenty in each generation who are unable to do so. These men and women still serve their clan, however, and still possess the same link their kinsmen enjoy with the wilderness. They are among the finest woodsmen to be found anywhere in the Empire.
 
@@ -298,7 +298,7 @@ At their heart the Kitsune are a simple people who have weathered the centuries 
 - Special: Prior to the Kitsune joining the Mantis Clan, this Technique may be taken as a Rank 2 Path by any bushi-trained Kitsune, regardless of school - including those who do not have a school. This Technique can also be taken as a Rank 2 Ronin Technique for any ronin characters who possess a Ally Advantage associated with the Kitsune family.
 - <strong>Technique:</strong> <em>One With the Wild</em> - Although they do not possess an ability to speak to the kami, the Kitsune rangers are at home in the wilderness like few others in the Empire. You gain a Free Raise on all Hunting Skill Rolls and on any Stealth Skill Rolls made while in a rural environment. Additionally, you gain a bonus of +2k0 on any Contested Roll involving detection, whether you are avoiding detection or attempting to detect a hidden opponent.
 
-### <span>Mantis Navigator [Shugenja] [CR]</span> {#toc19}
+### <span>Mantis Navigator [Shugenja] [CR]</span>
 
 The Mantis Clan is the undisputed master of the seas. Each captain of their ships is trained to handle the worst the waters can throw at him. The Mantis Navigator, meanwhile, can solve any problems beyond the abilities of a normal man. His mastery of the seas is unparalleled; his whispered prayers can calm the roughest seas and clear the darkest skies. The crew can rest easy , knowing the Navigator will get them back to land without fail.
 
@@ -306,7 +306,7 @@ The Mantis Clan is the undisputed master of the seas. Each captain of their ship
 - Requirements: Sailing (Navigation) 3
 - <strong>Technique:</strong> <em>The Fortunes' Guidance</em> - The shugenja who serve the Mantis are taught many techniques that allow them to placate the elements, even under extreme circumstances. When confronted with difficult weather conditions, you may negate them by spending a Void Point as a Simple Action. This affects an area equal to your School Rank x 20 feet in all directions of you. In a skirmish, this effect last a number of Rounds equal to your School Rank. Outside of combat, this effect lasts a number of hours equal to your School Rank. If the weather effect being negated is the result of a spell, you may only negate spells with a Mastery Level equal or less than your School Rank, and then only bey spending a number of spell slots equal to the Mastery Level in addition to the Void Point.
 
-### <span>Mantis Orochi Rider [Bushi]</span> {#toc20}
+### <span>Mantis Orochi Rider [Bushi]</span>
 
 The strange origins and history of the special groups known as the Orochi Riders are explained in the L5R 4th Edition supplements Enemies of the Empire (the Spirits chapter) and The Great Clans (Mantis chapter). In the latter half of the twelfth century, the Orochi Riders are a small but extremely powerful element of the Mantis Clan military, and the closest thing the clan has to a cavalry tradition.
 
@@ -315,7 +315,7 @@ The strange origins and history of the special groups known as the Orochi Riders
 - Special: The character must be specially chosen to become an Orochi Rider and must successfully form a bond with an Orochi.
 - <strong>Technique:</strong> <em>The Orochi Pact</em> - The Orochi Riders are taught to form and maintain a spiritual bond with one of the Orochi sea-serpents, and to ride them into battle using the Athletics Skill. You gain an Orochi (Enemies of the Empire, page 252) as a mount; the Orochi is an NPC (controlled by the GM) but will generally obey your commands and fight at your side so long as you do not demand anything suicidal of it. You gain a +2k0 bonus to Athletics rolls, and your bond with the Orochi grants you two special abilities: You are considered to have two Ranks of Magic Resistance against hostile Water Magic. While riding the Orochi, you may hold your breath underwater for twice the normal amount of time.
 
-### <span>Mantis Whirlwind Fighters [Bushi]</span> {#toc21}
+### <span>Mantis Whirlwind Fighters [Bushi]</span>
 
 Yoritomo is credited both with perfecting the final technique of his family’s school and also with developing this powerful variation of the Mantis fighting style, the so-called Whirlwind Fighting style. This form relies on a mixture of relentless motion and relentless attacks to both obstruct enemy blows and overwhelm the foe with rapid strikes. Among the Yoritomo it is often the preferred fighting form to use in duels within the family, and some Mantis call the masters of this style “Whirlwind Duelists.”
 
@@ -323,7 +323,7 @@ Yoritomo is credited both with perfecting the final technique of his family’s 
 - Requirements: Knives (Kama) 5
 - <strong>Technique:</strong> <em>Waves Rush to Shore</em> - Whirlwind Fighters are a constant blur of motion, using their swift and relentless strikes both to deflect their opponents’ attack and to break through their defenses. When fighting with a kama in each hand, you may add your Knives Skill Rank to your Armor TN, and gain a bonus of +3k0 to your damage rolls with kama.
 
-### <span>Moshi Guardian of the Sun [Bushi]</span> {#toc22}
+### <span>Moshi Guardian of the Sun [Bushi]</span>
 
 For much of their existence the Moshi family were without a ready source of bushi to defend their holdings. The family's meager resources permitted them to hire a small number of ronin to supplement the very limited numbers of their own family who were not shugenja, but it was generally agreed that this was insufficient, and only the extreme isolation of the family's holdings prevented it from being a critical problem. The lack of bushi has been less of an issue since the family's induction into the Mantis Clan, since the Yoritomo can supply ample forces to secure the Moshi homelands, but the family still prefers to have its most sacred locations defended by its own.<br>
 The bushi unit known as the Guardians of the Sun has evolved over the centuries. It is comprised of the finest Moshi warriors available and specializes not only in the defense of the homeland but also in the protection of the family's shugenja. While not as well known as the Shiba or Daidoji yojimbo traditions, the Guardians of the Sun are nevertheless well regarded for their dedication and prowess.
@@ -337,7 +337,7 @@ The bushi unit known as the Guardians of the Sun has evolved over the centuries.
 - Special: Prior to the Moshi joining the Mantis, this technique can also replace Insight Rank 1 for a Moshi bushi without a school
 - <strong>Technique:</strong> <em>Defended as the Sun</em> - The Guardians of the Sun take an oath to repel all attacks against their sacred charges. When defending a Moshi personage or holding in a skirmish, you may choose to either gain a bonus of +1k0 to your attack roll or to add an additional +1k1 to the Armor TN of a person or object you are defending with the Guard Action. You make this determination at the start of your Turn during each Round of the skirmish.
 
-### <span>Rajya ke Varisa [Bushi]</span> {#toc23}
+### <span>Rajya ke Varisa [Bushi]</span>
 
 The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study the fighting techniques of the Ivory Kingdoms kshatriya and find ways to use them in conjunction with Rokugani combat techniques. The gaijin turned-Mantis known as Yoritomo Singh also contributes to the organization’s training, seeking to preserve some aspects of his former culture. So far they have managed to devise only one technique, albeit one of significant value.
 
@@ -345,14 +345,14 @@ The Rajya ke Varisa are a group of Crab, Unicorn, and Mantis samurai who study t
 - <strong>Replaces:</strong> Hida Bushi 4, Shinjo Bushi 4, Moto Bushi 4, Yoritomo Bushi 4
 - <strong>Technique:</strong> <em>Legacy of the Kshatriya</em> - The Rajya ke Varisa have learned to emulate the kshatriya technique that calls on religious devotion to strengthen their force of their blows. However, instead of calling on blasphemous gaijin gods, they call on the power of their devotion to the Fortunes. Twice per skirmish, before making an attack you may take a Free Action to spend a Void Point; if the subsequent attack succeeds, you may add unkept dice to your damage roll equal to your rank in the Lore: Theology skill.
 
-### <span>Sisters of the Sacred Light [Shugena]</span> {#toc24}
+### <span>Sisters of the Sacred Light [Shugena]</span>
 
 Founded in the years immediately after the creation of the Centipede Clan, the Sisters of the Sacred Light were originally created to deal with infestations of mischievous spirits. Although founded by the Centipede, they recruit women from several clans, and those women are expected to forsake their former loyalties in order to follow the path of purity and wisdom which the Sisters teach. They dress in the traditional garb of a temple priestess (a red hakama and white gi), bereft of all markings save for a single clan mon to indicate their ancestry.
 
 - Replaces: Asahina Shugenja 2, Isawa Shugenja (Air) 2, Moshi Shugenja 2
 - <strong>Technique:</strong> <em>Light Banishes Lies</em> - The Sisters of the Sacred Light specialize in exposing illusions as the falsehoods they are. When attempting to Banish the kami of Air, who are of course responsible for the vast majority of illusion effects, you require only 2 Raises on the Sense spell (rather than the normal 3) and only 3 Raises on the Commune spell (rather than the normal 5).
 
-### <span>Soldier of the Three Man Alliance [Bushi] [IH]</span> {#toc25}
+### <span>Soldier of the Three Man Alliance [Bushi] [IH]</span>
 
 The formation of the Three Man Alliance is the first step in a process of twelfth-century consolidation among the Minor Clans, leading to (among other things) the combination of the Mantis, Wasp, and Centipede clans into the Great Clan of the Mantis and, later in the century, the creation of the Minor Clan Alliance. It is the creation of the Three Man Alliance and their military victory over the Scorpion Clan that first inspires the Minor Clans to band together for greater benefit and effect, and many successful officers from that first military alliance eventually go on to achieve military and political prestige within the Minor Clan Alliance.
 
@@ -362,7 +362,7 @@ The fighting technique of the Three Man Alliance is formed by the combined effor
 - Requirements: Battle 2
 - <strong>Technique:</strong> <em>Stand Against Oppression</em> - The scions of the Minor Clan are not intimidated by their more influential detractors among the Great Clans. Far from it, they are inspired to greatness by their hardships. When facing an opponent with a higher Glory Rank than you, you may spend a Void Point to gain bonus unkept dice on your attack roll equal to the difference in your respective Glory Ranks. You may not gain more dice than your School Rank from this Technique.
 
-### <span>Student of the Cliff's Edge [Bushi]</span> {#toc26}
+### <span>Student of the Cliff's Edge [Bushi]</span>
 
 The Mantis love chain weapons, especially the kusarigama – which was wielded by none other than their clan founder, Kaimetsu-Uo. Basic Mantis chain weapon training is similar to the training in other clans, but the clan’s most advanced chain-weapon fighters train in the Cliff’s Edge Dojo, learning specialized maneuvers taught only by the most experienced sensei. Many students undertake special pilgrimages to be able to truly master<br>
 the Mantis techniques.
@@ -371,7 +371,7 @@ the Mantis techniques.
 - Requirements: Agility 4, Chain Weapons 5
 - <strong>Technique:</strong> <em>Howl of the Cliff's Edge</em> - The Mantis who train at Cliff’s Edge Dojo are particularly fond of using the kusarigama to trip, disarm, and otherwise disable their foes. When using a kusarigama to make a Knockdown or Disarm maneuver, you gain a +2k1 bonus to your attack roll. You may call three Raises on an attack with a kusarigama to Entangle an opponent up to 15’ away (as per the Entangled condition in the L5R 4th Edition Core rulebook, page 89). The condition lasts until you voluntarily release the foe (as a Free Action), or the foe succeeds in a Contested Strength Roll against you (as a Simple Action).
 
-### <span>Tsuruchi Master Bowman [Bushi]</span> {#toc27}
+### <span>Tsuruchi Master Bowman [Bushi]</span>
 
 Tsuruchi never gave up trying to perfect his skills as an archer, and he perfected this final technique shortly before he was critically wounded at the Battle of Oblivion's Gate. He taught it to only a bare handful of his most trusted followers. Since then, only the most worthy and elite of the Tsuruchi family have been trusted to learn its secrets.
 
@@ -379,7 +379,7 @@ Tsuruchi never gave up trying to perfect his skills as an archer, and he perfect
 - Requirements: Kyujutsu 7. Must have School Rank 5 in either the Tsuruchi Archer or Tsuruchi Bounty Hunter School, and be selected by the Tsuruchi sensei to learn this technique.
 - <strong>Technique:</strong> <em>The Way of the Archer</em> - Tsuruchi was perhaps the greatest archer in the history of Rokugan, and his final technique pushes the limits of what can be achieved with the bow. When using a bow, your range is increased by 150' (this is applied before applying the 50% range bonus for Kyujutsu Rank 5). Your Raises with a bow are no longer limited by your Void Ring (or Skill Rank if you have Great Potential), and you may perform Called Shots for half the normal number of Raises (rounded up).
 
-### <span>Tsuruchi Swordsman [Bushi]</span> {#toc28}
+### <span>Tsuruchi Swordsman [Bushi]</span>
 
 The origins of the Tsuruchi family are found in the Wasp Clan, the tiny Minor Clan that would later join the Mantis Clan and become the Tsuruchi. The family’s founder, a ronin born of a union of Lion and Scorpion, despised the blade because to him it represented all that was wrong with the clans of his parents, the same clans that robbed him of everything he knew and loved in the world when he was little more than a child. Because of this, he eschewed it completely and expected his followers to do the same; the samurai who served the Wasp did not even carry a katana. Generations of war and decades of service to the Mantis, however, as well as the retirement of Tsuruchi himself to the ranks of the Brotherhood of Shinsei, gave rise to a new generation of samurai who saw no reason to cast off study of the blade, and in fact embraced it to the fullest. With the natural athleticism of the Tsuruchi, swordsmanship comes easily once embraced, and the Tsuruchi swordsmen are rapidly developing a reputation as the finest in the entire Mantis Clan. Granted, this is not the greatest praise, given that most families within the clan embrace alternative weapons as their primary combat style, but other clans have begun to recognize the potential of Tsuruchi as opponents.
 
@@ -387,7 +387,7 @@ The origins of the Tsuruchi family are found in the Wasp Clan, the tiny Minor Cl
 - Requirements: Kenjutsu 3
 - <strong>Technique:</strong> <em>Ascendancy of Steel</em> - A master of the Tsuruchi style is a flurry of movement and unrelenting assault. You may make a melee attack as a Simple Action rather than a Complex Action when wielding a sword.
 
-### <span>Yoritomo Emissaries [Courtier]</span> {#toc29}
+### <span>Yoritomo Emissaries [Courtier]</span>
 
 The Yoritomo as a whole are not known for their patience, but they have found that it is occasionally a useful virtue in the courts. Beginning with the era of White Stag, the Emissaries emerged as the exception to the Mantis Clan's general diplomatic habits. They are well-trained court functionaries, schooled to handle hostile negotiations with calm patience, displaying much greater subtlety then &quot;normal&quot; Yoritomo courtiers.
 
@@ -395,7 +395,7 @@ The Yoritomo as a whole are not known for their patience, but they have found th
 - Requirements: Etiquette (Courtesy) 4
 - <strong>Technique:</strong> <em>Intrepid Negotiator</em> - Where the standard Yoritomo training focuses on browbeating foes, teh Emissary learns to leaven this aggression with the calm patience of the Earth, outlasting opponents' anger and thus finding peaceful solutions to potentially violent confrontations. When making an Etiquette or Sincerity roll, you may spend a Void Point to add your Willpower in unkept dice to the roll. If the roll is specifically using Etiquette (Courtesy), you add your Willpower in kept dice instead.
 
-### <span>Yoritomo Scoundrel [Bushi] [CR]</span> {#toc30}
+### <span>Yoritomo Scoundrel [Bushi] [CR]</span>
 
 The Mantis Clan was once a Minor Clan, and the Yoritomo have never shied away from performing questionable activities to make a name for themselves. Over the years they have been smugglers, pirates, and mercenaries. The Mantis have gained legitimacy with time, but old habits are hard to break - especially when those habits are quite effective in fulfilling the Yoritomo's wishes. The Scoundrel may perform feats that are considered beneath a samurai, but he knows what he does is for the good of his clan.
 
@@ -403,7 +403,7 @@ The Mantis Clan was once a Minor Clan, and the Yoritomo have never shied away fr
 - Requirements: Commerce 2, Sailing 2
 - <strong>Technique:</strong> <em>Revel in Villainy</em> - The Scoundrel will do what he must, despite what society may say about his activities. Whenever you spent a Void Point to enhance an Athletics, Commerce, Sailing, Sincerity, or Low Skill Roll, you gain an additional bonus to the total of the roll equal to twice your School Rank.
 
-### <span>Yoritomo Sculptors [Artisan]</span> {#toc31}
+### <span>Yoritomo Sculptors [Artisan]</span>
 
 Although the Mantis are not known for their artistic traditions, their sailors' penchant for wood-carving on long voyages has developed over time into a modest school within the clan. The clan drew on commercial ties with the Crane or the Phoenix to gain the services of their artistic sensei and develop its casual skills into a true Technique. In modern times, the Mantis use this group as a source of both political favor and personal leverage.
 

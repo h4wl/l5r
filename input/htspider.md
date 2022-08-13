@@ -6,7 +6,7 @@ D10 roll result
 - 4-8 Fallen from Grace: Roll on Table 2
 - 9-0 Omens &amp; Portents: Roll on Table 3
 
-## <span>Table 1: Born of Darkness</span> {#toc0}
+## <span>Table 1: Born of Darkness</span>
 
 D10 Roll result
 
@@ -15,7 +15,7 @@ D10 Roll result
 - 7-9 Your mother was consumed by the Lying Darkness, yet somehow managed to give birth to you without passing on her affliction. Or did she? You gain the Crafty Advantage.
 - 0 Your parents were members of the Unbroken, a group of Tainted ronin who sought to purge their corruption by killing others that possessed it. You, however, embraced your strength and cast aside their weakness. You gain the Strength of the Earth Advantage.
 
-## <span>Table 2: Fallen from Grace</span> {#toc1}
+## <span>Table 2: Fallen from Grace</span>
 
 D10 Roll result
 
@@ -25,7 +25,7 @@ D10 Roll result
 - 7-8 The Scorpion once considered your family loyal vassals, but study of dark secrets led to your ancestor’s corruption and he was sanctioned by the clan. You gain the Dangerous Beauty Advantage and 1 free Rank in the Stealth Skill, but gain a Sworn Enemy among the Scorpion.
 - 9-0 Your ancestor was once a Unicorn, but the call of the fallen Moto was unusually strong within his soul and he willingly rode to the Shadowlands. You gain the Gaijin Gear Advantage and 1 free Rank in the Horsemanship Skill, but gain a Sworn Enemy among the Unicorn.
 
-## <span>Table 3: Omens &amp; Portents</span> {#toc2}
+## <span>Table 3: Omens &amp; Portents</span>
 
 D10 Roll result
 

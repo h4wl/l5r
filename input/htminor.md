@@ -6,7 +6,7 @@ D10 Roll Result
 - 4-7 Illustrious Past: Roll on Table 6.12
 - 8-0 Mixed Blessings: Roll on Table 6.13
 
-## <span>Table 1: Minor Clans Shameful Past</span> {#toc0}
+## <span>Table 1: Minor Clans Shameful Past</span>
 
 D10 Roll Result
 
@@ -17,7 +17,7 @@ D10 Roll Result
 - 8-9 Your ancestor got the better of a Great Clan courtier in the Imperial Court. The courtier’s family has held a grudge against yours ever since. You gain the Sworn Enemy Disadvantage.
 - 0 Your ancestor was a member of one of the fallen Minor Clans or families (Snake, Boar, Gusai family, etc). Gain the Dark Secret Disadvantage.
 
-## <span>Table 2: Minor Clans Illustrious Past</span> {#toc1}
+## <span>Table 2: Minor Clans Illustrious Past</span>
 
 D10 Roll Result
 
@@ -28,7 +28,7 @@ D10 Roll Result
 - 8-9 One of your ancestors helped establish one of your clan’s original villages. Your family has been caretaker of those lands since that time. Your starting Outfit gains 2 koku and you may take the Gentry Advantage for one less Experience Point.
 - 0 Your family has always lived in the heartlands of your clan and you have grown up learning its fields and hills like your own home. You gain the Way of the Land Advantage for your clan’s land.
 
-## <span>Table 3: Minor Clans Mixed Blessings</span> {#toc2}
+## <span>Table 3: Minor Clans Mixed Blessings</span>
 
 D10 Roll Result
 

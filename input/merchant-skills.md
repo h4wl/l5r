@@ -1,6 +1,6 @@
 Title: Merchant Skills
 ---
-## <span>Animal Handling (Awareness)</span> {#toc0}
+## <span>Animal Handling (Awareness)</span>
 
 #### Sub-type:
  None
@@ -21,7 +21,7 @@ The difficulty to domesticate and train an animal for use varies widely dependin
 - Rank 5: Trained animals still in possession of the trainer may be commanded to attack a target of his choosing. The animal will flee for its life if badly wounded regardless of commands issued.
 - Rank 7: Animals trained by the character may be issued commands non-verbally.
 
-## <span>Commerce (Intelligence)</span> {#toc1}
+## <span>Commerce (Intelligence)</span>
 
 #### Sub-type:
  None
@@ -40,7 +40,7 @@ The Appraisal Emphasis allows you to quickly determine the approximate value of 
 #### Mastery Ability:
 - Rank 5: The character may increase or decrease the price of an item he is buying or selling by a maximum of 20%.
 
-## <span>Craft (Varies)</span> {#toc2}
+## <span>Craft (Varies)</span>
 
 #### Sub-type:
  Macro-skill (includes Armorsmithing#, Blacksmithing, Bowyer#, Brewing, Carpentry, Cartography, Cobbling, Cooking, Farming, Fishing, Masonry, Mining, Poison*, Pottery, Shipbuilding, Tailoring, Weaponsmithing#, Weaving, etc.) [Note: sub-skills marked with a * are considered Low Skills; sub-skills marked with a # are considered High Skill]
@@ -56,7 +56,7 @@ The Appraisal Emphasis allows you to quickly determine the approximate value of 
 
 #### Mastery Abilities:
  None
-## <span>Engineering (Intelligence)</span> {#toc3}
+## <span>Engineering (Intelligence)</span>
 
 #### Sub-types:
  Engineering is considered a Craft Skill for purposes of effects that target Craft Skills.
@@ -75,7 +75,7 @@ The Construction Emphasis specializes in making plans for others to follow, buil
 #### Mastery Abilities:
 - Rank 5: The character gains a bonus of +5 to the total of any Engineering Skill Roll made as part of a Cooperative or Cumulative Skill Roll.
 
-## <span>Sailing (Agility or Intelligence)</span> {#toc4}
+## <span>Sailing (Agility or Intelligence)</span>
 
 #### Sub-types:
  Sailing is considered a Craft Skill for purposes or effects that target Craft Skills

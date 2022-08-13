@@ -1,8 +1,8 @@
 Title: Yodotai Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Yodotai Legionnaire (Warrior)</span> {#toc1}
+### <span>Yodotai Legionnaire (Warrior)</span>
 
 The Legionnaire serves as the foundation of Yodotai armies and is by far the most common type of Yodotai Warrior. He trains from childhood to become a soldier who will prove worthy of fighting alongside legends. The training procedure prepares the Legionnaire for all situation and drills the maneuvers into his head. The Legionnaires instinctively know how to react to every military situation and do not falter in the face of the greatest of terrors.
 
@@ -27,7 +27,7 @@ While you are in the Attack Stance you gain Reduction equal to your Class Rank. 
 #### Rank 5: With My Brothers
 
 You no longer need to spend Void to grant the benefits of your Rank 1 and 2 Class Techniques to your allies and the range of the benefit is extended to 30’. All allies wielding Yodotai weapons within 30’ also add +1k0 to their Damage Rolls. This bonus is not cumulative with additional rank 5 Legionnaires present within the same radius.
-### <span>Yodotai Mercenary (Warrior)</span> {#toc2}
+### <span>Yodotai Mercenary (Warrior)</span>
 
 The Mercenary serves in foreign armies and fights alongside their warriors. While performing his best for those who hire him, he learns more about each society. Once a Mercenary believes he has a firm grasp on target nation's culture and character, he returns to the Yodotai main armies and shares this knowledge with his people. Thanks to the Yodotai Mercenary, the Yodotai rarely face a completely different enemies.
 
@@ -52,9 +52,9 @@ You may make a Contested Battle / Perception Roll against an opponent’s Sincer
 #### Rank 5: Hoplon Bash
 
 You may use your shield to perform an attack as a Complex Action while in the Full Defense Stance. Roll your Agility/Brawling (Shield Bash) against a target’s Armor TN, if successful you inflict damage with your shield as a 1k2 melee weapon. The target of a successful shield bash is also subject to a Knockdown Maneuver and must roll to resist Knockdown as normal.
-## <span>Advanced Schools</span> {#toc3}
+## <span>Advanced Schools</span>
 
-### <span>Yodotai Berserker (Warrior)</span> {#toc4}
+### <span>Yodotai Berserker (Warrior)</span>
 
 The Yodotai Berserker throws himself into the thik of battle with little regard for danger. He can do this because of his absolute faith in his comrades and ancestors. He knows that if he performs well in combat, the greatest heroes of the Yodotai will praise his actions and come to his head. Despite the name, the Berserker does not lose control of himself in battle. This does not make him any less deadly than a berserker who gives in to animal instinct, however.
 

@@ -6,7 +6,7 @@ To humans, Naga are fantastical creatures: they have the torso and arms of a hum
 <a href="/naga-bloodlines">Naga Bloodlines</a><br>
 <a href="/naga-schools">Naga Schools</a>
 
-### <span>Naga Specific Abilities</span> {#toc0}
+### <span>Naga Specific Abilities</span>
 
 These abilities are automatically available to all Naga at character creation, without any cost in Experience Points.
 
@@ -15,7 +15,7 @@ These abilities are automatically available to all Naga at character creation, w
 - Kyujutsu: Naga archers aim at their targets, a radical method that seems foreign and completely ineffectual to most Rokugani. Naga characters use Agility instead of Reflexes when using the Kyujutsu skill.
 - Taint Immunity: All Naga are completely immune to the Shadowlands Taint, and thereby are also incapable of casting maho spells.
 
-### <span>Naga Specific Advantages</span> {#toc1}
+### <span>Naga Specific Advantages</span>
 
 #### Amphibious [Physical] (3 Points, 2 Points For Chameleon)
 
@@ -52,7 +52,7 @@ You are able to use your tail efficiently, as if it were another one of your lim
 You have a strong connection to your spiritual predecessors, the Naga whose lives and memories helped form your soul from the Akasha. These past lives remain strong within your mind, allowing you to draw on them to help in times of dire need. When you purchase this Advantage, you should devise a name and history for the ancestor whose mind now resides within yours.
 
 Abominations cannot gain this Advantage, as they often have a weak connection to the Akasha.
-### <span>Naga Specific Disadvantages</span> {#toc2}
+### <span>Naga Specific Disadvantages</span>
 
 #### Adrift From the Akasha [Spiritual] (3 Points)
 
@@ -71,7 +71,7 @@ If you wish to determine the nature of your mutation randomly, roll a single die
 #### Terror of the Foul [Mental] (3 Points)
 
 You have had several traumatic experiences with your enemies that left you with an irrational fear of facing them. All of your TNs are increased by +5 whenever you are near creatures of the Foul or if you are facing them in battle. Additionally, you suffer a -1k0 penalty on damage rolls against the same creatures.
-### <span>New Equipment</span> {#toc3}
+### <span>New Equipment</span>
 
 #### Naga Scimitar
 

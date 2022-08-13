@@ -1,8 +1,8 @@
 Title: Lion Clan Schools
 ---
-## <span>Basic Schools</span> {#toc0}
+## <span>Basic Schools</span>
 
-### <span>Akodo Bushi [CR]</span> {#toc1}
+### <span>Akodo Bushi [CR]</span>
 
 Over the centuries, the primary bushi Schools of many Clans have developed specialties that have narrowed their focus. The Akodo consider such things a mistake, and have carefully avoided it. The Akodo School focus on precision in the art of kenjutsu, the basic swordsmanship style of the Empire. The Akodo believe that if you strike your target exactly as you intend every time, there is no need for anything more complicated as part of your studies. Some regard this as simplistic, but no one argues with Akodo capabilities in battle. The study of battle itself is also a strong component of every Akodo's training, and there are virtually no Akodo-trained samurai who do not possess a rudimentary knowledge of tactics and strategy.
 
@@ -29,7 +29,7 @@ No foe is beyond the reach of the devoted Lion warrior. Once per skirmish, you m
 #### Rank 5: Akodo's Final Lesson
 
 Mastery of the Akodo Bushi School imparts an unshakable faith in victory. When you make Raises on any Bugei Skill Roll, if you meet or exceed the original TN (before Raises) but fail to meet the Raised TN, you still succeed without the benefits of Raises.
-### <span>Ikoma Bard [Courtier] [CR]</span> {#toc2}
+### <span>Ikoma Bard [Courtier] [CR]</span>
 
 If one examines the greatest storytellers of every generation across the history of Rokugan, the pattern that emerges will indicate clearly that the Ikoma dominate this aspect of the Empire's Social circles. Unlike most courtiers who focus on manipulation and shades of deception, the Ikoma bards or omoidasu strive to live by example, citing historical precedents and mythical tales of heroes in order to demonstrate the desired outcome of whatever discussion they are involved in. While this might seem a curious tactic, there are many courtiers in other Clans who have difficulty conducting themselves against the Ikoma when the Ikoma can demonstratively prove that the individual's ancestors might well have disapproved of a course of action. In a society so steeped in history and tradition, argument via parable is a surprisingly effective technique.
 
@@ -56,7 +56,7 @@ The Ikoma's steadfast encouragement call on the examples of noble ancestors to i
 #### Rank 5: Every Lion is Your Brother
 
 The Ikoma's understanding of Bushido, history, emotion, and human nature empowers them in court, filling their arguments with the ringing power of generations of noble Lion, and calling on the precedents of a thousand years and more to support their cause. Five times per session, when you are making a Contested Social Roll against an opponent, you may cite historical precedent to support your views and roll additional unkept dice equal to your Rank in Perform: Storytelling. (In situations where citing history seems inappropriate or strange, the GM has the final say on whether this Technique may be used.)
-### <span>Ikoma Lion's Shadow [Bushi] [EE]</span> {#toc3}
+### <span>Ikoma Lion's Shadow [Bushi] [EE]</span>
 
 Although many modern Ikoma no longer recall it, or have chosen to forget, the first Ikoma was not a particularly honorable man. He served his lord Akodo with great distinction and loyalty, but the means by which he executed his duties are frequently omitted from any historical record. Most Ikoma do not consider this an issue, but there are some among them who understand this omission is a means of protecting the family's honor, as the first Ikoma was a ruthless, pragmatic individual who would gleefully embrace dishonorable tactics as a necessary means of completing his duties.
 
@@ -83,7 +83,7 @@ Although their principle battleground is that of the court, those who bear the n
 #### Rank 5: Ferocious Determination
 
 The wrath of a disciple of Ikoma is terrible to behold. You may spend a Void Point to take a Free Action to make a Contested Roll of your Courtier / Awareness versus against an opponent's Etiquette (Courtesy) / Awareness. If you win the roll, you have shaken his resolve by reminding him of his past failings. The opponent subtracts a penalty equal to your Awareness plus the opponent's own Honor Rank from the total of his attack and Contested Social Skill Rolls against you for a number of hours equal to your School Rank. This technique does not work against those who possess no Honor Rank (animals, oni, etc).
-### <span>Kitsu Shugenja [CR]</span> {#toc4}
+### <span>Kitsu Shugenja [CR]</span>
 
 The ancient rituals of the Kitsu School have remained virtually unchanged since the family's creation, and the notion of putting aside the relics of the past has never even occurred to the family. Because of the Kitsu family's unique origins, they have always possessed insights into the relationship between the mortal world and the realms beyond. Their ability to perceive the bonds that tie the living to their ancestors have gradually expanded to the point that they area also able to sense and even manipulate the bonds that an individual might possess to other realms.
 
@@ -97,7 +97,7 @@ The Kitsu possess a unique ability to interfere with the link another has to oth
 - <strong>Spells:</strong> Sense, Commune, Summon, 3 Water, 2 Air, and 1 Earth
 - <strong>Technique:</strong> <em>Eyes of the Ancestors</em> - The Kitsu are descended from mystical creatures, and as such are able to reach across the veil between worlds and speak with their ancestors. You may make a Spell Casting Roll (as though casting a Water Spell) against a target's Willpower x 5. If successful, you learn all Spiritual Advantages or Disadvantages that individual possesses. By spending a Void Point, you may negate any one Spiritual Advantage an opponent possesses for a number of minutes equal to your School Rank. You also gain a Free Raise on any spell with the Battle keyword.
 
-### <span>Lion Elite Spearmen [Bushi] [NP]</span> {#toc5}
+### <span>Lion Elite Spearmen [Bushi] [NP]</span>
 
 At the Dawn of the Empire, the spear was the most common melee weapon among the tribes who lived in what became Rokugan. The tribal warriors who followed Akodo and his chief lieutenant Matsu were particularly skilled in the ways of the spear, both as a hand-to-hand weapon and a short-range missile, and these spearmen formed the backbone of the Lion armies during the First War. In the era of peace that followed under Hantei Genji, the Lion as a whole shifted more toward the way of the sword, which all of Rokugan’s leading figures (including Akodo and Matsu themselves) considered to be the first and most honorable weapon of the samurai. However, within the ranks of the Matsu family there were many traditionalists who continued to uphold the spear-fighting traditions of their ancestors. Matsu Shujo, one of Lady Matsu’s grandsons, took it upon himself to organize their training and founded their first dojo, where he eventually developed their first Techniques.
 
@@ -124,7 +124,7 @@ At this rank, the Elite Spearman learns to attack faster than a snake’s flicke
 #### Rank 5: Strike With the Soul
 
 The final lesson of the Elite Spearman School is to fight in complete harmony with one’s spear, striking more swiftly than thought, bringing down the foe with a relentless barrage of attacks. When fighting in melee with a spear or polearm, you may perform the Extra Attack Maneuver for only three Raises. When hurling spears as missile weapons, you may make one attack as a Free Action.
-### <span>Matsu Beastmaster [Bushi]</span> {#toc6}
+### <span>Matsu Beastmaster [Bushi]</span>
 
 The Beastmaster organization is completely unique in its approach to war and to animals. Many other clans train animals for combat, but the Matsu Beastmasters take a personal approach to each beast. The lion is a savage creature that fights as part of a group called a pride. The Beastmaster adopts lion warcats into his own pride, bonding emotionally and spiritually to each warcat that charges into battle beside him. The Beastmaster treats his warcats as equals, fostering a sense of family and belonging.
 
@@ -151,7 +151,7 @@ The fury of the beastmaster and his pride is whispered legend among your clan's 
 #### Rank 5: With the Soul of a Lion
 
 United by your leadership and companionship, your pride has become fearsome indeed. An additional lion joins your pride. All of your warcats gain +10 Armor TN, +2 Reduction, and +2 Fear.
-### <span>Matsu Berserker [Bushi] [CR]</span> {#toc7}
+### <span>Matsu Berserker [Bushi] [CR]</span>
 
 The great majority of the vast legions of Matsu samurai study at the family's home School, if for no other reason than that most Matsu believe other fighting styles are too conservative and reserved. A true Matsu has no fear of death, and as such the Techniques imparted by their sensei embrace absolute, unwavering commitment to battle. Although this leaves the Matsu vulnerable to an opponent's attacks, the philosophy behind the Techniques is that an opponent who has been defeated has no opportunity to retaliate. It is for this reason that the legions of the Matsu family are so feared on the battlefield: how can one defeat an enemy who does not care if his lives or dies, so long as you are defeated first?
 
@@ -180,9 +180,9 @@ Death means nothing in the face of the loss of honor, and no Matsu will yield wh
 #### Rank 5: The Lion's Victory
 
 The death of an opponent is the only measure of victory for a Matsu. Once per encounter after you roll damage for an attack, you may spend a Void Point as a Free Action to activate this Technique. You rend the opponent, ripping open his wounds and dealing grievous injury to him. All of the dice you choose to keep explode, re-rolling and adding the result to your damage total.
-## <span>Advanced Schools</span> {#toc8}
+## <span>Advanced Schools</span>
 
-### <span>Akodo Tactical Master [Bushi]</span> {#toc9}
+### <span>Akodo Tactical Master [Bushi]</span>
 
 <em>&quot;An army led by an Akodo general has never lost a battle.&quot;</em>
 
@@ -204,7 +204,7 @@ The Tactical master can navigate the sudden changes in the battlefield, adapting
 #### Rank 3: The Soul of the Army
 
 The Tactical Master knows he is responsible for his army, and directs its strength where it may do the most damage. You may spend a Void Point to gain a +5k2 bonus on any Battle Skill Roll (rather than the usual +1k1), or to gain a +2k2 bonus to any Bugei Skill Roll (rather than the usual +1k1).
-### <span>Kitsu Sodan-Senzo [Shugenja] [IH]</span> {#toc10}
+### <span>Kitsu Sodan-Senzo [Shugenja] [IH]</span>
 
 All members of the Lion Clan's Kitsu family have some degree of ancestral connection to the original five kitsu who became human, although in most cases the link is only via marriage. Still, the connection is sufficient that the average practicing Kitsu shugenja has the ability to perceive and influence connections mortals possess to the ancestral realms.A small handful of the Kitsu, however, possess a true blood lineage to their inhuman kitsu founders, and in these individuals much more significant powers can manifest.
 
@@ -225,7 +225,7 @@ Although peaceful, the kitsu were powerful warriors, and their descendants carry
 #### Rank 3: Soul of the Kitsu
 
 For the true kitsu there are no boundaries. When you project your soul into the spirit realms (as described above in the Rank 2 Technique) you may take another person with you if they also succeed at the Meditation Skill Roll. This passenger may see and hear everything you experience, but may not speak. Ancestral spirits with whom you interact can sense this passenger. Additionally, you gain one additional rank in the previous School for the purpose of casting spells.
-### <span>The Lion's Pride [Bushi] [CR]</span> {#toc11}
+### <span>The Lion's Pride [Bushi] [CR]</span>
 
 The Lion's Pride is one of the most respected military units in the empire, feared for its prowess on the battlefield and its long list of successes. Only female Matsu samurai-ko can join the Lion's Pride to uphold their high standards. They live, train, and fight together as a unit at all times. On the battlefield, the Lion's Pride tries to seek out the enemy generals and kill them, destroying the enemy's battlefield efficiency.
 
@@ -244,9 +244,9 @@ The Lion's Pride warrior knows that her devotion to her personal honor is its ow
 #### Rank 3: Matsu's Technique
 
 Even in the middle of her attacks, the Lion's Pride bushi is ready to counter any feeble attempts to strike her. When an opponent declares a melee attack against you, if you have not taken your Turn this Round, you may immediately spend a Void Point to take a Simple Action to make an attack against that Opponent. This attack resolves before your opponent's attack. If you use this Technique, you may only perform one Simple Action during your Turn this Round. (You may take Free Actions as normal.) You may use this Technique while in the Full Attack Stance
-## <span>Alternative Paths</span> {#toc12}
+## <span>Alternative Paths</span>
 
-### <span>Akodo Kensai [Bushi]</span> {#toc13}
+### <span>Akodo Kensai [Bushi]</span>
 
 The samurai of the Lion Clan value tradition above all else, and many Lion warriors follow directly in the footsteps of their ancestors. While other weapons may be better suited for the battlefield, the katana remains the icon of samurai culture. The Akodo Kensai focuses exclusively on this weapon until he can overcome its deficiencies. He pours thousands of hours of practice into kata, kenjutsu, and iaijutsu until he has a profound connection with the weapon. When he is ready, the Kensai can move and attack as if the katana were a very part of his body. He strikes with almost supernatural ease, with a grace and beauty that enthralls any who watch him.
 
@@ -255,7 +255,7 @@ The samurai of the Lion Clan value tradition above all else, and many Lion warri
 - <strong>Other:</strong> You may ignore the Prodigy Advantage requirement, but if so you must increase all other requirements by 1.
 - <strong>Technique:</strong> <em>The Heart of the Sword</em> - The Akodo Kensai navigates the battlefield with his katana in his hands. He remains untouched by his enemies around him, for he can direct the flow of combat with his own attacks. While using a sword and in the Attack Stance, you may increase your Armor TN by your Honor Rank against the first melee attack of each Combat Round. Additionally, once per skirmish you may activate a Kata as a Free Action.
 
-### <span>Akodo Siege Strategist [Bushi]</span> {#toc14}
+### <span>Akodo Siege Strategist [Bushi]</span>
 
 Founded by Akodo Keiichi, the Akodo Siege Strategists are trained in the art of defeating enemy castles as quickly and efficiently as possible. While they do not possess the sheer flexibility or depth of knowledge of the Kaiu Engineers, the Siege Strategist are nonetheless quite capable in their specific role. The Lion Clan's rapid capture of many enemy castles over the centuries, such as Shiro no Yogin and Kenson Gakka, is largely due to the skillful tactics of the Siege Strategist.
 
@@ -263,7 +263,7 @@ Founded by Akodo Keiichi, the Akodo Siege Strategists are trained in the art of 
 - <strong>Requirements:</strong> Battle (Mass Battle) 6, Engineering (Seige) 4
 - <strong>Technique:</strong> <em>Broken by Tactics</em> - The Akodo family's mastery of warfare does extend to sieges, and while their expertise in that domain is not so great as the Kaiu, they have attack castles over the centuries to make it a specific topic of study at the Akodo War College. When you are on the attacking side in a siege, your expertise makes it easier for your side to overcome the castle's defenses. When rolling on the Mass Battle Table under those circumstances, you always receive a Heroic Opportunity, regardless of the normal result. Any structures on the opposing side suffer a 50% penalty to their Reduction, due to your superior understanding of their weaknesses (This penalty is applied after any defending bonus to their Reduction).
 
-### <span>Bishamon's Chosen [Shugenja] [CR]</span> {#toc15}
+### <span>Bishamon's Chosen [Shugenja] [CR]</span>
 
 The Lion Clan is home to the greatest armies and generals of the Empire. The martial tradition is the center of every Lion samurai, be he a priest or a warrior. The Kitsu family largely favors the traditional paths of priesthood, but the Kitsu shugenja do not shirk their duties to the clan. Bishamon's Chosen learn to wield weapons and march into battle beside their bushi brethren. Their fervor and dedication to the Celestial Order remains pure, however, whether in the sanctity of the temple or in the chaos of the battlefield.
 
@@ -271,7 +271,7 @@ The Lion Clan is home to the greatest armies and generals of the Empire. The mar
 - <strong>Requirements:</strong> Battle 3
 - <strong>Technique:</strong> <em>Scion of Strength</em> - The Fortune of Strength shows obvious favor to those who follow his teachings without question or reservation. You may expend a spell slot as a Free Action to gain a bonus of +1k0 to any Strength-based roll, including the damage roll of a melee weapon. You may also expend a spell slot in this manner to gain a bonus of +1k0 to the Spell Casting roll made for any spell with the Battle descriptor.
 
-### <span>Deathseeker [Bushi] [CR]</span> {#toc16}
+### <span>Deathseeker [Bushi] [CR]</span>
 
 A Lion bushi holds bushido and his ancestors above all else. When he shames his ancestors by dishonoring his name, he has lost the center of his soul. He must cleanse the dishonor, typically by committing seppuku. However, the Lion also offer another choice: fighting with the Deathseekers, a unity of lightly armored warriors who seek death at the front lines of battle. They charge in without abandon and cut down their foes with no hesitation. Most Deathseekers do not survive even one year of duty.
 
@@ -279,7 +279,7 @@ A Lion bushi holds bushido and his ancestors above all else. When he shames his 
 - <strong>Requirements:</strong> Honor Rank 5, Dishonored Disadvantage
 - <strong>Technique:</strong> <em>Honor of the Lion</em> - Deathseekers redeem their dishonored names by falling in the thick of battle. You gain the Benefit, Skills, Honor, and Outfit of a Rank 1 Lion bushi (any Lion bushi school). You may add your Honor Rank to the total of one damage roll during your Turn. If you do so, your Armor TN is reduced by 5 until the Reactions Stage of the following Combat Round. Additionally, you add +1k0 to attack rolls while in the Full attack Stance.
 
-### <span>De Bellis Legionnaire [Bushi]</span> {#toc17}
+### <span>De Bellis Legionnaire [Bushi]</span>
 
 A generation ago the Lion Clan came into possession of a most curious gaijin artifact, one of those things called a &quot;book.&quot; But this was not simply any book, but rather a copy of De Bellis Yoditorum: an ancient treatise on the many tactics and strategies employed by the Yodotai, a vast and ruthless culture of warriors that lies far north and west of Rokugan. After significant difficulty, the Lion scholars were able to translate the text into the Rokugani language, and examination of its contents began in earnest.<br>
 Although the Lion have considerable appreciation for the information in the book, its existence has only enhanced their disgust toward cultures other than their own. Nevertheless, they have carefully studied everything within, training special units of their soldiers to employ and to counter the gaijin tactics on the field of battle. Some among the Lion believe their understanding of the book has placed them in a unique position to defeat the Yodotai, should those conquerors ever trouble the Empire. However, scholars who are more familiar with the text are deeply troubled by references that imply it is but one of a larger series of works.
@@ -289,7 +289,7 @@ Although the Lion have considerable appreciation for the information in the book
 - <strong>Requirements:</strong> Battle 3, Lore: Gaijin (Yodotai) 1
 - <strong>Technique:</strong> <em>I Stand with My Brothers</em> - Students of Yodotai tactics have honed their ability to fight as a unit to an even greater degree than normal for a Lion army, which is no mean feat. At the beginning of a skirmish, you may make a Battle / Awareness Skill Roll (TN 15) as a Free Action. If successful, you gain a number of bonus unkept dice equal to the number of allies in your group, plus one for each Raise made on the Battle roll. You may not gain more total bonus dice than twice your School Rank. You may use these bonus dice on any attack or damage rolls during the current skirmish, but cannot use more on any one roll than your School Rank. During Stance declaration, when assuming the Full Defense Stance, you may also spend these dice on your Defense Skill Roll. Unused bonus dice are lost at the end of the skirmish.
 
-### <span>The Disciples of the River [Shugenja]</span> {#toc18}
+### <span>The Disciples of the River [Shugenja]</span>
 
 Founded by Kitsu Sonosuke, the Disciples recruit those in the Kitsu family who are talented shugenja but lack the pure bloodlines to become Sodan-Senzo or the militant spirit to join Bishamon’s Chosen. They devote themselves to venerating the spirits of the Empire’s rivers, great and small, and their power serves the Lion Clan in many ways, from irrigating local rice paddies to defending the clan’s northern border or moving troops and supplies safely along waterways. The Disciples are seen as eccentric but well-meaning and honorable by the rest of their clan. New Alternate Path:
 
@@ -298,7 +298,7 @@ Founded by Kitsu Sonosuke, the Disciples recruit those in the Kitsu family who a
 - <strong>Requirements:</strong> Way of the Land Advantage for an area with a river.
 - <strong>Technique:</strong> <em>Servant of the River</em> - The Disciples of the River take the concept of Water magic much more literally than do most of the Kitsu family. Their approach is more like that of a Phoenix, although none would ever admit such (and they would be insulted by the comparison). When casting a Water spell while standing within one hundred feet of a naturally occurring river, you gain one Free Raise on that spell.
 
-### <span>Ikoma Historians [Courtier]</span> {#toc19}
+### <span>Ikoma Historians [Courtier]</span>
 
 The Ikoma Historians are a specialized sub-group within the Ikoma courtly schools, recruiting students from both the Omoidasu and the Lion’s Shadow. They are an elite group within the family, charged with supervising the Empire’s official histories, and regard their duties as a sacred trust. They frequently make use of their access to the secrets of the Empire’s history to protect both Imperial and Lion interests, and most of the members of the hidden Ikoma-Shosuro alliance are drawn from their ranks.
 
@@ -307,7 +307,7 @@ The Ikoma Historians are a specialized sub-group within the Ikoma courtly school
 - <strong>Requires:</strong> Lore: History 5
 - <strong>Technique:</strong> <em>The Past and the Present</em> - The Ikoma Historians are tasked with comprehensively recording the official histories of the Empire - and also with concealing inconvenient aspects of that history. You are expected to always be ready to record the events around you, and as such you are trained to memorize and perfectly recall anything worthy of inclusion in the historical records. When you take this Path, you acquire the Advantage Forbidden Knowledge (Empire’s True History). You gain a Free Raise on all Calligraphy rolls and you may roll Lore: History / Intelligence at TN 25 to accurately recount any incident you have witnessed and any story you have heard, down to the smallest detail - including details you may have missed at the time.
 
-### <span>Ikoma Orator [Courtier]</span> {#toc20}
+### <span>Ikoma Orator [Courtier]</span>
 
 Although all traditional Ikoma are trained as battlecriers, inspiring their fellow Lion on the field by recounting the deeds of their ancestors, some in the clan have found ways to adapt such methods for the courts. The Lion historians credit the first Orator as Ikoma Tasuki, a skilled courtier from the time of the Gozoku, whose intense speeches on behalf of the Empress Yugozohime were instrumental in cementing her power and convincing many former Gozoku from the Crane and Phoenix to retire or commit seppuku. After his fortieth birthday, Tasuki was permitted to start a dojo and teach his speech-making methods to other Ikoma.
 
@@ -317,7 +317,7 @@ Although all traditional Ikoma are trained as battlecriers, inspiring their fell
 
 A successful speech for an ally grants that ally one of the Paragon of Bushido Advantages for one week, while a successful speech against an enemy inflicts one of the Failure of Bushido Disadvantages on that enemy for one week. (If the enemy character has the corresponding Paragon of Bushido Advantage, you instead deny the use of that Advantage for one week.) You cannot affect the same person with this Technique twice in the same month. GM’s Options: GMs who wish to add more depth to the Ikoma Orator’s abilities may choose to let the target’s onor, Glory, and Infamy affect the rolls required to use the Voice of Bushido technique. When targeting an ally, the TN to bestow the Advantage is reduced by the target’s Honor Rank and Glory Rank, but increased by his Infamy Rank (if any). When targeting an enemy, the reverse applies - Honor and Glory increase the TN, while Infamy reduces it.
 
-### <span>Ikoma Scrapper [Bushi]</span> {#toc21}
+### <span>Ikoma Scrapper [Bushi]</span>
 
 It is sometimes forgotten that Ikoma was not only a storyteller but also a rather vicious hand-to-hand fighter. In modern times, much of Ikoma’s less-reputable legacy is found in the obscure Lion’s Shadow school, but the Lion Clan also maintains a more public and honorable dojo which teaches a simple hand-to-hand technique inspired by Ikoma’s legacy.
 
@@ -325,7 +325,7 @@ It is sometimes forgotten that Ikoma was not only a storyteller but also a rathe
 - <strong>Requires:</strong> Strength 4, Jiujutsu 5
 - <strong>Technique:</strong> <em>Every Scar Has a Name</em> - The Scrapper learns that so long as he can call on the same courage and ruthlessness as Ikoma himself, he is never truly unarmed. You may attack as a Simple Action with unarmed strikes and improvised weapons (if you did not already have the ability to do so). Your vicious attacks can disorient and terrify your opponents. Once per skirmish, if you strike unarmed or with an improvised weapon, you may call two Raises to make your attack inflict a Fear effect on the target, with a Rank equal to your Insight Rank.
 
-### <span>Ikoma Warden [Bushi]</span> {#toc22}
+### <span>Ikoma Warden [Bushi]</span>
 
 Although it was not until the Unicorn Clan returned to the Empire that the armies of the Great Clans truly embraced the value of cavalry forces, the Lion had maintained a small cavalry force for centuries before that, dating back almost to the time of the Empire’s founding. While the Akodo and the Matsu have always prepared for war, the Ikoma have often been relegated to ensuring the security and lawfulness of the Lion provinces. For this reason, the Ikoma Wardens were created. The wardens exist to patrol the perimeter and interior of the Lion provinces, traditionally moving along well-traveled and carefully controlled routes throughout the land. They hold magistrate status within the clan, although if they attempt to use this authority outside the rather limited parameters of their normal activities they can be called upon to explain themselves by virtually anyone. The wardens are easily the most capable horsemen in the Lion Clan, and are frequently called upon to supply cavalry forces not only for the Ikoma army, but the Akodo and Matsu forces as well. For this reason, those families often send individuals to train with their Ikoma cousins, and the number of wardens serving the clan at any one time is much larger than one would expect from a group intended for patrol and law enforcement.
 
@@ -333,7 +333,7 @@ Although it was not until the Unicorn Clan returned to the Empire that the armie
 - <strong>Requirements:</strong> Horsemanship 3
 - <strong>Technique:</strong> <em>To Race the Wind</em> - A true warden understands that mounted warfare is as natural as fighting among the glorious Lion infantry. When Mounted, you gain a bonus of +1k0 to all Bugei Skill Rolls. Additionally, when spending a Void Point to augment a Horsemanship or Investigation Skill Roll, you gain a bonus of +2k2 instead of +1k1.
 
-### <span>Kitsu Spirit Legion [Shugenja]</span> {#toc23}
+### <span>Kitsu Spirit Legion [Shugenja]</span>
 
 Formed during the twelfth century, the Spirit Legion is comprised of a handful of Kitsu shugenja with the ability to reach across the boundaries of the Spirit Realms and summon the spirits of those realms to serve them. The ability cannot be taught - one must be born to it = and those with the gift are quite rare.
 
@@ -341,7 +341,7 @@ Formed during the twelfth century, the Spirit Legion is comprised of a handful o
 - <strong>Requirements:</strong> Must be born with the spiritual gifts required to serve in the Spirit Legion. This is essentially a character-development/role-play constraint which should be discussed between player and GM.
 - <strong>Technique:</strong> <em>The Legions of the Dead</em> - The handful of Spirit Legionnaires are able to pull aside the veil of the Spirit Realms and call forth the spirits themselves to defend their family. You may conduct a ritual that opens a portal and summons forth a spirit to fight in your place. This is a Complex Action that requires you to expend 2 spell slots associated with one Element of your choice and spend a Void Point. the spirit appears as an armored warrior with the Spirit trait and with all Rings at 2 except for the Ring whose slots you sacrificed; that Ring begins at 3. The spirit is considered to have Kenjutsu 3 and Defense 2, and is equipped with a spectral daisho and light armor. These spirits remain in the mortal realm for a number of hours equal to your Kitsu Shugenja School Rank, or until dismissed by you.
 
-### <span>Lion Paragon [Bushi]</span> {#toc24}
+### <span>Lion Paragon [Bushi]</span>
 
 The samurai class lives by the Code of Bushido, but the stresses and temptations of everyday life makes strict adherence to Bushido nearly impossible. The Lion Paragons persevere through these obstacles, striving to be ideal samurai. The Paragons follow an ancient technique that benefits from their focus and strength of will, and pass it on to those who possess the same qualities. The Paragons are well known to all Lion and their technique continues to be passed down from one generation to the next.
 
@@ -349,7 +349,7 @@ The samurai class lives by the Code of Bushido, but the stresses and temptations
 - <strong>Requirements:</strong> Void Ring 4, Kenjutsu 5, Honor Rank 7
 - <strong>Technique:</strong> <em>Pure and Dedicated</em> - The Lion Paragon lives by the tenets of Bushido, and the strength of his devotion allows him to push himself beyond his physical limits. You may make melee attacks as a Simple Action instead of a Complex Action. However, if you choose to do so, you may only make one attack that Turn. (This prohibits you from making any additional attacks, even with the Extra Attack Maneuver.) Once per skirmish, you may spend a Void Point as a Free Action to activate this Technique. Your Honor Rank is considered to be double for the purposes of your other School Techniques. (For example, if you are a Matsu Bushi, you add double your Honor Rank to all damage rolls from your Rank 1 Technique.) This effect may increase your Honor Rank above 10, but does not stack with any other effects that modify Technique bonuses; in such a case, choose the highest modifier. The effects of this Technique end when the encounter ends.
 
-### <span>Lion Scout [Bushi]</span> {#toc25}
+### <span>Lion Scout [Bushi]</span>
 
 Akodo's treatise on warfare emphasized the necessity of knowledge. He knew a skilled corps of scouts could determine the result of battle even before it began. Hiding is considered a dishonorable act, but the Lion Scouts are willing to swallow their pride and accomplish what must be done. The Akodo and Ikoma both train scouts to be adept at avoiding the enemy and surveying the terrain, working to garner even the slightest advantage against their enemies.
 
@@ -357,7 +357,7 @@ Akodo's treatise on warfare emphasized the necessity of knowledge. He knew a ski
 - <strong>Requirements:</strong> Battle 2, Hunting 3
 - <strong>Technique:</strong> <em>Shadow Unseen</em> - The Lion Scout cultivates all the skills required to fulfill his tasks, setting aside his own honor for his clan. You may move at a normal rate while using the Stealth Skill, and you gain a +1k0 bonus to Stealth Skill Rolls and all Agility-based Bugei Skills.
 
-### <span>Lion Tactician (Ikoma Tactician) [Bushi]</span> {#toc26}
+### <span>Lion Tactician (Ikoma Tactician) [Bushi]</span>
 
 The Lion Clan’s famous War College is best known for training the brilliant shireikan and generals known as the Akodo Tactical Masters. However, the school also offers specialized training to the most promising lowerranking offcers, such as gunso and chui, to enhance the performance of smaller units in the Lion armies. Through most of the Empire’s history these men are known simply as Lion Tacticians, but in the twelfth century the generation-long disbandment of the Akodo family results in a large number of Ikoma samurai training in this technique, and many Lion take to calling them the Ikoma Tacticians.
 
@@ -365,7 +365,7 @@ The Lion Clan’s famous War College is best known for training the brilliant sh
 - <strong>Requirements:</strong> Battle 4, War Fan 4, must be at least a Gunso in rank.
 - <strong>Technique:</strong> <em>The Commander's Fan</em> - Lion offcers usually carry a war-fan in order to use it for conveying orders on the battlefeld. Early on, they discovered the fan could also be used to protect themselves when they came under attack on the battlefeld. You gain a +1k1 bonus to Battle (Mass Battle) rolls in any situation where your war-fan makes it easier for you to convey orders (GM’s discretion). While you are carrying a war-fan (regardless of which hand you are using), you may add half your Warfans Skill Rank (rounded up) to your Armor TN. If you are in the Defense or Full Defense Stance, or you are ONLY carrying a war-fan, you may add your full Skill Rank instead. (These do not stack, and carrying two war-fans does not double the bonus.)
 
-### <span>Lioness Legion [Bushi]</span> {#toc27}
+### <span>Lioness Legion [Bushi]</span>
 
 Founded centuries ago by a legendary Matsu sensei, the Lioness Legion has since its inception been feared by the clan’s enemies for the sheer speed with which it can assault any enemy fortification, no matter how distant. Indeed, it is said by those who have had the grave misfortune of facing the Lioness Legion in battle that they combine the speed of cavalry with the unbridled ferocity of the Matsu, a combination that would give nightmares to any rational enemy commander. The Lioness Legion is typically composed of very young warriors, women in the prime of their physical condition, who are chosen for their natural athleticism and trained ruthlessly to exploit that advantage, as well as to combine it with advanced martial training. Although males are not permitted to join the unit, the techniques used in their training have been granted to lesser sensei among the family and a male equivalent unit, the Lion’s Mane, have begun to take the field of battle in certain engagements.
 

@@ -6,7 +6,7 @@ D10 roll result
 - 3-5 Illustrious Past: Roll on Table 2
 - 6-0 Mixed Blessings: Roll on Table 3
 
-## <span>Table 1: Shameful Scorpion Past</span> {#toc0}
+## <span>Table 1: Shameful Scorpion Past</span>
 
 D10 Roll result
 
@@ -17,7 +17,7 @@ D10 Roll result
 - 8-9 Your ancestor was in command of a battle that should have been an easy win for the Scorpion. Instead, they were defeated, resulting in many years of lost time for the Scorpion in the courts. You gain the Overconfident Disadvantage.
 - 0 You aren’t sure what your ancestor did, but somewhere there’s a tree with his name on it.
 
-## <span>Table 2: Illustrious Scorpion Past</span> {#toc1}
+## <span>Table 2: Illustrious Scorpion Past</span>
 
 D10 Roll result
 
@@ -28,7 +28,7 @@ D10 Roll result
 - 8-9 Your ancestor was a shinobi who assassinated vital targets. Some of his skills are reborn in you. You gain 1 free Rank in the Stealth Skill.
 - 0 Your ancestor performed a mission for the Shosuro Infiltrators, for which they owe your family a debt. You may call on their assistance once in your life and they will help you. (The GM decides exactly how.)
 
-## <span>Table 3: Scorpion Mixed Blessings</span> {#toc2}
+## <span>Table 3: Scorpion Mixed Blessings</span>
 
 D10 Roll result
 

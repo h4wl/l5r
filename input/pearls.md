@@ -5,7 +5,7 @@ Elemental pearls are able to simulate the abilities of most of the spells listed
 In addition, there are a few rare and special types of pearls described below, much more limited in number than the elemental pearls handed out to all the jakla. To create a special pearl, the jakla must take an elemental pearl of the appropriate element and alter it to do his bidding, requiring a roll of Spellcraft (Spell Research) / Akasha at a TN equal to 10x the special pearl’s Mastery Level. Once a pearl is altered to become a special pearl, it can no longer be used to cast spells from the L5R 4th Edition Core Rulebook. The exception to this rule is the White Pearl, which can be used to cast multiple spells from the same pearl (see below for details).<br>
 There are no Pearls of Void or Pearls of Akasha. No pearl can ever be used to cast Void or maho spells, and no new pearl created through Spellcraft (Spell Research) can ever simulate Void or maho spell effects.
 
-### <span>Special Pearls</span> {#toc0}
+### <span>Special Pearls</span>
 
 ### The Pearl of Cleansing Light
 - Ring/Mastery: Earth 1 (Wards)

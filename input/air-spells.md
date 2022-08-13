@@ -1,6 +1,6 @@
 Title: Air Spells
 ---
-## <span>Mastery Level 1</span> {#toc0}
+## <span>Mastery Level 1</span>
 
 ### Arrow's Flight
 - Ring/Mastery: Air 1 (Battle)
@@ -119,7 +119,7 @@ You can entreat the capricious spirits of the wind to create a perfect duplicate
 
 You summon a swirling weapon of pure air, only visible as a foggy outline. The weapon's default form is a yari, but one Raise can change its form to any other spear of your choosing. The weapon has a DR 1k1. If you do not possess the Spears Skill, you may instead use your School Rank in its place. If you do possess the Spears Skill, using this weapon grants you one Free Raise that can be used on the Feint or Increased Damage Maneuvers. This weapons disappears if it is lost from your hand. Instead of summoning the yari for yourself, you may cause it to appear in the hands of an ally within 20 feet. He is treated as the caster for the purposes of the spell, but he does not gain the Free Raise bonus.
 
-## <span>Mastery Level 2</span> {#toc1}
+## <span>Mastery Level 2</span>
 
 ### Benten's Touch [CR]
 - Ring/Mastery: Air 2
@@ -277,7 +277,7 @@ This spell causes the Air kami to subtly insinuate themselves into the target's 
 
 This spell, crafted to facilitate initial relations between groups, is easily twisted to nefarious purposes. It calls the kami to create a subtle aura of suggestion around the caster, one that does not disguise the caster but rather causes others to perceive him as slightly more benevolent than perhaps he truly is. For the duration of the spell, your Honor Rank is considered 3 ranks higher for the purposes of any Lore: Bushido rolls made to determine your Honor Rank.
 
-## <span>Mastery Level 3</span> {#toc2}
+## <span>Mastery Level 3</span>
 
 ### Air Kami's Blessing
 - Ring/Mastery: Air 3
@@ -393,7 +393,7 @@ Mechanically, the spell negates the effects of the Disturbing Countenance and Be
 
 the kami can see into the hearts of mortals, and can use that information at a shugenja's request. You manifest the kami as an illusion of the thing your target fears most in the world. It may be an individual (the man who killed his father), or an item (A cursed blade that brought ruin to his family), or even a vista of some sort (an image of an enemy slaying his family). This effectively generates Fear 4 that the target must overcome. Only the target can see the specifics of the illusion; others see only a hazy outline that appears to be a small fog cloud.
 
-## <span>Mastery Level 4</span> {#toc3}
+## <span>Mastery Level 4</span>
 
 ### Call the Spirit [CR]
 - Ring/Mastery: Air 4
@@ -534,7 +534,7 @@ Some priests of a more ascetic nature have also been known to cast this spell on
 This prayer invites the kami of the Air into the mind of the shugenja himself, enhancing the shugenja's mind and thoughts, causing him to be able to make better use of his skills and knowledge. For the duration of the spell, the caster gains 1 Rank in all Skills hie normally possesses, and may benefit from any Mastery Abilities that this would award. This can only grant ranks in Skills the shugenja already possesses - the Air kami cannot evoke knowledge the caster does not possess. When the duration of the spell expires all benefits are lost and any memories of the knowledge or insight which the shugenja gained during the spell's duration are at best fuzzy; no precise or detailed account can ever be given, and severe headaches are known to plague those who try too hard.<br>
 The benefits for this spell only apply to Skills which the caster actually knows - it cannot increase the Rank of Skills which the caster has temporarily acquired through magic, nor can it combine with Advantages such as Crafty.
 
-## <span>Mastery Level 5</span> {#toc4}
+## <span>Mastery Level 5</span>
 
 ### Cloud the Mind [CR]
 - Ring/Mastery: Air 5
@@ -609,7 +609,7 @@ The Moon can reveal what is hidden, but also conceal those who receive its bless
 
 The wind can be deadly to those unprepared for its fury. You summon a powerful wind that tears through anything in its path. At your behest, the kami create a corridor of air filled with a cutting wind that inflicts a DR equal to your Air Ring +2k0 to everything in its path. (For example, a shugenja with Air 4 would inflict 6k4 damage with this spell). Paper and light cloth are destroyed instantly, although heavier cloth may only be damaged. Anyone damaged by these winds must succeed at an Earth Ring Roll (TN 20) or be Knocked Down.
 
-## <span>Mastery Level 6</span> {#toc5}
+## <span>Mastery Level 6</span>
 
 ### Rise, Air [CR]
 - Ring/Mastery: Air 6

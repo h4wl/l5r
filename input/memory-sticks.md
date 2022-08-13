@@ -2,15 +2,15 @@ Title: Memory Sticks
 ---
 Remembers are not made, they are born. Only one in every few hundred Nezumi is born with the ability to remember clearly. When a young Nezumi is identiﬁed as having this gift, one of the tribe’s senior Rememberers will take the young one under his tutelage and begin to teach him about the history of his people and tribe. The young Rememberer learns not only the history of his tribe and people but also the secrets of Memory Sticks and how they aid him to remember events from long ago, a sort of Nezumi racial memory. Memory Sticks are usually about six inches in length and are often decorated with feathers or shiny things to signify their importance to the tribe. Aside from that, they appear to be little more than a short piece of wood that has been chewed on, leaving it knobbled and irregular. However, to the Nezumi these sticks are the key to unlocking memories of their race’s past. The intricate pattern of chew marks that covers each stick are signiﬁ cant in themselves, and each stick is also impregnated with a series of pheromones that temporarily awaken memories within the Nezumi who tastes and smells them. Because the pheromones are temporary, Memory Sticks have to be cared for and refreshed periodically; however, highly experienced Rememberers have learned how to create Memory Sticks that can last almost forever.
 
-### <span>Creating Memory Sticks</span> {#toc0}
+### <span>Creating Memory Sticks</span>
 
 Creating a Memory Stick is an arduous and lengthy process. Only Rememberers know the secrets of creating them, and because Nezumi pheromones are virtually undetectable by other races, only the Nezumi may use them. Memory Sticks have a Mastery Level much like spells, and Rememberers may normally only create Memory Sticks of a Mastery Level equal or less than their Rank in the Rememberer School. (However, each Rememberer may create a single type of Memory Stick that is one Mastery Level higher than their Rememberer School Rank.) Creating a Memory Stick from a normal piece of wood takes a number of hours equal to the stick’s Mastery Level. Each type of Memory Stick has a TN required to create it – the Rememberer must succeed on this TN with a Skill Roll of Lore: Nezumi Culture / Intelligence. Due to the ﬂeeting nature of Nezumi pheromones, each Memory Stick normally only retains its powers for one week per Mastery Level before it becomes a mundane piece of wood once more. However, any Rememberer who is able to create Memory Sticks of that Mastery Level may “recharge” the stick by examining it for a few minutes and making a Lore: Nezumi Culture / Intelligence roll at a TN equal to half (rounded up) of the original TN needed to create the stick. The most experienced Rememberers (those who have attained School Rank Five) may create Memory Sticks that never become inactive. Each Memory Stick a Rememberer creates has an intangible spiritual connection to that speciﬁ c Rememberer. Because of this connection, most Rememberers may only create a limited number of active Memory Sticks at one time. A Rememberer may have a number of Memory Sticks equal to his Name Ring + Rememberer School Rank. (There is no limit to how many expired Memory Sticks they can have.) At School Rank Five, a Rememberer is no longer limited and may have any number of Memory Sticks active at one time.
 
-### <span>Using A Memory Stick</span> {#toc1}
+### <span>Using A Memory Stick</span>
 
 Any Nezumi with a sense of smell can activate a Memory Stick. To activate a stick, a Nezumi must hold it in either a hand or in his mouth and inhale deeply while either looking at or feeling the chew marks on the stick. This is a Simple Action and activates the power of the stick. A Nezumi can hold up to three sticks at a time (one in each hand and one in the mouth) and thus may use the powers of up to three sticks at the same time. Unless otherwise stated in its description, each Memory Stick may be used once per day and its power will remain active for ﬁve Rounds after activation. The Nezumi will only beneﬁ t from its powers as long as he holds it, however.
 
-### <span>Mastery Level 1 Memory Sticks</span> {#toc2}
+### <span>Mastery Level 1 Memory Sticks</span>
 
 ### Builder’s Stick
 - TN to Create: 10
@@ -57,7 +57,7 @@ This stick tells the tale of a wandering Nezumi who was always able to ﬁ nd hi
 
 This stick tells the tale of a mighty warrior. It grants the Nezumi a +1k1 bonus to any Skill rolls with a single Weapon skill (or Jiujutsu). The Rememberer must choose which Skill the stick augments when he creates it. These sticks are usually sharpened at one end.
 
-### <span>Mastery Level 2 Memory Sticks</span> {#toc3}
+### <span>Mastery Level 2 Memory Sticks</span>
 
 ### Food Stick
 - TN to Create: 20
@@ -89,7 +89,7 @@ This stick tells the tale of a Nezumi tracker with an extraordinarily sensitive 
 
 This stick tells the tale of a Nezumi who spent his life seeking the answer to an unanswered question. By breaking the stick, the holder can ask one question of a Transcendent. The Transcendent will answer to the best of its ability, but there are some questions even the Transcendents cannot answer. These sticks are usually very traditional with little or no ornamentation.
 
-### <span>Mastery Level 3 Memory Sticks</span> {#toc4}
+### <span>Mastery Level 3 Memory Sticks</span>
 
 ### Armor Stick
 - TN to Create: 30
@@ -111,7 +111,7 @@ This stick tells the tale of an extremely fast Nezumi. The holder may move as if
 
 This stick tells the tale of an extraordinarily clever Nezumi scrounger. The holder gains a +1k1 bonus on Stealth and Sleight-of-Hand Skill rolls while the stick is active. These sticks are usually made from sharpened and ﬁ re-blackened pieces of wood.
 
-### <span>Mastery Level 4 Memory Sticks</span> {#toc5}
+### <span>Mastery Level 4 Memory Sticks</span>
 
 ### Berserker’s Stick
 - TN to Create: 25
@@ -153,7 +153,7 @@ This stick tells the tale of a terrible spirit that once haunted a warren, and o
 
 This stick tells a tale of a hero who never lost his way no matter what conditions he traveled in. The holder of the stick can always see clearly, regardless of blindness, darkness, fog, smoke, or any other kind of reduced visibility. The stick’s effects last for one hour after it is activated and it may be used once per day. These sticks are usually made of dry wood whose bark has been slightly bleached by the sun.
 
-### <span>Mastery Level 5 Memory Sticks</span> {#toc6}
+### <span>Mastery Level 5 Memory Sticks</span>
 
 ### Chieftain’s Stick
 - TN to Create: 35
