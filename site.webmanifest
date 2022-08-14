@@ -2,7 +2,7 @@
     "name": "Legend of the Five Rings",
     "short_name": "L5R",
     "start_url": ".",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#fff",
     "description": "A fan-site dedicated to the 4th Edition of Fantasy Flight Games 'Legend of the Five Rings' Roleplaying Game",
     "icons": [
