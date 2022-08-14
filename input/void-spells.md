@@ -1,6 +1,6 @@
 Title: Void Spells
 ---
-## <span>Mastery Level 1</span>
+## Mastery Level 1
 
 ### Boundless Sight [CR]
 - Ring/Mastery: Void 1
@@ -74,7 +74,7 @@ Although beginning students of ishiken-do cannot affect the pattern of the Void,
 
 It is possible to gain fleeting glimpses of things that have not yet happened by peering through the Void. If you are delaying your action, you may interrupt the target of this spell after he has declared his action but before he has taken his action when his Turn comes up. This may be done during each Round for the duration of the spell. (Normally someone delaying their Action cannot interrupt the Action of another participant.)
 
-## <span>Mastery Level 2</span>
+## Mastery Level 2
 
 ### Altering the Course [CR]
 - Ring/Mastery: Void 2
@@ -101,14 +101,9 @@ One of the most powerful lessons the Isawa took from the Tao of Shinsei was a de
 - Duration: 1 Round per question (must maintain concentration)
 - Raises: Special (+1 question per three Raises)
 
-Commune with the Void allows the caster to enter into a direct communion with the ineffable Void and thereby gain<br>
-information in a manner which is superficially similar to the basic Commune spell in the other four Elements. Much<br>
-like the other Commune spells, this spell allows the caster to seek information. However, the answers tend to be far<br>
-more enigmatic and unpredictable than those offered by the Elemental kami. The Void, after all, is not an array of individual spirits but a single all-encompassing whole. Thus, while in game terms the caster is still allowed to ask two questions (and can Raise to gain the ability to ask more), in practice the shugenja is not actually “asking” anything, but is using the Void to follow the connections between things and seek insight into their nature and history.<br>
-In essence, the GM may answer these questions as completely or as confusingly as he might wish, and can<br>
-provide information not only from the past but also from the future. (Of course, a wise GM should be wary about<br>
-being too specific about things that have not happened yet.) The GM can even go beyond the specific question if he<br>
-wishes, giving the player information not actually sought. On the other hand, the Void is difficult to comprehend - the GM should also feel free to deliver confusing or misleading information, but nothing outright false.
+Commune with the Void allows the caster to enter into a direct communion with the ineffable Void and thereby gain information in a manner which is superficially similar to the basic Commune spell in the other four Elements. Much like the other Commune spells, this spell allows the caster to seek information. However, the answers tend to be far more enigmatic and unpredictable than those offered by the Elemental kami. The Void, after all, is not an array of individual spirits but a single all-encompassing whole. Thus, while in game terms the caster is still allowed to ask two questions (and can Raise to gain the ability to ask more), in practice the shugenja is not actually “asking” anything, but is using the Void to follow the connections between things and seek insight into their nature and history.
+
+In essence, the GM may answer these questions as completely or as confusingly as he might wish, and can provide information not only from the past but also from the future. (Of course, a wise GM should be wary about being too specific about things that have not happened yet.) The GM can even go beyond the specific question if he wishes, giving the player information not actually sought. On the other hand, the Void is difficult to comprehend - the GM should also feel free to deliver confusing or misleading information, but nothing outright false.
 
 ### Drink of Your Essence [CR]
 - Ring/Mastery: Void 2
@@ -126,8 +121,10 @@ As an ishiken grows more powerful, he can gain more information from examining a
 - Duration: 5 Rounds
 - Raises: Area of Effect (+5’ radius per two Raises), Duration (+1 Round per Raise)
 
-This spell allows the caster to thin the veil separating the Void from reality, enhancing the power of the Void within the local area. This is often used when training young ishi, allowing them to touch the Void more readily, but it has a practical value in that anyone within its effect can better harmonize with the Void and thus better reach their own physical and spiritual potential.<br>
-While this spell is in effect, anyone within the Area of Effect gains a Free Raise to casting Void spells; however, the intensity of the Void in the area makes it harder to focus enough on individual Elements cast other spells, inflicting a +5&#160;TN penalty on all non-Void spells. Also, anyone who spends a Void Point within the area of effect gains a +2k1 bonus instead of the normal +1k1.<br>
+This spell allows the caster to thin the veil separating the Void from reality, enhancing the power of the Void within the local area. This is often used when training young ishi, allowing them to touch the Void more readily, but it has a practical value in that anyone within its effect can better harmonize with the Void and thus better reach their own physical and spiritual potential.
+
+While this spell is in effect, anyone within the Area of Effect gains a Free Raise to casting Void spells; however, the intensity of the Void in the area makes it harder to focus enough on individual Elements cast other spells, inflicting a +5&#160;TN penalty on all non-Void spells. Also, anyone who spends a Void Point within the area of effect gains a +2k1 bonus instead of the normal +1k1.
+
 Any creature of the Lying Darkness (and any mortal with at least 1 Shadow Rank) who enters the area of effect will feel a deep sense of discomfort. Such creatures and individuals must roll Willpower at TN 20 or suffer a +10&#160;TN penalty to all their Skill rolls and attack rolls made while they are within the area of effect. If they fail the Willpower roll by more than 10, they must try to leave the area of effect and cannot voluntarily re-enter it.
 
 ### The Empty Voice [CR]
@@ -166,7 +163,7 @@ All things, both living and unliving, exist within the Void, and can be touched 
 
 Talented ishiken can rob others of their ability to tap into the Void, if only temporarily. If this spell is successful, the target must succeed at a Contested Void Roll against you before they are able to spend any Void Points. This roll does not count as an action for the target, and they must succeed at only one Contested Roll per turn, even if they are spending multiple Void Points per turn as a result of a Technique or other ability.
 
-## <span>Mastery Level 3</span>
+## Mastery Level 3
 
 ### BANISH THE VOID [BoV]
 - Ring/Mastery: Void 3
@@ -175,8 +172,10 @@ Talented ishiken can rob others of their ability to tap into the Void, if only t
 - Duration: 5 Rounds
 - Raises: Area of Effect (+5’ radius per two Raises), Duration (+1 Round per Raise)
 
-This spell is the exact counterpoint to Strengthen the Void; it thickens the veil between the Void and reality, making it more difficult to perceive the Void or to call on the inner harmony which the Void represents. This spell is normally used by ishiken to control the activities of their more powerful and dangerous apprentices, but is sometimes employed in more practical venues as well.<br>
-Within this spell’s area of effect, casting other Void spells suffers a +10&#160;TN penalty. Also, anyone wishing to spend Void Points within this area must spend two Void Points to gain the effects of one. If the character only has one Void Point, he cannot spend it within the area of effect.<br>
+This spell is the exact counterpoint to Strengthen the Void; it thickens the veil between the Void and reality, making it more difficult to perceive the Void or to call on the inner harmony which the Void represents. This spell is normally used by ishiken to control the activities of their more powerful and dangerous apprentices, but is sometimes employed in more practical venues as well.
+
+Within this spell’s area of effect, casting other Void spells suffers a +10&#160;TN penalty. Also, anyone wishing to spend Void Points within this area must spend two Void Points to gain the effects of one. If the character only has one Void Point, he cannot spend it within the area of effect.
+
 GM’s Note: It is left to the GM’s decision whether the effects of Strengthen the Void and Banish the Void also apply to “Void-like” effects such as Naga Akasha or the ratling Name.
 
 ### Echoes in the Void [CR]
@@ -224,7 +223,7 @@ Even objects have resonance, and retain some memory of those who hold them, and 
 
 Most are ignorant of the Void coursing within them, and do not realize that it can be stolen away. You must make a Contested Void Roll against the target of this spell. If successful, the target loses one Void Point, and you gain one Void Point. An additional points is exchanged for every increment of 5 by which you exceed the target's roll. These temporary Void Points may take you above your maximum number of Void Points you may have, but they expire within one hour if not used. This spell cannot be used on a creature who does not have Void Points or which has some other mechanical effect that substitutes for Void (such as Naga Akasha or Ratling Name).
 
-## <span>Mastery Level 4</span>
+## Mastery Level 4
 
 ### Balance of Elements [CR]
 - Ring/Mastery: Void 4
@@ -260,8 +259,8 @@ The emptiness that is the Void is part and parcel of what separates the various 
 - Duration: Concentration
 - Raises: Range (+10’ per Raise), Special (+1k0 to Contested Roll per Raise)
 
-This spell allows the ishiken to suffuse another living creature with the pure essence of the Void, overwhelming<br>
-the creature’s bodily functions and rendering that creature inert and unmoving so long as the spell remains in effect.<br>
+This spell allows the ishiken to suffuse another living creature with the pure essence of the Void, overwhelming< the creature’s bodily functions and rendering that creature inert and unmoving so long as the spell remains in effect.
+
 The caster must be able to see the target, and the spell requires a successful Contested Void Roll (creatures without a Void Ring may resist with Name, Akasha, or Willpower at the GM’s discretion). If the target fails the Contested Roll, it is held immobile, unable to move, speak, or otherwise act of its own volition so long as the caster maintains concentration. On the second and subsequent Rounds of the spell, the target may make another Contested Roll during the Reactions Stage to throw off the spell’s effects.
 
 ### Fill the Emptiness [CR]
@@ -282,7 +281,7 @@ Strengthening an individual's connection to the Void can replenish their reserve
 
 The mortal shell can endure only so much direct contact with the Void; too much, and the flesh can be destroyed by the exposure. This spell inflicts damage with a DR equal to your Void Ring.
 
-## <span>Mastery Level 5</span>
+## Mastery Level 5
 
 ### Divide the Soul [CR]
 - Ring/Mastery: Void 5
@@ -311,7 +310,7 @@ All is one and one is all. You may take any single object and transform it into 
 
 Tampering with the pattern of another being's Void can result in catastrophic changes to their abilities. The target's Rings are reordered at random, along with their Traits. For instance, a target might exchange his Air Ring for his Fire Ring, and his Water Ring for his Earth Ring for the duration of the spell. Mental and Physical Traits exchange their values if those values are greater than the Ring. In the above example, if your target has Air 3 and Reflexes 4, he would instead have Fire 3 and Agility 4, with his values for those Traits reassigned to his Air and Reflexes.
 
-## <span>Mastery Level 6</span>
+## Mastery Level 6
 
 ### Ring of the Void [CR]
 - Ring/Mastery: Void 6
@@ -329,7 +328,8 @@ Rare and extraordinarily powerful, even by shugenja standards, this prayer calls
 - Duration: Instantaneous (requires 1 hour to cast)
 - Raises: Special (+1 hour of regression per Raise)
 
-Everything that exists has a pattern in the Void, a threat woven in the tapestry that is existence. By recalling the memory of that pattern, you can reverse recent effects that have happened to a living creature. When you cast this spell on an individual, you are essentially restoring their existence within the Void in accordance with their previous self. Upon completion of the spell, the person is immediately restored to the state they were in eight hours prior to when the spell begun. Any injuries suffered during this time, the effects of disease or poisons, even the acquisition of supernatural conditions such as the Shadowlands Taint or corruption by the Lying Darkness, can be undone in this manner. Upon the completion of this spell, you lose all Void Points, and may not regain Void Points for a period of three days, after which they will begin to recover at one Void Point per day until you have your maximum normal amount again.<br>
+Everything that exists has a pattern in the Void, a threat woven in the tapestry that is existence. By recalling the memory of that pattern, you can reverse recent effects that have happened to a living creature. When you cast this spell on an individual, you are essentially restoring their existence within the Void in accordance with their previous self. Upon completion of the spell, the person is immediately restored to the state they were in eight hours prior to when the spell begun. Any injuries suffered during this time, the effects of disease or poisons, even the acquisition of supernatural conditions such as the Shadowlands Taint or corruption by the Lying Darkness, can be undone in this manner. Upon the completion of this spell, you lose all Void Points, and may not regain Void Points for a period of three days, after which they will begin to recover at one Void Point per day until you have your maximum normal amount again.
+
 This spell cannot be used to restore someone who has died.
 
 ### Unmake the World [CR]
