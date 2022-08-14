@@ -187,7 +187,8 @@ The spell was originally devised by the Seppun shugenja, but due to its great us
 - Duration: Three rounds
 - Raises: Duration (One round), Range (10’)
 
-An early attempt to use the magic of Air to gain advantage against the unwary, the Soshi family devised this spell to delay those who had stumbled upon their Clan’s machinations, or to cover their tracks. Once this spell is cast, the next thing the victim sees that seems unusual or out of the ordinary instead appears completely normal to them. This does not change the victim’s reaction, it simply clouds their perceptions such that they believe they are seeing something they expect to see, or at least something not unusual at all. A guard under the influence of this spell, for example, might walk through his regular patrol and see an undisturbed room rather than the ransacked mess a thief had left behind.<br>
+An early attempt to use the magic of Air to gain advantage against the unwary, the Soshi family devised this spell to delay those who had stumbled upon their Clan’s machinations, or to cover their tracks. Once this spell is cast, the next thing the victim sees that seems unusual or out of the ordinary instead appears completely normal to them. This does not change the victim’s reaction, it simply clouds their perceptions such that they believe they are seeing something they expect to see, or at least something not unusual at all. A guard under the influence of this spell, for example, might walk through his regular patrol and see an undisturbed room rather than the ransacked mess a thief had left behind.
+
 This spell only affects vision, so the victim is allowed an Investigation roll against a TN of the caster’s Air x 5 if there are subtle clues betraying the illusion (such as stepping on a bit of spilled sake). Any major clues (such as screaming coming from the changed scene or tripping over an object covered by the illusion) ends the effect immediately.
 
 ### Hidden Visage [CR]
@@ -520,8 +521,10 @@ Named after the Fortune of Scribes, this powerful invocation was originally crea
 - Duration: 5 minutes
 - Raises: Range (+25' per Raise), Duration (+1 minute per Raise)
 
-Men's memories are shaky, distant things, lodged deep within their minds, and nearly all mortals possess some past sin, some shame they would rather have forgotten. This spell, a favorite of the Scorpion, causes Air kami to evoke the memories and visions of past crimes. The constant painful memories distract and distress the victim of the spell, making it difficult for him to accomplish anything. For the duration of the spell, he must call one Raise for no effect on any Skill rolls or Spellcasting rolls which he makes. if he has 3 or more points in Mental or Social Disadvantages, he must call 2 Raises instead.<br>
-It may be noted that there are a handful of stalwart souls in Rokugan who truly do not have any sins haunting their past. Such rare persons are immune to the effects of this spell; it is left to the GM's discretion whether a particular target is truly noble enough to shrug off the Whispers of the Forgotten.<br>
+Men's memories are shaky, distant things, lodged deep within their minds, and nearly all mortals possess some past sin, some shame they would rather have forgotten. This spell, a favorite of the Scorpion, causes Air kami to evoke the memories and visions of past crimes. The constant painful memories distract and distress the victim of the spell, making it difficult for him to accomplish anything. For the duration of the spell, he must call one Raise for no effect on any Skill rolls or Spellcasting rolls which he makes. if he has 3 or more points in Mental or Social Disadvantages, he must call 2 Raises instead.
+
+It may be noted that there are a handful of stalwart souls in Rokugan who truly do not have any sins haunting their past. Such rare persons are immune to the effects of this spell; it is left to the GM's discretion whether a particular target is truly noble enough to shrug off the Whispers of the Forgotten.
+
 Some priests of a more ascetic nature have also been known to cast this spell on themselves in order to remind themselves of their past failings and the need for humility in the face of their human frailties.
 
 ### Wisdom of the Kami
@@ -557,7 +560,8 @@ Among the innermost circles of the Kitsu family are the ancestral shugenja who c
 
 When the spell is cast, the shugenja beseeches the ancestral spirits of Yomi to send aid. If the Spell Casting Roll succeeds, a shiryo - a spirit from Yomi - will arrive on the scene in five Rounds. Once it arrives, the spirit reclaims its mortal form, but its spiritual nature is easily sensed from the celestial glow which surrounds it. It will offer whatever aid it can to the caster, whether that be advice, knowledge, or combat, but it will not do anything dishonorable. Mechanically, a typical shiryo will have the creature trait of Spirit, and will possess a Rank of 3 in all of its Rings and Traits and a Rank of 4 in any useful Skills.
 
-Once the spell's duration expires, the shiryo immediately returns to Yomi. It also leaves for Yomi if its physical body is destroyed (e.g. it is reduced to zero wounds).<br>
+Once the spell's duration expires, the shiryo immediately returns to Yomi. It also leaves for Yomi if its physical body is destroyed (e.g. it is reduced to zero wounds).
+
 Although this spell normally calls a &quot;generic&quot; shiryo, the GM may opt to allow the shugenja to summon a specific named ancestral spirit with additional Raises. The GM may also choose to have a more powerful or famous shiryo answer the spell if the specific circumstances seem to warrant it. More powerful Shiryo will possess a School as appropriate for their ancestral clan, typically with a School Rank between 3 and 5.
 
 ### Draw Back the Shadow [CR]
@@ -661,7 +665,8 @@ A peculiar side effect of this spell is that for an hour after it ends, the cast
 - Duration: 1 month
 - Raises: Duration (1 additional month per 3 Raises)
 
-This secret spell is an important element in the Kolat’s methods for creating sleeper agents, but even when used by itself it is a potent weapon in the conspiracy’s arsenal. The Kolat typically use this spell when it is vitally necessary to conceal their operations without actually killing someone - typically because the person in question is too important to be easily disposed of.<br>
+This secret spell is an important element in the Kolat’s methods for creating sleeper agents, but even when used by itself it is a potent weapon in the conspiracy’s arsenal. The Kolat typically use this spell when it is vitally necessary to conceal their operations without actually killing someone - typically because the person in question is too important to be easily disposed of.
+
 Casting this spell requires the caster to hold the target by the head and focus on him for 8 hours uninterrupted; typically, the target will be bound to prevent interruptions. If contact with the target is broken for more than 3 minutes the spell will fail. At the end of 8 hours the shugenja makes a Contested Insight/Air roll against the target. If the shugenja wins the roll, the target’s thoughts and memories are rewritten and rearranged in whatever way the caster prefers. Mental Advantages and Disadvantages cannot be changed, but the target may be made to think he is someone else, to forget something that happened, to remember events or persons differently, and so forth. (This does not grant any Skill ranks, Techniques, or other actual capabilities. The target may believe he is the Elemental Master of Fire but this will not make him capable of casting spells.)
 
 ### Wrath of Kaze-no-Kami (Hurricane) [CR]
