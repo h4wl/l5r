@@ -1,6 +1,6 @@
 Title: Earth Spells
 ---
-## <span>Mastery Level 1</span>
+## Mastery Level 1
 
 ### Armor of Earth [CR]
 - Ring/Mastery: Earth 1 (Battle, Defense)
@@ -94,8 +94,8 @@ This spell fills the target's soul with the firm and unyielding strength of ston
 - Duration: 6 hours
 - Raises: Duration (+1 hour per Raise)
 
-This spell calls on the strength of stone to enhance the target creature’s physical endurance and toughness. This spell was originally devised by the Unicorn to allow their<br>
-horses to ride for long periods of time without tiring, but after the Unicorn returned to the Empire other clans also saw value in the spell – particularly the Crab, who found it quite useful for situations where their soldiers had to remain on duty for long periods of time. For the duration of the spell, the target is immune to being Fatigued due to a lack of rest, and is considered to have a Stamina that is one Rank higher for the purpose of any rolls or effects which specifically key on Stamina (such as resisting poisons, determining how long one can avoid drowning, etc).<br>
+This spell calls on the strength of stone to enhance the target creature’s physical endurance and toughness. This spell was originally devised by the Unicorn to allow their horses to ride for long periods of time without tiring, but after the Unicorn returned to the Empire other clans also saw value in the spell – particularly the Crab, who found it quite useful for situations where their soldiers had to remain on duty for long periods of time. For the duration of the spell, the target is immune to being Fatigued due to a lack of rest, and is considered to have a Stamina that is one Rank higher for the purpose of any rolls or effects which specifically key on Stamina (such as resisting poisons, determining how long one can avoid drowning, etc).
+
 The spell may be cast multiple times on the same target, but the Earth spirits cannot sustain the effort beyond a total of 24 consecutive hours. Once the spell expires, the target is automatically considered Fatigued until he rests for at least half as long as he was under the spell’s effects.
 
 ### Tetsubo of Earth [CR]
@@ -107,7 +107,7 @@ The spell may be cast multiple times on the same target, but the Earth spirits c
 
 You summon a tetsubo of pure earth, studded with all manner of stones. The weapon's default form is a tetsubo, but one Raise can change its form to any other heavy weapon of your choosing. The tetsubo has a DR of 2k2. When wielding this weapon, you may use your School Rank in place of your Heavy Weapon Skill if you wish. If you do have the Heavy Weapon Skill, the tetsubo grants you a Free Raise for the Knockdown maneuver (this bonus does not apply if you grant the Tetsubo to another person instead of wielding it yourself). The tetsubo disappears if it is lost from your hand. Instead of summoning for yourself, you may cause it to appear in the hands of an ally within 20 feet. He is treated as the caster for all purposes of the spell, but does not gain the Free Raise bonus.
 
-## <span>Mastery Level 2</span>
+## Mastery Level 2
 
 ### Be the Mountain [CR]
 - Ring/Mastery: Earth 2 (Defense)
@@ -179,9 +179,10 @@ This spell calls on the Earth kami to remove all protection of Jurojin, the Fort
 - Duration: 1 day
 - Raises: Duration (+1 day per three Raises)
 
-This spell is used to preserve the bodies of the dead until they can be properly disposed of (typically by cremation). It was originally developed to allow Imperial and other high-ranking nobles’ bodies to be preserved in dignity until their funerals, since the funeral rites of such major lords are not only lengthy but also tend to draw guests from great distances. The Crab have also found it useful for protecting their dead against the Taint, although the spell is difficult to use on the battlefield.<br>
-Rites of Preservation is a ritual spell that requires one hour to cast. When a corpse is blessed with this prayer, the Earth kami are entreated to protect the body against<br>
-putrefaction and other unclean influences, allowing it to remain pristine and untouched until cremation. This blessing is one of the more important religious duties of shugenja, and despite its association with dead flesh is considered an honorable task.<br>
+This spell is used to preserve the bodies of the dead until they can be properly disposed of (typically by cremation). It was originally developed to allow Imperial and other high-ranking nobles’ bodies to be preserved in dignity until their funerals, since the funeral rites of such major lords are not only lengthy but also tend to draw guests from great distances. The Crab have also found it useful for protecting their dead against the Taint, although the spell is difficult to use on the battlefield.
+
+Rites of Preservation is a ritual spell that requires one hour to cast. When a corpse is blessed with this prayer, the Earth kami are entreated to protect the body against putrefaction and other unclean influences, allowing it to remain pristine and untouched until cremation. This blessing is one of the more important religious duties of shugenja, and despite its association with dead flesh is considered an honorable task.
+
 A body which is blessed by the Rites of Preservation will not putrefy for the duration of the spell. Moreover, because the blessing repels the attentions of the kansen, the corpse is immune to being animated by maho or the Taint until the spell expires.
 
 ### Taming the Beast
@@ -191,9 +192,8 @@ A body which is blessed by the Rites of Preservation will not putrefy for the du
 - Duration: 1 hour
 - Raises: Area of Effect (one additional creature per 2 Raises), Duration (1/2 hour per Raise)
 
-This spell is a secret of the Kitsune family and thus far has never been taught outside of their ranks. It calls on the power of Earth to soothe a wild animal’s temperamental spirit, causing it to become temporarily tame. After completing the prayer, the shugenja makes a Contested Earth roll against the target creature (as a Free Action); with a success, the creature ceases all hostile activity for the duration of the spell, and the caster may persuade the creature to obey simple commands by means of the Animal Handling skill (TNs determined by the GM based on the complexity of the command). When the spell’s<br>
-duration expires, the animal returns to its normal behavior – however, in some cases, repeated castings of this spell on the same animal have resulted in its being effectively<br>
-permanently tamed (GM’s discretion).<br>
+This spell is a secret of the Kitsune family and thus far has never been taught outside of their ranks. It calls on the power of Earth to soothe a wild animal’s temperamental spirit, causing it to become temporarily tame. After completing the prayer, the shugenja makes a Contested Earth roll against the target creature (as a Free Action); with a success, the creature ceases all hostile activity for the duration of the spell, and the caster may persuade the creature to obey simple commands by means of the Animal Handling skill (TNs determined by the GM based on the complexity of the command). When the spell’s duration expires, the animal returns to its normal behavior – however, in some cases, repeated castings of this spell on the same animal have resulted in its being effectively permanently tamed (GM’s discretion).
+
 This spell only works on natural creatures (such as snakes or bears) – it has no effect on spirits, supernatural creatures, or Tainted creatures.
 
 ### The Mountain's Feet [CR]
@@ -221,11 +221,11 @@ This spell infuses the target with the strength of Earth to such a degree that h
 - Duration: 10 minutes
 - Raises: Area of Effect (+50’ radius per Raise), Duration (+5 minutes per Raise), Special (+1 day of tracks per two Raises)
 
-This spell was originally developed by the Kitsune family of the Fox Clan, who used it to help track intruders in the lands of their modest clan. It has since spread to other families who find its properties useful, such as the Yogo and the Kuni. The spell causes the Earth spirits to reveal the tracks of any person who has walked upon them within the last three<br>
-days. The surface – whether it be stone, earth, or wood – literally pushes up in the shape of the tracks, creating a clear and easily-followed path.<br>
+This spell was originally developed by the Kitsune family of the Fox Clan, who used it to help track intruders in the lands of their modest clan. It has since spread to other families who find its properties useful, such as the Yogo and the Kuni. The spell causes the Earth spirits to reveal the tracks of any person who has walked upon them within the last three days. The surface – whether it be stone, earth, or wood – literally pushes up in the shape of the tracks, creating a clear and easily-followed path.
+
 (Note that, unlike revelatory Air spells such as By the Light of the Moon, this spell does not merely reveal actively concealed tracks but also normal unconcealed tracks that are too faint or old to normally be seen. For example, By the Light of the Moon would not reveal the barefoot tracks of a servant who walked across the floor of a dojo, but Whispers of the Land will do so.)
 
-## <span>Mastery Level 3</span>
+## Mastery Level 3
 
 ### Bonds of Ningen-Do [CR]
 - Ring/Mastery: Earth 3 (Wards)
@@ -272,7 +272,8 @@ Developed by the Kuni as a way to deal with the swarming masses of Shadowlands b
 - Duration: 10 Rounds
 - Raises: Area of Effect (+5’ radius per two Raises), Duration (+2 Rounds per Raise), Special (+5&#160;TN to climb rocks per Raise)
 
-This spell is a specialized variation of the more commonprayer known as Wall of Earth. It entreats the Earth spirits to draw an array of huge stones up from the ground, erupting in an instant through most intervening physical obstacles (such as the floor of a house) to create a circular barrier around the caster. The stones are too strong to break through with anything short of a siege engine (against a siege engine they are considered to have 500 Wounds and Reduction 15), but can be clambered over with a Complex Action and a roll of Athletics / Strength against the caster’s Earth x5.<br>
+This spell is a specialized variation of the more commonprayer known as Wall of Earth. It entreats the Earth spirits to draw an array of huge stones up from the ground, erupting in an instant through most intervening physical obstacles (such as the floor of a house) to create a circular barrier around the caster. The stones are too strong to break through with anything short of a siege engine (against a siege engine they are considered to have 500 Wounds and Reduction 15), but can be clambered over with a Complex Action and a roll of Athletics / Strength against the caster’s Earth x5.
+
 When the spell expires, the stones crumble away to loose earth and dust.
 
 ### Murmur of Earth [CR]
@@ -282,8 +283,8 @@ When the spell expires, the stones crumble away to loose earth and dust.
 - Duration: 1 round
 - Raises: Area of Effect (+50’ radius per Raise), Special (+5 to TN per two Raises)
 
-This spell excites and angers the Earth spirits in the ground around the caster, causing them to briefly shake the ground in the manner of an earthquake; however, the spirits refrain from shaking the ground immediately beneath the caster himself. Although this spell does not produce a true earthquake, the brief tremor can still cause damage and alarm. Any persons within the area of effect must roll Agility at TN 20 or be knocked Prone, suffering 1k1 damage and being Dazed for one Round. Furnishing and other such items will be knocked over by the tremor, which may have a variety of effects as the GM chooses<br>
-(e.g. a table with a lantern falling over might start a fire).<br>
+This spell excites and angers the Earth spirits in the ground around the caster, causing them to briefly shake the ground in the manner of an earthquake; however, the spirits refrain from shaking the ground immediately beneath the caster himself. Although this spell does not produce a true earthquake, the brief tremor can still cause damage and alarm. Any persons within the area of effect must roll Agility at TN 20 or be knocked Prone, suffering 1k1 damage and being Dazed for one Round. Furnishing and other such items will be knocked over by the tremor, which may have a variety of effects as the GM chooses (e.g. a table with a lantern falling over might start a fire).
+
 When using the Siege rules from the L5R 4th edition supplement The Great Clans, Murmur of Earth will cause 4k2 damage to all structures within its area of effect, ignoring their Reduction.
 
 ### Purge the Taint [CR]
@@ -313,7 +314,8 @@ This spell infuses its targets, up to six people (who can include the caster), w
 - Duration: 30 minutes
 - Raises: Duration (+10 minutes per Raise)
 
-This spell entreats the Earth kami to hide and conceal the targeted creature. Earth flows up to cover the target with a realistic-looking facsimile of some natural object, such as a tree or a boulder; this shell collapses back into loose earth when the spell expires. The target can hear and breathe normally, but has no other interaction with the world outside of the concealing shell of Earth; if he speaks, moves, or is actually hit by an attack, the spell immediately ends and the concealing shell collapses as above. From outside, however, the false object will seem perfectly normal and will resist physical blows with the same strength it would have if it were real.<br>
+This spell entreats the Earth kami to hide and conceal the targeted creature. Earth flows up to cover the target with a realistic-looking facsimile of some natural object, such as a tree or a boulder; this shell collapses back into loose earth when the spell expires. The target can hear and breathe normally, but has no other interaction with the world outside of the concealing shell of Earth; if he speaks, moves, or is actually hit by an attack, the spell immediately ends and the concealing shell collapses as above. From outside, however, the false object will seem perfectly normal and will resist physical blows with the same strength it would have if it were real.
+
 When creating the false shell, the Earth kami will try to choose an object that is appropriate for the area (such as a boulder on a mountainside), but they do lack imagination and in any case cannot create the false form of a manmade object – thus, the utility of this spell within a town or a castle is somewhat limited.
 
 ### Strength of the Crow [CR]
@@ -341,8 +343,10 @@ This spell calls on the spirits of Earth to strengthen the target’s hands and 
 - Duration: Permanent
 - Raises: Range (change from Touch to 50’ with three Raises)
 
-This spell causes the Earth kami within a physical object to abandon that object, weakening its physical strength. Wood warps and flakes, stone and metal turn weak and brittle, cloth becomes thin and fragile, and so forth. The spell’s effects are permanent.<br>
-Mechanically, any weapon which is affected by this spell will lose 2k1 from its DR, and any armor will lose 5 from its Armor TN bonus and 3 from its Reduction. A variety of other non-mechanical effects can also take place, subject to the GM’s adjudication - for example, a kimono affected by this spell will rip if it is subject to the slightest tension or stress, and a scroll will tear and crumble the moment it is unrolled. Weakened stones or beams could be used to sabotage a bridge, to facilitate breaking into a besieged castle, and so forth.<br>
+This spell causes the Earth kami within a physical object to abandon that object, weakening its physical strength. Wood warps and flakes, stone and metal turn weak and brittle, cloth becomes thin and fragile, and so forth. The spell’s effects are permanent.
+
+Mechanically, any weapon which is affected by this spell will lose 2k1 from its DR, and any armor will lose 5 from its Armor TN bonus and 3 from its Reduction. A variety of other non-mechanical effects can also take place, subject to the GM’s adjudication - for example, a kimono affected by this spell will rip if it is subject to the slightest tension or stress, and a scroll will tear and crumble the moment it is unrolled. Weakened stones or beams could be used to sabotage a bridge, to facilitate breaking into a besieged castle, and so forth.
+
 In general, this spell will not affect awakened items (e.g. nemuranai), since their empowered spirits resist the shugenja’s entreaty.
 
 ### The Wolf's Mercy [CR]
@@ -363,10 +367,11 @@ The target's Earth Ring is lowered by 1 Rank, and his Wound Ranks are reduced co
 - Duration: 5 Rounds
 - Raises: Range (+10’ per Raise), Duration (+1 Round per Raise), Special (+1k0 to the plants’ Strength per Raise)
 
-This spell entreats the Earth kami inhabiting living plants and trees, causing them to make the plants rapidly grow and twine themselves around a designated target. Within seconds the target finds himself ensnared in a dense tangle of vines, creepers, and branches. The target is automatically Entangled at the moment the spell is cast; on his subsequent Turns, the target may attempt to escape as a Simple Action by making a Contested Strength roll against the plants’ Strength of 4. (Alternatively, the target can be cut free by allies – it takes two Turns’ worth of effort to slash away enough of the plants to free the target.) If the target escapes, or the spell expires, the plants drop away and shrivel up as the Earth kami cease to stimulate them.<br>
+This spell entreats the Earth kami inhabiting living plants and trees, causing them to make the plants rapidly grow and twine themselves around a designated target. Within seconds the target finds himself ensnared in a dense tangle of vines, creepers, and branches. The target is automatically Entangled at the moment the spell is cast; on his subsequent Turns, the target may attempt to escape as a Simple Action by making a Contested Strength roll against the plants’ Strength of 4. (Alternatively, the target can be cut free by allies – it takes two Turns’ worth of effort to slash away enough of the plants to free the target.) If the target escapes, or the spell expires, the plants drop away and shrivel up as the Earth kami cease to stimulate them.
+
 This spell can only function in an area where living plants are present, e.g. it will not function inside a building, in a desert, on a barren mountainside, or other such environments. It cannot target a flying creature.
 
-## <span>Mastery Level 4</span>
+## Mastery Level 4
 
 ### Armor of the Emperor [CR]
 - Ring/Mastery: Earth 4 (Defense)
@@ -411,7 +416,8 @@ This prayer causes the Earth spirits in the ground to wrench open a large pit ro
 - Duration: Instantaneous
 - Raises: Range (+20’ per Raise), Targets (+1 target per Raise), Damage (+1k1 per Raise)
 
-During the War Against the Darkness, the Kuni family of the Crab came to realize that the forces of the Lying Darkness were uniquely vulnerable to the power of crystal. The Kuni threw themselves into researching the ways of crystal and learning how to call on its power through the medium of the Earth kami. This prayer was the result.<br>
+During the War Against the Darkness, the Kuni family of the Crab came to realize that the forces of the Lying Darkness were uniquely vulnerable to the power of crystal. The Kuni threw themselves into researching the ways of crystal and learning how to call on its power through the medium of the Earth kami. This prayer was the result.
+
 A Sapphire Strike appears much like the far more well- known Jade Strike, but the blast of elemental energy which is unleashed shows a distinctive blue-green tinge, quite different from the bright green color of a Jade Strike, as the Earth kami call on the essence of Lady Sun’s tears. The Sapphire Strike has a DR of 4k4, but only against targets who are specifically vulnerable to Jade or Crystal. It is considered to be both Jade and Crystal for the purpose of game effects such as whether it penetrates Invulnerability or Reduction.
 
 ### Symbol of Earth [CR]
@@ -452,7 +458,7 @@ When Tomb of Jade is cast, the target is momentarily immobilized as the Earth sp
 
 This spell coaxes the spirits of Earth into rising up and forming a thick, powerful barrier to protect the caster. The wall of rock-hard earth which this spell creates can be shaped as the caster desires, and can be curved, placed on a side of a hill, or even formed in a circle. It is extremely tough, requiring a Strength Roll against a TN of the caster's (Earth + School Rank) x 5 in order to break through. It is strong enough to hold back a raging flood, a lava flow, or hurricane winds, at least as long as the spell lasts. When the spell expires, however, the earthen barrier crumbles away in moments.
 
-## <span>Mastery Level 5</span>
+## Mastery Level 5
 
 ### DraWing on the Mountain [CR]
 - Ring/Mastery: Earth 5 (Battle, Defense)
@@ -461,7 +467,8 @@ This spell coaxes the spirits of Earth into rising up and forming a thick, power
 - Duration: 1 day
 - Raises: Range (+150’ per Raise), Area of Effect (one additional structure for 3 Raises), Duration (+1 day per 3 Raises)
 
-This spell invokes the strength of Earth to strengthen a physical structure against harm. The wood and stone o the target structure – which may be as large as a castle are infused with the strength of the mountains themselves, allowing it to withstand floods, earthquakes, and the assaults of siege engines.<br>
+This spell invokes the strength of Earth to strengthen a physical structure against harm. The wood and stone o the target structure – which may be as large as a castle are infused with the strength of the mountains themselves, allowing it to withstand floods, earthquakes, and the assaults of siege engines.
+
 When using the Siege rules from the L5R 4th edition supplement The Great Clans, for the duration of this spell the Wounds and Reduction of the target structure are doubled. When the spell expires, the extra Wounds are lost – if this reduces the structure to zero Wounds, it immediately collapses into ruin.
 
 ### Earthquake [CR]
@@ -520,7 +527,7 @@ This spell allows the caster to fortify one person with the power of the Earth, 
 
 The counterpoint to the Kami's Strength, this spell infuses one person with the stubbornness and determination of Earth, greatly enhancing their willpower and making them all but immune to the effects of elemental magic. The target of this spell increases his Willpower by an amount equal to the caster's Earth Ring, and any spells (friendly or hostile, but not including Maho spells) which target him suffer a penalty of -XkX to their Spell Casting Roll, where X is the caster's Earth Ring. In return, however, the target is so stubborn and willful that he cannot function properly in a social environment,and suffers a penalty to all Social Skill rolls of -Xk0, where X is the Earth Ring of the caster.
 
-## <span>Mastery Level 6</span>
+## Mastery Level 6
 
 ### Essence of Jade [CR]
 - Ring/Mastery: Earth 6 (Defense, Jade)
@@ -567,6 +574,5 @@ The Earth itself arises and takes form to defend you. The ultimate realization o
 - Duration: 1 hour
 - Raises: Duration (+1/2 hour per Raise), Special (+2 soldiers per Raise)
 
-Most famously used by Isawa Tadaka and Isawa Sezaru in the early twelfth century, this powerful variation of Rise, Earth is found solely in the Phoenix libraries. Thus far the Phoenix have not shared it with any other clan, although they seriously considered doing so during the Kali-Ma Invasion. Depending on specific campaign settings, the GM could also have this spell introduced to the wider Empire in an earlier era. The spell creates ten human-sized warriors, forming them from earth and stone and animating them with the power of the Earth kami which infuse them. The warriors will move, fight, and otherwise act as the caster commands, obediently and fearlessly. They have Traits and Rings equal to the caster’s Earth, attack (with swords made of stone) as though they have Kenjutsu of 4, and have Reduction equal to twice the caster’s Earth. Their swords are considered to have the Jade property. When destroyed (or when the spell’s duration ends) they collapse<br>
-into piles of loose earth.
+Most famously used by Isawa Tadaka and Isawa Sezaru in the early twelfth century, this powerful variation of Rise, Earth is found solely in the Phoenix libraries. Thus far the Phoenix have not shared it with any other clan, although they seriously considered doing so during the Kali-Ma Invasion. Depending on specific campaign settings, the GM could also have this spell introduced to the wider Empire in an earlier era. The spell creates ten human-sized warriors, forming them from earth and stone and animating them with the power of the Earth kami which infuse them. The warriors will move, fight, and otherwise act as the caster commands, obediently and fearlessly. They have Traits and Rings equal to the caster’s Earth, attack (with swords made of stone) as though they have Kenjutsu of 4, and have Reduction equal to twice the caster’s Earth. Their swords are considered to have the Jade property. When destroyed (or when the spell’s duration ends) they collapse into piles of loose earth.
 
