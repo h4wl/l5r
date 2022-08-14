@@ -65,8 +65,8 @@
 h1::before, h2::before,h3::before,h4::before,h5::before,h6::before { 
     display: block; 
     content: " "; 
-    margin-top: -5rem; 
-    height: 5rem; 
+    margin-top: -6rem; 
+    height: 6rem; 
     visibility: hidden; 
     pointer-events: none;
 }
@@ -79,4 +79,20 @@ h1::before, h2::before,h3::before,h4::before,h5::before,h6::before {
 .input-group.books > .input-group-text {
     background-color: inherit;
     border: none;
+}
+
+.brushtip {
+    font-family: BrushtipTexe;
+}
+
+#content h1, h2, h3, h4, h5, h6
+{
+    font-family: BrushtipTexe;
+    padding-top: 1rem;
+}
+
+figure blockquote
+{
+    font-family: BrushtipTexe;
+    font-size: 1.5rem !important;
 }
