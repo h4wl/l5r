@@ -1,6 +1,6 @@
 Title: Fire Spells
 ---
-## <span>Mastery Level 1</span>
+## Mastery Level 1
 
 ### Biting Steel [CR]
 - Ring/Mastery: Fire 1 (Craft)
@@ -26,7 +26,8 @@ This spell embraces a weapon with fire, causing it to be larger and more effecti
 - Duration: Instantaneous
 - Raises: Area (1 cubic foot)
 
-A precursor to the secret elemental transformation spell that Agasha would devise later, this spell stripped a touched object of unwanted Elements, leaving a single Element behind. When the spell is cast, the caster declares a single Element (except Void) that he wishes to reveal. The rest of the elements are destroyed in a fashion appropriate to their type (water boils out, earth crumbles, fire dissipates, air creates a vacuum), leaving behind the desired element. The loss of certain elements may have different effects, based on the item. A lack of water means an item might lose any pliability or movement, a lacking earth means the object becomes brittle, and so on.<br>
+A precursor to the secret elemental transformation spell that Agasha would devise later, this spell stripped a touched object of unwanted Elements, leaving a single Element behind. When the spell is cast, the caster declares a single Element (except Void) that he wishes to reveal. The rest of the elements are destroyed in a fashion appropriate to their type (water boils out, earth crumbles, fire dissipates, air creates a vacuum), leaving behind the desired element. The loss of certain elements may have different effects, based on the item. A lack of water means an item might lose any pliability or movement, a lacking earth means the object becomes brittle, and so on.
+
 The form of this remaining element is left to the GM, and the GM may rule that certain objects (such as a katana) have too many closely intertwined elements to be affected by this spell. This spell may only affect a single object of 1 cubic foot in total size, plus an additional cubic foot per Raise.
 
 ### Envious Flames [CR]
@@ -137,7 +138,7 @@ Fire is the element of creation as well as destruction, and a skilled shugenja c
 
 Fire is the Element of wit and intellect as well as the Element of destruction. This spell excites the Fire kami within the mind, allowing the target to notice threats and react to them far more quickly than normally. For the duration of the spell, the target is immune to being surprised, adds +1k0 to any Initiative rolls he makes, and may add +3 to his Initiative total during the Reactions stage of each Round.
 
-## <span>Mastery Level 2</span>
+## Mastery Level 2
 
 ### Disrupt the Aura [CR]
 - Ring/Mastery: Fire 2
@@ -189,9 +190,8 @@ Fire kami can be imbued into physical objects, allowing them to remain present f
 - Range: 50’
 - Area of Effect: One target person/effect
 - Duration: Instantaneous
-- Raises: Range (+10’ per Raise), Area of Effect (+1
+- Raises: Range (+10’ per Raise), Area of Effect (+1 target per 2 Raises)
 
-target per 2 Raises)<br>
 This spell was originally devised by the Isawa to deal with the threat of Yobanjin magic, and later spread to the rest of the Empire when other gaijin threats became more frequent. The spell calls on Shinsei’s principles of Elemental unity and harmony to oppose unnatural foreign magic, using the energy of Fire as a focus. Purity of Shinsei ends the effects of a gaijin spell or spell-like effect. Typically this means targeting an individual who is being afflicted by an ongoing gaijin spell effect (such as a samurai laboring under a foreign curse), though it can also target an effect which is not afflicting a specific individual (such as a foreign curse on a castle, a village, or a physical item). The GM has final discretion on whether a particular gaijin magic effect can be countered with Purity of Shinsei. If the optional Counterspelling rules as in use, the GM may opt to let a shugenja who knows this spell attempt to Counterspell meishodo spells and gaijin magic.
 
 ### Relentless Heat [CR]
@@ -236,16 +236,15 @@ If overlapping Wards of Purity are present, their effects do not stack.
 
 This prayer is a simpler and less potent form of the spell Wings of the Phoenix, although it is also slightly more flexible in that it does not require a suit of armor to act as an &quot;anchor&quot; for the Fire kami. When this spell is cast, a cloud of Fire kami gather and take the form of large feathery wings sprouting from the caster’s arms and back. The caster may use these wings to fly slowly (normally moving at a speed equal to Water 1, regardless of his actual Water Ring). If the caster is able to glide (e.g. he is already at a significant height above the ground), he can move more quickly, as though he is Water 4. While the spell is in effect, the caster cannot use his arms for anything but flapping and moving his fiery wings, severely limiting his potential actions; also, he will set fire to any easily flammable objects (such as paper or spell scrolls) he touches, although the Fire kami will avoid harming his clothes. When the spell ends, the Fire kami immediately disperse, regardless of whether the caster is on the ground or in the air - unlike the friendly Air kami, the mercurial and aggressive Fire kami do not particularly care about the caster’s fate once they depart.
 
-## <span>Mastery Level 3</span>
+## Mastery Level 3
 
 ### Agasha’s Shield (Tamori’s Curse)
 - Ring/Mastery: Fire 3 (Defense, Wards)
 - Range: Touch/Self
 - Area of Effect: 30’ radius around caster
 - Duration: 6 Rounds
-- Raises: Area of Effect (+5’ radius per Raise),
+- Raises: Area of Effect (+5’ radius per Raise), Duration (+1 Round per Raise)
 
-Duration (+1 Round per Raise)<br>
 Originally devised by Agasha shugenja who were working with hanabi (fireworks), in modern times this spell has been renamed Tamori’s Curse by the Tamori family. The spell creates a zone of protection in which Fire kami friendly to the caster reject any intrusion by other Fire kami. Any hostile Fire spell cast within the Area of Effect suffers a -4k0 penalty to the Spell Casting Roll. Any hostile Fire spell cast from an outside location that attempts to project Fire effects into the Area of Effect (such as spells like Fires From Within) will suffer a -3k0 penalty to its DR as Agasha’s Shield disperses and weakens the kami.
 
 ### Breath of the Fire Dragon [CR]
@@ -342,7 +341,7 @@ This prayer, variously credited to the Isawa, the Kitsu, or the Seppun, is the p
 
 The creation of this spell is credited to Asahina himself, who sought ways to use Fire magic peacefully after he joined the Crane Clan, but in modern times it is found in the ranks of many different families. The spell causes the Fire kami to gather and dance in a pleasing visual shape and with a soothing rhythmic light. Those who gaze upon the Fire kami see an entrancing and appealing vision that distracts them from taking violent actions. All persons within the Area of Effect find themselves entranced and are considered Dazed for the duration of the spell. However, the targets may attempt to shake off the spell’s effects during the Reactions Stage of each Round with a Willpower roll against a TN of the caster’s Fire x10. This spell’s effects are most potent against Rokugani, since the Fire kami find it more difficult to create entrancing images for those they do not understand. The GM may award gaijin and nonhuman targets a bonus to their Willpower roll to resist the spell’s effects. Animals, bestial creatures, and mindless creatures such as undead are completely immune to the spell.
 
-## <span>Mastery Level 4</span>
+## Mastery Level 4
 
 ### Blessing of the Sun
 - Ring/Mastery: Fire 4
@@ -415,7 +414,8 @@ Priests of the kami are capable of inscribing powerful wards that invoke the pow
 - Duration: 1 hour
 - Raises: Area of Effect (+1 increment, see below)
 
-You invoke the Fire kami to spring up and form a wall of flames, barring passage to all. The wall is 10' tall, 1' wide, and 25' long, and causes 6k6 Wounds to anyone who touches it. This wall may be made shorter or thinner as desired, within the total specifications, but all the mass of the flames must be used somehow. The wall may be created in an area where people or creatures are standing, forcing them to make a Reflexes Trait Roll against a TN of 20 to avoid taking Wounds from the fire.<br>
+You invoke the Fire kami to spring up and form a wall of flames, barring passage to all. The wall is 10' tall, 1' wide, and 25' long, and causes 6k6 Wounds to anyone who touches it. This wall may be made shorter or thinner as desired, within the total specifications, but all the mass of the flames must be used somehow. The wall may be created in an area where people or creatures are standing, forcing them to make a Reflexes Trait Roll against a TN of 20 to avoid taking Wounds from the fire.
+
 You may Raise to increase on of the specifications (height, width, or length) by its base increment (10', 1', or 25' respectively).
 
 ### Ward of Thunder [CR]
@@ -427,7 +427,7 @@ You may Raise to increase on of the specifications (height, width, or length) by
 
 Osano-Wo's protection can be temporarily invoked for a suit of armor by casting this spell and inscribing the kanji for thunder on the armor. Those within 15' of the armor are under Osano-Wo's care, and are completely protected from non-magical fire and thunder for the duration of the spell. Additionally, any Fire spell cast by a shugenja other than yourself which targets something within the area of effect has its Spell Casting TN increased by 20
 
-## <span>Mastery Level 5</span>
+## Mastery Level 5
 
 ### Castle of Fire
 - Ring/Mastery: Fire 5 (Battle, Defense)
@@ -445,7 +445,8 @@ Like the other Castle spells, Castle of Fire is a defensive prayer, in this case
 - Duration: Instantaneous
 - Raises: Range (+50’ per Raise)
 
-One of the most potent and deadly of Fire spells, but also one used only by those facing the most desperate need. The spell invokes an array of powerful Fire kami to strike down the target with incredibly powerful heat and flame - but in order to persuade so many kami to strike with such immense power, the shugenja must bestow them with a gift of his own life-force.<br>
+One of the most potent and deadly of Fire spells, but also one used only by those facing the most desperate need. The spell invokes an array of powerful Fire kami to strike down the target with incredibly powerful heat and flame - but in order to persuade so many kami to strike with such immense power, the shugenja must bestow them with a gift of his own life-force.
+
 The target of this spell is instantly killed, reduced to Dead and then burned down to ashes in a matter of seconds. However, the caster immediately suffers the same number of Wounds as were inflicted on the target - an effect which is often, though not always, lethal. This damage cannot be reduced or mitigated in any way, and if it is lethal the caster cannot avert death. This spell will automatically fail if it targets a creature which is resistant to Fire, and it cannot kill divine entities such as Fortunes.
 
 ### Destructive Wave [CR]
@@ -502,7 +503,7 @@ This prayer invokes the power of the Sun, worshiped and venerated throughout Rok
 
 The Phoenix is one of the most powerful symbols of Fire known to the Rokugani, and this spell calls on the essence of that being to grant its casters the power of flight. When this spell is cast, you summon clouds of Fire kami who take the form of giant wings sprouting from your back. You gain the ability to fly for the duration of the spell, moving at a speed of Water x 10 for a Free Action or Water x 20 for a Simple Action. If you are airborne when the spell expires, the Fire kami will bear you down to earth before departing.
 
-## <span>Mastery Level 6</span>
+## Mastery Level 6
 
 ### Beam of the Inferno [CR]
 - Ring/Mastery: Fire 6
