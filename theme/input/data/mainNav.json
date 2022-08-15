@@ -9,6 +9,10 @@
           "Path": "/history"
         },
         {
+          "Title": "Geography",
+          "Path": "/geography"
+        },
+        {
           "Title": "Religion",
           "Path": "/religion"
         },
