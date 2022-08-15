@@ -85,10 +85,15 @@ h1::before, h2::before,h3::before,h4::before,h5::before,h6::before {
     font-family: BrushtipTexe;
 }
 
-#content h1, h2, h3, h4, h5, h6
+#content :is(h2, h3, h4, h5, h6)
+{
+    margin-bottom: 1.5rem;
+}
+#content h1
 {
     font-family: BrushtipTexe;
-    padding-top: 1rem;
+    padding-top: 1.25rem;
+    padding-bottom: 0.5rem;
 }
 
 figure blockquote
