@@ -25,7 +25,7 @@
     @RenderSectionOrPartial("TopNav", "_topNav")
 
     <!-- Main Content -->
-    <div  class="container-fluid">
+    <div class="container-fluid">
   
         <div class="row">
             
@@ -39,7 +39,8 @@
                 @{
                     if (!Document.GetBool("NoHeader"))
                     {
-                        <h1 class="display-1">@Document.GetString("Title")</h1>
+                        <h1 class="display-1 text-center">@Document.GetString("Title")</h1>
+                        <hr style="margin-top: -2.5rem; margin-bottom: 2.5rem;"/>
                     }
                 }
 

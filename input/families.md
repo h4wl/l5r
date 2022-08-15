@@ -1,4 +1,4 @@
-Title: Book Of Earth - Families of Rokugan
+Title: Families of Rokugan
 ---
 ## <span>The Great Clans</span>
 
