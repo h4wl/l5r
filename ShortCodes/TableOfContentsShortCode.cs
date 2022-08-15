@@ -56,7 +56,9 @@ namespace Dhb.L5r.ShortCodes
         {
             var toc = new XElement("div",
                     new XAttribute("class", "d-grid"),
-                    new XElement("h4", "Table of Contents")
+                    new XElement("h4",
+                        new XAttribute("class", "brushtip d-none d-lg-block"), 
+                        "Table of Contents")
                 );
 
             foreach (var heading in headings)
