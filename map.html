@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <title>L5R - Legend of the Five Rings</title>
+    <title>L5R - Map of Rokugan</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?">
@@ -22,6 +22,13 @@
     <!-- END Pixel Code -->
 
     
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+   integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+   crossorigin=""/>
+ <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+   integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+   crossorigin=""></script>
+
 </head>
 
 <body>
@@ -154,55 +161,16 @@
             </div>
             
             <div id="content" class="col-md-12 col-lg-6 col-xl-6 col-xxl-6 px-lg-5"  >
+                        <h1 class="display-1 text-center">Map of Rokugan</h1>
+                        <hr class="d-none d-lg-block" style="margin-top: -2.5rem; margin-bottom: 2.5rem;"/>
 
                 <div >
-                    <div class="row justify-content-center">
-<div class="col-8">
-<img src="/img/l5c_logo_transparent.png" class="img-fluid my-5" alt="...">
-</div>
-</div>
-<p class="lead">
-The Rokugani believe that all of reality is organized
-into five Elements&mdash;Earth, Air, Fire, Water, and Void&mdash;and
-it is from these that the "five rings" of the title are derived.
-Accordingly, this site is divided into five sections, each discussing 
-a different aspect of Legend of the Five Rings.
-</p>
-<div class="ring-sprite-with-label sprite--air mx-auto d-block mt-5 mb-3"></div>
-<p>The <a href="/book-of-air">Book of Air</a> contains basic information on the world of
-Rokugan. It includes a brief century-by-century history of the
-Emerald Empire, a discussion of Rokugani culture, beliefs, and
-customs, and specific discussion of the eight Great Clans who
-dominate the Empire's history and conflicts.</p>
-<div class="ring-sprite-with-label sprite--earth mx-auto d-block mt-5 mb-3"></div>
-<p>The <a href="/book-of-earth">Book of Earth</a>  contains the basic rules of the game.
-It explains the fundamental mechanics of playing Legend of
-the Five Rings, including the role and importance of the five
-Elemental Rings, the various die-rolling mechanics, and the
-essential rules of combat, dueling, and other actions.</p>
-<div class="ring-sprite-with-label sprite--fire mx-auto d-block mt-5 mb-3"></div>
-<p>The <a href="/book-of-fire">Book of Fire</a>  contains the basic character creation rules
-and offers detailed discussions of how to make an assortment
-of basic character types from each of the eight Great Clans. It
-also offers a full list of Skills, Advantages, Disadvantages, and
-Spells for use in the game.</p>
-<div class="ring-sprite-with-label sprite--water mx-auto d-block mt-5 mb-3"></div>
-<p>The <a href="/book-of-water">Book of Water</a>  contains advanced and optional rules,
-rules which the GM and players can decide to use or ignore as
-they please. These rules add more variety and customization
-options to the game. They include information on playing a
-character from one of the Minor Clans or Imperial Families,
-and a variety of special mechanics such as Alternate Paths,
-Advanced Schools, Kata, Kiho, Ancestors, and the sinister secrets
-of black magic (also known as maho) and the Shadowlands Taint.</p>
-<div class="ring-sprite-with-label sprite--void mx-auto d-block mt-5 mb-3"></div>
-<p>Finally, the <a href="/book-of-the-void">Book of Void</a>  contains rules and information for
-the GM. There is an extended discussion of different ways to
-construct adventures and campaigns for L5R, as well as rules
-for monsters and natural creatures, a basic selection of such
-creatures with which to challenge the players, and a sample
-adventure with which to start out your Legend of the Five
-Rings gaming experience.</p>
+                    
+//Work in Progress
+
+ <div id="map" class="mt-2" style="height: 800px;"></div>
+
+
 
                 </div>
                 
@@ -232,6 +200,8 @@ Rings gaming experience.</p>
         crossorigin="anonymous"></script>
     <script src="/scripts/l5r.js"></script>
     
+<script src="/scripts/maps.js"></script>
+
 </body>
 
 </html>
