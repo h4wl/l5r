@@ -13,6 +13,10 @@
           "Path": "/geography"
         },
         {
+          "Title": "Map",
+          "Path": "/map"
+        },
+        {
           "Title": "Religion",
           "Path": "/religion"
         },
